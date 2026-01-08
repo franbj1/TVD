@@ -171,7 +171,8 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Cinc httpsincoanelhttps-live.com:19360/8118/8118.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Five TV
+https://panel-live.com:19360/8118/8118.m3u8
 
 #EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/svkNt2zC/Picsart-25-11-04-17-43-41-786.webp" group-title="Nacional", Neo TV Digital
 #EXTVLCOPT:almacenamiento en caché de red=1000
