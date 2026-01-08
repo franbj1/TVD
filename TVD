@@ -108,11 +108,11 @@ https://trs.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="France 24 en Español.ar" tvg-logo="https://i.ibb.co/Fb2xSHcC/Picsart-25-12-21-01-29-45-440.webp" group-title="Nacional", France 24
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m21/3f538a3c75f1c564acc0270aec2bcd13.sdp/lista de reproducción.m3u8
+https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m21/3f538a3c75f1c564acc0270aec2bcd13.sdp/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="700#DNews" tvg-logo="https://i.ibb.co/vC8bv1f7/Picsart-25-12-17-00-26-00-720.webp" group-title="Nacional", D Noticias
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m16/584ca0f1368aa7a4debffbbdb7aa1730.sdp/lista de reproducción.m3u8
+https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m16/584ca0f1368aa7a4debffbbdb7aa1730.sdp/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
@@ -139,7 +139,7 @@ https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|refer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
-#EXTINF:-1 tvg-id="724#Chacra TV" tvg-logo="https://i.ibb.co/SDTmTsZj/Picsart-25-09-16-09-31-03-504.webp" group-title="Nacional", Chacra TV
+#EXTINF:-1 tvg-id="Chacra TV.ar" tvg-logo="https://i.ibb.co/SDTmTsZj/Picsart-25-09-16-09-31-03-504.webp" group-title="Nacional", Chacra TV
 https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -185,7 +185,7 @@ https://j7md5zrwdrwv-hls-live.5centscdn.com/41mvt115/54da85d4cbcfe11da5db6c1be35
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m23/286f32e353ffd1668dde127e2c5c0e27.sdp/lista de reproducción.m3u8
+https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m23/286f32e353ffd1668dde127e2c5c0e27.sdp/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
