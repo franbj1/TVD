@@ -319,7 +319,7 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_wl/CronicaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="TV Digital", Canal 26 HD / En (4K) Desde el 5 de Enero
+#EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="TV Digital", Canal 26 HD
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_wl/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -338,7 +338,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_wl/Diputados_
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426
-#EXTINF:-1 tvg-id="Canal 90.uy" tvg-logo="https://i.ibb.co/0ydQB9CW/Picsart-25-12-05-04-57-37-657.webp" group-title="TV Digital", Canal 90
+#EXTINF:-1 tvg-id="Senado.ar" tvg-logo="https://i.ibb.co/C3TmY7Sm/1767889392439.webp" group-title="TV Digital", Senado TV
 https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_C/Canal_90.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
