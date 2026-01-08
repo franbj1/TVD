@@ -1,10 +1,7 @@
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz, https://www.open-epg.com/files/argentina4.xml.gz, https://www.open-epg.com/files/uruguay2.xml.gz, https://www.open-epg.com/files/paraguay2.xml.gz, https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https:/ /epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz
 Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
-
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/pvCb5cvG/Picsart-25-12-22-19-19-28-786.webp" group-title="Nacional", Laika TV
-https://mitv.zplay.cl/LaikaTV/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
@@ -40,10 +37,8 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=htt
 #EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
 https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
-#EXTINF:-1 tvg-id="Quiero.ar" tvg-logo="https://i.ibb.co/GQgwJRtc/Picsart-25-12-23-13-41-41-124.webp" group-title="Nacional", Quiero Música Especial llegada del año 2026 ðŸ§'â€ ðŸŽ„
-https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/Y4HKBTLc/Picsart-26-01-08-10-14-55-444.webp" group-title="Nacional", Laika TV
+https://mitv.zplay.cl/LaikaTV/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
