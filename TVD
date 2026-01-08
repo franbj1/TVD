@@ -98,7 +98,7 @@ https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=htt
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
-#EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/VcYd0qXG/Picsart-25-07-05-16-13-44-471.webp" group-title="Nacional", 26 Noticias En 4K Desde el 5 de Enero
+#EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/VcYd0qXG/Picsart-25-07-05-16-13-44-471.webp" group-title="Nacional", 26 Noticias
 https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -144,8 +144,8 @@ https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://play
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/8DFBkB9r/Picsart-25-10-11-12-46-58-484.webp" group-title="Nacional", T5 Satelital
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="T5 Nacionalogo="https://i.ibb.co/8DFBkB9r/Picsart-25-10-11-12-46-58-484.webp" group-title="Nacional", T5 Satelital
+https://cdn.sensa.com.ar/T5/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
@@ -171,8 +171,7 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Cinco TV
-https://panel.host-live.com:19360/8118/8118.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Cinc httpsincoanelhttps-live.com:19360/8118/8118.m3u8
 
 #EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/svkNt2zC/Picsart-25-11-04-17-43-41-786.webp" group-title="Nacional", Neo TV Digital
 #EXTVLCOPT:almacenamiento en caché de red=1000
@@ -184,7 +183,7 @@ https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m23/286f32e353ffd1668dde127e2c5c0e27.sdp/playlist.m3u8
+https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
@@ -193,7 +192,7 @@ https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https:/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTINF:-1 tvg-id="Futurock" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
+#EXTINF:-1 tvg-id="Futurock.ar" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
 https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
