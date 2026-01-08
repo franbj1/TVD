@@ -3,10 +3,9 @@ Nacional
 
 #EXTINF:-1 grupo-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/pvCb5cvG/Picsart-25-12-22-19-19-28-786.webp" group-title="Nacional",Info TV
-https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/pvCb5cvG/Picsart-25-12-22-19-19-28-786.webp" group-title="Nacional",Laika TV
+TV
 
-https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational//120/1280x720_3849560/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
