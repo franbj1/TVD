@@ -179,9 +179,8 @@ https://panel.host-live.com:19360/8118/8118.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="Buga TV.ar" tvg-logo="https://i.ibb.co/q3Ndc2tF/Picsart-25-12-17-00-04-58-231.webp" group-title="Nacional", Buga TV
-https://j7md5zrwdrwv-hls-live.5centscdn.com/41mvt115/54da85d4cbcfe11da5db6c1be35f6aaa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/vC64dz2j/Picsart-26-01-08-14-52-08-621.webp" group-title="Nacional", Señal Urbana +
+https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
