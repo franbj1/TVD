@@ -179,7 +179,7 @@ https://panel-live.com:19360/8118/8118.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/vC64dz2j/Picsart-26-01-08-14-52-08-621.webp" group-title="Nacional", Señal Urbana +
+#EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/RpBx1DNJ/Picsart-26-01-08-18-19-07-464.webp" group-title="Nacional", Señal Urbana +
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
