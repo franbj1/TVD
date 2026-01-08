@@ -10,7 +10,7 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
-#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/5g7p7840/Picsart-25-10-11-02-27-53-703.webp" group-title="Nacional", América
+#EXTINF:-1 tvg-id="America.uy" tvg-logo="https://i.ibb.co/5g7p7840/Picsart-25-10-11-02-27-53-703.webp" group-title="Nacional", América
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -125,12 +125,12 @@ https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player
 https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="199#KZO" tvg-logo="https://i.ibb.co/jPHB8QVX/1766342953903.webp" group-title="Nacional", KZO
+#EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/jPHB8QVX/1766342953903.webp" group-title="Nacional", KZO
 https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m27/55668fbb5711721cc43e84bc8c2b13dd.sdp/lista de reproducción.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://i.ibb.co/N22LnMhD/Picsart-25-12-21-11-54-00-557.webp" group-title="Nacional", Metro
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m25/8f3556300b355d9dd45ce6963f2ce911.sdp/lista de reproducción.m3u8
+https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m25/8f3556300b355d9dd45ce6963f2ce911.sdp/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
@@ -199,7 +199,7 @@ https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sen
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
-https://mdstrm.com/playlist-en-vivo/68b74fd1d6512526f1f7c75a.m3u8
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
 #EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/q3Sh0DLM/Picsart-25-11-04-17-11-44-504.webp" group-title="Nacional", Music Top
 #EXTVLCOPT:almacenamiento en caché de red=1000
@@ -265,7 +265,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_wl/Net_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1 tvg-id="126#Bravo TV (ARG)" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV HD
+#EXTINF:-1 tvg-id="Bravo TV (ARG).ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV HD
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_wl/BravoTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -495,7 +495,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_wl/Canal_3
 
 Televisión Argentina
 
-#EXTINF:-1 grupo-logo="https://i.ibb.co/q307sndR/Picsart-25-12-04-15-03-45-922.webp"
+#EXTINF:-1 group-logo="https://i.ibb.co/q307sndR/Picsart-25-12-04-15-03-45-922.webp"
 
 #EXTINF:-1 tvg-id="AMERICA 2.ar" tvg-name="America TV HD (ARG)" tvg-logo="https://i.ibb.co/0RS4w6x6/Picsart-25-12-04-11-13-32-726.webp" group-title="TV Argentina", América TDA
 https://prepublish.f.qaotic.net/a07/americahls-100056/lista de reproducción_720p.m3u8
