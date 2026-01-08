@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz"
 Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
@@ -181,7 +181,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Buga TV.ar" tvg-logo="https://i.ibb.co/q3Ndc2tF/Picsart-25-12-17-00-04-58-231.webp" group-title="Nacional", Buga TV
-https://j7md5zrwdrwv-hls-live.5centscdn.com/41mvt115/54da85d4cbcfe11da5db6c1be35f6aaa.sdp/lista de reproducción.m3u8
+https://j7md5zrwdrwv-hls-live.5centscdn.com/41mvt115/54da85d4cbcfe11da5db6c1be35f6aaa.sdp/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
@@ -209,7 +209,7 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="FM Latina 101.1 (ARG).ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
@@ -217,7 +217,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FM ASPEN.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
-
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 Televisión digital
 
