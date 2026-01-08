@@ -1,11 +1,10 @@
 #EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz, https://www.open-epg.com/files/argentina4.xml.gz, https://www.open-epg.com/files/uruguay2.xml.gz, https://www.open-epg.com/files/paraguay2.xml.gz, https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https:/ /epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz
 Nacional
 
-#EXTINF:-1 grupo-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
+#EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/pvCb5cvG/Picsart-25-12-22-19-19-28-786.webp" group-title="Nacional",Laika TV
-TV
-
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/pvCb5cvG/Picsart-25-12-22-19-19-28-786.webp" group-title="Nacional", Laika TV
+https://mitv.zplay.cl/LaikaTV/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
