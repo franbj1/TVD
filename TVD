@@ -502,7 +502,7 @@ Televisión Argentina
 #EXTINF:-1 group-logo="https://i.ibb.co/q307sndR/Picsart-25-12-04-15-03-45-922.webp"
 
 #EXTINF:-1 tvg-id="AMERICA 2.ar" tvg-name="America TV HD (ARG)" tvg-logo="https://i.ibb.co/0RS4w6x6/Picsart-25-12-04-11-13-32-726.webp" group-title="TV Argentina", América TDA
-https://prepublish.f.qaotic.net/a07/americahls-100056/lista de reproducción_720p.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/jk4GKGJb/Picsart-25-11-22-17-40-02-878.webp" group-title="TV Argentina", TV Publica TDA
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -523,7 +523,7 @@ https://trs.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 http://181.13.112.203:8100/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/3ywW4jv4/828-8283014-eltrece-logo-eltrece-logo-el-trece.webp" group-title="TV Argentina", El Trece TDA
-https://trs.cdn.rcs.net.ar/mnp/el13/salida.mpd
+https://trs.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/rG35mpgg/Picsart-25-12-04-11-37-58-696.webp" group-title="TV Argentina", NET TV TDA
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -535,7 +535,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Móvil/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://trs.cdn.rcs.net.ar/mnp/telemaxhls/salida.mpd
+https://trs.cdn.rcs.net.ar/mnp/telemaxhls/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/800/542/0/0/98997452071605.png" group-title="TV Argentina", Cine AR TDA
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -553,7 +553,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://trs.cdn.rcs.net.ar/mnp/cn23/salida.mpd
+https://trs.cdn.rcs.net.ar/mnp/cn23/output.mpd
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="TV Argentina", Encuentro TDA
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
