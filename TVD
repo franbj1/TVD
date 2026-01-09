@@ -1043,13 +1043,10 @@ https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m64/30a70bd7077f1149c5dd752f5b7e
 https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m40/660ab88c8a67592785a5e888db2305d6.sdp/lista de reproducción.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Latam", Panamericana PE
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m63/c815601c20562718519111c4a603e22f.sdp/lista de reproducción.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Latam", Exitosa PE
-#EXTVLCOPT:almacenamiento en caché de red=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Añadir comentarioMás acciones
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/pistas-v1/index.fmp4.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sol TV.pe" tvg-logo="https://i.ibb.co/TzSn2qv/Picsart-25-12-26-15-54-39-547.webp" group-title="TV Latam", Sol TV PE
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
