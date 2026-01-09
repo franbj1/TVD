@@ -154,12 +154,12 @@ https://cdn.sensa.com.ar/T5/T5Satelital/default/index.mpd?|referer=https://playe
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://i.ibb.co/qLZLb9HS/Picsart-25-12-02-22-05-14-737.webp" group-title="Nacional", Telefe Córdoba
+#EXTINF:-1 tvg-id="Telefe Cordoba.ar" tvg-logo="https://i.ibb.co/qLZLb9HS/Picsart-25-12-02-22-05-14-737.webp" group-title="Nacional", Telefe Córdoba
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.ibb.co/27BN825L/Picsart-25-12-22-10-40-13-733.webp" group-title="Nacional", Canal 10 Córdoba
+#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://i.ibb.co/27BN825L/Picsart-25-12-22-10-40-13-733.webp" group-title="Nacional", Canal 10 Córdoba
 https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
