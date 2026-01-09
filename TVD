@@ -1038,10 +1038,10 @@ https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m68/225442aef9376ae75dc896febe12
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/perumagico.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/0RNMwHhN/Picsart-25-12-22-18-47-31-409.webp" group-title="TV Peru", Global PE
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/globaltv.stream/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Panamericana TV.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
-https://live-evg5.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa PE
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
