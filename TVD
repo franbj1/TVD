@@ -1025,19 +1025,19 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/rrqSSNQ/Picsart-25-12-27-23-18-06-899.webp" group-title="TV Peru", ATV + PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
+#EXTINF:-1 tvg-id="Canal.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/willax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://i.ibb.co/9mWW7d91/Picsart-25-12-22-18-44-49-725.webp" group-title="TV Peru", RPP PE
 https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m67/3948aeae31435377ab25db0e7837d5b5.sdp/lista de reproducción.m3u8
 
-#EXTINF:-1 tvg-id="Canal N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N PE
+#EXTINF:-1 tvg-id="CANALl N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N PE
 https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m68/225442aef9376ae75dc896febe124c79.sdp/lista de reproducción.m3u8
 
 #EXTINF:-1 tvg-id="Perú Mágico.pe" tvg-logo="https://i.ibb.co/Kxv1dXSQ/Picsart-25-12-22-19-02-16-609.webp" group-title="TV Peru", Perú Mágico PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/perumagico.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://i.ibb.co/0RNMwHhN/Picsart-25-12-22-18-47-31-409.webp" group-title="TV Peru", Global PE
+#EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/0RNMwHhN/Picsart-25-12-22-18-47-31-409.webp" group-title="TV Peru", Global PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
@@ -1045,6 +1045,15 @@ https://live-evg5.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa PE
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/trivu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Cosmos.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos PE
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión PE
+https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-id="Sol TV.pe" tvg-logo="https://i.ibb.co/TzSn2qv/Picsart-25-12-26-15-54-39-547.webp" group-title="TV Peru", Sol TV PE
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
