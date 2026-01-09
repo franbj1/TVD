@@ -63,7 +63,7 @@ http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
-#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/Knc6y2r/Picsart-25-11-04-21-41-40-358.webp" group-title="Nacional", Revista Ciudad
+#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/Knc6y2r/Picsart-25-11-04-21-41-40-358.webp" group-title="Nacional", Ciudad Magazine
 https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -128,14 +128,6 @@ https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player
 #KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
 #EXTINF:-1 tvg-id="El Destape.ar" tvg-logo="https://i.ibb.co/VWz4qC0T/Picsart-25-07-18-07-21-27-552.webp" group-title="Nacional", El Destape
 https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/jPHB8QVX/1766342953903.webp" group-title="Nacional", KZO
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m27/55668fbb5711721cc43e84bc8c2b13dd.sdp/lista de reproducción.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://i.ibb.co/N22LnMhD/Picsart-25-12-21-11-54-00-557.webp" group-title="Nacional", Metro
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m25/8f3556300b355d9dd45ce6963f2ce911.sdp/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
