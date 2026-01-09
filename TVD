@@ -1017,19 +1017,13 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/35tSRw5J/ATV-logo-2020.webp" group-title="TV Peru", ATV PE
-#EXTVLCOPT:almacenamiento en caché de red=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Añadir comentarioMás acciones
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/9mWW7d91/Picsart-25-12-22-18-44-49-725.webp" group-title="TV Peru", ATV Sur PE
-https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/ts:abr.m3u8
+#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvsur.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/rrqSSNQ/Picsart-25-12-27-23-18-06-899.webp" group-title="TV Peru", ATV + PE
-#EXTVLCOPT:almacenamiento en caché de red=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Añadir comentarioMás acciones
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvplus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/willax.stream/playlist.m3u8
@@ -1044,7 +1038,7 @@ https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m68/225442aef9376ae75dc896febe12
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/perumagico.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://i.ibb.co/0RNMwHhN/Picsart-25-12-22-18-47-31-409.webp" group-title="TV Peru", Global PE
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m40/660ab88c8a67592785a5e888db2305d6.sdp/lista de reproducción.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Panamericana TV.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
 https://live-evg5.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8
