@@ -1052,6 +1052,12 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa PE
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.ibb.co/Y77qCFbW/1768086830476.webp" group-title="TV Peru", Canal IPE PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LA TELE PERU.pe" tvg-logo="https://i.ibb.co/WvR9GL5J/Picsart-26-01-09-18-33-06-616.webp" group-title="TV Peru", La Tele PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latele.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 
