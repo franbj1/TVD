@@ -1067,6 +1067,18 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creofe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BONITA TV.pe" tvg-logo="https://i.ibb.co/0jQvBGRb/1768020666485.webp" group-title="TV Peru", Bonita TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal B.pe" tvg-logo="https://i.ibb.co/5bQJtVj/Picsart-26-01-10-15-07-36-478.webp" group-title="TV Peru", Canal B PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mega TV.pe" tvg-logo="https://i.ibb.co/sd8WNf9y/Picsart-26-01-10-15-20-56-741.webp" group-title="TV Peru", Mega TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nativa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/PGNQZSNS/Picsart-26-01-10-15-08-31-158.webp" group-title="TV Peru", Telelima PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/trivu.stream/playlist.m3u8
 
