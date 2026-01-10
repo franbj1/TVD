@@ -1028,7 +1028,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvsur.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/rrqSSNQ/Picsart-25-12-27-23-18-06-899.webp" group-title="TV Peru", ATV + PE
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/WZzkdgs/Picsart-25-12-29-23-08-54-647.webp" group-title="TV Peru", ATV + PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvplus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
