@@ -1164,7 +1164,7 @@ https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_wl/TELEFUTUR
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
-#EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.ibb.co/DfcZF9pD/Latele-LEP-2023.webp" group-title="TV Latam", La Tele PY
+#EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.ihttpsrupo-logob.co/DfcZF9pD/Latele-LEP-2023.webp" group-title="TV Latam", La Tele PY
 https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_wl/LA_TELE_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1308,9 +1308,9 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 
 Deportes
 
-#EXTINF:-1 grupo-logo="https://i.ibb.co/0pNYXt1s/Picsart-25-10-17-16-06-40-577.webp"
+#EXTINF:-1 group-logo="https://i.ibb.co/0pNYXt1s/Picsart-25-10-17-16-06-40-577.webp"
 
-#EXTINF:-1 tvg-id="PPV Pack" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack FÃƒÆ'Ã‚Âºtbol
+#EXTINF:-1 tvg-id="PPV Pack" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack Futbol
 http://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
@@ -1443,7 +1443,6 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/En vivo/canal(universo-este)/master.mpd?https://portal.app.flow.com.ar/"
 
 #KODIPROP:inputstream.adaptive.license_type=clave de borrado
@@ -1651,12 +1650,12 @@ http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/790.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
 #EXTINF:-1 tvg-id="TyC Sports 2.ar" tvg-logo="https://i.supaimg.com/ac2fd27e-6464-480c-b00f-dafcfe93b774.png?raw=true" group-title="Deportes" ch-number="4" type="channel", Flow Sports
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/fcb73bb5-bd00-4e50-a2b7-6f281a851f99.png" group-title="Deportes" ch-number="5" type="channel", Flow Sports 2 
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
