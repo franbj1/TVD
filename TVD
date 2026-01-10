@@ -1009,10 +1009,9 @@ TV Peru
 
 #EXTINF:-1 group-logo="https://i.ibb.co/GQTycjFD/Picsart-26-01-09-18-44-01-052.webp"
 
-
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/DfZq3yKV/Picsart-25-09-24-03-06-41-877.webp" group-title="TV Peru", América TV PE
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/america.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latina.stream/playlist.m3u8
@@ -1039,7 +1038,7 @@ https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m68/225442aef9376ae75dc896febe12
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/perumagico.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/0RNMwHhN/Picsart-25-12-22-18-47-31-409.webp" group-title="TV Peru", Global PE
-https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/global.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
