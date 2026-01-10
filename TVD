@@ -1046,6 +1046,21 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa PE
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fuego TV.pe" tvg-logo="https://i.ibb.co/zHbhmSXx/Picsart-26-01-10-01-40-38-946.webp" group-title="TV Peru", Fuego TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KARIBEÑA TV.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Karibeña TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Creo Fe.pe" tvg-logo="https://i.ibb.co/231mj3rC/1768020426111.webp" group-title="TV Peru", Creo Fe PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creofe.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BONITA TV.pe" tvg-logo="https://i.ibb.co/0jQvBGRb/1768020666485.webp" group-title="TV Peru", Bonita TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/trivu.stream/playlist.m3u8
 
