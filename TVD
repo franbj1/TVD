@@ -1028,11 +1028,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/willax.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://i.ibb.co/9mWW7d91/Picsart-25-12-22-18-44-49-725.webp" group-title="TV Peru", RPP PE
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m67/3948aeae31435377ab25db0e7837d5b5.sdp/lista de reproducción.m3u8
+#EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.ibb.co/9mWW7d91/Picsart-25-12-22-18-44-49-725.webp" group-title="TV Peru", RPP PE
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANALl N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N PE
-https://j7md5zrwdrwv-hls-live.5centscdn.com/vt41m68/225442aef9376ae75dc896febe124c79.sdp/lista de reproducción.m3u8
+#EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N PE
+https://mdstrm.com/video/64d2618a7332844e4158e012.m3u8
 
 #EXTINF:-1 tvg-id="Perú Mágico.pe" tvg-logo="https://i.ibb.co/Kxv1dXSQ/Picsart-25-12-22-19-02-16-609.webp" group-title="TV Peru", Perú Mágico PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/perumagico.stream/playlist.m3u8
