@@ -1019,10 +1019,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/america.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latina.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Latina Noticias.pe" tvg-logo="https://i.ibb.co/S44BKCCG/1768021562733.webp" group-title="TV Peru", Latina Noticias PE
+#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.ibb.co/S44BKCCG/1768021562733.webp" group-title="TV Peru", Latina Noticias PE
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Latina Clasicos.pe" tvg-logo="https://i.ibb.co/TBX1Bms3/1767065024502.webp" group-title="TV Peru", Latina Clásicos PE
+#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.ibb.co/TBX1Bms3/1767065024502.webp" group-title="TV Peru", Latina Clásicos PE
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/35tSRw5J/ATV-logo-2020.webp" group-title="TV Peru", ATV PE
