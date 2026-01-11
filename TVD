@@ -2880,14 +2880,14 @@ https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3
 #KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/TELEHITSD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png" group-title="MÃºsica", Telehit Música
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png" group-title="Música", Telehit Música
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7d810bd4b89d31487577fbef6b747a:1ab459db1bacf63917df0d35a1107c94
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICASD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png" group-title="MÃºsica", Telehit Música Plus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png" group-title="Música", Telehit Música Plus
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccb3e0cda334a12da75037444d0ccc83:291b1496e0900041f6a1d0e2aeb3314c
@@ -2895,7 +2895,6 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICASD/default.mpd
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICAPLUSHD/default.mpd
 
 #EXTINF:-1 tvg-id="SKY ONE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sky_One_-_Logo_2020_%28television_channel%29.png" group-title="Música", Sky ONE
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96f177548046a9f56bbb39a900a82ddd:96aa836072fd84c9a8e6219652330272
 https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKYONEHD/default.mpd
@@ -2912,7 +2911,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/BANDAMAXHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=2cf2398fa903f300962a0771512a93f1:f345e1b35c357fa7137e7325059d95b1
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/TELERITMOHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VTRIX.png?raw=true" group-title="MÃºsica", Vorterix 
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VTRIX.png?raw=true" group-title="Música", Vorterix 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "OfoGg27A+B2N2bbgGjBw4w","kid": "6r4sIjUMJsfwrYSzSTLwjQ"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
@@ -3191,7 +3190,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Música" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png", Conciertos por Stingray
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 group-title="MÃƒÆ’Ã‚Âºsica" tvg-logo="https://i.supaimg.com/ce1cb20f-9f62-4191-9936-5ae69408bab7.png", Stingray Karaoke
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.supaimg.com/ce1cb20f-9f62-4191-9936-5ae69408bab7.png", Stingray Karaoke
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/230px-NOW_70s.png" group-title="Música",  Now 70s
@@ -3222,27 +3221,27 @@ https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?|referer=https://playe
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
-#EXTINF:-1 group-title="Música" ch-number="503" tvg-id="MI MUSICA ROMANTICA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/800/542/0/0/15712909076760.png", Mi Música Romantica
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA ROMANTICA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/800/542/0/0/15712909076760.png", Mi Música Romantica
 https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
-#EXTINF:-1 group-title="Música" ch-number="504" tvg-id="MI MUSICA REGGAETON" tvg-logo="https://i.ibb.co/8H7q54p/Picsart-25-08-18-00-40-53-623.webp", Mi Música Reggaeton
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA REGGAETON" tvg-logo="https://i.ibb.co/8H7q54p/Picsart-25-08-18-00-40-53-623.webp", Mi Música Reggaeton
 https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
-#EXTINF:-1 group-title="Música" ch-number="505" tvg-id="MI MUSICA HITS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/800/542/0/0/82379535077403.png", Mi Música Hits
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA HITS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/800/542/0/0/82379535077403.png", Mi Música Hits
 https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
-#EXTINF:-1 group-title="Música" ch-number="506" tvg-id="MI MUSICA K-POP" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/800/542/0/0/50713419076833.png", Mi Música K-Pop
+#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA K-POP" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/800/542/0/0/50713419076833.png", Mi Música K-Pop
 https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
-#EXTINF:-1 ch-number="518" tvg-id="elfolclorico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png" group-title="Música", El Folklorico
+#EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png" group-title="Música", El Folklorico
 https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png" group-title="Música", Top TV
@@ -3272,89 +3271,89 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
-#EXTINF:-1 tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="ReligiÃ³n", Canal Luz
+#EXTINF:-1 tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="Religión", Canal Luz
 https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
-#EXTINF:-1 tvg-id="350#Eternal Word TV Network" tvg-logo="https://i.ibb.co/s9MrdkmL/Picsart-25-11-23-12-57-58-788.webp" group-title="ReligiÃ³n", EWTN
+#EXTINF:-1 tvg-id="350#Eternal Word TV Network" tvg-logo="https://i.ibb.co/s9MrdkmL/Picsart-25-11-23-12-57-58-788.webp" group-title="Religión", EWTN
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
-#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.ibb.co/sJgtG6yK/Picsart-25-08-17-02-13-43-260.webp" group-title="ReligiÃ³n", Radio MarÃ­a TV
+#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.ibb.co/sJgtG6yK/Picsart-25-08-17-02-13-43-260.webp" group-title="Religión", Radio María TV
 https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKjCJPGZ/Picsart-25-08-11-12-09-07-438.webp" group-title="ReligiÃ³n", Santa MarÃ­a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKjCJPGZ/Picsart-25-08-11-12-09-07-438.webp" group-title="Religión", Santa Marí­a
 https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_wl/Senal_Maria.mpd
 
-#EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="ReligiÃ³n", 3ABN2 Latino
+#EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN2 Latino
 https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 
-#EXTINF:-1 tvg-id="Brightstar Latino" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="ReligiÃ³n", Brightstar Latino
+#EXTINF:-1 tvg-id="Brightstar Latino" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 
-#EXTINF:-1 tvg-id="TBN EspaÃ±ol" tvg-logo="https://i.ibb.co/3Yrywvvd/Picsart-25-11-24-06-39-08-830.webp" group-title="ReligiÃ³n", TBN EspaÃ±ol
+#EXTINF:-1 tvg-id="TBN EspaÃ±ol" tvg-logo="https://i.ibb.co/3Yrywvvd/Picsart-25-11-24-06-39-08-830.webp" group-title="Religión", TBN Español
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksSkt9ch/Picsart-25-11-23-13-18-29-655.webp" group-title="ReligiÃ³n", Shalom World
 https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Enlace" tvg-logo="https://i.ibb.co/bMsNDCG5/Picsart-25-08-11-14-06-37-457.webp" group-title="ReligiÃ³n", Enlace
+#EXTINF:-1 tvg-id="TV Enlace" tvg-logo="https://i.ibb.co/bMsNDCG5/Picsart-25-08-11-14-06-37-457.webp" group-title="Religión", Enlace
 https://cdn.jwplayer.com/live/broadcast/Q2Yar6Fo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="ReligiÃ³n", TV Familia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="Religión", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/68f9ecca-98b8-4a9a-89c1-d08ee046a03a.png?raw=true" group-title="ReligiÃ³n", TV 2000
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/68f9ecca-98b8-4a9a-89c1-d08ee046a03a.png?raw=true" group-title="Religión", TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzjsXvp9/Picsart-25-11-24-02-27-25-767.webp" group-title="ReligiÃ³n", Cristo visiÃ³n
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzjsXvp9/Picsart-25-11-24-02-27-25-767.webp" group-title="Religión", Cristo visión
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xq5fsqZp/Picsart-25-11-24-04-06-07-762.webp" group-title="ReligiÃ³n", Alma VisiÃ³n
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq5fsqZp/Picsart-25-11-24-04-06-07-762.webp" group-title="Religión", Alma Visión
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cdccfdc52ff8ba3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="ReligiÃ³n", Aliento VisiÃ³n
+#EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
 https://live-us.streann.tech/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ5ODU1MTMsInJpZCI6IjU2ZmFjNmZhZTRiMDVkYjViM2I3Y2Q1YSIsImtleSI6ImtleTEiLCJjaWQiOiI1Y2JhMjk3YzJjZGNjZmRjNTJmZjhiYTMifQ.EtsCrgMeaHvMzSjG6ga_T4__Gt-SgKrYqeQehk_Dcjw
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8f857ZQ/Picsart-25-08-16-15-30-46-601.webp" group-title="ReligiÃ³n", Nuevo Tiempo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8f857ZQ/Picsart-25-08-16-15-30-46-601.webp" group-title="Religión", Nuevo Tiempo
 https://stream.live.novotempo.com/tv/tvnuevotiempo.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sd2fsRbs/Picsart-25-11-24-02-19-59-162.webp" group-title="ReligiÃ³n", Esperanza TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sd2fsRbs/Picsart-25-11-24-02-19-59-162.webp" group-title="Religión", Esperanza TV
 https://jstre.am/live/jsl:umb9869epxt.m3u8
 
-#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="ReligiÃ³n", MarÃ­a VisiÃ³n
+#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="ReligiÃ³n", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dBGq0NC/Picsart-25-11-24-02-59-05-210.webp" group-title="ReligiÃ³n", Cristiana TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dBGq0NC/Picsart-25-11-24-02-59-05-210.webp" group-title="Religión", Cristiana TV
 https://cloudvideo.servers10.com:8081/8152/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PG4HBrGQ/1763961218305.webp" group-title="ReligiÃ³n", ABN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PG4HBrGQ/1763961218305.webp" group-title="Religión", ABN
 https://s3.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="ReligiÃ³n", Catholic TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Gvn0qMK/1763959685343.webp" group-title="ReligiÃ³n", Ã‰L TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Gvn0qMK/1763959685343.webp" group-title="Religión", Ã‰L TV
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="ReligiÃ³n", Bethel TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="Religión", Bethel TV
 http://magiz.net:25461/leo/leo/110
 
-#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.supaimg.com/5f38a7e8-aa01-42a8-95bc-9da75e9fb1aa.png?raw=true" group-title="ReligiÃ³n", Logos TV
+#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.supaimg.com/5f38a7e8-aa01-42a8-95bc-9da75e9fb1aa.png?raw=true" group-title="Religión", Logos TV
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Solidaria TV" tvg-logo="https://i.ibb.co/rBbhGm6/Picsart-25-08-12-05-19-17-363.webp" group-title="ReligiÃ³n", Solidaria TV Argentina
+#EXTINF:-1 tvg-id="Solidaria TV" tvg-logo="https://i.ibb.co/rBbhGm6/Picsart-25-08-12-05-19-17-363.webp" group-title="Religión", Solidaria TV Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-#EXTINF:-1 tvg-id="Solidaria TV.bo" tvg-logo="https://i.ibb.co/rfyx7VXq/Picsart-25-11-24-03-16-10-162.webp" group-title="ReligiÃ³n", Solidaria TV Bolivia
+#EXTINF:-1 tvg-id="Solidaria TV.bo" tvg-logo="https://i.ibb.co/rfyx7VXq/Picsart-25-11-24-03-16-10-162.webp" group-title="Religión", Solidaria TV Bolivia
 https://canadaremar2.todostreaming.es/live/bolivia-stream.m3u8
 
-#EXTINF:-1 tvg-id="Solidaria TV.es" tvg-logo="https://i.ibb.co/bM3K13zp/Picsart-25-11-26-04-25-16-105.webp" group-title="ReligiÃ³n", Solidaria TV EspaÃ±a
+#EXTINF:-1 tvg-id="Solidaria TV.es" tvg-logo="https://i.ibb.co/bM3K13zp/Picsart-25-11-26-04-25-16-105.webp" group-title="Religión", Solidaria TV España
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 Mundo
