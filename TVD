@@ -3105,7 +3105,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5.it" tvg-logo="https://i.ibb.co/1fT6m18z/RTL-102-5-logo-svg.webp" group-title="Música", RTL 102.5
 https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vC9FJSCN/1763526058484.webp" group-title="Múºsica", Radio Bruno
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vC9FJSCN/1763526058484.webp" group-title="Música", Radio Bruno
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
@@ -3295,10 +3295,10 @@ https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 #EXTINF:-1 tvg-id="Brightstar Latino" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 
-#EXTINF:-1 tvg-id="TBN EspaÃ±ol" tvg-logo="https://i.ibb.co/3Yrywvvd/Picsart-25-11-24-06-39-08-830.webp" group-title="Religión", TBN Español
+#EXTINF:-1 tvg-id="TBN Español" tvg-logo="https://i.ibb.co/3Yrywvvd/Picsart-25-11-24-06-39-08-830.webp" group-title="Religión", TBN Español
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksSkt9ch/Picsart-25-11-23-13-18-29-655.webp" group-title="ReligiÃ³n", Shalom World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksSkt9ch/Picsart-25-11-23-13-18-29-655.webp" group-title="Religión", Shalom World
 https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Enlace" tvg-logo="https://i.ibb.co/bMsNDCG5/Picsart-25-08-11-14-06-37-457.webp" group-title="Religión", Enlace
@@ -3307,7 +3307,7 @@ https://cdn.jwplayer.com/live/broadcast/Q2Yar6Fo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="Religión", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/68f9ecca-98b8-4a9a-89c1-d08ee046a03a.png?raw=true" group-title="Religión", TV 2000
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/68f9ecca-98b8-4a9a-89c1-d08ee046a03a.png" group-title="Religión", TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzjsXvp9/Picsart-25-11-24-02-27-25-767.webp" group-title="Religión", Cristo visión
@@ -3326,7 +3326,7 @@ https://stream.live.novotempo.com/tv/tvnuevotiempo.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd2fsRbs/Picsart-25-11-24-02-19-59-162.webp" group-title="Religión", Esperanza TV
 https://jstre.am/live/jsl:umb9869epxt.m3u8
 
-#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="ReligiÃ³n", María Visión
+#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dBGq0NC/Picsart-25-11-24-02-59-05-210.webp" group-title="Religión", Cristiana TV
@@ -3338,10 +3338,10 @@ https://s3.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Gvn0qMK/1763959685343.webp" group-title="Religión", Ã‰L TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Gvn0qMK/1763959685343.webp" group-title="Religión", ÉL TV
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="Religión", Bethel TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="Religión", Bethel TV 
 http://magiz.net:25461/leo/leo/110
 
 #EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.supaimg.com/5f38a7e8-aa01-42a8-95bc-9da75e9fb1aa.png?raw=true" group-title="Religión", Logos TV
