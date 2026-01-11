@@ -1097,6 +1097,21 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/trivu.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Cosmos.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos PE
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.ibb.co/6f8hzLR/Picsart-26-01-10-22-23-31-768.webp" group-title="TV Peru", Congreso TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/canalelcongreso.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JUSTICIA TV.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KARIBEÑA TV.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Conecta2 TV PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PASIONES.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", Pasiones PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión PE
 https://servilive.com:3028/live/jntv19live.m3u8
 
