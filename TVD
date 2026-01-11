@@ -1183,34 +1183,39 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 #EXTINF:-1 tvg-id="Vivo TV.uy" tvg-logo="https://i.ibb.co/ZpzgSmBq/Picsart-25-12-26-21-52-17-029.webp" group-title="TV Uruguay", Vivo TV UY
 https://stream.vivotv.uy/hls/stream.m3u8
 
+
+#EXTINF:-1 group-logo="https://i.ibb.co/hQpQ500/Picsart-26-01-11-14-29-55-860.webp"
+
+TV Paraguay
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://i.ibb.co/vx86CWrS/Picsart-25-12-27-12-39-41-066.webp" group-title="TV Latam", SNT PY
+#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://i.ibb.co/vx86CWrS/Picsart-25-12-27-12-39-41-066.webp" group-title="TV Paraguay", SNT PY
 https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_wl/SNT_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
-#EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://i.ibb.co/vCPHqGhr/Telefuturo-Logo2022.webp" group-title="TV Latam", Telefuturo PY
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://i.ibb.co/vCPHqGhr/Telefuturo-Logo2022.webp" group-title="TV Paraguay", Telefuturo PY
 https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_wl/TELEFUTURO_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
-#EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.ihttpsrupo-logob.co/DfcZF9pD/Latele-LEP-2023.webp" group-title="TV Latam", La Tele PY
+#EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.ihttpsrupo-logob.co/DfcZF9pD/Latele-LEP-2023.webp" group-title="TV Paraguay", La Tele PY
 https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_wl/LA_TELE_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-#EXTINF:-1 tvg-id="Trece" tvg-logo="https://i.ibb.co/N2VX2N2H/Picsart-25-12-27-12-27-42-526.webp" group-title="TV Latam", Trece PY
+#EXTINF:-1 tvg-id="Trece" tvg-logo="https://i.ibb.co/N2VX2N2H/Picsart-25-12-27-12-27-42-526.webp" group-title="TV Paraguay", Trece PY
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_wl/RPC_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Latam", Unicanal PY
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Paraguay", Unicanal PY
 https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_wl/UNICANAL_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
-#EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Latam", Mega TV PY
+#EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV PY
 https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_wl/Mega_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
