@@ -1106,7 +1106,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/canalelcongreso.stream/playlist.m3
 #EXTINF:-1 tvg-id="JUSTICIA TV.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KARIBEÑA TV.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Conecta2 TV PE
+#EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.ibb.co/5VB2n8L/Picsart-26-01-10-22-45-15-442.webp" group-title="TV Peru", Conecta2 TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PASIONES.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", Pasiones PE
