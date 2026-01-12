@@ -1136,14 +1136,14 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_wl/Canal10_URU
 https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
-#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 UY
-https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_wl/TV_Nacional_Uy.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 #EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/PZRBFTyw/Picsart-25-12-26-14-34-01-011.webp" group-title="TV Uruguay", Teledoce UY
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_wl/Canal12URU.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
+#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 UY
+https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_wl/TV_Nacional_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
@@ -1496,9 +1496,8 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/En vivo/canal(universo-este)/master.mpd?https://portal.app.flow.com.ar/"
 
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
-#EXTINF:-1 título-grupo="Deportes" número-canal="127" id-tvg="[PXSP] Deportes PX" nombre-tvg="Deportes PX" logotipo-tvg="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp", Deportes PX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp", group-title=", Deportes PX
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=clave de borrado
@@ -1506,17 +1505,16 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #EXTINF:-1 ch-number="119" tvg-id="Claro Sports HD.uy" tvg-logo="https://i.ibb.co/j9yKLXm2/Picsart-25-09-15-00-57-24-072.webp" group-title="Deportes", Claro Sports
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="119" tvg-id="Claro Sports 2" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
+#EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
 http://181.78.106.127:9000/play/ca037/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-#EXTINF:-1 ch-number="114" tvg-id="TyC Sports.ar" tvg-name="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/800/542/0/0/28233186072861.png?raw=true" group-title="Deportes", TyC Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
