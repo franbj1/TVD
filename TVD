@@ -1136,11 +1136,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_wl/Canal10_URU
 https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
-#EXTINF:-1 tvg-id="Canal 4 Salto.uy" tvg-logo="https://i.ibb.co/0pt4LnCd/Canal4-Cablevisi-n.webp" group-title="TV Uruguay", Canal 4 Salto UY
-https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_wl/Eventos_2_UY.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
 #EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 UY
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_wl/TV_Nacional_Uy.mpd
@@ -1157,7 +1152,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_wl/Teve_Ciudad
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
-#EXTINF:-1 tvg-id="Canal U.uy" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL UY
+#EXTINF:-1 tvg-id="Canal U HD.uy" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL UY
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_wl/Canal_U.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1170,13 +1165,18 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_wl/VTV_HD.mpd
 #EXTINF:-1 tvg-id="VTV Plus HD.uy" tvg-logo="https://i.ibb.co/n8tQG379/VTV-Plus-2021.webp" group-title="TV Uruguay", VTV Plus UY
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_wl/VTV_Plus_HD.mpd
 
-#EXTINF:-1 tvg-id="A+V TV.pe" tvg-logo="https://i.ibb.co/zWPMnZFg/1768192593832.webp" group-title="TV Uruguay", A+V UY
+#EXTINF:-1 tvg-id="A+V.uy" tvg-logo="https://i.ibb.co/zWPMnZFg/1768192593832.webp" group-title="TV Uruguay", A+V UY
 https://vxlive.cdn.antel.net.uy/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTc2ODIwNjE4NyZyYW5kb209SVplZ28xT1pmTCZjLWlwPTE3OS4zNi4xMzUuMjAmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4cSxkM2EwZDdkNzY0OTIwOWFkYThmOTIzNzk1MGQzYjAyMmNlNGJiNzg2ZTY1M2QyNTc2MWUwYmNlY2Q5OTUyNTgz/vxfmt=hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ADU LIVE TV.pe" tvg-logo="https://i.ibb.co/Rptswrjt/1768192701788.webp" group-title="TV Uruguay", Adu Live UY
+#EXTINF:-1 tvg-id="ADU LIVE.uy" tvg-logo="https://i.ibb.co/Rptswrjt/1768192701788.webp" group-title="TV Uruguay", Adu Live UY
 https://vxlive.cdn.antel.net.uy/auth_V_AduLIVE,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQWR1TElWRSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzY4MjA2NTE3JnJhbmRvbT05c0RKcmlQd216JmMtaXA9MTc5LjM2LjEzNS4yMCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm54LGZlODVhZGE2ZWEwMDFiYmFhMWJjNTA5OTE4MDdiZDRjNWQ4Y2Q5NWMyZDJkMGRjZWRiOWQ2NTU2MjFhNjNlNmU=/vxfmt=hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canl 8.pe" tvg-logo="https://i.ibb.co/MDvFKJgL/Canal-8-Salto-2011.webp" group-title="TV Uruguay", Canal 8 Salto UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
+#EXTINF:-1 tvg-id="Canal 4 Salto.uy" tvg-logo="https://i.ibb.co/0pt4LnCd/Canal4-Cablevisi-n.webp" group-title="TV Uruguay", Canal 4 Salto UY
+https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_wl/Eventos_2_UY.mpd
+
+#EXTINF:-1 tvg-id="Canal 8 Salto.uy" tvg-logo="https://i.ibb.co/MDvFKJgL/Canal-8-Salto-2011.webp" group-title="TV Uruguay", Canal 8 Salto UY
 https://vxlive.cdn.antel.net.uy:443/auth_V_Canal_8_Salto,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfOF9TYWx0byUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzY4MjA2NzQ5JnJhbmRvbT1iUzAxQjQzYkZhJmMtaXA9MTc5LjM2LjEzNS4yMCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5yLGQ0ZTg0NmYwMzhhOTlmMTYyMGJjYmMwYjYxMzQxMDQxZmQ2YWQ0ZGZiZDgyZmNmMTJiYTAyNDI1ZTVkYTk4MjI=/vxfmt=hls/h_feb354fbbf115a690843a6c90787f45c/var3950000/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
