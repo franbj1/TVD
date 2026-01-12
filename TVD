@@ -1361,7 +1361,7 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/0pNYXt1s/Picsart-25-10-17-16-06-40-577.webp"
 
-#EXTINF:-1 tvg-id="PPV Pack" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack Futbol
+#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack Futbol
 http://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
@@ -1474,17 +1474,17 @@ https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
-#EXTINF:-1 tvg-id="MOSTRAR DEPORTES CÓRDOBA" tvg-name="Mostrar Deportes Córdoba" tvg-logo="https://i.ibb.co/M5N9nFKb/Picsart-25-10-27-14-13-24-820.webp" group-title="Deportes", Mostrar Deportes
+#EXTINF:-1 tvg-id="MOSTRAR DEPORTES CÓRDOBA" tvg-logo="https://i.ibb.co/M5N9nFKb/Picsart-25-10-27-14-13-24-820.webp" group-title="Deportes", Show Sports
 https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad1be5752980085910010adb9d72532d:8acfaacb600b382bfe18962964355ce6
-#EXTINF:-1 ch-number="124" tvg-id="El Garage Tv.ar" tvg-logo="https://i.ibb.co/CpGqy8qm/Picsart-25-10-21-21-43-34-574.webp" group-title="Deportes", Garage TV
+#EXTINF:-1 tvg-id="El Garage Tv.ar" tvg-logo="https://i.ibb.co/CpGqy8qm/Picsart-25-10-21-21-43-34-574.webp" group-title="Deportes", Garage TV
 https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
-#EXTINF:-1 ch-number="126" tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png" group-title="Deportes", Golf TV
+#EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png" group-title="Deportes", Golf TV
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo
@@ -1497,12 +1497,12 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/En vivo/canal(universo-este)/master.mpd?https://portal.app.flow.com.ar/"
 
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp", group-title=", Deportes PX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp", group-title="Deportes" PX Sports
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=clave de borrado
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTINF:-1 ch-number="119" tvg-id="Claro Sports HD.uy" tvg-logo="https://i.ibb.co/j9yKLXm2/Picsart-25-09-15-00-57-24-072.webp" group-title="Deportes", Claro Sports
+#EXTINF:-1 tvg-id="Claro Sports HD.uy" tvg-logo="https://i.ibb.co/j9yKLXm2/Picsart-25-09-15-00-57-24-072.webp" group-title="Deportes", Claro Sports
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
