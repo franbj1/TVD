@@ -1233,6 +1233,26 @@ https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_wl/UNICANAL_C4
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV PY
 https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_wl/Mega_TV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+#EXTINF:-1 tvg-id="Paraguay.py" tvg-logo="https://i.ibb.co/2YgVDkjB/Picsart-26-01-03-18-43-09-806.webp" group-title="TV Paraguay", Paraguay TV PY
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_wl/Paraguay_TV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
+#EXTINF:-1 tvg-id="Canal Pro.py" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Paraguay", Canal PRO PY
+https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_wl/Canal_PRO.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
+#EXTINF:-1 tvg-id="5 Dias.py" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Paraguay", 5 Días PY
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_wl/5_Dias_PY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
+#EXTINF:-1 tvg-id="SUR TV.py" tvg-logo="https://i.ibb.co/0p2nJFLY/Sur-TV-Itap-a-logo-2022.webp" group-title="TV Paraguay", Sur TV PY
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_wl/SUR_TV_C4.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
