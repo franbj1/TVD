@@ -1168,6 +1168,12 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_wl/VTV_Plus_HD
 #EXTINF:-1 tvg-id="A+V.uy" tvg-logo="https://i.ibb.co/zWPMnZFg/1768192593832.webp" group-title="TV Uruguay", A+V UY
 https://vxlive.cdn.antel.net.uy/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTc2ODIwNjE4NyZyYW5kb209SVplZ28xT1pmTCZjLWlwPTE3OS4zNi4xMzUuMjAmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4cSxkM2EwZDdkNzY0OTIwOWFkYThmOTIzNzk1MGQzYjAyMmNlNGJiNzg2ZTY1M2QyNTc2MWUwYmNlY2Q5OTUyNTgz/vxfmt=hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1000xHora.uy" tvg-logo="https://i.ibb.co/99STzLqw/logo-1000.webp" group-title="TV Uruguay", 1000 X Hora UY
+https://livevdcm.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZjbWFmJTJGYXV0aF9TXzEwMDB4SG9yYSUyRiUyQSZleHBpcnk9MTc2ODIxNzEzNCZyYW5kb209c2hXN3BNQlZMRCZjLWlwPTE3OS4zNi4xMzUuMjAmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4bCxiNTBkODljNjI4ZjIyMzEwZjljZGNjNDc3YmM2OWYyMjhmZDRkZDU5NGM1ZDY1ZDU2NDYxNGUxNWM1YzdhMTNj/cmaf/auth_S_1000xHora/default.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.ibb.co/yFNKY84F/1768203844725.webp" group-title="TV Uruguay", Canal 11 Las Piedras UY
+https://vxlive.cdn.antel.net.uy/auth_V_Canal11_Las_Piedras,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwxMV9MYXNfUGllZHJhcyUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzY4MjE3NTMxJnJhbmRvbT1uaG9uYk1FNDE3JmMtaXA9MTc5LjM2LjEzNS4yMCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5tLGZkNmE2N2E5MWVmZTU1ZWUyM2I2NzdiNmVmOWE0OTlmMDYwZTkwNGIzYTNhNmYyZDMxYmQ4YWRlMmUxOGI4MjI=/vxfmt=hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ADU LIVE.uy" tvg-logo="https://i.ibb.co/Rptswrjt/1768192701788.webp" group-title="TV Uruguay", Adu Live UY
 https://vxlive.cdn.antel.net.uy/auth_V_AduLIVE,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQWR1TElWRSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzY4MjA2NTE3JnJhbmRvbT05c0RKcmlQd216JmMtaXA9MTc5LjM2LjEzNS4yMCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm54LGZlODVhZGE2ZWEwMDFiYmFhMWJjNTA5OTE4MDdiZDRjNWQ4Y2Q5NWMyZDJkMGRjZWRiOWQ2NTU2MjFhNjNlNmU=/vxfmt=hls/playlist.m3u8
 
