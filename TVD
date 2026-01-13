@@ -1243,7 +1243,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_wl/Canal_PRO.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
-#EXTINF:-1 tvg-id="5 Dias.py" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Paraguay", 5 Días PY
+#EXTINF:-1 tvg-id="5 Dias.py" tvg-logo="https://i.ibb.co/qVvN9Vm/Picsart-26-01-03-20-44-59-979.webp" group-title="TV Paraguay", 5 Días PY
 https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_wl/5_Dias_PY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
