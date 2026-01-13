@@ -1308,6 +1308,16 @@ https://cdn.cvattv.com.ar/live/c4eds/Educanal/SA_Live_dash_enc_wl/Educanal.mpd
 #EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/RKm1gSX/Picsart-26-01-13-00-23-11-931.webp" group-title="TV Paraguay", RCC PY
 https://cdn.cvattv.com.ar/live/c4eds/RCC/SA_Live_dash_enc_wl/RCC.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=daab5ccf306d67749740f7ce02c07850&keyid=4e4a187474de8e29a8507d496c8a594f
+#EXTINF:-1 tvg-id="America.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América PY
+http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc_C/America_PY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=db60bfaa0178071a5572e6e6ffb46ed3&keyid=82e87fac1c33915ad5d344ffac1bbbb4
+#EXTINF:-1 tvg-id="A24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
+http://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_C/A24_PY.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
