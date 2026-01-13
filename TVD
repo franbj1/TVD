@@ -1293,6 +1293,21 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_wl/Universo.mpd
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/pjkRwRVy/Picsart-26-01-12-21-22-19-361.webp" group-title="TV Paraguay", Ñanduti TV PY
 https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc_wl/Nanduti_Py.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=ccf01c0661ae65f273b79eeda0ec0f3e&keyid=bc47bd761413375f1b6e7333a51de41a
+#EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV PY
+https://cdn.cvattv.com.ar/live/c7eds/UnionTV/SA_Live_dash_enc_wl/UnionTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=69c4603a7136ec9eb515f8e0ca9c275c&keyid=4a51992671bd007fbf5d5c257ee62ea0
+#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal PY
+https://cdn.cvattv.com.ar/live/c4eds/Educanal/SA_Live_dash_enc_wl/Educanal.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=d1f89fc694800645ae926d9c5f13a1f6&keyid=d8479ae2a7cc939e8382c8851927425d
+#EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/RKm1gSX/Picsart-26-01-13-00-23-11-931.webp" group-title="TV Paraguay", RCC PY
+https://cdn.cvattv.com.ar/live/c4eds/RCC/SA_Live_dash_enc_wl/RCC.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
