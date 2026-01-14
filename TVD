@@ -1326,6 +1326,27 @@ http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc_C/America_PY.mpd
 #EXTINF:-1 tvg-id="A24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
 http://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_C/A24_PY.mpd
 
+#EXTINF:-1 tvg-id="Nande Portete.py" tvg-logo="https://i.ibb.co/SDZFHvg0/1768318399617.webp" group-title="TV Paraguay", Ñande Portetepe PY
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+
+#EXTINF:-1 tvg-id="Almaya TV.py" tvg-logo="https://i.ibb.co/MxX22y4d/Picsart-26-01-14-00-13-01-297.webp" group-title="TV Paraguay", Almaya TV PY
+https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
+
+#EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play PY
+https://stream.farra.com.py/live/farra_src.m3u8
+
+#EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV PY
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
+
+#EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.ibb.co/dwRx8DPL/1768361219571.webp" group-title="TV Paraguay", Republica TV PY
+https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Next.py" tvg-logo="https://i.ibb.co/8DfJDVGp/Picsart-26-01-14-00-39-46-249.webp" group-title="TV Paraguay", Next PY
+https://live.enhdtv.com:8081/8178/index.m3u8
+
+#EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/7NdqFMjV/Picsart-26-01-14-00-34-59-077.webp" group-title="TV Paraguay", RCC PY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
@@ -1345,22 +1366,19 @@ https://spt-competencias-1-us.canelatv.wurl.tv/playlist.m3u8
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrvrcM94/Picsart-25-09-11-15-29-29-657.webp" group-title="TV Latam", Sony Serie Suspenso
-https://d1wuti7vf6eqt9.cloudfront.net/lista de reproducción.m3u8
+https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV23BcgJ/Picsart-25-09-11-15-30-30-307.webp" group-title="TV Latam", Serie Comedia Sony
 https://d1fhd07bw4d2d6.cloudfront.net/lista de reproducción.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N0cXrkz/Picsart-25-09-11-11-59-14-720.webp" group-title="TV Latam", Sony ÃƒÆ'Ã¢â‚¬Â°xitos
-https://d1hcj42s7cseno.cloudfront.net/lista de reproducción.m3u8
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4nGjh8m/Picsart-25-09-11-17-08-04-023.webp" group-title="TV Latam", Lista Negra de Sony
-https://d25v414d53fogv.cloudfront.net/lista de reproducción.m3u8
+https://d25v414d53fogv.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYk4yChP/Picsart-25-09-11-17-28-00-910.webp" group-title="TV Latam", Sony Shark Gracias
-https://d1ivguiw01jxqb.cloudfront.net/lista de reproducción.m3u8
-
-#EXTINF:-1 tvg-id="America.py" tvg-logo="https://i.ibb.co/VcJ4FNp5/America-Paraguay-Logo.png?raw=true" group-title="TV Latam", América TV PY
-http://190.90.154.125:8001/play/a08c/index.m3u8
+https://d1ivguiw01jxqb.cloudfront.net/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
@@ -1369,17 +1387,15 @@ https://stmvideo6.livecastv.com/latina/latina/playlist.m3u8
 
 Variedad TV
 
-#EXTINF:-1 grupo-logo="https://i.ibb.co/5hLPtzmD/Picsart-25-11-29-14-52-17-705.webp"
+#EXTINF:-1 group-logo="https://i.ibb.co/5hLPtzmD/Picsart-25-11-29-14-52-17-705.webp"
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Variados TV", HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
 #KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="Variados TV", Comedia Universal
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCOMEDYHD/default.mpd
 
