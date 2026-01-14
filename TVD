@@ -1045,7 +1045,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N PE
 http://www.alzaipizzeria.com/budtv/play.php?id=aEZVTmt0Q3lSZ3JDQWVqckZydE14UT09
 
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/malcolm.png"  group-title="TV Peru", Canal N #KODIPROP:inputstream.adaptive.license_type=mpd #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=8/1.0.7&X-Did=704b97090ad1fb5e&X-Hash=UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw  
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/malcolm.png"  group-title="TV Peru", Canal N #KODIPROP:inputstream.adaptive.license_type=mpd #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/8&X-App=di&X-Version=8/1.0.7&X-Did=704b97090ad1fb5e&X-Hash=UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R3VRmpjR_8Uwi5SR0bEJs9pbjoqRdCC60ojOqjT3B_woiTXhH3FlxnxtEdUtLn_d3T92bS-D0-PkvCquRGUgdwUJYb2JdG8VTlyNMkna_XkxATPAicPw  
 http://magmaplayer.com/stream/m3u8/ZwRmKmRjAwIsZGH3YwRjZP42ZF42BS8kAmDmZQp/hls/1065.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
