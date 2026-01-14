@@ -1551,10 +1551,7 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 http://181.13.112.203:8100/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium CL
-#EXTVLCOPT:almacenamiento en caché de red=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Añadir comentarioMás acciones
-http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/3085
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
