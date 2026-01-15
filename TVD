@@ -910,8 +910,8 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNICABLEHD/default.mpd
 #EXTINF:-1 tvg-id="UniMas" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás MX
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/dash.mpd
 
-#EXTINF:-1 tvg-id="UniMAS" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás San Antoni MX
-https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzK_MDh_eogI88WlvHMWCrcU/ts
+#EXTINF:-1 tvg-id="UniMAS" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás NY
+http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hx2cfKf1/Picsart-25-11-28-14-51-20-027.webp" group-title="TV México", Galavisión East MX
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/dash.mpd
@@ -919,7 +919,7 @@ http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hx2cfKf1/Picsart-25-11-28-14-51-20-027.webp" group-title="TV México", Galavisión West MX
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/dash.mpd
 
-#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.ibb.co/Gv5W2LgC/logo-univision.webp" group-title="TV México", Univision TV Latam
+#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.ibb.co/Gv5W2LgC/logo-univision.webp" group-title="TV México", Univisión TV Latam
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Univision 34" tvg-logo="https://i.ibb.co/NdWr61XS/Picsart-26-01-15-02-55-54-266.webp" group-title="TV México", Univisión 34 LA
