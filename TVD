@@ -916,8 +916,11 @@ http://104.238.205.28:8989/278726_.m3u8
 #EXTINF:-1 tvg-id="UniMAS" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás San Antoni MX
 https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzK_MDh_eogI88WlvHMWCrcU/ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hx2cfKf1/Picsart-25-11-28-14-51-20-027.webp" group-title="TV México", Galavisión MX
-https://zonamovie.pro:443/play/alee3XeQPlQAmPsFrWkqUzA1wTztE1otDHpmkYBdK63ZV4ggyGUp3I6YQjy6D88w.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hx2cfKf1/Picsart-25-11-28-14-51-20-027.webp" group-title="TV México", Galavisión East MX
+http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hx2cfKf1/Picsart-25-11-28-14-51-20-027.webp" group-title="TV México", Galavisión West MX
+http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.ibb.co/Gv5W2LgC/logo-univision.webp" group-title="TV México", Univision TV Latam
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
