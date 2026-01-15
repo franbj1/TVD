@@ -1027,6 +1027,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/america.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/Q7Wd2jxJ/Picsart-26-01-14-18-25-22-014.webp" group-title="TV Peru", América SD TV PE
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://i.ibb.co/pjkRwRVy/Picsart-26-01-12-21-22-19-361.webp" group-title="TV Peru", EVENTO FLOW SIN BLOQUEO
+http://138.121.114.86:8000/play/a0dg/index.m3u8
+
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latina.stream/playlist.m3u8
 
