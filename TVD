@@ -922,6 +922,15 @@ http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow
 #EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.ibb.co/Gv5W2LgC/logo-univision.webp" group-title="TV México", Univision TV Latam
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Univision 34" tvg-logo="https://i.ibb.co/NdWr61XS/Picsart-26-01-15-02-55-54-266.webp" group-title="TV México", Univisión 34 LA
+http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/dash.mpd
+
+#EXTINF:-1 tvg-id="Univision 41" tvg-logo="https://i.ibb.co/mrzpcfy6/Picsart-26-01-15-12-17-01-491.webp" group-title="TV México", Univisión 41 NY
+http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/dash.mpd
+
+#EXTINF:-1 tvg-id="Univision ATL" tvg-logo="https://i.ibb.co/SDn5Jt9y/Picsart-26-01-15-12-11-19-692.webp" group-title="TV México", Univisión ATL
+http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/dash.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e69f7cb969df2eef1b60ddea0458bfef:12ec40e04cf8c533cf306321052726a8
 #EXTINF:-1 tvg-id="Distrito Comedia.mx" tvg-logo="https://i.ibb.co/nNPk6qy7/Picsart-25-11-06-20-57-00-215.webp" group-title="TV México" Distritoigroup-titleitledia MX
