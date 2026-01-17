@@ -907,7 +907,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/LASESTRELLAS2HRSHD/default.mpd
 #EXTINF:-1 tvg-id="UNICABLE.mx" tvg-logo="https://i.ibb.co/nMmTj0r2/Picsart-25-11-06-20-24-17-965.webp" group-title="TV México", Unicable MX
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNICABLEHD/default.mpd
 
-#EXTINF:-1 tvg-id="UniMas" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás MX
+#EXTINF:-1 tvg-id="UniMás (KAJB) Yuma, AZ HD.us" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás MX
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="UniMás (KFTU) Tucson, AZ HD.us" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás NY
