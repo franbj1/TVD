@@ -1391,7 +1391,20 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/GvFnQZTx/1768407678180.webp" group-title="TV Paraguay", Suceso TV PY
 https://live.enhdtv.com:8081/8060/index.m3u8
 
+#EXTINF:-1 tvg-id="Pob.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", Pob TV PY
+https://live.enhdtv.com:8081/8062/index.m3u8
 
+#EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV PY
+https://live.enhdtv.com:8081/8070/index.m3u8
+
+#EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU PY
+https://live.enhdtv.com:8081/8054/index.m3u8
+
+#EXTINF:-1 tvg-id="Wizz TV.py" tvg-logo="https://i.ibb.co/vxqDHYf2/1768706014459.webp" group-title="TV Paraguay", Wizz TV PY
+https://live.enhdtv.com:8081/8180/index.m3u8
+
+#EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", TVU PY
+https://live.enhdtv.com:8081/8190/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
 #EXTVLCOPT:almacenamiento en caché de red=1500
