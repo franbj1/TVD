@@ -1371,7 +1371,7 @@ https://live.enhdtv.com:8081/8178/index.m3u8
 #EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/7NdqFMjV/Picsart-26-01-14-00-34-59-077.webp" group-title="TV Paraguay", RCC PY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
 
-#EXTINF:-1 tvg-id="Lim TV.py" tvg-logo="https://i.ibb.co/prk0M6vJ/CALo-Cyo.webp" group-title="TV Paraguay", Lim TV
+#EXTINF:-1 tvg-id="Lim TV.py" tvg-logo="https://i.ibb.co/prk0M6vJ/CALo-Cyo.webp" group-title="TV Paraguay", Lim TV PY
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/H10YqTj/1768407642648.webp" group-title="TV Paraguay", D Mas Noticias PY
@@ -1386,7 +1386,7 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="Dismar TV.py" tvg-logo="https://i.ibb.co/yn9F9KN6/logo-6.webp" group-title="TV Paraguay", Dismar TV PY
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Caritas TV.py" tvg-logo="https://i.ibb.co/7qtCNHf/Picsart-26-01-14-13-42-03-071.webp" group-title="TV Paraguay", Caritas TV
+#EXTINF:-1 tvg-id="Caritas TV.py" tvg-logo="https://i.ibb.co/7qtCNHf/Picsart-26-01-14-13-42-03-071.webp" group-title="TV Paraguay", Caritas TV PY
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Go tv.py" tvg-logo="https://i.ibb.co/dwr0sL4J/Picsart-26-01-14-13-44-12-763.webp" group-title="TV Paraguay", GO TV PY
@@ -1395,7 +1395,7 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/GvFnQZTx/1768407678180.webp" group-title="TV Paraguay", Suceso TV PY
 https://live.enhdtv.com:8081/8060/index.m3u8
 
-#EXTINF:-1 tvg-id="Pob.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", Pob TV PY
+#EXTINF:-1 tvg-id="Pob.py" tvg-logo="https://i.ibb.co/8D8gmBQr/Picsart-26-01-18-16-57-20-325.webp" group-title="TV Paraguay", Pob TV PY
 https://live.enhdtv.com:8081/8062/index.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV PY
