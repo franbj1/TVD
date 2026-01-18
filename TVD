@@ -1355,6 +1355,9 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play PY
 https://stream.farra.com.py/live/farra_src.m3u8
 
+#EXTINF:-1 tvg-id="Somos del Este.py" tvg-logo="https://i.ibb.co/v4Gx7Bmq/1768718111330.webp" group-title="TV Paraguay", Somos del Este PY
+https://live.enhdtv.com:8081/8128/index.m3u8
+
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV PY
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
 
@@ -1397,11 +1400,11 @@ https://live.enhdtv.com:8081/8062/index.m3u8
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV PY
 https://live.enhdtv.com:8081/8070/index.m3u8
 
-#EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU PY
-https://live.enhdtv.com:8081/8054/index.m3u8
-
 #EXTINF:-1 tvg-id="Wizz TV.py" tvg-logo="https://i.ibb.co/vxqDHYf2/1768706014459.webp" group-title="TV Paraguay", Wizz TV PY
 https://live.enhdtv.com:8081/8180/index.m3u8
+
+#EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU PY
+https://live.enhdtv.com:8081/8054/index.m3u8
 
 #EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", TVU PY
 https://live.enhdtv.com:8081/8190/index.m3u8
