@@ -1545,7 +1545,7 @@ http://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_F
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium
-http://201.217.246.177:8000/play/a02u/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium ARG
 http://181.13.112.203:8100/play/a0bc/index.m3u8
