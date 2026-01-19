@@ -2311,10 +2311,9 @@ https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
 #EXTINF:-1 tvg-id="KidOO" tvg-name="KidOO" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil" ch-number="208" type="channel", KiDoo TV
 http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 
-#EXTINF:-1 tvg-id="EDYE TV.mx" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
+#EXTINF:-1 tvg-id="EDYE TV.mx" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd
 
 #EXTINF:-1 tvg-id="Planeta Creación" tvg-logo="https://i.ibb.co/C35QsXS2/Picsart-25-11-27-04-23-02-735.webp" group-title="Infantil", Planeta Creación
@@ -2322,31 +2321,28 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://livecdn.enlace.plus/planetacreacion/smil:planetacreacion-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan TV Latam
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
+#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan TV Latam
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/CLANHD/default.mpd
 
-#EXTINF:-1 tvg-id="Clan TVE.es" tvg-logo="https://i.supaimg.com/ded4a454-beda-4daf-9293-8540b25585af.png?raw=true" group-title="Infantil", Clan TV Es
+#EXTINF:-1 tvg-id="Clan TVE.es" tvg-logo="https://i.ibb.co/gZGztz1B/Picsart-26-01-19-14-16-14-362.webp" group-title="Infantil", Clan TV Es
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
-#EXTINF:-1 ch-number="214" tvg-id="Pakapaka.ar" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
 https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
-#EXTINF:-1 ch-number="211" tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://i.supaimg.com/d4954eec-79a6-4507-8797-1c1cf8dcb556.png?raw=true" group-title="Infantil", Plim plim TV
+#EXTINF:-1 tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://i.supaimg.com/d4954eec-79a6-4507-8797-1c1cf8dcb556.png?raw=true" group-title="Infantil", Plim plim TV
 https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
-#EXTINF:-1 ch-number="212" tvg-id="Tooncast.uy" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
+#EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
 https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
