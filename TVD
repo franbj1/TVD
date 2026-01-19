@@ -1570,11 +1570,10 @@ http://104.238.205.28:8989/278540_.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
-http://181.13.252.102:8000/play/a078/index.m3u8
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3576520243
 
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Argentina
 http://181.13.252.102:8000/play/a078/index.m3u8
@@ -2871,7 +2870,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="Novelas + Variedades", Kanal D Drama
 https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-EXTINF:-1 group-title="Novelas + Variedades" tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png?raw=true", Vive Kanal D Drama
+#EXTINF:-1 group-title="Novelas + Variedades" tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png?raw=true", Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
