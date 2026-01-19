@@ -2206,14 +2206,13 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 group-title="Deportes", tvg-logo="https://i.ibb.co/nNfy5g3d/Picsart-25-10-20-07-38-57-429.webp", GOL TV UY
 http://imaxplay.net:8880//live/VaneSan/UHZFH/453506.ts
 
-#EXTINF:-1 group-title="Deportes" tvg-id="WIN SPORTS", tvg-logo="https://i.ibb.co/GvTYbZqB/Picsart-25-11-09-16-44-39-656.webp", Win Sports
+#EXTINF:-1 group-title="Deportes" tvg-id="WIN SPORTS" tvg-logo="https://i.ibb.co/GvTYbZqB/Picsart-25-11-09-16-44-39-656.webp", Win Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2747488564e7e1f8e0f8bb25d349e3ba:edbcebc4f3b9ac228eed0cc29739bc0c
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
 
-#EXTINF:-1 group-title="Deportes" tvg-id="WIN PREMIUM", tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp", Win + FÃƒÆ’Ã‚Âºtbol
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="Deportes" tvg-id="WIN PREMIUM" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp", Win + Futbol
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
@@ -2232,11 +2231,6 @@ http://38.199.6.1:17001/play/a0ce/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36",
 http://streamingtv.vip:80/Canbiomxujeey/Lsnen3837hdhdbbfwb/306867
-
-#EXTINF:-1 tvg-id="GOLPERU HD.pe" group-title="Deportes", tvg-logo="https://i.ibb.co/k6kFGH74/Picsart-25-10-18-16-48-56-841.webp", GOL TV PE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36",
-http://38.199.6.1:17001/play/a05y/index.m3u8
 
 Infantil
 
@@ -2478,7 +2472,7 @@ https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://playe
 https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e00b78c1a170dafdce62ab2b9015b585&key=1c99513da8023278c05d8597fef18463
+#KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
 #EXTINF:-1 ch-number="330" tvg-id="Paramount HD.uy" tvg-logo="https://i.ibb.co/7xqn7Wbw/Picsart-25-10-27-20-57-27-971.webp" group-title="Cine + Series", Paramount Network
 https://cdn.cvattv.com.ar/live/c6eds/Placa_Paramount/SA_Live_dash_enc_wl/Placa_Paramount.mpd
 
