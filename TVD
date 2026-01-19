@@ -1550,8 +1550,15 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium ARG
-http://181.13.112.203:8100/play/a0bc/index.m3u8
+EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium ARG
+ttp://181.13.112.203:8100/play/a0bc/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes",  TNT Sports Premium (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
 
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="Deportes", TNT Sports Premium CL
 #EXTVLCOPT:almacenamiento en caché de red=1500
