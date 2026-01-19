@@ -2877,7 +2877,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="Novelas + Variedades", Kanal D Drama
 https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 group-title="Novelas + Variedades" tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png?raw=true", Vive Kanal D Drama
+#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="Novelas + Variedades",  Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3653,22 +3653,22 @@ https://chromecast.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mp
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
-#EXTINF:-1 ch-number="606" tvg-id="CNN EspaÃƒÆ’Ã‚Â±ol.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/800/542/0/0/439650900762.png" group-title="Mundo", CNN En EspaÃƒÆ’Ã‚Â±ol
+#EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/800/542/0/0/439650900762.png" group-title="Mundo", CNN En Español
 https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
-#EXTINF:-1 ch-number="607" tvg-id="CNN Internacional.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/800/542/0/0/120048070713.png" group-title="Mundo", CNN Internacional
+#EXTINF:-1 tvg-id="CNN Internacional.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/800/542/0/0/120048070713.png" group-title="Mundo", CNN Internacional
 https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
-#EXTINF:-1 ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/493/CH_LOGO/800/542/0/0/854020000716.png" group-title="Mundo", Deutsche Welle
+#EXTINF:-1 tvg-id="Deustche Welle.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/493/CH_LOGO/800/542/0/0/854020000716.png" group-title="Mundo", Deutsche Welle
 https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
-#EXTINF:-1 group-title="Mundo" ch-number="612" tvg-id="France 24 en EspaÃ±ol.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/800/542/0/0/85662193074124.png", France24 EspaÃƒÆ’Ã‚Â±ol
+#EXTINF:-1 group-title="Mundo" tvg-id="France 24 en Español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/800/542/0/0/85662193074124.png", France24 EspaÃƒÆ’Ã‚Â±ol
 https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
