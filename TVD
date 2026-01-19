@@ -2322,7 +2322,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://livecdn.enlace.plus/planetacreacion/smil:planetacreacion-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.supaimg.com/19fa6507-790c-4395-a05e-8a9f428d3229.png" group-title="Infantil", Clan TV Latam
+#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan TV Latam
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
