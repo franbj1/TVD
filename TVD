@@ -1548,12 +1548,7 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium ARG
-http://181.13.252.102:8000/play/a0bc/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/gZTRhnyK/Picsart-25-09-14-22-52-33-166.webp" group-title="Deportes", TNT Sports Arg
-https://nxt.plus:8443/pabloespinoza/nepgAUVfRckf/213161.ts
+http://181.13.112.203:8100/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="Deportes", TNT Sports Premium CL
 #EXTVLCOPT:almacenamiento en caché de red=1500
