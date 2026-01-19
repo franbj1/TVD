@@ -931,7 +931,7 @@ http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow
 #EXTINF:-1 tvg-id="Univision ATL" tvg-logo="https://i.ibb.co/SDn5Jt9y/Picsart-26-01-15-12-11-19-692.webp" group-title="TV México", Univisión ATL
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/dash.mpd
 
-#EXTINF:-1 tvg-id="Univision.mx" tvg-logo="https://i.ibb.co/mVMxrQXH/Picsart-26-01-19-14-50-02-704.webp" group-title="TV México", Univisión 23 MIA-FTL
+#EXTINF:-1 tvg-id="UNI (WLTV) Miami, FL HD.us" tvg-logo="https://i.ibb.co/mVMxrQXH/Picsart-26-01-19-14-50-02-704.webp" group-title="TV México", Univisión 23 MIA-FTL
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
