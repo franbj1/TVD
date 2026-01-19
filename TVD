@@ -1557,7 +1557,7 @@ ttp://181.13.112.203:8100/play/a0bc/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes",  TNT Sports Premium (FL)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/gZTRhnyK/Picsart-25-09-14-22-52-33-166.webp" group-title="Deportes",  TNT Sports Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
 
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="Deportes", TNT Sports Premium CL
