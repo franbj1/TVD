@@ -1228,7 +1228,7 @@ TV Paraguay
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://i.ibb.co/vx86CWrS/Picsart-25-12-27-12-39-41-066.webp" group-title="TV Paraguay", SNT PY
+#EXTINF:-1 tvg-id="SNT.py" tvg-logo=" https://i.ibb.co/4np6fWrz/Picsart-26-01-20-20-52-07-106.webp" group-title="TV Paraguay", SNT PY
 https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_wl/SNT_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
