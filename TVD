@@ -2860,7 +2860,7 @@ https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
-#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.supaimg.com/075f7bdc-37d9-4e79-92c0-0e435cea62e2.png" group-title="Novelas + Variedades", TNT Novelas
+#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="Novelas + Variedades", TNT Novelas
 https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Novelas + Variedades", Az Corazón
