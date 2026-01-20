@@ -2379,7 +2379,6 @@ https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/elchavodel8.png"
 #KODIPROP:inputstream.adaptive.license_type=mpd #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
-group-title="Infantil", El Chavo 24/7
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=elchavo&token=3576520243
 
 Cine + Series
@@ -2388,7 +2387,7 @@ Cine + Series
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
-#EXTINF:-1 ch-number="303" tvg-id="AXN HD.uy" tvg-logo="https://i.ibb.co/8DYmtZ2R/SNAXN.webp" group-title="Cine + Series", AXN
+#EXTINF:-1 tvg-id="AXN HD.uy" tvg-logo="https://i.ibb.co/8DYmtZ2R/SNAXN.webp" group-title="Cine + Series", AXN
 https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2506,27 +2505,27 @@ https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
-#EXTINF:-1 ch-number="342" tvg-id="Universal HD.uy" tvg-logo="https://i.ibb.co/Hfp8q3Bb/Picsart-25-10-28-04-42-51-099.webp" group-title="Cine + Series", Universal TV
+#EXTINF:-1 tvg-id="Universal HD.uy" tvg-logo="https://i.ibb.co/Hfp8q3Bb/Picsart-25-10-28-04-42-51-099.webp" group-title="Cine + Series", Universal TV
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
-#EXTINF:-1 ch-number="336" tvg-id="Studio Universal HD.uy" tvg-logo="https://i.ibb.co/5xJ1hmS9/Picsart-25-10-27-14-45-59-630.webp" group-title="Cine + Series", Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://i.ibb.co/5xJ1hmS9/Picsart-25-10-27-14-45-59-630.webp" group-title="Cine + Series", Studio Universal
 https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a1e766119c3fb03b095c8e7f0e63139:03932364e1ff6ab68cdc2c1969aee6a5
-#EXTINF:-1 ch-number="348" tvg-id="USA.uy" tvg-logo="https://i.ibb.co/2Y3z08My/Picsart-25-10-27-19-45-13-468.webp" group-title="Cine + Series", USA
+#EXTINF:-1 tvg-id="USA.uy" tvg-logo="https://i.ibb.co/2Y3z08My/Picsart-25-10-27-19-45-13-468.webp" group-title="Cine + Series", USA
 https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTINF:-1 ch-number="349" tvg-id="Warner HD.uy" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Cine + Series", Warner TV
+#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Cine + Series", Warner TV
 https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
-#EXTINF:-1 ch-number="300" tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Cine + Series", [Adult Swim]
+#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Cine + Series", [Adult Swim]
 https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="Varied TV" tvg-logo="https://i.ibb.co/LDQ6MjwT/Picsart-25-11-24-19-25-18-645.webp" group-title="Cine + Series", Varied TV
