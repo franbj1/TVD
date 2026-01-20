@@ -1561,9 +1561,6 @@ ttp://181.13.112.203:8100/play/a0bc/index.m3u8
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
 
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="Deportes", TNT Sports Premium CL
-#EXTVLCOPT:almacenamiento en caché de red=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Version/14.0.1 Mobile/15E148
 http://167.250.223.26:8085/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://i.ibb.co/23FHqL6g/Picsart-25-10-26-18-21-59-149.webp" group-title="Deportes", TNT Sports CL
@@ -1572,9 +1569,9 @@ http://167.250.223.26:8085/play/a094/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Version/14.0.1 Mobile/15E148
 http://104.238.205.28:8989/278540_.m3u8
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1640,7 +1637,7 @@ http://104.238.205.28:8989/278768_.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
-#EXTINF:-1 ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://i.ibb.co/rKSbMFnc/Picsart-25-10-21-18-59-02-687.webp" group-title="Deportes", DeporTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.ibb.co/rKSbMFnc/Picsart-25-10-21-18-59-02-687.webp" group-title="Deportes", DeporTV
 https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1673,7 +1670,7 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/En vivo/canal(universo-este)/master.mpd?https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp", group-title="Deportes" PX Sports
+#EXTINF:-1 tvg-id="PX Sports.uy" tvg-logo="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp" group-title="Deportes", PX Sports
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1704,7 +1701,7 @@ http://magiz.net:25461/leo/leo/345
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad94ad091751a8adf0369f80ca83d17:be43a68903a920561dc14daf19229d97
-#EXTINF:-1 ch-number="117" tvg-id="TyC Sports 2.ar" tvg-logo="https://i.ibb.co/KjNbnPDh/Picsart-25-10-21-19-22-47-152.webp" group-title="Deportes", Sensa Deportes
+#EXTINF:-1 tvg-id="TyC Sports 2.ar" tvg-logo="https://i.ibb.co/KjNbnPDh/Picsart-25-10-21-19-22-47-152.webp" group-title="Deportes", Sensa Deportes
 https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional
