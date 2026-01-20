@@ -2851,7 +2851,7 @@ https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
-#EXTINF:-1 group-title="Novelas + Variedades" ch-number="338" tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png?raw=true", TLNovelas
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Novelas + Variedades", TLNovelas
 https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2862,12 +2862,14 @@ https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|refer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Novelas + Variedades", Az Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/f996cb17-f180-42fc-89c6-821307522ffc.png" group-title="Novelas + Variedades", RCN Novelas
 http://181.78.106.127:9000/play/ca014/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/ba2d1233-fc10-4a1d-955e-fd5176fa199f.png" group-title="Novelas + Variedades", La 2 España
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/229f4d3f-8be3-416a-b851-44676528c4a8.png" group-title="Novelas + Variedades", RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
@@ -2876,7 +2878,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="Novelas + Variedades", Kanal D Drama
 https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="Novelas + Variedades",  Vive Kanal D Drama
+#EXTINF:-1 tvg-id="Vive Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="Novelas + Variedades",  Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
