@@ -2475,6 +2475,10 @@ https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?|referer=https://playe
 #EXTINF:-1 tvg-id="Netflix" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/gM9TJfFx/image-43063-converted-To-Png.webp" group-title="Cine + Series", Netflix
 https://cdn.cvattv.com.ar/live/c7eds/Placa_Netflix/SA_Live_dash_enc_wl/Placa_Netflix.mpd
 
+#EXTINF:-1 tvg-id="Amazon Prime" tvg-logo="https://i.postimg.cc/sDrw13K1/worldtv2.png" group-title="Cine + Series", Amazon Prime https://cdn.cvattv.com.ar/live/c7eds/Placa_amazon/SA_Live_dash_enc_wl/Placa_amazon.mpd
+
+#EXTINF:-1 tvg-id="Disney Plus" tvg-logo="https://i.postimg.cc/43DpM1F2/worldtv2.png" group-title="Cine + Series", Disney + https://cdn.cvattv.com.ar/live/c7eds/Placa_Disney_Plus/SA_Live_dash_enc_wl/Placa_Disney_Plus.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
 #EXTINF:-1 ch-number="330" tvg-id="Paramount HD.uy" tvg-logo="https://i.ibb.co/7xqn7Wbw/Picsart-25-10-27-20-57-27-971.webp" group-title="Cine + Series", Paramount Network
