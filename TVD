@@ -1423,7 +1423,7 @@ https://panel.host-live.com:19360/koatv/koatv.m3u8
 #EXTINF:-1 tvg-id="Tigo Sports.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", Tigo Sports
 https://digital-tv.net/canales/PHPS/angel/carlosrf.m3u8
 
-#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", Tigo Sports +
+#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/DPHppJnT/Picsart-26-01-21-02-48-13-932.webp" group-title="TV Paraguay", Tigo Sports +
 https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
