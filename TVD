@@ -1414,6 +1414,12 @@ https://live.enhdtv.com:8081/8054/index.m3u8
 #EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", TVU PY
 https://live.enhdtv.com:8081/8190/index.m3u8
 
+#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", TV8 Visión PY
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.ibb.co/j9X2JLbL/1768958508751.webp" group-title="TV Paraguay", Koa TV PY
+https://panel.host-live.com:19360/koatv/koatv.m3u8
+
 #EXTINF:-1 tvg-id="Tigo Sports.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", Tigo Sports
 https://digital-tv.net/canales/PHPS/angel/carlosrf.m3u8
 
