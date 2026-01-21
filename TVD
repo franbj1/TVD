@@ -1417,7 +1417,7 @@ https://live.enhdtv.com:8081/8190/index.m3u8
 #EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.ibb.co/mFN63jYX/1768957982576.webp" group-title="TV Paraguay", TV8 Visión PY
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.ibb.co/j9X2JLbL/image.webp" group-title="TV Paraguay", Koa TV PY
+#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.ibb.co/215439sV/Picsart-26-01-21-02-54-55-844.webp" group-title="TV Paraguay", Koa TV PY
 https://panel.host-live.com:19360/koatv/koatv.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", Tigo Sports
