@@ -1653,7 +1653,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
-#EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/800/542/0/0/7391790707734.png" group-title="Deportes", Golf TV
+#EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://i.ibb.co/fz25Bx64/IMG-2977.webp" group-title="Deportes", Golf TV
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo
@@ -1662,7 +1662,7 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa&key=2db4c8089d627e1b2c480c57baa86a7b
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
@@ -1674,7 +1674,7 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #EXTINF:-1 tvg-id="Claro Sports HD.uy" tvg-logo="https://i.ibb.co/j9yKLXm2/Picsart-25-09-15-00-57-24-072.webp" group-title="Deportes", Claro Sports
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="Claro Sports 2" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
+#EXTINF:-1 tvg-id="Claro Sports 2.pe" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
 http://181.78.106.127:9000/play/ca037/index.m3u8
 
@@ -1689,7 +1689,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1c671f202f035fc68295e285440e1f06":"310aef86833c26696c1f6682934530ce","3269cc1ffdc856d39d6d27acaaeb9c57":"af30637020bd80650ef7ac7a57f05405","98c0a1fb0d425f88bfe1c2ad098575ae":"aae9f2ad90d5d29db4314586af9b414f"}
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/MkZC20BB/Picsart-25-10-23-17-37-02-240.webp" group-title="Deportes", TyC Sports Internacional (FL)
+#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycintercl&token=3576520243
 
 #EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional
