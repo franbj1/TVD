@@ -1414,14 +1414,17 @@ https://live.enhdtv.com:8081/8054/index.m3u8
 #EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", TVU PY
 https://live.enhdtv.com:8081/8190/index.m3u8
 
+#EXTINF:-1 tvg-id="Tigo Sports.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", Tigo Sports
+https://digital-tv.net/canales/PHPS/angel/carlosrf.m3u8
+
+#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", Tigo Sports +
+https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
-#EXTVLCOPT:almacenamiento en caché de red=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Añadir comentarioMás acciones
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHmtjDKV/Picsart-25-09-11-19-31-17-306.webp" group-title="TV Latam", Sony Hits Comedia
-https://d3m8rnla2v9m5d.cloudfront.net/lista de reproducción.m3u8
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.supaimg.com/e2e6bb96-efad-4068-a08a-efef0ab85d19.png?raw=true" group-title="TV Latam", Sony Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
@@ -1436,7 +1439,7 @@ https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV23BcgJ/Picsart-25-09-11-15-30-30-307.webp" group-title="TV Latam", Serie Comedia Sony
-https://d1fhd07bw4d2d6.cloudfront.net/lista de reproducción.m3u8
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N0cXrkz/Picsart-25-09-11-11-59-14-720.webp" group-title="TV Latam", Sony ÃƒÆ'Ã¢â‚¬Â°xitos
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
@@ -1444,13 +1447,8 @@ https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4nGjh8m/Picsart-25-09-11-17-08-04-023.webp" group-title="TV Latam", Lista Negra de Sony
 https://d25v414d53fogv.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYk4yChP/Picsart-25-09-11-17-28-00-910.webp" group-title="TV Latam", Sony Shark Gracias
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYk4yChP/Picsart-25-09-11-17-28-00-910.webp" group-title="TV Latam", Sony Shark Tack
 https://d1ivguiw01jxqb.cloudfront.net/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
-#EXTINF:-1 ch-number="109" tvg-id="Latina" tvg-logo="Latina.jpg" group-title="TV Latam", Latina
-https://stmvideo6.livecastv.com/latina/latina/playlist.m3u8
 
 Variedad TV
 
