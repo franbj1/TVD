@@ -1243,7 +1243,7 @@ https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_wl/LA_TELE_C4.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-#EXTINF:-1 tvg-id="Trece" tvg-logo="https://i.ibb.co/N2VX2N2H/Picsart-25-12-27-12-27-42-526.webp" group-title="TV Paraguay", Trece PY
+#EXTINF:-1 tvg-id="Trece" tvg-logo="https://i.ibb.co/B1Gs5cf/Picsart-26-01-20-21-06-21-005.webp" group-title="TV Paraguay", Trece PY
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_wl/RPC_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
