@@ -3009,6 +3009,9 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_wl/HTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Ritmo Universal" tvg-logo="https://i.ibb.co/HcnXRBb/Picsart-25-12-31-10-30-20-164.webp" group-title="Música", Ritmo Universal
+https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tierra Mia TV.ar" tvg-logo="https://i.ibb.co/yFZSZKVL/1763845886680.webp" group-title="Música", Tierra Mía
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36",
