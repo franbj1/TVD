@@ -1687,26 +1687,20 @@ https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/MkZC20BB/Picsart-25-10-23-17-37-02-240.webp" group-title="Deportes", TyC Sports Alternativo
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
-http://179.51.136.23:8000/play/a06z/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1c671f202f035fc68295e285440e1f06":"310aef86833c26696c1f6682934530ce","3269cc1ffdc856d39d6d27acaaeb9c57":"af30637020bd80650ef7ac7a57f05405","98c0a1fb0d425f88bfe1c2ad098575ae":"aae9f2ad90d5d29db4314586af9b414f"}
+#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/MkZC20BB/Picsart-25-10-23-17-37-02-240.webp" group-title="Deportes", TyC Sports Internacional (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycintercl&token=3576520243
 
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/Txgv1NhW/Picsart-25-09-17-15-29-15-124.webp" group-title="Deportes", TyC Sports Arg
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
-http://magiz.net:25461/leo/leo/345
+#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_wl/TyC_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad94ad091751a8adf0369f80ca83d17:be43a68903a920561dc14daf19229d97
 #EXTINF:-1 tvg-id="TyC Sports 2.ar" tvg-logo="https://i.ibb.co/KjNbnPDh/Picsart-25-10-21-19-22-47-152.webp" group-title="Deportes", Sensa Deportes
 https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
-
-#EXTINF:-1 tvg-id="TyC Sports Internacional USA" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional HD
-http://190.102.139.189:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="Deportes", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
