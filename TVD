@@ -1727,51 +1727,38 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.mpd
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-6@3x.png"  group-title="Deportes", ESPN 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KjXO02I.png" group-title="Deportes", ESPN 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
 
 #EXTINF:-1 tvg-id="ESPN Deportes.mx" tvg-name="" tvg-logo="https://i.ibb.co/4RQFpPNy/Picsart-25-10-13-07-22-30-930.webp" group-title="Deportes", ESPN Deportes
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzJEFr5XBqNBSH2TGAXFPrb0/ts
 
-#EXTINF:-1 tvg-id="ESPN Deportes.mx" tvg-name="" tvg-logo="https://i.ibb.co/4RQFpPNy/Picsart-25-10-13-07-22-30-930.webp" group-title="Deportes", VTV Plus
-http://totalplay.site:80/SVCable8264819i4@/sWj7BX5f66/231758.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
-#EXTINF:-1 ch-number="141" tvg-id="Eventos.UY" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" group-title="Deportes", Star 2 Eventos
-https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-#EXTINF:-1 ch-number="141" tvg-id="Eventos.UY" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" group-title="Deportes", Conect Eventos
-https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd
-
-#EXTINF:-1 tvg-id="1610#DSPORTS (PER)" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", DSports
+#EXTINF:-1 tvg-id="1610#DSPORTS (PER)" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", DSports AR
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
-#EXTINF:-1 tvg-id="1612#DSPORTS 2 HD" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", DSports 2
+#EXTINF:-1 tvg-id="1612#DSPORTS 2 HD" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", DSports 2 AR
 http://200.60.124.19:29000/play/a081/index.m3u8
 
 http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/592038.ts
 
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
-#EXTINF:-1 tvg-id="1613#DSPORTS + HD" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", DSports +
+#EXTINF:-1 tvg-id="1613#DSPORTS + HD" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", DSports + AR
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Add commentMore actions
@@ -1783,7 +1770,9 @@ http://38.199.6.1:17001/play/a0vx/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
-#EXTINF:-1 group-title="Deportes", tvg-logo="https://i.ibb.co/hJ1MrbcR/Picsart-25-10-23-18-04-51-172.webp", DSports 1
+#EXTINF:-1 group-title="Deportes", tvg-logo="https://i.ibb.co/hJ1MrbcR/Picsart-25-10-23-18-04-51-172.webp", DSports AR
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
+
 http://newdns.uk:2082/AndroidPeruano1@/Nx7EB9FakY/189460
 
 #EXTINF:-1 group-title="Deportes", tvg-logo="https://i.ibb.co/hJ1MrbcR/Picsart-25-10-23-18-04-51-172.webp", DSports DTV
