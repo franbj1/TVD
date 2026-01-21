@@ -1341,7 +1341,7 @@ http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc_C/America_PY.mpd
 #EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
 http://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_C/A24_PY.mpd
 
-#EXTINF:-1 tvg-id="Nande Portete.py" tvg-logo="https://i.ibb.co/SDZFHvg0/1768318399617.webp" group-title="TV Paraguay", Ñande Portetepe PY
+#EXTINF:-1 tvg-id="Nande Portete.py" tvg-logo="https://i.ibb.co/FLFrfzkB/Picsart-26-01-21-17-39-15-265.webp" group-title="TV Paraguay", Ñande Portetepe PY
 https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 
 #EXTINF:-1 tvg-id="Almaya TV.py" tvg-logo="https://i.ibb.co/MxX22y4d/Picsart-26-01-14-00-13-01-297.webp" group-title="TV Paraguay", Almaya TV PY
