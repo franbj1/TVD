@@ -1030,11 +1030,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/america.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/Q7Wd2jxJ/Picsart-26-01-14-18-25-22-014.webp" group-title="TV Peru", América SD TV PE
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://i.ibb.co/pjkRwRVy/Picsart-26-01-12-21-22-19-361.webp" group-title="TV Peru", EVENTO FLOW SIN BLOQUEO
-http://138.121.114.86:8000/play/a0dg/index.m3u8
-
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latina.stream/playlist.m3u8
 
@@ -1064,11 +1059,6 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N PE
 http://www.alzaipizzeria.com/budtv/play.php?id=aEZVTmt0Q3lSZ3JDQWVqckZydE14UT09
-
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/malcolm.png",Malcolm HD 24/7
-#KODIPROP:inputstream.adaptive.license_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Agente de usuario=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtB Sr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1 q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd 8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZj vyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=canalnhs&token=3576520243
 
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
@@ -1387,7 +1377,7 @@ https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.ibb.co/HLJBkv38/1768408290117.webp" group-title="TV Paraguay",Cosmos TV PY
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF:-1 tvg-id="Dismar TV.py" tvg-logo="https://i.ibb.co/yn9F9KN6/logo-6.webp" group-title="TV Paraguay", Dismar TV PY
+#EXTINF:-1 tvg-id="Dismar TV.py" tvg-logo="https://i.ibb.co/8n6mQJcp/Picsart-26-01-21-03-00-31-417.webp" group-title="TV Paraguay", Dismar TV PY
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Caritas TV.py" tvg-logo="https://i.ibb.co/7qtCNHf/Picsart-26-01-14-13-42-03-071.webp" group-title="TV Paraguay", Caritas TV PY
