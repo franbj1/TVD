@@ -1338,7 +1338,7 @@ http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc_C/America_PY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=db60bfaa0178071a5572e6e6ffb46ed3&keyid=82e87fac1c33915ad5d344ffac1bbbb4
-#EXTINF:-1 tvg-id="A24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
+#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
 http://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_C/A24_PY.mpd
 
 #EXTINF:-1 tvg-id="Nande Portete.py" tvg-logo="https://i.ibb.co/SDZFHvg0/1768318399617.webp" group-title="TV Paraguay", Ñande Portetepe PY
@@ -1416,7 +1416,7 @@ https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 #EXTINF:-1 tvg-id="Tigo Sports.py" tvg-logo="https://i.ibb.co/ZRr7CJSG/Picsart-26-01-21-15-43-21-423.webp" group-title="TV Paraguay", Tigo Sports
 https://digital-tv.net/canales/PHPS/angel/carlosrf.m3u8
 
-#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/DPHppJnT/Picsart-26-01-21-02-48-13-932.webp" group-title="TV Paraguay", Tigo Sports +
+#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/7tY37cKw/Picsart-26-01-21-15-46-29-332.webp" group-title="TV Paraguay", Tigo Sports +
 https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
