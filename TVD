@@ -1576,7 +1576,7 @@ KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3576520243
 
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Argentina
-http://181.13.252.102:8000/play/a078/index.m3u8
+https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/mCzwg5mR/large-649424110-ESPNPremium-16-png-6becd911e5b5b4480d5faea7db135d96.webp" group-title="Deportes", ESPN Premium Arg
 http://181.13.112.203:8100/play/a078/index.m3u8
