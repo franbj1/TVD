@@ -1243,7 +1243,7 @@ https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_wl/LA_TELE_C4.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-#EXTINF:-1 tvg-id="Trece" tvg-logo="https://i.ibb.co/B1Gs5cf/Picsart-26-01-20-21-06-21-005.webp" group-title="TV Paraguay", Trece PY
+#EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/B1Gs5cf/Picsart-26-01-20-21-06-21-005.webp" group-title="TV Paraguay", Trece PY
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_wl/RPC_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1414,7 +1414,7 @@ https://live.enhdtv.com:8081/8054/index.m3u8
 #EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", TVU PY
 https://live.enhdtv.com:8081/8190/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", TV8 Visión PY
+#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.ibb.co/mFN63jYX/1768957982576.webp" group-title="TV Paraguay", TV8 Visión PY
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.ibb.co/j9X2JLbL/1768958508751.webp" group-title="TV Paraguay", Koa TV PY
