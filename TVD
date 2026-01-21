@@ -1413,7 +1413,7 @@ https://panel.host-live.com:19360/koatv/koatv.m3u8
 #EXTINF:-1 tvg-id="Regional TV.py" tvg-logo="https://i.ibb.co/mCksQRWB/Picsart-26-01-21-03-56-17-196.webp" group-title="TV Paraguay", Regiónal TV PY
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 
-#EXTINF:-1 tvg-id="Tigo Sports.py" tvg-logo="https://i.ibb.co/qFjJtYhQ/1768955466678.webp" group-title="TV Paraguay", Tigo Sports
+#EXTINF:-1 tvg-id="Tigo Sports.py" tvg-logo="https://i.ibb.co/ZRr7CJSG/Picsart-26-01-21-15-43-21-423.webp" group-title="TV Paraguay", Tigo Sports
 https://digital-tv.net/canales/PHPS/angel/carlosrf.m3u8
 
 #EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/DPHppJnT/Picsart-26-01-21-02-48-13-932.webp" group-title="TV Paraguay", Tigo Sports +
