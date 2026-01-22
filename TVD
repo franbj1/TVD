@@ -2687,21 +2687,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:-1 tvg-id="Runtime Series" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Cine + Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 
-#EXTINF:-1 tvg-id="Runtime Familia" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Familia
+#EXTINF:-1 tvg-id="/esruntime-familia" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528 
 
 #EXTINF:-1 group-title="Cine + Series", Run Time Terror https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529 
 
-#EXTINF:-1 tvg-id="Runtime Romance" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Romance
+#EXTINF:-1 tvg-id="/esruntime-romance" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532 
 
-#EXTINF:-1 epg-id="Runtime Crimen" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Crimen
+#EXTINF:-1 epg-id="runtime-crimen" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533 
 
-#EXTINF:-1 tvg-id="Runtime Comedia" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Comedia
+#EXTINF:-1 tvg-id="/esruntime-comedia" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551 
 
-#EXTINF:-1 tvg-id="Runtime Acción" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Acción
+#EXTINF:-1 tvg-id="/esruntime-accion" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 #EXTINF:-1 tvg-id="/esruntime-thriller" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Thriller
