@@ -2704,7 +2704,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 tvg-id="Runtime Acción" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
-#EXTINF:-1 tvg-id="Runtime Thriller" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Thriller
+#EXTINF:-1 tvg-id="esruntime-thriller" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Thriller
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
 
 
