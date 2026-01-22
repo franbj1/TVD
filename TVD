@@ -1242,6 +1242,11 @@ https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_wl/RPC_C4.mpd
 https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_wl/PARAVISION_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
+#EXTINF:-1 tvg-id="Sur TV.py" tvg-logo="https://i.ibb.co/0p2nJFLY/Sur-TV-Itap-a-logo-2022.webp" group-title="TV Paraguay", Sur TV PY
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_wl/SUR_TV_C4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Paraguay", Unicanal PY
 https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_wl/UNICANAL_C4.mpd
@@ -1275,11 +1280,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_wl/Canal_PRO.mpd
 #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
 #EXTINF:-1 tvg-id="5 Dias.py" tvg-logo="https://i.ibb.co/qVvN9Vm/Picsart-26-01-03-20-44-59-979.webp" group-title="TV Paraguay", 5 Días PY
 https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_wl/5_Dias_PY.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
-#EXTINF:-1 tvg-id="Sur TV.py" tvg-logo="https://i.ibb.co/0p2nJFLY/Sur-TV-Itap-a-logo-2022.webp" group-title="TV Paraguay", Sur TV PY
-https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_wl/SUR_TV_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0
