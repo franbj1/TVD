@@ -871,7 +871,7 @@ TV Colombia
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno COL
 https://val01.ride.com.ar/tvmia/bn14/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp " group-title="TV Colombia", Trece COL
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp" group-title="TV Colombia", Trece COL
 https:/val01.ride.com.ar/tvmia/bn27/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GQLMn7C4/Picsart-26-01-23-13-20-19-431.webp" group-title="TV Colombia", Capital COL
