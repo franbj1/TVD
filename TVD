@@ -732,7 +732,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
 #EXTINF:-1 tvg-id="EL SIETE.ar" tvg-logo="https://i.ibb.co/Q362pCLt/1765376203268.webp" group-title="TV Argentina", El Siete Mendoza
-https://g3.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Lista de reproducción.m3u8?sense=true
+https://g3.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5jyDPy1/13-max2024.webp" group-title="TV Argentina", 13 Max TDA
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -867,6 +867,34 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 TV Colombia
 
 #EXTINF:-1 group-logo="https://i.ibb.co/LddkRrTd/Picsart-26-01-23-17-47-31-849.webp"
+
+#EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno COL
+https://val01.ride.com.ar/tvmia/bn14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/GQLMn7C4/Picsart-26-01-23-13-20-19-431.webp" group-title="TV Colombia",  Trece COL
+https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp
+https:/val01.ride.com.ar/tvmia/bn27/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GQLMn7C4/Picsart-26-01-23-13-20-19-431.webp" group-title="TV Colombia", Capital COL
+https://val01.ride.com.ar/tvmia/bn03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia",  City TV COL
+https://val01.ride.com.ar/tvmia/bn11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="El Tiempo Television.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", El Tiempo TV COL
+https:/val03.ride.com.ar/tvmia/bn12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia COL
+https:/val01.ride.com.ar/tvmia/bn01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.ibb.co/jZ1mXp99/Picsart-26-01-23-16-56-34-928.webp" group-title="TV Colombia", Telepacifico COL
+https://val01.ride.com.ar/tvmia/bn07/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.ibb.co/210Snk85/Picsart-26-01-23-17-33-56-352.webp" group-title="TV Colombia", NTN24 COL
+https://val04.ride.com.ar/tvmia/bn04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.ibb.co/nNBp8jkp/Teleantioquia2020logo-alto.webp" group-title="TV Colombia"," group-title="TV Colombia", Teleantioquia COL
+https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 
 TV México
 
