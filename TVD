@@ -1842,7 +1842,7 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzJEFr5XBqNBSH2TGAXFPrb0/ts
 
-#EXTINF:-1 tvg-id="1610#DSPORTS (PER)" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", DSports AR
+#EXTINF:-1 tvg-id="DSPORTS (ARG).ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", DSports AR
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-id="1612#DSPORTS 2 HD" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", DSports 2 AR
