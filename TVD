@@ -895,6 +895,66 @@ https://val04.ride.com.ar/tvmia/bn04/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.ibb.co/zTrVy4VP/1769223902170.webp" group-title="TV Colombia", Teleantioquia COL
 https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co/TxzjXJpw/Picsart-25-10-26-11-31-57-310.webp" group-title="TV Colombia", ESPN COL
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/gMhwd10x/Picsart-25-10-26-11-33-08-339.webp" group-title="TV Colombia", ESPN 2 COL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66 
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co/8nn9Ch3n/Picsart-25-10-26-11-38-40-118.webp" group-title="TV Colombia", ESPN 3 COL
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-id="ESPN 4 HD.uy" group-title="TV Colombia" tvg-logo="https://i.ibb.co/DsMBHS6/Picsart-25-10-26-11-43-02-216.webp" ,ESPN 4 COL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.ibb.co/jkWRpVhH/Picsart-25-10-26-11-47-17-617.webp" group-title="TV Colombia", ESPN 5 COL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.ibb.co/xKyfrykc/Picsart-25-10-26-11-48-30-478.webp" group-title="TV Colombia", ESPN 6 COL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/7xzWyjpn/Picsart-25-10-26-11-56-28-801.webp" group-title="TV Colombia", ESPN 7 COL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
 TV México
 
 #EXTINF:-1 group-logo="https://i.ibb.co/KpNwcXYD/Picsart-26-01-09-20-33-45-551.webp"
@@ -2146,76 +2206,6 @@ https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://199.127.63.105:8989/278576_.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.ibb.co/TxzjXJpw/Picsart-25-10-26-11-31-57-310.webp" group-title="Deportes", ESPN CO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/gMhwd10x/Picsart-25-10-26-11-33-08-339.webp" group-title="Deportes", ESPN 2 CO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" group-title="Deportes" tvg-logo="https://i.ibb.co/8nn9Ch3n/Picsart-25-10-26-11-38-40-118.webp" ,ESPN 3 CO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" group-title="Deportes" tvg-logo="https://i.ibb.co/DsMBHS6/Picsart-25-10-26-11-43-02-216.webp" ,ESPN 4 CO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.ibb.co/jkWRpVhH/Picsart-25-10-26-11-47-17-617.webp" group-title="Deportes", ESPN 5 CO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.ibb.co/xKyfrykc/Picsart-25-10-26-11-48-30-478.webp" group-title="Deportes", ESPN 6 CO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/7xzWyjpn/Picsart-25-10-26-11-56-28-801.webp" group-title="Deportes", ESPN 7 CO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
