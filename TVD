@@ -1594,14 +1594,13 @@ https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|ref
 
 KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
 
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Argentina
 https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/mCzwg5mR/large-649424110-ESPNPremium-16-png-6becd911e5b5b4480d5faea7db135d96.webp" group-title="Deportes", ESPN Premium Arg
-http://181.13.112.203:8100/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium CL
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
