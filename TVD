@@ -1560,9 +1560,7 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/0pNYXt1s/Picsart-25-10-17-16-06-40-577.webp"
 
-#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack Futbol
-https://cplus.lat/Teleplay/Juridico/Listas/Stream/streamdeportivo.php?stream=disney1
-
+#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack Futbol 2026
 http://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
@@ -1572,9 +1570,6 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
-
-EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium ARG
-ttp://181.13.112.203:8100/play/a0bc/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
