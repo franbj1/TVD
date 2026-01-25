@@ -930,10 +930,9 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/7xzWyjpn/Picsart-25-10-26-11-56-28-801.webp" group-title="TV Colombia", ESPN 7 COL
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/ZR6Vdqfg/Picsart-25-10-24-11-33-49-304.webp" group-title="Deportes", Tigo Sports Eventos PY
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/ZR6Vdqfg/Picsart-25-10-24-11-33-49-304.webp" group-title="TV Colombia", Tigo Sports Eventos COL
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -943,7 +942,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
-#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp" group-title="Deportes", Win + Fútbol COL
+#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp" group-title="TV Colombia", Win + Fútbol COL
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
 
 TV México
@@ -1096,6 +1095,27 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/EXCELSIORHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=81a154c749417e9045df2b3dd974e0d9:08d84cb2d8bd21b28b765d4a187f9e13
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLM6rZZY/cv-shopping.png" group-title="TV México", CV Shopping Outlet MX
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/CVSHOPPINGSD/default.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+#EXTINF:-1 tvg-id="ESPN 2.mx" tvg-logo="https://i.ibb.co/S7RNG6JL/Picsart-25-10-19-02-29-52-278.webp" group-title="TV México", ESPN MX
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://i.ibb.co/chDGcCJM/Picsart-25-10-19-02-30-58-762.webp" group-title="TV México", ESPN 2 MX
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+#EXTINF:-1 tvg-id="ESPN 3.mx" tvg-logo="https://i.ibb.co/0yRyShfZ/Picsart-25-10-19-02-38-22-447.webp" group-title="TV México", ESPN 3 MX
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+#EXTINF:-1 tvg-id="ESPN 4.mx" tvg-logo="https://i.ibb.co/dw6vFTzQ/Picsart-25-10-19-02-41-02-245.webp" group-title="TV México", ESPN 4 MX
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 
 TV Peru
 
@@ -1982,30 +2002,6 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://cdn.cvattv.com.ar/live/c7eds/ESPN7/SA_Live_dash_enc/ESPN7.mpd
-
-#EXTINF:-1 tvg-id="ESPN 2.mx" tvg-logo="https://i.ibb.co/S7RNG6JL/Picsart-25-10-19-02-29-52-278.webp" group-title="Deportes", ESPN MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
-https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://i.ibb.co/chDGcCJM/Picsart-25-10-19-02-30-58-762.webp" group-title="Deportes", ESPN 2 MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
-https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="ESPN 3.mx" tvg-logo="https://i.ibb.co/0yRyShfZ/Picsart-25-10-19-02-38-22-447.webp" group-title="Deportes", ESPN 3 MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
-https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="ESPN 4 Latinoamerica" tvg-logo="https://i.ibb.co/dw6vFTzQ/Picsart-25-10-19-02-41-02-245.webp" group-title="Deportes", ESPN 4 MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
-https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 
 #EXTINF:-1 tvg-id="FOX Sports.mx" tvg-logo="https://i.ibb.co/chn80k38/Picsart-25-10-19-21-56-06-250.webp" group-title="Deportes", Fox Sports MX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
