@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay1.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/peru3.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz,https://www.open-epg.com/files/argentina7.xml.gz,https://www.open-epg.com/files/paraguay1.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/paraguay3.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://www.open-epg.com/files/colombia1.xml.gz"
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay1.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/peru3.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz,https://www.open-epg.com/files/argentina7.xml.gz,https://www.open-epg.com/files/paraguay1.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/paraguay3.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz"
 Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
@@ -36,7 +36,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/Y4HKBTLc/Picsart-26-01-08-10-14-55-444.webp" group-title="Nacional", Laika TV
 https://mitv.zplay.cl/LaikaTV/index.m3u8
 
-#EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop
+#EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop En pausa
 https://streams.hibop.cl/webtv/hibopla/index.m3u8?token=deM0hiB0PweB
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -437,7 +437,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_Live_dash_enc_wl/Canal
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.ibb.co/rKZgPdYR/Picsart-25-12-18-14-21-52-727.webp" group-title="TV Digital", Canal 10 Mar del Plata HD
-https://smt-usr-edge02.sensa.com.ar/salida/SMT6/C10MPD/salida.mpd
+https://smt-usr-edge02.sensa.com.ar/salida/SMT6/C10MPD/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ccfc823faed878832b3e4a69fcb72a2:d68b394ab768f4a2ec148ab8cdac46ef
@@ -503,7 +503,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://trs.cdn.rcs.net.ar/mnp/ssc4ln4movbqlr1qczb00000005dktih/salida.mpd
+https://trs.cdn.rcs.net.ar/mnp/ssc4ln4movbqlr1qczb00000005dktih/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/4w6Btcmw/Picsart-25-11-22-17-29-38-577.webp" group-title="TV Argentina", El Nueve TDA
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
