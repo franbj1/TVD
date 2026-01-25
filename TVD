@@ -930,6 +930,22 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/7xzWyjpn/Picsart-25-10-26-11-56-28-801.webp" group-title="TV Colombia", ESPN 7 COL
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/ZR6Vdqfg/Picsart-25-10-24-11-33-49-304.webp" group-title="Deportes", Tigo Sports Eventos PY
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2747488564e7e1f8e0f8bb25d349e3ba:edbcebc4f3b9ac228eed0cc29739bc0c
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.ibb.co/GvTYbZqB/Picsart-25-11-09-16-44-39-656.webp" group-title="TV Colombia", Win Sports COL
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
+#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp" group-title="Deportes", Win + Fútbol COL
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
+
 TV México
 
 #EXTINF:-1 group-logo="https://i.ibb.co/KpNwcXYD/Picsart-26-01-09-20-33-45-551.webp"
@@ -2181,26 +2197,6 @@ https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://199.127.63.105:8989/278576_.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/ZR6Vdqfg/Picsart-25-10-24-11-33-49-304.webp" group-title="Deportes", Tigo Sports Eventos PY
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
-#EXTINF:-1 group-title="Deportes", tvg-logo="https://i.ibb.co/nNfy5g3d/Picsart-25-10-20-07-38-57-429.webp", GOL TV UY
-http://imaxplay.net:8880//live/VaneSan/UHZFH/453506.ts
-
-#EXTINF:-1 group-title="Deportes" tvg-id="WIN SPORTS" tvg-logo="https://i.ibb.co/GvTYbZqB/Picsart-25-11-09-16-44-39-656.webp", Win Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2747488564e7e1f8e0f8bb25d349e3ba:edbcebc4f3b9ac228eed0cc29739bc0c
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
-
-#EXTINF:-1 group-title="Deportes" tvg-id="WIN PREMIUM" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp", Win + Futbol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
-
 
 Infantil
 
