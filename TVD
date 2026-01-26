@@ -2698,7 +2698,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533 
 
 #EXTINF:-1 tvg-id="/esruntime-comedia" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+
+#EXTINF:-1 tvg-id="/esruntime-clasicos" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="Cine + Series", Run Time Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 
 #EXTINF:-1 tvg-id="/esruntime-accion" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
