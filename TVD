@@ -1530,6 +1530,10 @@ https://digital-tv.net/canales/PHPS/angel/carlosrf.m3u8
 #EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/7tY37cKw/Picsart-26-01-21-15-46-29-332.webp" group-title="TV Paraguay", Tigo Sports +
 https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
 
+TV Ecuador
+
+#EXTINF:-1 group-logo="https://i.ibb.co/mC4cPTs4/Picsart-26-01-26-16-07-10-512.webp"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
