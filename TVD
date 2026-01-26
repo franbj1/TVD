@@ -949,7 +949,23 @@ TV Ecuador
 
 #EXTINF:-1 group-logo="https://i.ibb.co/mC4cPTs4/Picsart-26-01-26-16-07-10-512.webp"
 
+#EXTINF:-1 tvg-id="Canal Ecuaviza (Ecuador).ec" tvg-logo="https://i.ibb.co/dwGG3B8D/Picsart-26-01-26-16-20-16-308.webp" group-title="TV Ecuador", Ecuaviza ECU
+https://val04.ride.com.ar/tvmia/an46/playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-logo="https://i.ibb.co/m5Mwrxz0/TC-Televisi-n-new-logo-2020.webp" group-title="TV Ecuador", TC Mi Canal ECU
+https://val04.ride.com.ar/tvmia/an51/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS ECU
+https://val04.ride.com.ar/tvmia/an48/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://i.ibb.co/HcnXRBb/Picsart-25-12-31-10-30-20-164.webp" group-title="TV Ecuador", TVC ECU
+https://val04.ride.com.ar/tvmia/an49/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/HcnXRBb/Picsart-25-12-31-10-30-20-164.webp" group-title="TV Ecuador", Ecuador TV ECU
+https://val04.ride.com.ar/tvmia/an50/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión ECU
+https://val04.ride.com.ar/tvmia/an52/playlist.m3u8?sense=true
 
 TV México
 
