@@ -955,7 +955,7 @@ https://val04.ride.com.ar/tvmia/an46/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Canal TC Televisión" tvg-logo="https://i.ibb.co/m5Mwrxz0/TC-Televisi-n-new-logo-2020.webp" group-title="TV Ecuador", TC Mi Canal ECU
 https://val04.ride.com.ar/tvmia/an51/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Canal RTS.co" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS ECU
+#EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS ECU
 https://val04.ride.com.ar/tvmia/an48/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://i.ibb.co/JFjWx3Bd/TVCEcuador2023.webp" group-title="TV Ecuador", TVC ECU
