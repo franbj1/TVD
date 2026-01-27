@@ -1141,8 +1141,10 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co/srgZRCz/Picsart-26-01-27-20-00-15-491.webp"
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/qa0bd5cdqu5jn3dnrcj27/chv-mundogo.json?rlkey=x3q4aq749i1pdj9blyib4z8qd&st=frctl4d6&dl=0
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://i.ibb.co/YFJ39Fpv/Picsart-26-01-27-20-23-00-965.webp" group-title="TV Chile", Chilevisión CL
+https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
 TV Peru
 
