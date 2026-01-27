@@ -2463,7 +2463,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Placa_Netflix/SA_Live_dash_enc_wl/Placa_Net
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
-#EXTINF:-1 ch-number="330" tvg-id="Paramount HD.uy" tvg-logo="https://i.ibb.co/7xqn7Wbw/Picsart-25-10-27-20-57-27-971.webp" group-title="Cine + Series", My Times Network
+#EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-logo="https://i.ibb.co/7xqn7Wbw/Picsart-25-10-27-20-57-27-971.webp" group-title="Cine + Series", My Times Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2692,7 +2692,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 #EXTINF:-1 group-title="Cine + Series", Run Time Terror https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529 
 
 #EXTINF:-1 tvg-id="/esruntime-romance" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532 
+ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 
 #EXTINF:-1 epg-id="runtime-crimen" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533 
