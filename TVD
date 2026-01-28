@@ -1242,14 +1242,14 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/willax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/zhFrvcCk/Picsart-26-01-10-16-53-00-630.webp" group-title="TV Peru", Global PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/global.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.ibb.co/9mWW7d91/Picsart-25-12-22-18-44-49-725.webp" group-title="TV Peru", RPP PE
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N PE
 https://val03.ride.com.ar/tvmia/an38/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana PE
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa PE
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
