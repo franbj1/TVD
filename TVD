@@ -1154,6 +1154,11 @@ https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 https://cdn-live.mundogo.cl/chvculto/chvculto.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4w8igpk6whxpma33tcxkz/chv-contigo-mundogo.json?rlkey=s29g38dqrf41rcpbghljb83qd&st=4y8daxt8&dl=0
+#EXTINF:-1 tvg-id="CHV Contigo.cl" tvg-logo="https://i.ibb.co/ksByyDWL/Picsart-26-01-28-11-28-02-076.webp" group-title="TV Chile", CHV Contigo  CL
+https://cdn-live.mundogo.cl/chvcontigo/chvcontigo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/8rcvvqk7sol0nfkbqmxos/mega-mundogo.json?rlkey=j2s6y0b40h8zb0g4fqsfiflo9&st=lecr68xp&dl=0
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.ibb.co/j9XJkCK9/Picsart-26-01-27-21-10-07-132.webp" group-title="TV Chile", Mega CL
 https://cdn-live.mundogo.cl/megahd/megahd.mpd
@@ -1166,8 +1171,16 @@ https://cdn-live.mundogo.cl/mega2/mega2.mpd
 #EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.ibb.co/wNNtLRt7/Picsart-26-01-27-21-12-55-672.webp" group-title="TV Chile", Canal 13 CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8?did='+_dpssid
 
+#EXTINF:-1 tvg-id="13 Internacional.cl" tvg-logo="https://i.ibb.co/4RBmfBgv/Picsart-26-01-28-11-20-33-700.webp" group-title="TV Chile", 13 Internacional CL
+https://origin.dpsgo.com/ssai/event/AoG07lVzSdW0gdaCAcSl-g/master.m3u8
+
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.ibb.co/C5TgMTYr/Picsart-26-01-28-03-13-01-705.webp" group-title="TV Chile", T13 CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did='+_dpssid
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/j75bl6lor5byhevz0js1n/ntv-mundogo.json?rlkey=8hsh9gqibxoczabae752tv6ia&st=vbk9zo9v&dl=0
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.ibb.co/V0TGRBKf/Picsart-26-01-28-11-20-06-247.webp" group-title="TV Chile", NTV CL
+https://cdn-live.mundogo.cl/ntv/ntv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
