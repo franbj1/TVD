@@ -1139,23 +1139,45 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
 #EXTINF:-1 tvg-id="ESPN 4.mx" tvg-logo="https://i.ibb.co/dw6vFTzQ/Picsart-25-10-19-02-41-02-245.webp" group-title="TV México", ESPN 4 MX
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 
+TV Chile
+
 #EXTINF:-1 group-logo="https://i.ibb.co/srgZRCz/Picsart-26-01-27-20-00-15-491.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/qa0bd5cdqu5jn3dnrcj27/chv-mundogo.json?rlkey=x3q4aq749i1pdj9blyib4z8qd&st=frctl4d6&dl=0
-#EXTINF:-1 tvg-id="Chilevisión.cl" tvg-logo="https://i.ibb.co/YFJ39Fpv/Picsart-26-01-27-20-23-00-965.webp" group-title="TV Chile", Chilevisión CL
+#EXTINF:-1 tvg-id="Chilevisión.cl" tvg-logo="https://i.ibb.co/nNHFyS05/Picsart-26-01-28-03-20-55-163.webp" group-title="TV Chile", Chilevisión CL
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/o1avk66a1o6l5oexv2h42/chvculto-mundogo.json?rlkey=yph2jgyn0kzl1sei8j757nzdm&st=9ej0kxd4&dl=0
+#EXTINF:-1 tvg-id="Chv de culto.cl" tvg-logo="https://i.ibb.co/JjnyjZf9/Picsart-26-01-28-03-19-27-721.webp" group-title="TV Chile", CHV de Culto CL
+https://cdn-live.mundogo.cl/chvculto/chvculto.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/8rcvvqk7sol0nfkbqmxos/mega-mundogo.json?rlkey=j2s6y0b40h8zb0g4fqsfiflo9&st=lecr68xp&dl=0
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.ibb.co/j9XJkCK9/Picsart-26-01-27-21-10-07-132.webp" group-title="TV Chile", Mega CL
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+https://cdn-live.mundogo.cl/megahd/megahd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/mloccckzoasgc7w33sz84/mega2-mundogo.json?rlkey=f9gq5klep5kpihtc4xu2haj0c&st=ockk27am&dl=0
+#EXTINF:-1 tvg-id="Mega 2.cl" tvg-logo="https://i.ibb.co/7d5kjf8Y/Picsart-26-01-28-03-16-03-557.webp" group-title="TV Chile", Mega 2 CL
+https://cdn-live.mundogo.cl/mega2/mega2.mpd
 
 #EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.ibb.co/wNNtLRt7/Picsart-26-01-27-21-12-55-672.webp" group-title="TV Chile", Canal 13 CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8?did='+_dpssid
 
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.ibb.co/C5TgMTYr/Picsart-26-01-28-03-13-01-705.webp" group-title="TV Chile", T13 CL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did='+_dpssid
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
 #EXTINF:-1 tvg-id="TV Chile.cl" tvg-logo="https://i.ibb.co/HTdCSX5V/Picsart-26-01-27-20-55-32-021.webp" group-title="TV Chile", TV Chile CL
-https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd
+https://mplus.pontiscloud.com/bpk-tv/TVChile/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/vd3h9nxklgi8ag99kb1gq/tvn-mundogo.json?rlkey=e3t3lr4hpcd9mgwdqsfk6u4ff&st=iionogap&dl=0
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.ibb.co/SDQ2fx7v/Picsart-26-01-27-20-57-24-556.webp" group-title="TV Chile", TVN Chile CL
+https://cdn-live.mundogo.cl/tvn/tvn.mpd
 
 
 TV Peru
