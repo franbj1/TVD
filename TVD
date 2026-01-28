@@ -1188,10 +1188,24 @@ https://cdn-live.mundogo.cl/ntv/ntv.mpd
 https://mplus.pontiscloud.com/bpk-tv/TVChile/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/gibxl5arn8vgka14wl4a8/24-horas-mundogo.json?rlkey=ysl6jm96y77hcf5wrbn7x2ctd&st=rsnu13m4&dl=0
+#EXTINF:-1 tvg-id="24 Horas HD.cl" tvg-logo="https://i.ibb.co/cS6N7mYn/Picsart-26-01-28-11-51-42-719.webp" group-title="TV Chile", 24 Horas  CL
+https://cdn-live.mundogo.cl/24horas/24horas.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/vd3h9nxklgi8ag99kb1gq/tvn-mundogo.json?rlkey=e3t3lr4hpcd9mgwdqsfk6u4ff&st=iionogap&dl=0
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.ibb.co/SDQ2fx7v/Picsart-26-01-27-20-57-24-556.webp" group-title="TV Chile", TVN Chile CL
 https://cdn-live.mundogo.cl/tvn/tvn.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/22pp1ug28sctsf1yv5b2v/cnn-chile-mundogo.json?rlkey=7oi5n54wemxcdl3x5j6rfkdg8&st=ygbyhs1l&dl=0
+#EXTINF:-1 tvg-id="CNN CHILE.cl" tvg-logo="https://i.ibb.co/MxPW97V9/Picsart-26-01-28-11-52-01-106.webp" group-title="TV Chile", CNN Chile CL
+https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/ou5tyqpvippyvquht2v8s/mega-tiempo-mundogo.json?rlkey=f6flzla5vx6tizb67a23c7a0p&st=pny4ukuy&dl=0
+#EXTINF:-1 tvg-id="Mega Tiempo.cl" tvg-logo="https://i.ibb.co/pG15cB7/megatiempo-logo-brandlogos-net-y9wab.webp" group-title="TV Chile", Mega Tiempo CL
+https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd
 
 TV Peru
 
