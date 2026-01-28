@@ -1215,9 +1215,6 @@ TV Peru
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/DfZq3yKV/Picsart-25-09-24-03-06-41-877.webp" group-title="TV Peru", América TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/america.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/Q7Wd2jxJ/Picsart-26-01-14-18-25-22-014.webp" group-title="TV Peru", América SD TV PE
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latina.stream/playlist.m3u8
 
@@ -1227,7 +1224,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.ibb.co/TBX1Bms3/1767065024502.webp" group-title="TV Peru", Latina Clásicos PE
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/latina2/playlist.m3u8?did='+_dpssid
 
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/35tSRw5J/ATV-logo-2020.webp" group-title="TV Peru", ATV PE
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/chW4BJZk/1769620388834.webp" group-title="TV Peru", ATV PE
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur PE
