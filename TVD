@@ -1145,7 +1145,7 @@ TV Chile
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/qa0bd5cdqu5jn3dnrcj27/chv-mundogo.json?rlkey=x3q4aq749i1pdj9blyib4z8qd&st=frctl4d6&dl=0
-#EXTINF:-1 tvg-id="Chilevisión.cl" tvg-logo="https://i.ibb.co/nNHFyS05/Picsart-26-01-28-03-20-55-163.webp" group-title="TV Chile", Chilevisión CL
+#EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://i.ibb.co/nNHFyS05/Picsart-26-01-28-03-20-55-163.webp" group-title="TV Chile", Chilevisión CL
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1168,13 +1168,18 @@ https://cdn-live.mundogo.cl/megahd/megahd.mpd
 #EXTINF:-1 tvg-id="Mega 2.cl" tvg-logo="https://i.ibb.co/7d5kjf8Y/Picsart-26-01-28-03-16-03-557.webp" group-title="TV Chile", Mega 2 CL
 https://cdn-live.mundogo.cl/mega2/mega2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/ou5tyqpvippyvquht2v8s/mega-tiempo-mundogo.json?rlkey=f6flzla5vx6tizb67a23c7a0p&st=pny4ukuy&dl=0
+#EXTINF:-1 tvg-id="Mega Tiempo.cl" tvg-logo="https://i.ibb.co/JwD6CzxX/1769612561718.webp" group-title="TV Chile", Mega Tiempo CL
+https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd
+
 #EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.ibb.co/wNNtLRt7/Picsart-26-01-27-21-12-55-672.webp" group-title="TV Chile", Canal 13 CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8?did='+_dpssid
 
 #EXTINF:-1 tvg-id="13 Internacional.cl" tvg-logo="https://i.ibb.co/4RBmfBgv/Picsart-26-01-28-11-20-33-700.webp" group-title="TV Chile", 13 Internacional CL
 https://origin.dpsgo.com/ssai/event/AoG07lVzSdW0gdaCAcSl-g/master.m3u8
 
-#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.ibb.co/C5TgMTYr/Picsart-26-01-28-03-13-01-705.webp" group-title="TV Chile", T13 CL
+#EXTINF:-1 tvg-id="T13 En Vivo.cl" tvg-logo="https://i.ibb.co/C5TgMTYr/Picsart-26-01-28-03-13-01-705.webp" group-title="TV Chile", T13 CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did='+_dpssid
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1201,11 +1206,6 @@ https://cdn-live.mundogo.cl/tvn/tvn.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/22pp1ug28sctsf1yv5b2v/cnn-chile-mundogo.json?rlkey=7oi5n54wemxcdl3x5j6rfkdg8&st=ygbyhs1l&dl=0
 #EXTINF:-1 tvg-id="CNN CHILE.cl" tvg-logo="https://i.ibb.co/MxPW97V9/Picsart-26-01-28-11-52-01-106.webp" group-title="TV Chile", CNN Chile CL
 https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/ou5tyqpvippyvquht2v8s/mega-tiempo-mundogo.json?rlkey=f6flzla5vx6tizb67a23c7a0p&st=pny4ukuy&dl=0
-#EXTINF:-1 tvg-id="Mega Tiempo.cl" tvg-logo="https://i.ibb.co/pG15cB7/megatiempo-logo-brandlogos-net-y9wab.webp" group-title="TV Chile", Mega Tiempo CL
-https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd
 
 TV Peru
 
