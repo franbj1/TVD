@@ -1188,8 +1188,8 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 https://cdn-live.mundogo.cl/ntv/ntv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
-#EXTINF:-1 tvg-id="TV Chile.cl" tvg-logo="https://i.ibb.co/HTdCSX5V/Picsart-26-01-27-20-55-32-021.webp" group-title="TV Chile", TV Chile CL
+#KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
+#EXTINF:-1 tvg-id="TV Chile.ar" tvg-logo="https://i.ibb.co/HTdCSX5V/Picsart-26-01-27-20-55-32-021.webp" group-title="TV Chile", TV Chile CL
 https://mplus.pontiscloud.com/bpk-tv/TVChile/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
