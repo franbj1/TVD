@@ -1143,8 +1143,20 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/qa0bd5cdqu5jn3dnrcj27/chv-mundogo.json?rlkey=x3q4aq749i1pdj9blyib4z8qd&st=frctl4d6&dl=0
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://i.ibb.co/YFJ39Fpv/Picsart-26-01-27-20-23-00-965.webp" group-title="TV Chile", Chilevisión CL
+#EXTINF:-1 tvg-id="Chilevisión.cl" tvg-logo="https://i.ibb.co/YFJ39Fpv/Picsart-26-01-27-20-23-00-965.webp" group-title="TV Chile", Chilevisión CL
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
+
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.ibb.co/j9XJkCK9/Picsart-26-01-27-21-10-07-132.webp" group-title="TV Chile", Mega CL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.ibb.co/wNNtLRt7/Picsart-26-01-27-21-12-55-672.webp" group-title="TV Chile", Canal 13 CL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8?did='+_dpssid
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
+#EXTINF:-1 tvg-id="TV Chile.cl" tvg-logo="https://i.ibb.co/HTdCSX5V/Picsart-26-01-27-20-55-32-021.webp" group-title="TV Chile", TV Chile CL
+https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd
+
 
 TV Peru
 
