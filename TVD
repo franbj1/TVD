@@ -1344,6 +1344,16 @@ https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_wl/Teve_Ciudad
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_wl/Canal_U.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=81ac405be6ccf3dfdd220baee48e49e1&keyid=d7063d20931b5b14864536d4cffd2033
+#EXTINF:-1 tvg-id="Cardinal.uy" tvg-logo="https://i.ibb.co/27KkMsj7/Picsart-26-01-28-04-10-17-183.webp" group-title="TV Uruguay", Cardinal TV UY
+https://1275-tbx.vrioott.com/cardinaltv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c926dba1fe354d529601ee6e38fe0a4b&key=41c5da6d1608e6377ff86c0ded7d042a
+#EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal 21 UY
+https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
 #EXTINF:-1 tvg-id="VTV HD.uy" tvg-logo="https://i.ibb.co/Zz5SShsm/Picsart-25-12-27-20-36-01-402.webp" group-title="TV Uruguay", VTV UY
 https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_wl/VTV_HD.mpd
