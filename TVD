@@ -1207,6 +1207,15 @@ https://cdn-live.mundogo.cl/tvn/tvn.mpd
 #EXTINF:-1 tvg-id="CNN CHILE.cl" tvg-logo="https://i.ibb.co/MxPW97V9/Picsart-26-01-28-11-52-01-106.webp" group-title="TV Chile", CNN Chile CL
 https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
 
+#EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="TV Chile", TNT Sports Premium CL
+http://45.189.108.146:1935/xmp_trans/tnt_sports2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://i.ibb.co/23FHqL6g/Picsart-25-10-26-18-21-59-149.webp" group-title="TV Chile", TNT Sports CL
+#EXTVLCOPT:almacenamiento en caché de red=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Version/14.0.1 Mobile/15E148
+http://45.189.108.146:1935/xmp_trans/tnt_sports.stream/playlist.m3u8
+
 TV Peru
 
 #EXTINF:-1 group-logo="https://i.ibb.co/GQTycjFD/Picsart-26-01-09-18-44-01-052.webp"
