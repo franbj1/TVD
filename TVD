@@ -884,12 +884,12 @@ https://val04.ride.com.ar/tvmia/pan64/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN Noticias.co" tvg-logo="https://i.ibb.co/p6N0X82c/Picsart-26-01-29-13-34-13-542.webp" group-title="TV Colombia", RCN Noticias COL
 https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", RCN Más COL
+#EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.supaimg.com/229f4d3f-8be3-416a-b851-44676528c4a8.png" group-title="TV Colombia", RCN Más COL
 https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.supaimg.com/f996cb17-f180-42fc-89c6-821307522ffc.png" group-title="TV Colombia", RCN Novelas
-http://181.78.106.127:9000/play/ca014/index.m3u8
+https://rcntv-rcnnovelas-2-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno COL
 https://val01.ride.com.ar/tvmia/bn14/playlist.m3u8
@@ -2968,10 +2968,6 @@ https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|refer
 
 #EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Novelas + Variedades", Az Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="RCN Mas.co" tvg-logo="https://i.supaimg.com/229f4d3f-8be3-416a-b851-44676528c4a8.png" group-title="Novelas + Variedades", RCN Mas
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
