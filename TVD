@@ -1216,6 +1216,9 @@ http://45.189.108.146:1935/xmp_trans/tnt_sports2.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Version/14.0.1 Mobile/15E148
 http://45.189.108.146:1935/xmp_trans/tnt_sports.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="TV Chile", ESPN Premium CL
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
+
 TV Peru
 
 #EXTINF:-1 group-logo="https://i.ibb.co/GQTycjFD/Picsart-26-01-09-18-44-01-052.webp"
@@ -1753,15 +1756,6 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/CKsGtmPm/Picsart-26-01-22-15-43-54-480.webp" group-title="Deportes", TNT Sports Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
 
-#EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="Deportes", TNT Sports Premium CL
-http://167.250.223.26:8085/play/a094/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://i.ibb.co/23FHqL6g/Picsart-25-10-26-18-21-59-149.webp" group-title="Deportes", TNT Sports CL
-#EXTVLCOPT:almacenamiento en caché de red=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Version/14.0.1 Mobile/15E148
-http://104.238.205.28:8989/278540_.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
@@ -1776,9 +1770,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=357652024
 
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Argentina
 https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium CL
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
