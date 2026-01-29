@@ -993,6 +993,27 @@ https://val04.ride.com.ar/tvmia/an50/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión ECU
 https://val04.ride.com.ar/tvmia/an52/playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="Ecotel.ec" tvg-logo="https://i.ibb.co/wD2jFK3/1769720916381.webp" group-title="TV Ecuador", Ecotel TV ECU
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="America Estereo.ec" tvg-logo="https://i.ibb.co/gMmCfYJx/Picsart-26-01-29-18-04-09-407.webp" group-title="TV Ecuador", América Estereo ECU
+https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Cinecable.ec" tvg-logo="https://i.ibb.co/b5gV9bdm/horizontal-cine.webp" group-title="TV Ecuador", Cine Cable ECU
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Red TVE Ventanas.ec" tvg-logo="https://i.ibb.co/Fb9RW6qr/1769721710145.webp" group-title="TV Ecuador", Red TVE Ventanas ECU
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.ibb.co/dy9Dp6m/Picsart-26-01-29-18-23-38-476.webp" group-title="TV Ecuador", RTU TV ECU
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Puruwa TV.ec" tvg-logo="https://i.ibb.co/FkyJWyKS/Picsart-26-01-29-18-33-38-202.webp" group-title="TV Ecuador", Puruwa TV ECU
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="TVPJ.ec" tvg-logo="https://i.ibb.co/jv7td9ZM/Picsart-26-01-29-18-55-45-916.webp" group-title="TV Ecuador", TVPJ
+https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?PlaylistM3UCL
+
 TV México
 
 #EXTINF:-1 group-logo="https://i.ibb.co/KpNwcXYD/Picsart-26-01-09-20-33-45-551.webp"
