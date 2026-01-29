@@ -1332,15 +1332,15 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor PE
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKwY11nT/Picsart-25-10-18-17-54-49-553.webp" group-title="TV Peru", Liga 1 PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKwY11nT/Picsart-25-10-18-17-54-49-553.webp" group-title="TV Peru", L1 PE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36"
 http://38.199.6.1:17001/play/a0cz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TM7PwkQ3/Picsart-25-10-18-17-43-30-370.webp" group-title="TV Peru", L1 Max PE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36"
-http://38.199.6.1:17001/play/a0ce/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/373fnhg7bz6nh5vdjhl8l/L1MAX.json?rlkey=q8ltucqsx9swtcsgolb8k5ai0&st=x9rqmayn&dl=0
+#EXTINF:-1 tvg-id="L1max.pe" tvg-logo="https://i.ibb.co/TM7PwkQ3/Picsart-25-10-18-17-43-30-370.webp" group-title="TV Peru", L1 Max PE
+https://live-evg6.tv360.bitel.com.pe/manifest/L1MAX/master.mpd
 
 #EXTINF:-1 tvg-id="M DEPORTES.pe" group-title="TV Peru" tvg-logo="https://i.ibb.co/Xrgzb8Ls/Picsart-25-10-18-16-46-15-595.webp", Movistar Deportes PE
 http://209.45.81.84:8000/play/a03q/index.m3u8
