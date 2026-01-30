@@ -2972,6 +2972,11 @@ Cultura
 #EXTINF:-1 group-logo="https://i.ibb.co/j9cC8P5d/1769740252470.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=c825ede79c7f63aa9c16844f67ee2b45&keyid=d1afef1b6c4f286ebfdc1dce0e174a17
+#EXTINF:-1 tvg-id="Curiosity Channel" tvg-logo="https://i.ibb.co/HLGTfdtS/Picsart-26-01-30-00-21-01-664.webp" group-title="Cultura", Curiosity Channel
+https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
 #EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://i.supaimg.com/25eacfe0-e6c1-4c5d-b6b2-1275e73fabdb.png" group-title="Cultura", Pasiones
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_wl/Pasiones.mpd
@@ -3029,7 +3034,7 @@ https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|refer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f413ca6b4955bab7d89a3d24bbf8c98b:58168613434035ceb98e18815f97436c
-#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.supaimg.com/9436b5e0-f5e5-4e08-ab5e-fa02aac3da35.png" group-title="Cultura", Discovery ID
+#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.supaimg.com/9436b5e0-f5e5-4e08-ab5e-fa02aac3da35.png" group-title="Cultura", Investigación Discovery
 https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3106,6 +3111,9 @@ https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/64384481074718.png" group-title="Cultura", Love Nature
 https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
+http://cors.tundracast.com:2000/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
