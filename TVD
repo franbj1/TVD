@@ -1728,7 +1728,7 @@ https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
-#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="Cultura", TNT Novelas
+#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="TV Novelas", TNT Novelas
 https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV Novelas, Az Corazón
@@ -1751,83 +1751,6 @@ https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://playe
 #KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
 #EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="TV Novelas", Ve Plus
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Variados TV", HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="Variados TV", Comedia Universal
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCOMEDYHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="TV Novelas", Universal Crime
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCRIMEHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="TV Novela", Estreno Universal
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALPREMIEREHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="Variados TV", Realidad Universal
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALREALITYHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VjjgVWW/hbo.png" group-title="Variados TV", HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mRXxtcT/hbo2.png" group-title="Variados TV", HBO 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBO2HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="Variados TV", Familia HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="Variados TV", HBO Mundi
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOMUNDIHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="Variados TV", HBO Plus
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="Variados TV", HBO Pop
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPOPHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="Variados TV", Firma HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="Variados TV", HBO Xtreme
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=clave de borrado
-#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 
 Deportes
 
