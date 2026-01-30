@@ -3017,6 +3017,9 @@ https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://playe
 #EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="Cultura", Ve Plus
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="Free TV Saber Mas" tvg-logo="https://i.ibb.co/vxPxvSrs/1769743171730.webp" group-title="Cultura", Free TV Saber Más
+https://amg01024-amg01024c23-directtv-latam-5624.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvsabermas-directtvlatam/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
 #EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://i.supaimg.com/48104346-2418-42dd-b625-f8a4fb20742b.png" group-title="Cultura", Animal Planet
@@ -3114,6 +3117,9 @@ https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd?|referer=https://pl
 
 #EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
 http://cors.tundracast.com:2000/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Magellan TV" tvg-logo="https://i.ibb.co/zVMWdPqK/Magellan-TV-logo.webp" group-title="Cultura", Magellan TV
+http://cors.tundracast.com:2000/https://amg00376-amg00376c21-plex-us-4309.playouts.now.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
