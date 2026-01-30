@@ -1705,9 +1705,53 @@ https://d25v414d53fogv.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYk4yChP/Picsart-25-09-11-17-28-00-910.webp" group-title="TV Latam", Sony Shark Tack
 https://d1ivguiw01jxqb.cloudfront.net/playlist.m3u8
 
-Variedad TV
+TV Novelas
 
 #EXTINF:-1 group-logo="https://i.ibb.co/5hLPtzmD/Picsart-25-11-29-14-52-17-705.webp"
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
+#EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://i.supaimg.com/25eacfe0-e6c1-4c5d-b6b2-1275e73fabdb.png" group-title="TV Novelas", Pasiones
+https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_wl/Pasiones.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
+#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="TV Novelas", Las Estrellas
+https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="TV Novelas", TLNovelas
+https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
+#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="Cultura", TNT Novelas
+https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV Novelas, Az Corazón
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
+#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="TV Novelas", Kanal D Drama
+https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-id="Vive Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="TV Novelas",  Vive Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
+#EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="TV Novelas", Novelisima
+https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
+#EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="TV Novelas", Ve Plus
+https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Variados TV", HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
@@ -1719,13 +1763,13 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCOMEDYHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="Variados TV", Universal Crime
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="TV Novelas", Universal Crime
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
 #KODIPROP:inputstream.adaptive.license_type=clave de borrado
 #KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCRIMEHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="Variados TV", Estreno Universal
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="TV Novela", Estreno Universal
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
 #KODIPROP:inputstream.adaptive.license_type=clave de borrado
 #KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
@@ -2976,48 +3020,7 @@ Cultura
 #EXTINF:-1 tvg-id="Curiosity Channel" tvg-logo="https://i.ibb.co/HLGTfdtS/Picsart-26-01-30-00-21-01-664.webp" group-title="Cultura", Curiosity Channel
 https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
-#EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://i.supaimg.com/25eacfe0-e6c1-4c5d-b6b2-1275e73fabdb.png" group-title="Cultura", Pasiones
-https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_wl/Pasiones.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
-#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Cultura", Las Estrellas
-https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
-#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Cultura", TLNovelas
-https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
-#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="Cultura", TNT Novelas
-https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Cultura", Az Corazón
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
-#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="Cultura", Kanal D Drama
-https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-id="Vive Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="Cultura",  Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
-#EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="Cultura", Novelisima
-https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
-#EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="Cultura", Ve Plus
-https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-id="1+1 Travel" tvg-logo="https://i.ibb.co/7d5kjf8Y/Picsart-26-01-28-03-16-03-557.webp" group-title="Cultura", 1+1 Travel
+#EXTINF:-1 tvg-id="1+1 Travel" tvg-logo="https://i.ibb.co/9mSnjJdp/Picsart-26-01-30-03-57-06-233.webp" group-title="Cultura", 1+1 Travel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CHANGE_ME]&AV_WIDTH=[CHANGE_ME]&AV_HEIGHT=[CHANGE_ME]&AV_APPNAME=[CHANGE_ME/ENCODED APP NAME]&AV_APPSTOREURL=[CHANGE_ME/ENCODED_APPSTORE URL]&AV_APPPKGNAME=[CHANGE_ME]&AV_IDFA=[CHANGE_ME]&AV_IFA_TYPE=[CHANGE_ME]&AV_CCPA=[CHANGE_ME]&AV_GDPR=[CHANGE_ME]&AV_CONSENT=[CHANGE_ME]&AV_CONTENT_URL=[CHANGE_ME]&AV_CONTENT_TITLE=[CHANGE_ME]&AV_CONTENT_EPISODE=[CHANGE_ME]&AV_CONTENT_SERIES=[CHANGE_ME]&AV_CONTENT_SEASON=[CHANGE_ME]&AV_CONTENT_KEYWORDS=[CHANGE_ME]&AV_CONTENT_NETWORK=[CHANGE_ME]&AV_CONTENT_ID=[CHANGE_ME]&AV_CONTENT_CHANNEL=[CHANGE_ME]&AV_CONTENT_CONTEXT=[CHANGE_ME]&AV_CONTENT_LENGTH=[CHANGE_ME]&AV_VAUTH=[CHANGE_ME]&AV_DNT=[CHANGE_ME]&AV_LANGUAGE=[CHANGE_ME]&AV_OSVERS=[CHANGE_ME]&AVS_SSAIID=694a811fbd6ca6259b0f9985&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=Entertainment&AV_CONTENT_CAT=IAB20&AV_CONTENT_RATING=TV-G&AV_CONTENT_SECTION=1+1 Media_1+1 Travel&content_channel_name=1plus1travel&content_livestream=1&AV_CONTENT_PROVIDER=Media ES Egyebek Ko rlatolt Felelossegu Tarsasag&app_bundle=&app_name=wedotv&app_store_url=https://wedotv.com&url=https://wedotv.com&gdpr=1&channel_name=1 + 1 Travel&content_custom_1_param=1 + 1 Travel
 
 #EXTINF:-1 tvg-id="Free TV Saber Mas" tvg-logo="https://i.ibb.co/vxPxvSrs/1769743171730.webp" group-title="Cultura", Free TV Saber Más
