@@ -3017,6 +3017,9 @@ https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://playe
 #EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="Cultura", Ve Plus
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="1+1 Travel" tvg-logo="https://i.ibb.co/7d5kjf8Y/Picsart-26-01-28-03-16-03-557.webp" group-title="Cultura", 1+1 Travel
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CHANGE_ME]&AV_WIDTH=[CHANGE_ME]&AV_HEIGHT=[CHANGE_ME]&AV_APPNAME=[CHANGE_ME/ENCODED APP NAME]&AV_APPSTOREURL=[CHANGE_ME/ENCODED_APPSTORE URL]&AV_APPPKGNAME=[CHANGE_ME]&AV_IDFA=[CHANGE_ME]&AV_IFA_TYPE=[CHANGE_ME]&AV_CCPA=[CHANGE_ME]&AV_GDPR=[CHANGE_ME]&AV_CONSENT=[CHANGE_ME]&AV_CONTENT_URL=[CHANGE_ME]&AV_CONTENT_TITLE=[CHANGE_ME]&AV_CONTENT_EPISODE=[CHANGE_ME]&AV_CONTENT_SERIES=[CHANGE_ME]&AV_CONTENT_SEASON=[CHANGE_ME]&AV_CONTENT_KEYWORDS=[CHANGE_ME]&AV_CONTENT_NETWORK=[CHANGE_ME]&AV_CONTENT_ID=[CHANGE_ME]&AV_CONTENT_CHANNEL=[CHANGE_ME]&AV_CONTENT_CONTEXT=[CHANGE_ME]&AV_CONTENT_LENGTH=[CHANGE_ME]&AV_VAUTH=[CHANGE_ME]&AV_DNT=[CHANGE_ME]&AV_LANGUAGE=[CHANGE_ME]&AV_OSVERS=[CHANGE_ME]&AVS_SSAIID=694a811fbd6ca6259b0f9985&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=Entertainment&AV_CONTENT_CAT=IAB20&AV_CONTENT_RATING=TV-G&AV_CONTENT_SECTION=1+1 Media_1+1 Travel&content_channel_name=1plus1travel&content_livestream=1&AV_CONTENT_PROVIDER=Media ES Egyebek Ko rlatolt Felelossegu Tarsasag&app_bundle=&app_name=wedotv&app_store_url=https://wedotv.com&url=https://wedotv.com&gdpr=1&channel_name=1 + 1 Travel&content_custom_1_param=1 + 1 Travel
+
 #EXTINF:-1 tvg-id="Free TV Saber Mas" tvg-logo="https://i.ibb.co/vxPxvSrs/1769743171730.webp" group-title="Cultura", Free TV Saber Más
 https://amg01024-amg01024c23-directtv-latam-5624.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvsabermas-directtvlatam/playlist.m3u8
 
@@ -3032,7 +3035,7 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChanne
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
-#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.supaimg.com/a5e82da7-932b-4b49-aadd-4c4571df31ac.png" group-title="Cultura", Home And Health
+#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.supaimg.com/a5e82da7-932b-4b49-aadd-4c4571df31ac.png" group-title="Cultura", Discovery H&H
 https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
