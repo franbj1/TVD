@@ -3023,8 +3023,17 @@ https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
 #EXTINF:-1 tvg-id="1+1 Travel" tvg-logo="https://i.ibb.co/9mSnjJdp/Picsart-26-01-30-03-57-06-233.webp" group-title="Cultura", 1+1 Travel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CHANGE_ME]&AV_WIDTH=[CHANGE_ME]&AV_HEIGHT=[CHANGE_ME]&AV_APPNAME=[CHANGE_ME/ENCODED APP NAME]&AV_APPSTOREURL=[CHANGE_ME/ENCODED_APPSTORE URL]&AV_APPPKGNAME=[CHANGE_ME]&AV_IDFA=[CHANGE_ME]&AV_IFA_TYPE=[CHANGE_ME]&AV_CCPA=[CHANGE_ME]&AV_GDPR=[CHANGE_ME]&AV_CONSENT=[CHANGE_ME]&AV_CONTENT_URL=[CHANGE_ME]&AV_CONTENT_TITLE=[CHANGE_ME]&AV_CONTENT_EPISODE=[CHANGE_ME]&AV_CONTENT_SERIES=[CHANGE_ME]&AV_CONTENT_SEASON=[CHANGE_ME]&AV_CONTENT_KEYWORDS=[CHANGE_ME]&AV_CONTENT_NETWORK=[CHANGE_ME]&AV_CONTENT_ID=[CHANGE_ME]&AV_CONTENT_CHANNEL=[CHANGE_ME]&AV_CONTENT_CONTEXT=[CHANGE_ME]&AV_CONTENT_LENGTH=[CHANGE_ME]&AV_VAUTH=[CHANGE_ME]&AV_DNT=[CHANGE_ME]&AV_LANGUAGE=[CHANGE_ME]&AV_OSVERS=[CHANGE_ME]&AVS_SSAIID=694a811fbd6ca6259b0f9985&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=Entertainment&AV_CONTENT_CAT=IAB20&AV_CONTENT_RATING=TV-G&AV_CONTENT_SECTION=1+1 Media_1+1 Travel&content_channel_name=1plus1travel&content_livestream=1&AV_CONTENT_PROVIDER=Media ES Egyebek Ko rlatolt Felelossegu Tarsasag&app_bundle=&app_name=wedotv&app_store_url=https://wedotv.com&url=https://wedotv.com&gdpr=1&channel_name=1 + 1 Travel&content_custom_1_param=1 + 1 Travel
 
+#EXTINF:-1 tvg-id="Travel +" tvg-logo="https://i.ibb.co/HD6VTZyc/1769790434728.webp" group-title="Cultura", Travel +
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16313
+
 #EXTINF:-1 tvg-id="Free TV Saber Mas" tvg-logo="https://i.ibb.co/vxPxvSrs/1769743171730.webp" group-title="Cultura", Free TV Saber Más
 https://amg01024-amg01024c23-directtv-latam-5624.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvsabermas-directtvlatam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://i.ibb.co/qYNKj7jf/Picsart-26-01-30-13-18-52-775.webp" group-title="Cultura", Fashion TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16434
+
+#EXTINF:-1 tvg-id="Wamis TV" tvg-logo="https://i.ibb.co/0VrJ6NHM/Wamiz-1.webp" group-title="Cultura", Wamiz TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16772
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
