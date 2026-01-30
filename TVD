@@ -3025,7 +3025,7 @@ https://amg01024-amg01024c23-directtv-latam-5624.playouts.now.amagi.tv/playlist/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
-#EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://i.supaimg.com/48104346-2418-42dd-b625-f8a4fb20742b.png" group-title="Cultura", Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://i.supaimg.com/48104346-2418-42dd-b625-f8a4fb20742b.png" group-title="Cultura", Animal Planet Discovery
 https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3045,7 +3045,7 @@ https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd?|referer=https://playe
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fcef63599e86bd9bd69644234020cd6:a82db4ee21e762bf6c734e71088511c0
-#EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-logo="https://i.supaimg.com/f278df44-1ce0-4454-b14f-423cd6a9c66a.png" group-title="Cultura", Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-logo="https://i.ibb.co/ZpQD4Ywk/Picsart-26-01-30-01-44-04-154.webp" group-title="Cultura", Discovery Science
 https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3065,7 +3065,7 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mp
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bed07c7fbbc6a3024baa8a44c052dd59:a632dead698156b3f2083076aa192b57
-#EXTINF:-1 tvg-id="TLC HD.uy" tvg-logo="https://i.supaimg.com/e99b6e64-308e-48e6-84a4-5c7d119bc85d.png" group-title="Cultura", Travel and Living
+#EXTINF:-1 tvg-id="TLC HD.uy" tvg-logo="https://i.supaimg.com/e99b6e64-308e-48e6-84a4-5c7d119bc85d.png" group-title="Cultura", TLC
 https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
