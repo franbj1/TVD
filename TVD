@@ -3090,6 +3090,9 @@ https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|r
 #EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://i.supaimg.com/40da4af8-ac76-46f9-bf79-e8cbfad1fcf6.png" group-title="Cultura", El Gourmet
 https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="Tastemade.es" tvg-logo="https://i.ibb.co/gLrx79yZ/tastemadeespanol-color.webp" group-title="Cultura", Tastemade
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
 #EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://i.supaimg.com/fc21bc4b-2e65-4a0f-88ed-3d371ba2eed1.png" group-title="Cultura", Film & Arts
