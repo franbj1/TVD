@@ -223,126 +223,127 @@ Televisión digital
 #EXTINF:-1 group-logo="https://i.ibb.co/pBnmg6QJ/Picsart-25-10-17-03-58-34-381.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp?raw=true" group-title="TV Digital", Televisión Pública HD
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6b17538810f1dd4485f174dcc204872c&key=3d5b973772433ce07c8999aa659ea48c
+#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp?raw=true" group-title="TV Digital", Televisión Pública
+https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América HD
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f
+#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América
+https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-#EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="TV Digital", El Nueve HD
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_wl/Canal9.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/sxpdi5lscc50lks78r46h/elnueve-sensa.json?rlkey=zsrzqe4ovmmf511502ujcyfqa&st=abjeyeqj&dl=0
+#EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="TV Digital", El Nueve
+https://mplus.pontiscloud.com/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="TV Digital", Telefe HD
-https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bb54fccffaddd38916e85c08de98cc9&key=d06f509c418eb6f1b2fc2b766445328b
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="TV Digital", Telefe
+https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
-#EXTINF:-1 tvg-id="Telefe HD.uy" tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="TV Digital", Telefe Internacional HD
+#EXTINF:-1 tvg-id="Telefe HD.uy" tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="TV Digital", Telefe Internacional
 https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_C/Telefe_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="TV Digital", El Trece HD
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_wl/ArtearHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7b05c7a737b7f0a5d571b91deaa2697&key=4079ac205b544b1c294ee1568906ff58
+#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="TV Digital", El Trece
+https://mplus.pontiscloud.com/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
-#EXTINF:-1 tvg-id="El Trece Internacional.uy" tvg-logo="https://i.ibb.co/8D1mvRYm/Picsart-25-08-04-19-24-06-425.webp" group-title="TV Digital", El Trece Internacional HD
+#EXTINF:-1 tvg-id="El Trece Internacional.ar" tvg-logo="https://i.ibb.co/8D1mvRYm/Picsart-25-08-04-19-24-06-425.webp" group-title="TV Digital", El Trece Internacional
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc_C/Artear_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1 tvg-id="Net TV.ar" group-title="TV Digital" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true", Net TV HD
-https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_wl/Net_TV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c3db691c7e4520b7b2dc822ab905545a&key=ee2a1ebe6fcc2ef3b01943cdd9256cc6
+#EXTINF:-1 tvg-id="Net TV.ar" group-title="TV Digital" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true", Net TV
+https://mplus.pontiscloud.com/live/eds/NETTV/live_dash_cld/NETTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1 tvg-id="Bravo TV (ARG).ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV HD
+#EXTINF:-1 tvg-id="Bravo TV (ARG).ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_wl/BravoTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-name="[CARASTV] Caras TV" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV HD
+#EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-name="[CARASTV] Caras TV" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8?sd=10&rebase=on
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="TV Digital", Encuentro HD
-https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_wl/Encuentro.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/5vc3m4bfxkj43krcdh7oz/ENCUENTRO.DGO.json?rlkey=af54j1oau0k436pbf4sru44yg&st=cackx2zf&dl=0
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="TV Digital", Encuentro
+https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="TV Digital", Telemax HD
-https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_wl/Telemax.mpd
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="TV Digital", Telemax
+https://bvclive1.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="TV Digital", Ciudad Magazine HD
-https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_wl/Magazine.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=014771c4a91db80e96f038ec0acfc304&key=e37fa696265923a6082de157662aab73
+#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="TV Digital", Ciudad Magazine
+https://mplus.pontiscloud.com/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
-#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="TV Digital", Volver HD
-https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_wl/Volver.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a7ecf0c34695dd4e253574b0b85441e&key=e6518e0b5dfa5e0dc268a5b16106811b
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="TV Digital", Volver
+https://mplus.pontiscloud.com/live/eds/Volver/live_dash_cld/Volver.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="TV Digital", TN (Todo Noticias) HD
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b4ebe3c68c4c95c7639096e76c233d0&key=0c48cd5e3298b762a099acdc05a5182a
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="TV Digital", TN (Todo Noticias)
+https://mplus.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-#EXTINF:-1 tvg-id="La Nación.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV Digital", La Nación + HD
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_wl/La_Nacion.mpd
+#EXTINF:-1 tvg-id="La Nación.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV Digital", La Nación +
+https://mplus.pontiscloud.com/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1 tvg-id="America 24.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="TV Digital", A24 HD
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_wl/America24.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b
+#EXTINF:-1 tvg-id="America 24.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="TV Digital", A24
+https://mplus.pontiscloud.com/live/eds/A24/live_dash_cld/A24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="TV Digital", C5N HD
-https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_wl/C5N.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/y0lc2h1dp5lmzk1i28pgi/c5n-sensa.json?rlkey=5hqxz8txfe26krbhtpeogwthm&st=e2wqf986&dl=0
+#EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="TV Digital", C5N
+https://mplus.pontiscloud.com/live/eds/C5N/live_dash_cld/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="TV Digital", Crónica HD
-https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_wl/CronicaTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194f0682180e147f7928078dcc78a019&key=ddfc08545e74a6bd8870f1189cd1bec0
+#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="TV Digital", Crónica
+https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="TV Digital", Canal 26 HD
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_wl/26_TV_HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b35aecc554b859a97cf11b892731af1f&key=3a5da1a7c6a5cc6e488bdbbbf09132ff
+#EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="TV Digital", Canal 26
+https://mplus.pontiscloud.com/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-#EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-logo="https://i.ibb.co/FkgrNRLC/1765116462550.webp" group-title="TV Digital", Argentina 12 HD
-https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_wl/Investigacion_Periodistica.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=34f254be5f3d6a8ab44c28b4cb2e5a4a&keyid=61635507689b4c74568928cc0f5d82d9
+#EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-logo="https://i.ibb.co/FkgrNRLC/1765116462550.webp" group-title="TV Digital", Argentina 12
+https://mplus.pontiscloud.com/bpk-tv/Argentina12/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="CANAL E" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="TV Digital", Canal E HD
-https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1894229072ccac2d0f6a101d618d039d&key=9a7ea848df202bf22ac51bda4482a4c2
+#EXTINF:-1 tvg-id="CANAL E" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="TV Digital", Canal E
+https://mplus.pontiscloud.com/bpk-tv/CanalE/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
-#EXTINF:-1 tvg-id="DIPUTADOS TV ARG" tvg-logo="https://i.ibb.co/1GP5w3sy/Picsart-25-11-16-19-03-22-897.webp" group-title="TV Digital", Diputados TV HD
+#EXTINF:-1 tvg-id="DIPUTADOS TV ARG" tvg-logo="https://i.ibb.co/1GP5w3sy/Picsart-25-11-16-19-03-22-897.webp" group-title="TV Digital", Diputados TV
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_wl/Diputados_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426
-#EXTINF:-1 tvg-id="Senado.ar" tvg-logo="https://i.ibb.co/C3TmY7Sm/1767889392439.webp" group-title="TV Digital", Senado TV HD
+#EXTINF:-1 tvg-id="Senado.ar" tvg-logo="https://i.ibb.co/C3TmY7Sm/1767889392439.webp" group-title="TV Digital", Senado TV
 https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_C/Canal_90.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
-#EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="TV Digital", KZO Entertainment HD
+#EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="TV Digital", KZO Entertainment
 https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_wl/KZO.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
