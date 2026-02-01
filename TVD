@@ -1925,13 +1925,13 @@ https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https:/
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
 https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="DTSA.ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
+#EXTINF:-1 tvg-id="DTSAHD.ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
-#EXTINF:-1 tvg-id="DTS2.ar" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
+#EXTINF:-1 tvg-id="DTS2HD.ar" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
 https://dl.dropbox.com/scl/fi/rsed1ggwsex8id8ei9z6p/dsports2.m3u8?rlkey=fgsr7mnl8c4ykjabdtssnt4w2&st=ylazs89v&dl=0
 
-#EXTINF:-1 tvg-id="DTS+.ar" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", D Sports +
+#EXTINF:-1 tvg-id="DTS+HD.ar" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", D Sports +
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
