@@ -1925,6 +1925,15 @@ https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https:/
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
 https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="DSPORTS (ARG).ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", DSports AR
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+
+#EXTINF:-1 tvg-id="1612#DSPORTS 2 HD" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", DSports 2 AR
+http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+#EXTINF:-1 tvg-id="1613#DSPORTS + HD" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", DSports + AR
+http://38.199.6.1:17001/play/a0vx/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
 #EXTINF:-1 ch-number="111" tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/800/542/0/0/8962668107979.png" group-title="Deportes", FOX Sports
@@ -2068,22 +2077,6 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzJEFr5XBqNBSH2TGAXFPrb0/ts
-
-#EXTINF:-1 tvg-id="DSPORTS (ARG).ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", DSports AR
-http://38.199.6.1:17001/play/a0d0/index.m3u8
-
-#EXTINF:-1 tvg-id="1612#DSPORTS 2 HD" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", DSports 2 AR
-http://200.60.124.19:29000/play/a081/index.m3u8
-
-http://ecuatvip.com:80/EstoEsTv/98tnQmKnWJ/592038.ts
-
-http://38.199.6.1:17001/play/a0vx/index.m3u8
-
-#EXTINF:-1 tvg-id="1613#DSPORTS + HD" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", DSports + AR
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Add commentMore actions
-http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 #EXTINF:-1 tvg-id="DTV Eventos 7" tvg-logo="https://i.ibb.co/GQcPNn1m/Picsart-25-10-18-18-12-28-709.webp" group-title="Deportes", DSports Eventos
 #EXTVLCOPT:network-caching=1500
