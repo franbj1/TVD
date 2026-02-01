@@ -312,7 +312,7 @@ https://mplus.pontiscloud.com/live/eds/Volver/live_dash_cld/Volver.mpd
 https://mplus.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a002010b506854599dffbb8b9048ec7c&key=160eedf85229da919a7c5eec4fbef809
 #EXTINF:-1 tvg-id="La Nación.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV Digital", La Nación +
 https://mplus.pontiscloud.com/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 
