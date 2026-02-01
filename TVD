@@ -1902,8 +1902,10 @@ KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/h5jg1f4tkb2bnyw86rp06/ESPN-PREMIUM-SENSA.json?rlkey=n576tyexjdm07vypejpwfo73f&st=gc10p2yn&dl=0
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Argentina
-https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
+https://mplus.pontiscloud.com/bpk-tv/ESPNPremium/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
