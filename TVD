@@ -34,7 +34,7 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=htt
 https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/Y4HKBTLc/Picsart-26-01-08-10-14-55-444.webp" group-title="Nacional", Laika TV
-https://mitv.zplay.cl/LaikaTV/index.m3u8
+https://cdn.global.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop En pausa
 https://streams.hibop.cl/webtv/hibopla/index.m3u8?token=deM0hiB0PweB
