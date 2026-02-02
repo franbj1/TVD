@@ -3028,30 +3028,30 @@ https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd
 
-#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://i.supaimg.com/b88c0fe0-fc5c-4256-8a8b-ea2298986e79.png?raw=true" group-title="HBO + Universal", Universal Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd
+#KODIPROP:inputstream.adaptive.license_key=1d7102597e3650b382140e257fd56ffc:94866144a3c03e44825642087dcfe52f
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://i.supaimg.com/b88c0fe0-fc5c-4256-8a8b-ea2298986e79.png?raw=true" group-title="HBO + Universal", Universal Cinema FL
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=universalcinematbx&token=3576520243
 
-#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-logo="https://i.supaimg.com/d6fbcbe9-20de-4cde-8435-1d58dfce5b91.png?raw=true" group-title="HBO + Universal", Universal Comedy HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd
+#KODIPROP:inputstream.adaptive.license_key=8e3e1b7120e5522d8bb1b4620981478f:32681240431317925ba1e740396e19fb
+#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-logo="https://i.supaimg.com/d6fbcbe9-20de-4cde-8435-1d58dfce5b91.png"" group-title="HBO + Universal", Universal Comedy FL
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=universalcomedytbx&token=3576520243
 
-#EXTINF:-1 tvg-id="Universal Crime.uy" tvg-logo="https://i.supaimg.com/b5a34bb5-eb66-454c-beac-fede3ec1cfbd.png?raw=true" group-title="HBO + Universal", Universal Crime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
-https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd
+#KODIPROP:inputstream.adaptive.license_key=a2b0446cd3db572d85e1c256e563723b:e0fa8bcfcc37e45405cb41cab2f4adcc
+#EXTINF:-1 tvg-id="Universal Crime.uy" tvg-logo="https://i.supaimg.com/b5a34bb5-eb66-454c-beac-fede3ec1cfbd.png" group-title="HBO + Universal", Universal Crime FL
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=universalcrimetbx&token=3576520243
 
-#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/c45b84e6-621b-4c70-9e5a-9ef3c8398ff5.png?raw=true" group-title="HBO + Universal", Universal Premiere HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd
+#KODIPROP:inputstream.adaptive.license_key=25e836b8ec695e3a8d0d0b1c50c54d31:48a7980e9000888ef52aca5377920e98
+#EXTINF:-1 tvg-id="Universal Reality.uy" tvg-logo="https://i.supaimg.com/e16839d4-e02a-4714-8793-f0c461c2e2a2.png" group-title="HBO + Universal", Universal Reality FL
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=universalrealitytbx&token=3576520243
 
-#EXTINF:-1 tvg-id="Universal Reality.uy" tvg-logo="https://i.supaimg.com/e16839d4-e02a-4714-8793-f0c461c2e2a2.png?raw=true" group-title="HBO + Universal", Universal Reality HD
+#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/c45b84e6-621b-4c70-9e5a-9ef3c8398ff5.png" group-title="HBO + Universal", Universal Premiere FL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd
+#KODIPROP:inputstream.adaptive.license_key=cb514eb614e8547882e90ae7e96f066d:f3c541f4052e5eba5a749b0dbd1f910f
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=universalpremieretbx&token=3576520243
 
 Cultura
 
