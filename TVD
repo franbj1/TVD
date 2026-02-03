@@ -1948,7 +1948,7 @@ https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|refer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
-#EXTINF:-1 ch-number="112" tvg-id="FOX Sports 2.ar" tvg-logo="https://i.ibb.co/FkYfq5N5/Picsart-26-02-02-23-19-48-492.webp" group-title="Deportes", FOX Sports 2
+#EXTINF:-1 ch-number="112" tvg-id="FOX Sports 2.ar" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", FOX Sports 2
 https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1963,7 +1963,7 @@ https://mplus.pontiscloud.com/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/q7ozmigarml524nkhu2i6/fox-sports-2-sensa.json?rlkey=ufp4h1mat9uku0pi2js5tf2vl&st=ow5g7vue&dl=0
-#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-logo="https://i.ibb.co/FkYfq5N5/Picsart-26-02-02-23-19-48-492.webp" group-title="Deportes", Fox Sports 2 AR
+#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", Fox Sports 2 AR
 https://mplus.pontiscloud.com/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
