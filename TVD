@@ -2006,7 +2006,7 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/390v26vwxgdmdecicfkip/UNIVERSO-WEST.json?rlkey=2a4lwdjlsi6knbqrrbm6netp5&st=5xgg1g0g&dl=0
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-west)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
 #EXTINF:-1 tvg-id="PX Sports.uy" tvg-logo="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp" group-title="Deportes", PX Sports
