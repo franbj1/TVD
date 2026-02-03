@@ -1904,12 +1904,12 @@ KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium (FL)
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/h5jg1f4tkb2bnyw86rp06/ESPN-PREMIUM-SENSA.json?rlkey=n576tyexjdm07vypejpwfo73f&st=gc10p2yn&dl=0
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Argentina
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Argentina
 https://mplus.pontiscloud.com/bpk-tv/ESPNPremium/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1935,7 +1935,7 @@ https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https:/
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
-#EXTINF:-1 tvg-id="DTS2.ar" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
+#EXTINF:-1 tvg-id="DTV2.ar" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
 https://dl.dropbox.com/scl/fi/rsed1ggwsex8id8ei9z6p/dsports2.m3u8?rlkey=fgsr7mnl8c4ykjabdtssnt4w2&st=ylazs89v&dl=0
 
 #EXTINF:-1 tvg-id="DTS+HD.ar" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", D Sports +
@@ -1986,7 +1986,7 @@ https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
-#EXTINF:-1 tvg-id="MOSTRAR DEPORTES CÓRDOBA" tvg-logo="https://i.ibb.co/M5N9nFKb/Picsart-25-10-27-14-13-24-820.webp" group-title="Deportes", Show Sports
+#EXTINF:-1 tvg-id="Show Sports.uy" tvg-logo="https://i.ibb.co/M5N9nFKb/Picsart-25-10-27-14-13-24-820.webp" group-title="Deportes", Show Sports
 https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_wl/Show_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
