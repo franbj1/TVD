@@ -997,7 +997,8 @@ TV Ecuador
 #EXTINF:-1 group-logo="https://i.ibb.co/mC4cPTs4/Picsart-26-01-26-16-07-10-512.webp"
 
 #EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.ibb.co/dwGG3B8D/Picsart-26-01-26-16-20-16-308.webp" group-title="TV Ecuador", Ecuavisa ECU
-https://val04.ride.com.ar/tvmia/an46/playlist.m3u8?sense=true
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/
+c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal TC Televisión" tvg-logo="https://i.ibb.co/m5Mwrxz0/TC-Televisi-n-new-logo-2020.webp" group-title="TV Ecuador", TC Mi Canal ECU
 https://val04.ride.com.ar/tvmia/an51/playlist.m3u8?sense=true
