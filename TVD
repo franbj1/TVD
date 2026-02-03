@@ -1941,6 +1941,9 @@ https://dl.dropbox.com/scl/fi/rsed1ggwsex8id8ei9z6p/dsports2.m3u8?rlkey=fgsr7mnl
 #EXTINF:-1 tvg-id="DTS+HD.ar" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", D Sports +
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
+#EXTINF:-1 tvg-id="DTSA.ar" tvg-logo="https://i.ibb.co/GQzyMvF8/Picsart-26-02-03-02-42-28-050.webp" group-title="Deportes", D Sports UY
+https://dl.dropbox.com/scl/fi/q0wwuk1vbp3tlbo7itdbn/dsports-uruguay-2.m3u8?rlkey=b9zumhk4puztraz1uhv8hpryc&st=k02nchum&dl=0
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
 #EXTINF:-1 ch-number="111" tvg-id="FOX Sports HD.ar" tvg-logo="https://i.ibb.co/FkYfq5N5/Picsart-26-02-02-23-19-48-492.webp" group-title="Deportes", FOX Sports
