@@ -1852,7 +1852,7 @@ https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer
 #EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="TV Novelas", TNT Novelas
 https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV Novelas, Az Corazón
+#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV Novelas", Az Corazón Play
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1860,7 +1860,7 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="TV Novelas", Kanal D Drama
 https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="Vive Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="TV Novelas",  Vive Kanal D Drama
+#EXTINF:-1 tvg-id="Vive Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="TV Novelas", Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1875,7 +1875,7 @@ https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player
 
 Deportes
 
-#EXTINF:-1 group-logo="https://i.ibb.co/0pNYXt1s/Picsart-25-10-17-16-06-40-577.webp"
+#EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
 #EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack Futbol 2026
 http://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
