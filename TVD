@@ -1005,6 +1005,9 @@ http://lamtv.ddns.net/play/iB2ChdIwA4RNT7QfphYuNDdR83JUQ6kx8xylu7R6ifA/m3u8
 #EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS ECU
 https://val04.ride.com.ar/tvmia/an48/playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="Canal Uno.ec" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", Canal Uno ECU
+https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
+
 #EXTINF:-1 tvg-id="oromar" tvg-logo="https://i.ibb.co/9F8HS9g/1769727410877.webp" group-title="TV Ecuador", Oromar TV ECU
 Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
@@ -1013,7 +1016,7 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://val04.ride.com.ar/tvmia/an49/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/9kbN9N01/Picsart-26-01-26-17-06-19-322.webp" group-title="TV Ecuador", Ecuador TV ECU
-https://val04.ride.com.ar/tvmia/an50/playlist.m3u8?sense=true
+https://samson.streamerr.co:8081/shogun/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión ECU
 https://val04.ride.com.ar/tvmia/an52/playlist.m3u8?sense=true
