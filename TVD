@@ -1533,7 +1533,7 @@ https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
 #EXTINF:-1 tvg-id="Florida Televisora Color HD.uy" tvg-logo="https://i.ibb.co/Q3VVPF9W/Picsart-26-02-04-04-34-03-266.webp" group-title="TV Uruguay", TV Florida UY
 https://hostingservicios.info/hls/tv-florida.m3u8
 
-#EXTINF:-1 tvg-id="Canal Alma.uy" tvg-logo=" " group-title="TV Uruguay", Canal Alma UY
+#EXTINF:-1 tvg-id="Canal Alma.uy" tvg-logo="https://i.ibb.co/WpxnHsTB/Picsart-26-02-04-16-58-38-358.webp" group-title="TV Uruguay", Canal Alma TV UY
 https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.ibb.co/Y77PcFHz/Picsart-26-02-04-04-36-32-950.webp" group-title="TV Uruguay", Canal 11 UY
@@ -1568,37 +1568,37 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 https://stream.vivotv.uy/hls/stream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=0fbc166dff13d88110711c481ed3a843&keyid=a7c46c55c7c649b9845e70a3c8ea52ad
-#EXTINF:-1 tvg-id="ESPN.uy" tvg-logo="https://i.ibb.co/tTNHVGkV/Picsart-26-02-01-03-17-18-956.webp" group-title="TV Uruguay", ESPN UY
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0fbc166dff13d88110711c481ed3a843&keyid%5B%5D=a7c46c55c7c649b9845e70a3c8ea52ad
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.ibb.co/tTNHVGkV/Picsart-26-02-01-03-17-18-956.webp" group-title="TV Uruguay", ESPN UY
 https://mcgo2.boldmss.com/ESPN/ESPN_MC.isml/dash/ESPN_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=4e64f9c1fd2875639db92b196f24d891&keyid=36489d6546144b29989e021008a950a5
-#EXTINF:-1 tvg-id="ESPN 2.uy" tvg-logo="https://i.ibb.co/jPsCtm6m/Picsart-26-02-01-03-29-10-621.webp" group-title="TV Uruguay", ESPN 2 UY
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=4e64f9c1fd2875639db92b196f24d891&keyid%5B%5D=36489d6546144b29989e021008a950a5
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.ibb.co/jPsCtm6m/Picsart-26-02-01-03-29-10-621.webp" group-title="TV Uruguay", ESPN 2 UY
 https://mcgo2.boldmss.com/ESPN_2/ESPN_2_MC.isml/dash/ESPN_2_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=29fc38baf3a54e6857c36aa5d409766a&keyid=e835e1826123484597aa98bf6ee66df5
-#EXTINF:-1 tvg-id="ESPN 3.uy" tvg-logo="https://i.ibb.co/chJ5Xnrf/Picsart-26-02-01-03-35-03-697.webp" group-title="TV Uruguay", ESPN 3 UY
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=29fc38baf3a54e6857c36aa5d409766a&keyid%5B%5D=e835e1826123484597aa98bf6ee66df5
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://i.ibb.co/chJ5Xnrf/Picsart-26-02-01-03-35-03-697.webp" group-title="TV Uruguay", ESPN 3 UY
 https://mcgo2.boldmss.com/ESPN_3/ESPN_3_MC.isml/dash/ESPN_3_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=6860932e1b0846a60fdf3eea28bae863&keyid=465500ff6158427287ad665316f06d3c
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6860932e1b0846a60fdf3eea28bae863&keyid%5B%5D=465500ff6158427287ad665316f06d3c
 #EXTINF:-1 tvg-id="ESPN 4.uy" tvg-logo="https://i.ibb.co/MynYPHGs/Picsart-26-02-01-03-39-22-157.webp" group-title="TV Uruguay", ESPN 4 UY
 https://mcgo2.boldmss.com/ESPN_EXTRA/ESPN_EXTRA_MC.isml/dash/ESPN_EXTRA_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=2a73b4333c29ee9030fa70e78c0213bc&keyid=03fbceb0258f46ca99fac37110bee4f2
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=2a73b4333c29ee9030fa70e78c0213bc&keyid%5B%5D=03fbceb0258f46ca99fac37110bee4f2
 #EXTINF:-1 tvg-id="ESPN 5.uy" tvg-logo="https://i.ibb.co/6cjbqrFw/Picsart-26-02-01-03-44-56-341.webp" group-title="TV Uruguay", ESPN 5 UY
 https://mcgo2.boldmss.com/ESPN_4/ESPN_4_MC.isml/dash/ESPN_4_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=abe89b0e494e92de3d9106a7ad5d904e&keyid=2a06ab48523f42a0abe0265c322ed0b9
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=abe89b0e494e92de3d9106a7ad5d904e&keyid%5B%5D=2a06ab48523f42a0abe0265c322ed0b9
 #EXTINF:-1 tvg-id="ESPN 6.uy" tvg-logo="https://i.ibb.co/d8jccfs/Picsart-26-02-01-03-48-28-417.webp" group-title="TV Uruguay", ESPN 6 UY
 https://mcgo2.boldmss.com/FOX_SPORTS_3/FOX_SPORTS_3_MC.isml/dash/FOX_SPORTS_3_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=013ea040309e706222c8e707751c1753&keyid=538368e93bb3449bb5822688e86d4dec
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=013ea040309e706222c8e707751c1753&keyid%5B%5D=538368e93bb3449bb5822688e86d4dec
 #EXTINF:-1 tvg-id="ESPN 7.uy" tvg-logo="https://i.ibb.co/4wHbVwfC/Picsart-26-02-01-03-52-25-873.webp" group-title="TV Uruguay", ESPN 7 UY
 https://mcgo2.boldmss.com/FOX_SPORTS_2/FOX_SPORTS_2_MC.isml/dash/FOX_SPORTS_2_MC.mpd
 
