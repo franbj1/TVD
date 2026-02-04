@@ -2378,13 +2378,14 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cSHnVnV8/Picsart-25-10-26-19-02-53-579.webp" group-title="Deportes", Azteca Deportes
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://199.127.63.105:8989/278576_.m3u8
 
 TyC Sports (Play)
 
 #EXTINF:-1 group-logo="https://i.ibb.co/FbJj81vj/Picsart-25-08-24-13-43-22-748.webp"
+
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports", TyC Sports Play
+https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8?|referer=https://play.tycsports.com/
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports", TyC Sports Play 1  
 https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8?|referer=https://play.tycsports.com/
