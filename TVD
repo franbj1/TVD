@@ -242,22 +242,22 @@ https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6b17538810f1dd4485f174dcc204872c&key=3d5b973772433ce07c8999aa659ea48c
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp?raw=true" group-title="TV Digital", Televisión Pública
-https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
+https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América
-https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd
+https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/sxpdi5lscc50lks78r46h/elnueve-sensa.json?rlkey=zsrzqe4ovmmf511502ujcyfqa&st=abjeyeqj&dl=0
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="TV Digital", El Nueve
-https://mplus.pontiscloud.com/live/eds/Canal9/live_dash_cld/Canal9.mpd
+https://mplus.pontiscloud.com/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bb54fccffaddd38916e85c08de98cc9&key=d06f509c418eb6f1b2fc2b766445328b
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="TV Digital", Telefe
-https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd
+https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
@@ -267,7 +267,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_ce
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7b05c7a737b7f0a5d571b91deaa2697&key=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="TV Digital", El Trece
-https://mplus.pontiscloud.com/live/eds/Canal13/live_dash_cld/Canal13.mpd
+https://mplus.pontiscloud.com/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
@@ -277,12 +277,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_cenc/Arte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c3db691c7e4520b7b2dc822ab905545a&key=ee2a1ebe6fcc2ef3b01943cdd9256cc6
 #EXTINF:-1 tvg-id="Net TV.ar" group-title="TV Digital" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true", Net TV
-https://mplus.pontiscloud.com/live/eds/NETTV/live_dash_cld/NETTV.mpd
+https://mplus.pontiscloud.com/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
 #EXTINF:-1 tvg-id="Bravo TV (ARG).ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV
-https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_wl/BravoTV.mpd
+https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_wl/BravoTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-name="[CARASTV] Caras TV" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV
@@ -296,42 +296,42 @@ https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="TV Digital", Telemax
-https://bvclive1.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd
+https://bvclive1.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=014771c4a91db80e96f038ec0acfc304&key=e37fa696265923a6082de157662aab73
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="TV Digital", Ciudad Magazine
-https://mplus.pontiscloud.com/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
+https://mplus.pontiscloud.com/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a7ecf0c34695dd4e253574b0b85441e&key=e6518e0b5dfa5e0dc268a5b16106811b
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="TV Digital", Volver
-https://mplus.pontiscloud.com/live/eds/Volver/live_dash_cld/Volver.mpd
+https://mplus.pontiscloud.com/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4b4ebe3c68c4c95c7639096e76c233d0&key=0c48cd5e3298b762a099acdc05a5182a
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="TV Digital", TN (Todo Noticias)
-https://mplus.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd
+https://mplus.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a002010b506854599dffbb8b9048ec7c&key=160eedf85229da919a7c5eec4fbef809
 #EXTINF:-1 tvg-id="La Nación.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV Digital", La Nación +
-https://mplus.pontiscloud.com/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
+https://mplus.pontiscloud.com/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b
 #EXTINF:-1 tvg-id="America 24.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="TV Digital", A24
-https://mplus.pontiscloud.com/live/eds/A24/live_dash_cld/A24.mpd
+https://mplus.pontiscloud.com/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/y0lc2h1dp5lmzk1i28pgi/c5n-sensa.json?rlkey=5hqxz8txfe26krbhtpeogwthm&st=e2wqf986&dl=0
 #EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="TV Digital", C5N
-https://mplus.pontiscloud.com/live/eds/C5N/live_dash_cld/C5N.mpd
+https://mplus.pontiscloud.com/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194f0682180e147f7928078dcc78a019&key=ddfc08545e74a6bd8870f1189cd1bec0
 #EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="TV Digital", Crónica
-https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd
+https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b35aecc554b859a97cf11b892731af1f&key=3a5da1a7c6a5cc6e488bdbbbf09132ff
