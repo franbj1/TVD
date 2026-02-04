@@ -1506,12 +1506,12 @@ https://mcgo2.boldmss.com/SAETA_HD/SAETA_HD_MC.isml/SAETA_HD.mpd
 https://mcgo2.boldmss.com/TELEDOCE_HD/TELEDOCE_HD_MC.isml/TELEDOCE_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=deb8f98c76cb2314c26488adc84de3a0&keyid%5B%5D=5d73cf2e179d5a11885a551f3bd2f956
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=deb8f98c76cb2314c26488adc84de3a0&keyid%5B%5D=5d73cf2e179d5a11885a551f3bd2f956
 #EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 UY
 https://1222-tbx.vrioott.com/canal5/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=de7a1cb5d92e2ea76f796788439150f8&key%5B%5D=e70fdcdc640e5bfa8e479c5ea0187326
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=de7a1cb5d92e2ea76f796788439150f8&keyid%5B%5D=e70fdcdc640e5bfa8e479c5ea0187326
 #EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad UY
 https://1237-tbx.vrioott.com/tvciudad/manifest.mpd
 
