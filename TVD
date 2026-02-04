@@ -1518,7 +1518,7 @@ https://1237-tbx.vrioott.com/tvciudad/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
 #EXTINF:-1 tvg-id="Canal U HD.uy" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL UY
-https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_wl/Canal_U.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_cenc/Canal_U.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=81ac405be6ccf3dfdd220baee48e49e1&keyid=d7063d20931b5b14864536d4cffd2033
@@ -1529,6 +1529,15 @@ https://1275-tbx.vrioott.com/cardinaltv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c926dba1fe354d529601ee6e38fe0a4b&key=41c5da6d1608e6377ff86c0ded7d042a
 #EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal 21 UY
 https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
+
+#EXTINF:-1 tvg-id="TV Florida.uy" tvg-logo="https://i.ibb.co/Q3VVPF9W/Picsart-26-02-04-04-34-03-266.webp" group-title="TV Uruguay", TV Florida UY
+https://hostingservicios.info/hls/tv-florida.m3u8
+
+#EXTINF:-1 tvg-id="Canal Alma.uy" tvg-logo=" " group-title="TV Uruguay", Canal Alma UY
+https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.ibb.co/Y77PcFHz/Picsart-26-02-04-04-36-32-950.webp" group-title="TV Uruguay", Canal 11 UY
+https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
@@ -1543,12 +1552,12 @@ https://dl.dropbox.com/scl/fi/73dvndniankhcpl9g8zqe/vtv.m3u8?rlkey=mvciy3s7iexbh
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
 #EXTINF:-1 tvg-id="Canal 4 Salto.uy" tvg-logo="https://i.ibb.co/0pt4LnCd/Canal4-Cablevisi-n.webp" group-title="TV Uruguay", Canal 4 Salto UY
-https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_wl/Eventos_2_UY.mpd
+https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_cenc/Eventos_2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
 #EXTINF:-1 tvg-id="Charrua HD.uy" tvg-logo="https://i.ibb.co/FqmvzYqk/1766804574514.webp" group-title="TV Uruguay", Charrúa TV UY
-https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_wl/Eventos_HD_Uy.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_cenc/Eventos_HD_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
