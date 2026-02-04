@@ -245,7 +245,7 @@ https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd
 https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b5651806b42f087c58332b052de727c5&key%5B%%SD=11901b35cc3e5aa73619f64d02c38a0f
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América
 https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd
 
@@ -265,7 +265,7 @@ https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd
 https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_cenc/Telefe_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7b05c7a737b7f0a5d571b91deaa2697&key=4079ac205b544b1c294ee1568906ff58
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%SD=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="TV Digital", El Trece
 https://mplus.pontiscloud.com/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
