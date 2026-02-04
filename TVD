@@ -285,8 +285,8 @@ https://mplus.pontiscloud.com/live/eds/NETTV/live_dash_cld/NETTV.mpd
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_wl/BravoTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-name="[CARASTV] Caras TV" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV
-https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Caras TV" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV
+https://redirector.rudo.video/hls/carastvav/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/5vc3m4bfxkj43krcdh7oz/ENCUENTRO.DGO.json?rlkey=af54j1oau0k436pbf4sru44yg&st=cackx2zf&dl=0
