@@ -235,7 +235,7 @@ https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&key%5B%5D=8fefbdadc7844e46952fb0320c77692d
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&keyid%5B%5D=8fefbdadc7844e46952fb0320c77692d
 #EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/BV6kXm7v/Picsart-26-01-05-20-09-45-793.webp" group-title="TV Digital", C5N Tend
 https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd
 
