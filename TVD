@@ -1517,12 +1517,12 @@ https://1237-tbx.vrioott.com/tvciudad/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
-#EXTINF:-1 tvg-id="Canal U HD.uy" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL UY
+#EXTINF:-1 tvg-id="Canal UCL.uy" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL UY
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_cenc/Canal_U.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=81ac405be6ccf3dfdd220baee48e49e1&keyid=d7063d20931b5b14864536d4cffd2033
-#EXTINF:-1 tvg-id="Cardinal.uy" tvg-logo="https://i.ibb.co/27KkMsj7/Picsart-26-01-28-04-10-17-183.webp" group-title="TV Uruguay", Cardinal TV UY
+#EXTINF:-1 tvg-id="Cardinal TV.uy" tvg-logo="https://i.ibb.co/27KkMsj7/Picsart-26-01-28-04-10-17-183.webp" group-title="TV Uruguay", Cardinal TV UY
 https://1275-tbx.vrioott.com/cardinaltv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1530,7 +1530,7 @@ https://1275-tbx.vrioott.com/cardinaltv/manifest.mpd
 #EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal 21 UY
 https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
 
-#EXTINF:-1 tvg-id="TV Florida.uy" tvg-logo="https://i.ibb.co/Q3VVPF9W/Picsart-26-02-04-04-34-03-266.webp" group-title="TV Uruguay", TV Florida UY
+#EXTINF:-1 tvg-id="Florida Televisora Color HD.uy" tvg-logo="https://i.ibb.co/Q3VVPF9W/Picsart-26-02-04-04-34-03-266.webp" group-title="TV Uruguay", TV Florida UY
 https://hostingservicios.info/hls/tv-florida.m3u8
 
 #EXTINF:-1 tvg-id="Canal Alma.uy" tvg-logo=" " group-title="TV Uruguay", Canal Alma UY
