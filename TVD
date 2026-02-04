@@ -1491,27 +1491,27 @@ TV Uruguay
 #EXTINF:-1 group-logo="https://i.ibb.co/S4nC6fXB/Picsart-26-01-11-04-28-20-714.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=88928eece082402b99598ae4ecc08be6&key=d03c32df212148b40eecb445222e1288
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=88928eece082402b99598ae4ecc08be6&key%5B%5D=d03c32df212148b40eecb445222e1288
 #EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 UY
 https://mcgo2.boldmss.com/CANAL_4/CANAL_4_MC.isml/CANAL_4_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff44d9aca7fe481da98900d1f79cb345&key=bca3a993208129b9bd4eed159d8cdfb2
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ff44d9aca7fe481da98900d1f79cb345&key%5B%5D=bca3a993208129b9bd4eed159d8cdfb2
 #EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/PvCMXV01/Picsart-25-12-26-19-23-03-057.webp" group-title="TV Uruguay", Canal 10 UY
 https://mcgo2.boldmss.com/SAETA_HD/SAETA_HD_MC.isml/SAETA_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2e36b18dc45c4d83868da659f5354938&key=297464517e9c7f055e12095e6ac2b07b
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2e36b18dc45c4d83868da659f5354938&key%5B%5D=297464517e9c7f055e12095e6ac2b07b
 #EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/PZRBFTyw/Picsart-25-12-26-14-34-01-011.webp" group-title="TV Uruguay", Teledoce UY
 https://mcgo2.boldmss.com/TELEDOCE_HD/TELEDOCE_HD_MC.isml/TELEDOCE_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=deb8f98c76cb2314c26488adc84de3a0&keyid=5d73cf2e179d5a11885a551f3bd2f956
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=deb8f98c76cb2314c26488adc84de3a0&keyid%5B%5D=5d73cf2e179d5a11885a551f3bd2f956
 #EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 UY
 https://1222-tbx.vrioott.com/canal5/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=de7a1cb5d92e2ea76f796788439150f8&keyid=e70fdcdc640e5bfa8e479c5ea0187326
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=de7a1cb5d92e2ea76f796788439150f8&keyid%5B%5D=e70fdcdc640e5bfa8e479c5ea0187326
 #EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad UY
 https://1237-tbx.vrioott.com/tvciudad/manifest.mpd
 
