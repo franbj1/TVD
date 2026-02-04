@@ -225,17 +225,17 @@ Televisión digital
 #EXTINF:-1 group-logo="https://i.ibb.co/pBnmg6QJ/Picsart-25-10-17-03-58-34-381.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&key%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&key%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rG5nTMd6/Picsart-26-01-05-16-00-54-492.webp" group-title="TV Digital", Telefe Tend
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3e6b5789d099cdb3e192486bea627a05&key%5B%5D=2f0c81461adf4520971cf45ee5036d91
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=3e6b5789d099cdb3e192486bea627a05&key%5B%5D=2f0c81461adf4520971cf45ee5036d91
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/S4Pc8gm5/Picsart-26-01-05-16-14-22-135.webp" group-title="TV Digital", TN Tend
 https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&key%5B%5D=8fefbdadc7844e46952fb0320c77692d
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&key%5B%5D=8fefbdadc7844e46952fb0320c77692d
 #EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/BV6kXm7v/Picsart-26-01-05-20-09-45-793.webp" group-title="TV Digital", C5N Tend
 https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd
 
