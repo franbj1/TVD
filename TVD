@@ -225,7 +225,7 @@ Televisión digital
 #EXTINF:-1 group-logo="https://i.ibb.co/pBnmg6QJ/Picsart-25-10-17-03-58-34-381.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&key%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rG5nTMd6/Picsart-26-01-05-16-00-54-492.webp" group-title="TV Digital", Telefe Tend
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd
 
