@@ -98,7 +98,7 @@ https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://pla
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
-#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://i.ibb.co/twkWRvGv/Picsart-25-08-23-18-14-48-966.webp" group-title="Nacional", Crónica
+#EXTINF:-1 tvg-id="CRON.ar" tvg-logo="https://i.ibb.co/twkWRvGv/Picsart-25-08-23-18-14-48-966.webp" group-title="Nacional", Crónica
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -126,7 +126,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dnews&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
-#EXTINF:-1 tvg-id="CanalE" tvg-logo="https://i.ibb.co/dsDCNj43/Picsart-25-07-06-16-23-32-083.webp" group-title="Nacional", Canal E
+#EXTINF:-1 tvg-id="CNLE.ar" tvg-logo="https://i.ibb.co/dsDCNj43/Picsart-25-07-06-16-23-32-083.webp" group-title="Nacional", Canal E
 https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -161,7 +161,7 @@ https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://pl
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.ibb.co/Y431ZnVn/Picsart-25-08-08-13-43-09-870.webp" group-title="Nacional", Cine AR
+#EXTINF:-1 tvg-id="CNAR.ar" tvg-logo="https://i.ibb.co/Y431ZnVn/Picsart-25-08-08-13-43-09-870.webp" group-title="Nacional", Cine AR
 https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -345,7 +345,7 @@ https://mplus.pontiscloud.com/bpk-tv/Argentina12/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1894229072ccac2d0f6a101d618d039d&key%5B%5D=9a7ea848df202bf22ac51bda4482a4c2
-#EXTINF:-1 tvg-id="CANE.ar" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="TV Digital", Canal E
+#EXTINF:-1 tvg-id="CNLE.ar" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="TV Digital", Canal E
 https://mplus.pontiscloud.com/bpk-tv/CanalE/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
