@@ -207,7 +207,7 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FM Latina 101.1 (ARG).ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
+#EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
@@ -217,7 +217,7 @@ http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FM ASPEN.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
+#EXTINF:-1 tvg-id="24HS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 Televisión digital
@@ -281,7 +281,7 @@ https://mplus.pontiscloud.com/live/eds/NETTV/live_dash_cld/NETTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1 tvg-id="Bravo TV (ARG).ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV
+#EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_wl/BravoTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
