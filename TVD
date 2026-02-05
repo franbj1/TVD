@@ -52,7 +52,7 @@ https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https:/
 https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-name="[CARASTV] Caras TV" tvg-logo="https://i.ibb.co/5gkRmD0Q/Picsart-25-08-24-01-31-17-223.webp" group-title="Nacional", Caras TV
+#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/5gkRmD0Q/Picsart-25-08-24-01-31-17-223.webp" group-title="Nacional", Caras TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://origin.dpsgo.com/ssai/event/AJpb2YitT5iW0eFydxPOHA/master.m3u8
 
@@ -185,7 +185,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
+#EXTINF:-1 tvg-id="CDLC.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
 https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -207,15 +207,15 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
@@ -285,7 +285,7 @@ https://mplus.pontiscloud.com/live/eds/NETTV/live_dash_cld/NETTV.mpd
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_wl/BravoTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="Caras TV" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV
+#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV
 https://redirector.rudo.video/hls/carastvav/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
