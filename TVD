@@ -217,7 +217,7 @@ http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24HS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
+#EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 Televisión digital
@@ -2422,8 +2422,6 @@ https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports", TyC Sports Play 12
 https://ch12-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8?|referer=https://play.tycsports.com/
 
-
-
 Infantil
 
 #EXTINF:-1 group-logo="https://i.ibb.co/FbJj81vj/Picsart-25-08-24-13-43-22-748.webp"
@@ -2465,7 +2463,7 @@ https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?|referer
 #EXTINF:-1 ch-number="204" tvg-id="Discovery Kids.ar" tvg-logo="https://i.ibb.co/wHtbFpy/1176px-Discovery-Kids-2021-2-D-Gradient-svg.png" group-title="Infantil", Discovery Kids
 https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="[DREAMWS] Dreamworks" tvg-logo="https://i.ibb.co/DfPjZmxV/Picsart-25-11-23-02-02-43-934.webp" group-title="Infantil", DreamWorks TV
+#EXTINF:-1 tvg-id="Dreamworks.uy" tvg-logo="https://i.ibb.co/DfPjZmxV/Picsart-25-11-23-02-02-43-934.webp" group-title="Infantil", DreamWorks TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd
@@ -2532,7 +2530,7 @@ https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
-#EXTINF:-1 tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://i.supaimg.com/d4954eec-79a6-4507-8797-1c1cf8dcb556.png?raw=true" group-title="Infantil", Plim plim TV
+#EXTINF:-1 tvg-id="PLIM.ar" tvg-logo="https://i.supaimg.com/d4954eec-79a6-4507-8797-1c1cf8dcb556.png?raw=true" group-title="Infantil", Plim plim TV
 https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
