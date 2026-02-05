@@ -141,7 +141,7 @@ https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|refer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
-#EXTINF:-1 tvg-id="Chacra TV.ar" tvg-logo="https://i.ibb.co/SDTmTsZj/Picsart-25-09-16-09-31-03-504.webp" group-title="Nacional", Chacra TV
+#EXTINF:-1 tvg-id="CHTV.ar" tvg-logo="https://i.ibb.co/SDTmTsZj/Picsart-25-09-16-09-31-03-504.webp" group-title="Nacional", Chacra TV
 https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
