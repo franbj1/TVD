@@ -2509,6 +2509,11 @@ http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 #EXTINF:-1 tvg-id="EDYE TV.mx" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/x02rysry6ojueoad66u7f/etc.json?rlkey=ol31gg8vrkq7fjkie3np6kcpy&st=nv2yxn0h&dl=0
+#EXTINF:-1 tvg-id="ETC TV HD.cl" tvg-logo="https://i.ibb.co/mF4sn5yB/ETC-2016-actual.webp" group-title="Infantil", ETC
+https://cdn-live.mundogo.cl/etctv/etctv.mpd
+
 #EXTINF:-1 tvg-id="Planeta Creación" tvg-logo="https://i.ibb.co/C35QsXS2/Picsart-25-11-27-04-23-02-735.webp" group-title="Infantil", Planeta Creación
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
