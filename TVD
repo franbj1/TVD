@@ -271,7 +271,7 @@ https://mplus.pontiscloud.com/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
-#EXTINF:-1 tvg-id="El Trece Internacional.ar" tvg-logo="https://i.ibb.co/8D1mvRYm/Picsart-25-08-04-19-24-06-425.webp" group-title="TV Digital", El Trece Internacional
+#EXTINF:-1 tvg-id="EL TRECE.pe" tvg-logo="https://i.ibb.co/8D1mvRYm/Picsart-25-08-04-19-24-06-425.webp" group-title="TV Digital", El Trece Internacional
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_cenc/Artear_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1517,7 +1517,7 @@ https://1237-tbx.vrioott.com/tvciudad/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
-#EXTINF:-1 tvg-id="Canal UCL.ar" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL UY
+#EXTINF:-1 tvg-id="UCL.pe" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL UY
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_cenc/Canal_U.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
