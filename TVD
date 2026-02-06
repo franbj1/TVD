@@ -2514,6 +2514,11 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd
 #EXTINF:-1 tvg-id="ETC TV HD.cl" tvg-logo="https://i.ibb.co/mF4sn5yB/ETC-2016-actual.webp" group-title="Infantil", ETC
 https://cdn-live.mundogo.cl/etctv/etctv.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/fg4qncj29c1rco90003xx/funbox-mundogo.json?rlkey=frkeqw052ws784e769chl3u95&st=v3n36mqr&dl=0
+#EXTINF:-1 tvg-id="Funbox" tvg-logo="https://i.ibb.co/Kz5drFXF/Fun-Box-TV-logo-svg.webp" group-title="Infantil", Fun Box TV
+https://cdn-live.mundogo.cl/funbox/funbox.mpd
+
 #EXTINF:-1 tvg-id="Planeta Creación" tvg-logo="https://i.ibb.co/C35QsXS2/Picsart-25-11-27-04-23-02-735.webp" group-title="Infantil", Planeta Creación
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
