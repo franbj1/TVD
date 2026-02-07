@@ -1788,6 +1788,15 @@ https://live.enhdtv.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="Wizz TV.py" tvg-logo="https://i.ibb.co/vxqDHYf2/1768706014459.webp" group-title="TV Paraguay", Wizz TV PY
 https://live.enhdtv.com:8081/8180/index.m3u8
 
+#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña PY
+https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", Productiva TV PY
+https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Ñande Jara PY
+https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU PY
 https://live.enhdtv.com:8081/8054/index.m3u8
 
