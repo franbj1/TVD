@@ -1744,7 +1744,7 @@ https://stream.farra.com.py/live/farra_src.m3u8
 https://live.enhdtv.com:8081/8128/index.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV PY
-https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
+https://stmv7.voxtvhd.com.br/mitvpy/mitvpy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.ibb.co/dwRx8DPL/1768361219571.webp" group-title="TV Paraguay", Republica TV PY
 https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
