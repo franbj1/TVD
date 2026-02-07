@@ -36,7 +36,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:553466765asfjgf32gh375435213943000555744112421766
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/Y4HKBTLc/Picsart-26-01-08-10-14-55-444.webp" group-title="Nacional", Laika TV
-https://cdn.global.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/manifest.mpd
+https://mitv.zplay.cl/LaikaTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop Offline 
 https://streams.hibop.cl/webtv/hibopla/index.m3u8?token=deM0hiB0PweB
