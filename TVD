@@ -1612,9 +1612,9 @@ TV Paraguay
 https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_cenc/SNT_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=5d2731cf8a59b73438ef59d88cd882bf&keyid%5B%5D=3f412fa6368b7db4903588de695377e1
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5d2731cf8a59b73438ef59d88cd882bf&key%5B%5D=3f412fa6368b7db4903588de695377e1
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://i.ibb.co/vCPHqGhr/Telefuturo-Logo2022.webp" group-title="TV Paraguay", Telefuturo PY
-https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TEUTURO_C4.mpd
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c6a481adf6a080ec09637d3f25989cf&key%5B%5D=036e343d636b821ab81838de387b62cb
@@ -1637,42 +1637,42 @@ https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_
 https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=63a3729cfd60f24f7e1266bee5eca02c&key%5B%5D=cb9ed028af40654e1aa43934ee58db58
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Paraguay", Unicanal PY
 https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=80196dfcb7852e2b5e1165b3b17030e1&key%5B%5D=58face97c908502f17549eb62459bd80
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV PY
 https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_cenc/Mega_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=68a5bd6c58e6c05bacfd18d3feec31f2&key%5B%5D=ae23f8357512df2dfabcb8104b078182
 #EXTINF:-1 tvg-id="Paraguay.py" tvg-logo="https://i.ibb.co/2YgVDkjB/Picsart-26-01-03-18-43-09-806.webp" group-title="TV Paraguay", Paraguay TV PY
 https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_cenc/Paraguay_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c0bef75733b2645452432bd4e76f36f5&key%5B%5D=ea16243367d814c1d53f1eaf21f005ff
 #EXTINF:-1 tvg-id="ABC TV.py" tvg-logo="https://i.ibb.co/dJHybJq6/Picsart-26-01-12-21-19-02-912.webp" group-title="TV Paraguay", ABC TV PY
 https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=646700eeb14cadfa0543a20cf413d37e&key%5B%5D=4fc037c462023764624d8446442cbbca
 #EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.ibb.co/JRSw3kCM/Picsart-26-01-12-23-15-47-142.webp" group-title="TV Paraguay", C9N PY
 https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_cenc/C9N_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8df0f1a1e05e9c6a438e23a87c9d06ea&key%5B%5D=5df74d374a2a8a871463e7c438fa3ba7
 #EXTINF:-1 tvg-id="Canal PRO.py" tvg-logo="https://i.ibb.co/8Dmty2NP/Picsart-26-01-03-20-58-55-988.webp" group-title="TV Paraguay", Canal PRO PY
 https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_cenc/Canal_PRO.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=746091c502edcf1e9d003535ce01f3e4&key%5B%5D=29081b5f92d1a37c88fbbd0ece55c839
 #EXTINF:-1 tvg-id="5 Dias.py" tvg-logo="https://i.ibb.co/qVvN9Vm/Picsart-26-01-03-20-44-59-979.webp" group-title="TV Paraguay", 5 Días PY
 https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_cenc/5_Dias_PY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8f66fe15735b2b1b3d5eb3646caa405e&key%5B%5B=404b93fd7b499b1061c9a714e1cdb2d0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8f66fe15735b2b1b3d5eb3646caa405e&key%5B%5D=404b93fd7b499b1061c9a714e1cdb2d0
 #EXTINF:-1 tvg-id="NPY.py" tvg-logo="https://i.ibb.co/DZbBPdD/1768252798566.webp" group-title="TV Paraguay", NPY PY
 https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_cenc/NOTICIAS_PY_C4.mpd
 
@@ -1682,7 +1682,7 @@ https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_cenc/NOTICIAS_P
 https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_cenc/TV_Camara.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49eb924ba998ca7fbbaee30dcef1ecb4&key%5B%5D=6e131b04b2e87598fb588ac205673698
 #EXTINF:-1 tvg-id="Gen TV.py" tvg-logo="https://i.ibb.co/0R6mfDXH/Picsart-26-01-12-23-21-51-440.webp" group-title="TV Paraguay", GEN TV PY
 https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_cenc/GEN_TV.mpd
 
@@ -1697,7 +1697,7 @@ https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_cenc/HEI_NOW.mpd
 https://cdn.cvattv.com.ar/live/c7eds/Venus_Media/SA_Live_dash_cenc/Venus_Media.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=41ca5477db3048dbf731fc12604c7504&key%5B%5D=6c7e8e96a86333cbfb4771cbfe9f6b4b
 #EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/4ZKXBRbk/logo-popu-tv-white.webp" group-title="TV Paraguay", Popu TV PY
 https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd
 
