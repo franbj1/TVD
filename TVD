@@ -1758,7 +1758,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
 #EXTINF:-1 tvg-id="Lim TV.py" tvg-logo="https://i.ibb.co/QvmL2FJZ/Picsart-26-02-07-13-40-37-898.webp" group-title="TV Paraguay", Invasiva Media PY
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
-#EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/H10YqTj/1768407642648.webp" group-title="TV Paraguay", D Mas Noticias PY
+#EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/84KSHLj3/Picsart-26-02-07-16-05-23-704.webp" group-title="TV Paraguay", 4D Mas Noticias PY
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bruno Masi.py" tvg-logo="https://i.ibb.co/Hf9wTh7r/1768407888738.webp" group-title="TV Paraguay", Bruno Masi PY
