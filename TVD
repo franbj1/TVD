@@ -36,7 +36,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:553466765asfjgf32gh375435213943000555744112421766
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/Y4HKBTLc/Picsart-26-01-08-10-14-55-444.webp" group-title="Nacional", Laika TV
-https://mitv.zplay.cl/LaikaTV/index.m3u8
+https://mitv.zplay.cl/LaikaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop Offline 
 https://streams.hibop.cl/webtv/hibopla/index.m3u8?token=deM0hiB0PweB
@@ -1794,7 +1794,7 @@ https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/nMsksMCX/1770481777244.webp" group-title="TV Paraguay", Productiva TV PY
 https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/rfzFwjvc/logo-nande-jara.webp" group-title="TV Paraguay", TV Nandejara PY
+#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", TV Ñandejara PY
 https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU PY
