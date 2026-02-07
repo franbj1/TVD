@@ -2579,11 +2579,10 @@ https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Duck TV Plus" tvg-logo="https://i.ibb.co/h1YCQvfp/Picsart-26-02-04-23-55-03-500.webp" group-title="Infantil", Duck TV Plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="FMH Kids" tvg-logo="https://i.ibb.co/3ybXtKfp/Picsart-26-02-06-01-20-59-421.webp" group-title="Infantil", FMH Kids
+#EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://i.ibb.co/3ybXtKfp/Picsart-26-02-06-01-20-59-421.webp" group-title="Infantil", FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pitufo TV" tvg-logo="https://i.ibb.co/tTFhhQYP/Picsart-26-02-06-01-16-05-801.webp" group-title="Infantil", Pitufo TV
+#EXTINF:-1 tvg-id="pitufo-tv" tvg-logo="https://i.ibb.co/tTFhhQYP/Picsart-26-02-06-01-16-05-801.webp" group-title="Infantil", Pitufo TV
 https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
 
 #EXTINF:-1 tvg-id="Moji TV" tvg-logo="https://i.ibb.co/tSbqcLv/3p-logo-CB407053275.webp" group-title="Infantil", Moji TV
@@ -2932,7 +2931,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:-1 tvg-id="/esruntime-series" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Cine + Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 
-#EXTINF:-1 tvg-id="/esruntime-familia" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Familia
+#EXTINF:-1 tvg-id="runtime-familia-1" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528 
 
 #EXTINF:-1 group-title="Cine + Series", Run Time Terror https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529 
@@ -2940,7 +2939,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 #EXTINF:-1 tvg-id="/esruntime-romance" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Romance
  https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 
-#EXTINF:-1 epg-id="runtime-crimen" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Crimen
+#EXTINF:-1 tvg-id="runtime-crimen" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533 
 
 #EXTINF:-1 tvg-id="/esruntime-comedia" tvg-logo="https://i.ibb.co/chb026QY/logo-8.webp" group-title="Cine + Series", Run Time Comedia
