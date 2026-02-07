@@ -1755,7 +1755,7 @@ https://live.enhdtv.com:8081/8178/index.m3u8
 #EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/7NdqFMjV/Picsart-26-01-14-00-34-59-077.webp" group-title="TV Paraguay", RCC PY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
 
-#EXTINF:-1 tvg-id="Lim TV.py" tvg-logo="https://i.ibb.co/prk0M6vJ/CALo-Cyo.webp" group-title="TV Paraguay", Lim TV PY
+#EXTINF:-1 tvg-id="Lim TV.py" tvg-logo="https://i.ibb.co/QvmL2FJZ/Picsart-26-02-07-13-40-37-898.webp" group-title="TV Paraguay", Invasiva Media PY
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/H10YqTj/1768407642648.webp" group-title="TV Paraguay", D Mas Noticias PY
