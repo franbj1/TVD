@@ -2596,7 +2596,7 @@ https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=070660c4a07ab644fba62dab07306d43:6786eb56337a318fce0b7f9cccf96478
-#EXTINF:-1 group-title="Infantil" ch-number="213" tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png?raw=true", ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png" group-title="Infantil", ZooMoo
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/bcb99dff-0630-41c9-b067-0a8387d7e18e.png?raw=true" group-title="Infantil", Zaz TV
@@ -2617,7 +2617,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Add commentMore actions
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Duck TV Plus" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
+#EXTINF:-1 tvg-id="Duck TV" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Duck TV Plus" tvg-logo="https://i.ibb.co/h1YCQvfp/Picsart-26-02-04-23-55-03-500.webp" group-title="Infantil", Duck TV Plus
