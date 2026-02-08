@@ -1823,7 +1823,7 @@ https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="Cine + Series", WTV Nicaragua NG
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-TV Novelas
+Novelas ᥫ᭡
 
 #EXTINF:-1 group-logo="https://i.ibb.co/Rk6XdWTC/Picsart-26-02-08-00-31-37-865.webp"
 
@@ -1834,102 +1834,102 @@ https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_cenc/Pasiones.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
-#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="TV Novelas", Las Estrellas Latam
+#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas ᥫ᭡", Las Estrellas Latam
 https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
-#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="TV Novelas", TLNovelas
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Novelas ᥫ᭡", TLNovelas
 https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
-#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="TV Novelas", TNT Novelas
+#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="Novelas ᥫ᭡", TNT Novelas
 https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/qesbbh0h3sczislqjt0ss/globoplay-novelas.json?rlkey=7hvwu5v56wubt6m796w9hxz02&st=d6rn76fr&dl=0
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/260FZVvV/globoplay-novelas-4-SL170-FMpng.png" group-title="TV Novelas", Globoplay Novelas
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/260FZVvV/globoplay-novelas-4-SL170-FMpng.png" group-title="Novelas ᥫ᭡", Globoplay Novelas
 https://abc3orwaaaaaaaamagid7dq6nl7l3.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/6zs69kwdn29rrwkxpkm7a/globo-h265.json?rlkey=zx6u8qb8bn6kqi5njkqoy16od&st=5nev5s5o&dl=0
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="TV Novelas", TV Globo
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Novelas ᥫ᭡", TV Globo
 https://zap-live4-ott.izzigo.tv/8/out/u/dash/TV-GLOBO-SD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/q84cig5mxosr9k8rioqd0/antena-3-mundogo.json?rlkey=mmxa6jul6eko1w5kmpw0b3m8n&st=4yz0bw6k&dl=0
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="TV Novelas", Antena 3
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Novelas ᥫ᭡", Antena 3
 https://cdn-live.mundogo.cl/antena3/antena3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=658e573246a856d880a877b69d1ad715&key%5B%5D=e95e4f1399649d0ed0fad935168cd975
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="TV Novelas", Az Clic
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Az Clic
 https://1021-tbx.vrioott.com/aztecaclic/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e35
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="TV Novelas", Azteca Internacional
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Azteca Internacional
 https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
 
-#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="TV Novelas", Az Corazón Play
+#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Novelas ᥫ᭡", Az Corazón Play
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
-#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="TV Novelas", Kanal D Drama
+#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="Novelas ᥫ᭡", Kanal D Drama
 https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="Vive Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="TV Novelas", Vive Kanal D Drama
+#EXTINF:-1 tvg-id="Vive Kanal D.uy" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="Novelas ᥫ᭡", Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
-#EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="TV Novelas", Novelisima
+#EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="Novelas ᥫ᭡", Novelisima
 https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/c52l9aagdddlqx23uhe3f/HOLATV.DGO.json?rlkey=ach73il3xiszhg3t688nq6lep&st=s1sb89m6&dl=0
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="TV Novelas", Novelisima
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="Novelas ᥫ᭡", Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6649
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=658e573246a856d880a877b69d1ad715&key%5B%5D=e95e4f1399649d0ed0fad935168cd975
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/L86Q8zSJ/estrella-tv.png" group-title="TV Novelas", Estrella TV
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/L86Q8zSJ/estrella-tv.png" group-title="Novelas ᥫ᭡", Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/c52l9aagdddlqx23uhe3f/HOLATV.DGO.json?rlkey=ach73il3xiszhg3t688nq6lep&st=s1sb89m6&dl=0
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="TV Novelas", Hola TV
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Hola TV
 https://1149-tbx.vrioott.com/holatv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ade94a8e7881a2ba8b3ae3185ed5ad5d&key%5B%5D=350ba306783e66182b55b761d6cff6d1
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="TV Novelas", MTV Reality
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", MTV Reality
 https://mplus.pontiscloud.com/live/eds/MTV/live_dash_cld/MTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b9cab32316b3d8aae0452755cebdaadd&key%5B%5D=35e61869849168043a44045f2d7ff842
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="TV Novelas", Kanal D Drama
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Kanal D Drama
 https://mplus.pontiscloud.com/live/eds/KanalD/live_dash_cld/KanalD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/c52l9aagdddlqx23uhe3f/HOLATV.DGO.json?rlkey=ach73il3xiszhg3t688nq6lep&st=s1sb89m6&dl=0
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="TV Novelas", Unica 
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Unica 
 https://atresmedia-unica-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/0j8b1HqX/megatv-us.png" group-title="TV Novelas", Mega TV US
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/0j8b1HqX/megatv-us.png" group-title="Novelas ᥫ᭡", Mega TV US
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/N0wYs8jS/somos-novelas.png" group-title="TV Novelas", Somos Novelas
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/N0wYs8jS/somos-novelas.png" group-title="Novelas ᥫ᭡", Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/rss6cfsJ/todo-novelas.png" group-title="TV Novelas", Todo Novelas
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.postimg.cc/rss6cfsJ/todo-novelas.png" group-title="Novelas ᥫ᭡", Todo Novelas
 https://amg01412-xiaomiasia-frecuencianovelas-xiaomi-hnlgr.amagi.tv/playlist/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
-#EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="TV Novelas", Ve Plus
+#EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="Novelas ᥫ᭡", Ve Plus
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 Deportes
