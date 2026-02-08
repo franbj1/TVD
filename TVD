@@ -1647,6 +1647,16 @@ https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.m
 https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_cenc/Mega_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=daab5ccf306d67749740f7ce02c07850&keyid%5B%5D=4e4a187474de8e29a8507d496c8a594f
+#EXTINF:-1 tvg-id="America.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América PY
+http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=db60bfaa0178071a5572e6e6ffb46ed3&keyid%5B%5D=82e87fac1c33915ad5d344ffac1bbbb4
+#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
+http://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_cenc/A24_PY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=68a5bd6c58e6c05bacfd18d3feec31f2&key%5B%5D=ae23f8357512df2dfabcb8104b078182
 #EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://i.ibb.co/2YgVDkjB/Picsart-26-01-03-18-43-09-806.webp" group-title="TV Paraguay", Paraguay TV PY
 https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_cenc/Paraguay_TV.mpd
@@ -1720,16 +1730,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Educanal/SA_Live_dash_cenc/Educanal.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=d1f89fc694800645ae926d9c5f13a1f6&keyid%5B%5D=d8479ae2a7cc939e8382c8851927425d
 #EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/RKm1gSX/Picsart-26-01-13-00-23-11-931.webp" group-title="TV Paraguay", RCC PY
 https://cdn.cvattv.com.ar/live/c4eds/RCC/SA_Live_dash_cenc/RCC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=daab5ccf306d67749740f7ce02c07850&keyid%5B%5D=4e4a187474de8e29a8507d496c8a594f
-#EXTINF:-1 tvg-id="America.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América PY
-http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=db60bfaa0178071a5572e6e6ffb46ed3&keyid%5B%5D=82e87fac1c33915ad5d344ffac1bbbb4
-#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
-http://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_cenc/A24_PY.mpd
 
 #EXTINF:-1 tvg-id="Nande Portete.py" tvg-logo="https://i.ibb.co/FLFrfzkB/Picsart-26-01-21-17-39-15-265.webp" group-title="TV Paraguay", Ñande Portetepe PY
 https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
@@ -1817,38 +1817,11 @@ https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 #EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.ibb.co/ZRr7CJSG/Picsart-26-01-21-15-43-21-423.webp" group-title="TV Paraguay", Tigo Sports PY
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/7tY37cKw/Picsart-26-01-21-15-46-29-332.webp" group-title="TV Paraguay", Tigo Sports +
+#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/Kcs1DB8L/Picsart-26-01-21-15-46-29-332.webp" group-title="TV Paraguay", Tigo Sports +
 https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Latam", WTV Nicaragua NG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="Cine + Series", WTV Nicaragua NG
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHmtjDKV/Picsart-25-09-11-19-31-17-306.webp" group-title="TV Latam", Sony Hits Comedia
-https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.supaimg.com/e2e6bb96-efad-4068-a08a-efef0ab85d19.png?raw=true" group-title="TV Latam", Sony Novelas
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/p5zXWmV/Picsart-25-11-03-12-42-21-075.webp" group-title="TV Latam", Sony Competencias
-https://spt-competencias-1-us.canelatv.wurl.tv/playlist.m3u8
-      
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdzg2b9T/Picsart-25-09-11-19-45-09-267.webp" group-title="TV Latam", Sony Hits Acción
-https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XrvrcM94/Picsart-25-09-11-15-29-29-657.webp" group-title="TV Latam", Sony Serie Suspenso
-https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mV23BcgJ/Picsart-25-09-11-15-30-30-307.webp" group-title="TV Latam", Serie Comedia Sony
-https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N0cXrkz/Picsart-25-09-11-11-59-14-720.webp" group-title="TV Latam", Sony ÃƒÆ'Ã¢â‚¬Â°xitos
-https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4nGjh8m/Picsart-25-09-11-17-08-04-023.webp" group-title="TV Latam", Lista Negra de Sony
-https://d25v414d53fogv.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYk4yChP/Picsart-25-09-11-17-28-00-910.webp" group-title="TV Latam", Sony Shark Tack
-https://d1ivguiw01jxqb.cloudfront.net/playlist.m3u8
 
 TV Novelas
 
