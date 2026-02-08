@@ -1825,7 +1825,7 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 Novelas ᥫ᭡
 
-#EXTINF:-1 group-logo="https://i.ibb.co/Rk6XdWTC/Picsart-26-02-08-00-31-37-865.webp"
+#EXTINF:-1 group-logo="https://i.ibb.co/JRW4rdh2/Picsart-26-02-08-03-46-29-280.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
@@ -1839,7 +1839,7 @@ https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
-#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Novelas ᥫ᭡", TLNovelas
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Novelas ᥫ᭡", TL Novelas
 https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
