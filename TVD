@@ -1386,7 +1386,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/WZzkdgs/Picsart-25-12-29-23-08-54-647.webp" group-title="TV Peru", ATV + PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/atvplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
+#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/willax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/zhFrvcCk/Picsart-26-01-10-16-53-00-630.webp" group-title="TV Peru", Global PE
@@ -1413,10 +1413,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/latele.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fuego TV.pe" tvg-logo="https://i.ibb.co/zHbhmSXx/Picsart-26-01-10-01-40-38-946.webp" group-title="TV Peru", Fuego TV PE
+#EXTINF:-1 tvg-id="FUEGOTV.pe" tvg-logo="https://i.ibb.co/zHbhmSXx/Picsart-26-01-10-01-40-38-946.webp" group-title="TV Peru", Fuego TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KARIBEÑA TV.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Karibeña TV PE
+#EXTINF:-1 tvg-id="KARIBEÑA.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Karibeña TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Creo Fe.pe" tvg-logo="https://i.ibb.co/231mj3rC/1768020426111.webp" group-title="TV Peru", Creo Fe PE
@@ -1455,7 +1455,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.ibb.co/6f8hzLR/Picsart-26-01-10-22-23-31-768.webp" group-title="TV Peru", Congreso TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/canalelcongreso.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JUSTICIA TV.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV PE
+#EXTINF:-1 tvg-id="JUSTICIA.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.ibb.co/5VB2n8L/Picsart-26-01-10-22-45-15-442.webp" group-title="TV Peru", Conecta2 TV PE
