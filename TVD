@@ -36,9 +36,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:553466765asfjgf32gh375435213943000555744112421766
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/Y4HKBTLc/Picsart-26-01-08-10-14-55-444.webp" group-title="Nacional", Laika TV
-https://mitv.zplay.cl/LaikaTV/playlist.m3u8
+https://mitv.zplay.cl/LaikaTV/index.m3u8
 
-#EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop Offline 
+#EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop | se activara en marzo
 https://streams.hibop.cl/webtv/hibopla/index.m3u8?token=deM0hiB0PweB
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1465,7 +1465,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones_abr.stream/playlist.m3u8
 https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/TzSn2qv/Picsart-25-12-26-15-54-39-547.webp" group-title="TV Peru", Sol TV PE
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FMH Movies.pe" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies PE
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
@@ -1850,7 +1850,7 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/Kcs1DB8L/Picsart-26-01-21-15-46-29-332.webp" group-title="TV Paraguay", Tigo Sports +
 https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="Cine + Series", WTV Nicaragua NG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Paraguay", WTV Nicaragua NG
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 Novelas ᥫ᭡
