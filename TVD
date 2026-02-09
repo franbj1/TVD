@@ -1419,9 +1419,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KARIBEÑA.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Karibeña TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Creo Fe.pe" tvg-logo="https://i.ibb.co/231mj3rC/1768020426111.webp" group-title="TV Peru", Creo Fe PE
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creofe.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BONITA TV.pe" tvg-logo="https://i.ibb.co/0jQvBGRb/1768020666485.webp" group-title="TV Peru", Bonita TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
 
@@ -1462,13 +1459,40 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PASIONES.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", Pasiones PE
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones_abr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión PE
 https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/TzSn2qv/Picsart-25-12-26-15-54-39-547.webp" group-title="TV Peru", Sol TV PE
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FMH Movies.pe" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies PE
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anima Kids.pe" tvg-logo="https://i.ibb.co/4RmMzpk7/1770646894837.webp" group-title="TV Peru", Anima Kids PE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/anima_kids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Chikitoonz.pe" tvg-logo="https://i.ibb.co/N2LWRMsx/1770647060669.webp" group-title="TV Peru", Chikitoonz PE
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Peques TV.pe" tvg-logo="https://i.ibb.co/cXZZxPDg/1768942902878.webp" group-title="TV Peru", Peques TV PE
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Creo Fe.pe" tvg-logo="https://i.ibb.co/d0hCjkX2/Picsart-26-01-11-13-14-38-835.webp" group-title="TV Peru", Creo Fe PE
+https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Creolatino.pe" tvg-logo="https://i.ibb.co/FkNYQw41/1770645294144.webp" group-title="TV Peru", Creo Latino PE
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.ibb.co/SXNdFBCh/Picsart-26-02-09-11-17-07-107.webp" group-title="TV Peru", Creo Kids TV PE
+https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Fierro.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo PE
+https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor PE
 https://live.obslivestream.com/telecolormux/index.m3u8
