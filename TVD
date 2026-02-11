@@ -2671,6 +2671,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dios Kids" tvg-logo="https://i.ibb.co/YTcwKzhK/Picsart-26-02-06-01-38-06-485.webp" group-title="Infantil", Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
+#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Infantil", [Adult Swim]
+https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-id="Varied TV" tvg-logo="https://i.ibb.co/LDQ6MjwT/Picsart-25-11-24-19-25-18-645.webp" group-title="Infantil", Varied TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
+
 #EXTINF:-1 group-title="Infantil", El Chavo 24/7
 tvg-logo="https://i.ibb.co/SwFSh3GH/1768935550742.webp"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
@@ -2710,7 +2718,7 @@ https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=htt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36"
 https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzGaEbHYLfeHcvAQwBj_t_Vg/ts
 
-#EXTINF:-1 tvg-id="Canal Claro.mx" tvg-logo="https://i.ibb.co/cXvbfnTC/Picsart-26-01-19-02-54-27-895.webp" group-title="Cine + Series", Canal Claro
+#EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://i.ibb.co/cXvbfnTC/Picsart-26-01-19-02-54-27-895.webp" group-title="Cine + Series", Canal Claro
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9&profilesFromStream=true
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2759,7 +2767,7 @@ https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?|ref
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTINF:-1 tvg-id="FX HD.uy" tvg-logo="https://i.ibb.co/FLf24tF5/Picsart-25-08-07-11-15-29-285.webp" group-title="Cine + Series", FX
+#EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://i.ibb.co/FLf24tF5/Picsart-25-08-07-11-15-29-285.webp" group-title="Cine + Series", FX
 https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2822,33 +2830,22 @@ https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|refer
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Cine + Series", Warner TV
 https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
-#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Cine + Series", [Adult Swim]
-https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-id="Varied TV" tvg-logo="https://i.ibb.co/LDQ6MjwT/Picsart-25-11-24-19-25-18-645.webp" group-title="Cine + Series", Varied TV
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ZTV" tvg-logo="https://i.ibb.co/LdVfZsQt/Picsart-25-11-25-02-07-27-234.webp" group-title="Cine + Series", ZTV Anime
-https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.ibb.co/gbRdzk0H/Picsart-25-11-28-04-52-49-368.webp" group-title="Cine + Series", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-#EXTINF:-1 group-title="Cine + Series" ch-number="307" tvg-id="CINE FAMILIAR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/800/542/0/0/38183247075481.png", Cine Familiar
+#EXTINF:-1 tvg-id="CINE FAMILIAR.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/800/542/0/0/38183247075481.png" group-title="Cine + Series", Cine Familiar
 https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
-#EXTINF:-1 group-title="Cine + Series" ch-number="308" tvg-id="CINE HISPANO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/800/542/0/0/47205068074564.png", Cine Hispano
+#EXTINF:-1 tvg-id="CINE HISPANO HD.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/800/542/0/0/47205068074564.png" group-title="Cine + Series", Cine Hispano
 https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
-#EXTINF:-1 group-title="Cine + Series" ch-number="310" tvg-id="CINE PREMIUM" tvg-logo="https://i.ibb.co/cSvVDBNf/Picsart-25-10-28-16-56-41-097.webp", Cine Premium
+#EXTINF:-1 tvg-id="CINE PREMIUM HD.pe" tvg-logo="https://i.ibb.co/cSvVDBNf/Picsart-25-10-28-16-56-41-097.webp" group-title="Cine + Series", Cine Premium
 https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="Cine + Series", Cinerama
