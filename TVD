@@ -2799,11 +2799,13 @@ https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://pla
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
-#EXTINF:-1 ch-number="334" tvg-id="Space HD.uy" tvg-logo="https://i.ibb.co/pvV43Wt9/Picsart-25-09-11-20-00-04-010.webp" group-title="Cine + Series", Space
+#EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.ibb.co/pvV43Wt9/Picsart-25-09-11-20-00-04-010.webp" group-title="Cine + Series", Space
 https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="SPACE HD.ar" tvg-logo="https://i.ibb.co/WWvfFKQS/Picsart-25-10-27-21-14-34-583.webp" group-title="Cine + Series", Space HD
-http://209.45.81.84:8000/play/a00i/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+#EXTINF:-1 tvg-id="Espacio HD.uy" tvg-logo="https://i.ibb.co/WWvfFKQS/Picsart-25-10-27-21-14-34-583.webp" group-title="Cine + Series", Space (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=space&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
