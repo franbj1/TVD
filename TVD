@@ -2110,7 +2110,7 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=be43a68903a920561dc14daf19229d97&keyid%5B%5D=bad94ad091751a8adf0369f80ca83d17
 #EXTINF:-1 tvg-id="Claro Sports 2.pe" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
 https://mplus.pontiscloud.com/bpk-tv/SenalEventos/default/index.mpd
 
