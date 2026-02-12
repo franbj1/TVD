@@ -1503,6 +1503,24 @@ https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 #EXTINF:-1 tvg-id="Fierro.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo PE
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Filka.pe" tvg-logo="https://i.ibb.co/zK1bGw4/1770900938918.webp" group-title="TV Peru", Filka TV PE
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Cocinando.pe" tvg-logo="https://i.ibb.co/4RQXRp9d/1770902596477.webp" group-title="TV Peru", Cocinando TV PE
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/10.m3u8
+
+#EXTINF:-1 tvg-id="Nova.pe" tvg-logo="https://i.ibb.co/MxC7ZmJx/1770901130342.webp" group-title="TV Peru", Nova TV PE
+https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Turbo Mix.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Turbo Mix PE
+https://live-evg25.tv360.bitel.com.pe/bitel/turbomix/chunks.m3u8
+
+#EXTINF:-1 tvg-id="La Mega Mix.pe" tvg-logo="https://i.ibb.co/hRGZFhPy/1770902787733.webp" group-title="TV Peru", La Mega Mix PE
+https://live-evg3.tv360.bitel.com.pe/audio/5fada56fe4e09508207a7951/live.m3u8
+
+#EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/jvLx4hHL/Picsart-26-02-12-10-36-42-293.webp" group-title="TV Peru", Radio Tropical PE
+https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor PE
 https://live.obslivestream.com/telecolormux/index.m3u8
 
