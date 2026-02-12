@@ -2772,7 +2772,7 @@ https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?|ref
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://i.ibb.co/FLf24tF5/Picsart-25-08-07-11-15-29-285.webp" group-title="Cine + Series", FX
+#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/FLf24tF5/Picsart-25-08-07-11-15-29-285.webp" group-title="Cine + Series", FX
 https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
