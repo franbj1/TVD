@@ -2530,7 +2530,10 @@ AFA PLay
 #EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", LPF Play "Pasion del Ascenso"
 https://lpf.vod.immergo.tv/lpf-immergo/transcoded/4f3d8275-c21a-440a-ad68-6c11d8ef9232/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", AFA Play Ascenso
+#EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", LPF Play Eventos
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/104ae40d-4f59-42e1-9e29-191339fe1cd2/b8e341f5-b70d-4e62-8e74-dc044af8bb02/master.m3u8
+
+#EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", LPF Play Eventos 2
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/master.m3u8
 
 Infantil
