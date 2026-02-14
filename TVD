@@ -2004,7 +2004,7 @@ Deportes
 http://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c26371079e89206d63e1454893e881b6&%5B%5D=adac3c3b3774e411d6e49724f7ea0ee3
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c26371079e89206d63e1454893e881b6&key%5B%5D=adac3c3b3774e411d6e49724f7ea0ee3
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -2024,7 +2024,7 @@ https: //joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 https://mplus.pontiscloud.com/bpk-tv/TNTSports/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f8943d114e25151c8ae4f612351d5a5f&%5B%5D=7f34c9a70c836020cbc3273c427ff277
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f8943d114e25151c8ae4f612351d5a5f&key%5B%5D=7f34c9a70c836020cbc3273c427ff277
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
