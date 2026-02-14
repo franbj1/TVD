@@ -22,7 +22,7 @@ https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9bb54fccffaddd38916e85c08de98cc9&key%5B%5D=d06f509c418eb6f1b2fc2b766445328b
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/xSYkfp5Y/Picsart-25-11-13-16-39-57-143.webp" group-title="Nacional", Telefe Interior
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?
-|user-referer=https://webclient.antinaplayplus.com.ar/
+|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
