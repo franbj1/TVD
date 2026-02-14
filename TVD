@@ -4,9 +4,13 @@ Nacional
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6b17538810f1dd4485f174dcc204872c&key%5B%5D=3d5b973772433ce07c8999aa659ea48c
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/whwZctgt/Picsart-25-08-23-19-06-59-423.webp" group-title="Nacional", Televisión Pública
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?
+|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b5651806b42f087c58332b052de727c5&key%5B%5D=11901b35cc3e5aa73619f64d02c38a0f
