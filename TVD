@@ -13,24 +13,26 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer
 https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/319.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b5651806b42f087c58332b052de727c5&key5B%5D=11901b35cc3e5aa73619f64d02c38a0f
 #EXTINF:-1 tvg-id="America.uy" tvg-logo="https://i.ibb.co/5g7p7840/Picsart-25-10-11-02-27-53-703.webp" group-title="Nacional", América
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
 #EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://i.ibb.co/LD8sBBvR/Picsart-25-10-17-17-00-47-680.webp" group-title="Nacional", El Nueve Interior
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9bb54fccffaddd38916e85c08de98cc9&key%5B%5D=d06f509c418eb6f1b2fc2b766445328b
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/xSYkfp5Y/Picsart-25-11-13-16-39-57-143.webp" group-title="Nacional", Telefe Interior
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?
+|referer=https://webclient.antinaplayplus.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13 (Satelital).ar" tvg-logo="https://i.ibb.co/Pv89dgw7/Picsart-25-10-10-15-42-34-639.webp" group-title="Nacional", El Trece Interior
-https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?
+|referer=https://webclient.antinaplayplus.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
@@ -53,7 +55,7 @@ https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https:/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
 #EXTINF:-1 tvg-id="BRAVO TV.ar" tvg-logo="https://i.ibb.co/hJfNmX6Y/Picsart-25-07-06-16-17-14-365.webp" group-title="Nacional", Bravo TV
-https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/5gkRmD0Q/Picsart-25-08-24-01-31-17-223.webp" group-title="Nacional", Caras TV
