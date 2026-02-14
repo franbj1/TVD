@@ -2539,6 +2539,9 @@ https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 3
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-cd18-4b47-a28b-7fe8352c41c2/ecc235c0-ff7d-4397-bcf1-9f8c9b91046c/master.m3u8
 
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 4
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f2245911-a2bb-4e0c-bf9b-58a5f6413c53/0b1e6e59-27b5-4b32-b0d8-5567d704bcd7/master.m3u8
+
 Infantil
 
 #EXTINF:-1 group-logo="https://i.ibb.co/FbJj81vj/Picsart-25-08-24-13-43-22-748.webp"
