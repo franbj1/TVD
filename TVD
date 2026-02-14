@@ -2527,10 +2527,10 @@ AFA (PLay)
 
 #EXTINF:-1 group-logo="https://i.ibb.co/B55B7VD6/1771025098875.webp"
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", LPF Play "Pasion del Ascenso"
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", (AFA Play) "Pasion del Ascenso"
 https://lpf.vod.immergo.tv/lpf-immergo/transcoded/4f3d8275-c21a-440a-ad68-6c11d8ef9232/hls/master.m3u8?|referer=https://lpfplay.com/
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 1
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/104ae40d-4f59-42e1-9e29-191339fe1cd2/b8e341f5-b70d-4e62-8e74-dc044af8bb02/master.m3u8?|referer=https://lpfplay.com/
 
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 2
@@ -2541,6 +2541,9 @@ https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-c
 
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 4
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f2245911-a2bb-4e0c-bf9b-58a5f6413c53/0b1e6e59-27b5-4b32-b0d8-5567d704bcd7/master.m3u8
+
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 5
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/master.m3u8
 
 Infantil
 
