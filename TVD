@@ -534,7 +534,7 @@ Televisión Argentina
 
 #EXTINF:-1 group-logo="https://i.ibb.co/q307sndR/Picsart-25-12-04-15-03-45-922.webp"
 
-#EXTINF:-1 tvg-id="AMERICA 2.ar" tvg-name="America TV HD (ARG)" tvg-logo="https://i.ibb.co/0RS4w6x6/Picsart-25-12-04-11-13-32-726.webp" group-title="TV Argentina", América TDA
+#EXTINF:-1 tvg-id="AMERICA 2.ar" tvg-logo="https://i.ibb.co/0RS4w6x6/Picsart-25-12-04-11-13-32-726.webp" group-title="TV Argentina", América
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/jk4GKGJb/Picsart-25-11-22-17-40-02-878.webp" group-title="TV Argentina", Televisión Argentina
@@ -549,7 +549,7 @@ https://link-bee.cdn.rcs.net.ar/mnp/ssc4ln4movbqlr1qczb00000005dktih/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://link-bee.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/NnmYpyCp/Picsart-25-07-30-13-34-05-516.webp" group-title="TV Argentina", Telefe
+#EXTINF:-1 tvg-id="Telefe.uy" tvg-logo="https://i.ibb.co/NnmYpyCp/Picsart-25-07-30-13-34-05-516.webp" group-title="TV Argentina", Telefe
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -564,7 +564,7 @@ https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="126#Bravo TV (ARG)" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Argentina", Bravo TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/XftZ6rDd/Picsart-25-07-31-17-05-16-804.webp" group-title="TV Argentina", Telemax
+#EXTINF:-1 tvg-id="Telemax.uy" tvg-logo="https://i.ibb.co/XftZ6rDd/Picsart-25-07-31-17-05-16-804.webp" group-title="TV Argentina", Telemax
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Móvil/15E148 Safari/605.1.15/Clipbox+/2.2.8
@@ -600,7 +600,7 @@ https://link-bee.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://link-bee.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 
-#EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/tpfgb6vw/Picsart-25-12-04-12-23-03-096.webp" group-title="TV Argentina", Construir TV
+#EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/vCnLRTzG/Picsart-26-02-15-19-00-37-105.webp" group-title="TV Argentina", Construir TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -3491,28 +3491,28 @@ https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/
 #EXTVLCOPT:http-user-agent="FireFox"
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_cenc/Flow_Music_XP.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music (606)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2KgpE42XC0XoZ8lzOjGy8A","kid":"80zXcJ8JPSPU2wCRB9loYg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd
+http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_cenc/Flow_Music_1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music (607)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LX49XTH2hpD9h3oRH4To4w","kid":"WWtZlYCzmuLzxBP36uNpAg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd
+http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_cenc/Flow_Music_2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music (608)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd
+http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_cenc/Flow_Music_3.mpd
 
 #EXTINF:-1 tvg-id="billboard" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/800/542/0/0/12050400077728.png" group-title="Música", Billboard TV
 https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
@@ -3530,19 +3530,16 @@ https://5ff3d9babae13.streamlock.net/ttedvzwrvn/ttedvzwrvn/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
 https://chromecast.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_wl/HEI_NOW.mpd?
 
-#EXTINF:-1 tvg-id="Top Latino" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", Top Latino
+#EXTINF:-1 tvg-id="Top Latino.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", Top Latino
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EXA TV.mx" tvg-logo="https://i.ibb.co/qFJXjrXw/Exa-TV-logo-svg.webp" group-title="Música", Exa TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://201.174.175.3:8000/play/a0ls/index.m3u8
+
 https://mvs-live.daioncdn.net/exatv/exatv.m3u8?sense=true
  
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/2864731b-2acc-4774-9286-e5885c24f01e.png" group-title="Música", ONE TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://trs.cdn.rcs.net.ar/inet/onetv/onetv.m3u8
+https://link-bee.cdn.rcs.net.ar/inet/onetv/onetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wF65g4qZ/Picsart-25-11-19-21-33-22-025.webp" group-title="Música", Littoral TV
 #EXTVLCOPT:network-caching=1000
