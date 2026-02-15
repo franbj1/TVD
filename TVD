@@ -3389,7 +3389,7 @@ https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|r
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 #EXTINF:-1 tvg-id="El Canal de la Música.ar" tvg-logo="https://i.ibb.co/pr5HtSww/Picsart-25-11-04-14-16-42-433.webp" group-title="Música", CM Canal de la Música
-https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_wl/CM.mpd
+https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_cenc/CM.mpd
 
 #EXTINF:-1 tvg-id="Vmlatino.cr" tvg-logo="https://i.supaimg.com/206c9c19-1f5c-4992-864f-b22f6e3f9c27.png" group-title="Música", VM Latino
 #EXTVLCOPT:network-caching=1000
@@ -3399,7 +3399,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/b9d3b003-b954-4e8f-b9a6-1cec72b0a305.png" group-title="Música", HTV Música
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
-https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_wl/HTV.mpd
+https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_cenc/HTV.mpd
 
 #EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music Top
 #EXTVLCOPT:network-caching=1000
@@ -3722,9 +3722,6 @@ https://d125n3dscdmoj3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjbPF7jM/Picsart-25-11-20-03-26-26-864.webp" group-title="Música", Mi Gente 3.0
 https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KpYXnfG7/Picsart-25-11-20-04-42-17-538.webp" group-title="Música", Zut
-https://streams2.sofast.tv/dash/c86661f4fe3941eda14c2551a7bf262a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/bad34493-e512-4554-8063-3dc7a9f4c361.png" group-title="Música", Spektra TV
 https://cloudvideo.servers10.com:8081/8026/index.m3u8
