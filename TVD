@@ -3837,6 +3837,16 @@ https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=h
 #EXTINF:-1 tvg-id="350#Eternal Word TV Network" tvg-logo="https://i.ibb.co/s9MrdkmL/Picsart-25-11-23-12-57-58-788.webp" group-title="Religión", EWTN
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.ibb.co/MkkSD0Tb/1771258471446.webp" group-title="Religión", Dios TV
+https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Daystar" tvg-logo="https://i.ibb.co/PGSDz169/Picsart-26-02-16-13-09-42-306.webp" group-title="Religión", Daystar Español
+https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=13ef12798c5747e8bb49c30c4cdf3195&keyid%5B%5D=d00acfd7dfd9c22133c672b9d48cf96c
+#EXTINF:-1 tvg-id="Tele Vid.mx" tvg-logo="https://i.ibb.co/5gkRmD0Q/Picsart-25-08-24-01-31-17-223.webp" group-title="Religión", Tele VID https://dmuabtojs7ukn.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/Televid/out/v1/a5bab151f56e431b920e0f2d8d935a5a/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
 #EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.ibb.co/sJgtG6yK/Picsart-25-08-17-02-13-43-260.webp" group-title="Religión", Radio María TV
