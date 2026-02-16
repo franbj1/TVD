@@ -51,14 +51,6 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?
 https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:553466765asfjgf32gh375435213943000555744112421766
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/Y4HKBTLc/Picsart-26-01-08-10-14-55-444.webp" group-title="Nacional", Laika TV
-https://mitv.zplay.cl/LaikaTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Hibop.ar" tvg-logo="https://i.ibb.co/rfTxz7Wb/hi-BOP-white.webp" group-title="Nacional", Hi Bop | se activara en marzo
-https://streams.hibop.cl/webtv/hibopla/index.m3u8?token=deM0hiB0PweB
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/Hfzp11FS/Picsart-25-07-10-02-07-28-322.webp" group-title="Nacional", Net TV
 https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
@@ -201,7 +193,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5v" group-title="Nacional", Bayres TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xNMRPMw/Picsart-25-07-06-13-09-54-823.png" group-title="Nacional", Bayres TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
 
 #EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/RpBx1DNJ/Picsart-26-01-08-18-19-07-464.webp" group-title="Nacional", Señal Urbana +
