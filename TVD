@@ -3855,7 +3855,7 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKjCJPGZ/Picsart-25-08-11-12-09-07-438.webp" group-title="Religión", Santa Marí­a
-https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_wl/Senal_Maria.mpd
+https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_cenc/Senal_Maria.mpd
 
 #EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN2 Latino
 https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
@@ -3887,6 +3887,12 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cd
 #EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
 https://live-us.streann.tech/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ5ODU1MTMsInJpZCI6IjU2ZmFjNmZhZTRiMDVkYjViM2I3Y2Q1YSIsImtleSI6ImtleTEiLCJjaWQiOiI1Y2JhMjk3YzJjZGNjZmRjNTJmZjhiYTMifQ.EtsCrgMeaHvMzSjG6ga_T4__Gt-SgKrYqeQehk_Dcjw
+
+#EXTINF:-1 tvg-id="Faro de Santidad" tvg-logo="https://i.ibb.co/xKN70QYg/Picsart-26-02-16-13-54-15-605.webp" group-title="Religión", Faro de Santidad
+https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklist_w1155712607.m3u8
+
+#EXTINF:-1 tvg-id="Mision Vida TV" tvg-logo="https://i.ibb.co/dw4YGJPN/Picsart-26-02-16-13-45-21-382.webp" group-title="Religión", Misión Vida TV
+https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8f857ZQ/Picsart-25-08-16-15-30-46-601.webp" group-title="Religión", Nuevo Tiempo
 https://stream.live.novotempo.com/tv/tvnuevotiempo.smil/.m3u8
