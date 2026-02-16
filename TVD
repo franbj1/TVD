@@ -33,7 +33,7 @@ https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/xSYkfp5Y/Picsart-25-11-13-16-39-57-143.webp" group-title="Nacional", Telefe Interior
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/spTpDCPj/Picsart-26-02-16-12-32-01-280.webp" group-title="Nacional", Telefe Interior
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -74,6 +74,11 @@ https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/tPxBGTyc/Picsart-25-08-14-00-52-10-301.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
+#EXTINF:-1 tvg-id="CNAR.ar" tvg-logo="https://i.ibb.co/Y431ZnVn/Picsart-25-08-08-13-43-09-870.webp" group-title="Nacional", Cine AR
+https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
@@ -167,11 +172,6 @@ https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://pla
 #KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
 #EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://i.ibb.co/27BN825L/Picsart-25-12-22-10-40-13-733.webp" group-title="Nacional", Canal 10 Córdoba
 https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
-#EXTINF:-1 tvg-id="CNAR.ar" tvg-logo="https://i.ibb.co/Y431ZnVn/Picsart-25-08-08-13-43-09-870.webp" group-title="Nacional", Cine AR
-https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
