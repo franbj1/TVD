@@ -554,7 +554,7 @@ https://link-bee.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-http://181.13.112.203:8100/play/a06c/index.m3u8
+https://link-bee.cdn.rcs.net.ar/mnp/cfmpu0h00000004iyi5jdg8ca027sk5z/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/3ywW4jv4/828-8283014-eltrece-logo-eltrece-logo-el-trece.webp" group-title="TV Argentina", El Trece
 https://link-bee.cdn.rcs.net.ar/mnp/el13/output.mpd
