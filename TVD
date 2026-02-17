@@ -637,7 +637,7 @@ https://link-bee.cdn.rcs.net.ar/hub/a24/dash/output.mpd
 
 #EXTINF:-1 tvg-id="Crónica TV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="TV Argentina", Crónica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/93.0.4577.82 Safari móvil/537.36"
-https://link-bee.cdn.rcs.net.ar/mnp/cronicaiptv/output.mpd
+https://link-bee.cdn.rcs.net.ar/mnp/q9apwz2yfhqf00000009g4tjh6i5vhtm/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="TV Argentina", Canal 26
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
