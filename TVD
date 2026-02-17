@@ -536,7 +536,7 @@ Televisión Argentina
 #EXTINF:-1 group-logo="https://i.ibb.co/q307sndR/Picsart-25-12-04-15-03-45-922.webp"
 
 #EXTINF:-1 tvg-id="AMERICA 2.ar" tvg-logo="https://i.ibb.co/0RS4w6x6/Picsart-25-12-04-11-13-32-726.webp" group-title="TV Argentina", América
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+https://link-bee.cdn.rcs.net.ar/mnp/aql85vnv5iz5c2u00000002x2d0qqv8n/output.mpd
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/jk4GKGJb/Picsart-25-11-22-17-40-02-878.webp" group-title="TV Argentina", Televisión Argentina
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
