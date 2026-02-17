@@ -61,10 +61,11 @@ https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https:/
 https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=3225af993d7b4994b342c04a1db89c17:db73ec5dce14fe1c810aad0ad0165e68
 #EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/5gkRmD0Q/Picsart-25-08-24-01-31-17-223.webp" group-title="Nacional", Caras TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/CARAS_TV/sa_live_dash/CARAS_TV.mpd
+
 https://origin.dpsgo.com/ssai/event/AJpb2YitT5iW0eFydxPOHA/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
