@@ -550,7 +550,7 @@ https://link-bee.cdn.rcs.net.ar/mnp/ssc4ln4movbqlr1qczb00000005dktih/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://link-bee.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
-#EXTINF:-1 tvg-id="Telefe.uy" tvg-logo="https://i.ibb.co/NnmYpyCp/Picsart-25-07-30-13-34-05-516.webp" group-title="TV Argentina", Telefe
+#EXTINF:-1 tvg-id="Telefe.uy" tvg-logo="https://i.ibb.co/27bnZ7vb/Picsart-26-02-17-12-36-42-274.webp" group-title="TV Argentina", Telefe
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
