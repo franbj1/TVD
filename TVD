@@ -2680,7 +2680,7 @@ https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
-#EXTINF:-1 tvg-id="PLIM.ar" tvg-logo="https://i.supaimg.com/d4954eec-79a6-4507-8797-1c1cf8dcb556.png?raw=true" group-title="Infantil", Plim plim TV
+#EXTINF:-1 tvg-id="PLIM.ar" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
 https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
