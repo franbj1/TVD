@@ -2050,21 +2050,25 @@ https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
 #EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
