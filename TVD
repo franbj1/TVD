@@ -2596,6 +2596,17 @@ https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?|referer=htt
 https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a47bfb9e246f3b8405c1225fae73da9e&key%5B%5D=a4865fb8742b4541f64ac37370e902a6
+#EXTINF:-1 tvg-id="PLIM.ar" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
+#EXTINF:-1 tvg-id="KidOO" tvg-name="KidOO" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
+http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c7efe63bbf682a4124fb34c01eb7a0a7&key%5B%5D=48667511b8668df96fa3abaa623e4f69
 #EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.supaimg.com/9b9d033b-1451-4b38-80e1-5d9df773155e.png?raw=true" group-title="Infantil", Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -2603,7 +2614,7 @@ https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mp
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cf15d5a0f9329f815779d4a7dd760fbc&key%5B%5D=cd00a8a3f6a167954d4f678fab2323da
-#EXTINF:-1 tvg-id="Cartoonito HD.uy" tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/350/500/0/0/3115537507174.png?raw=true" group-title="Infantil", Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito HD.uy" tvg-logo="https://i.ibb.co/jZwhPXx8/Cartoonito-logo-2021-alternate.webp" group-title="Infantil", Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
@@ -2643,16 +2654,29 @@ https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?|ref
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=070660c4a07ab644fba62dab07306d43&key%5B%5D=6786eb56337a318fce0b7f9cccf96478
+#EXTINF:-1 tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png" group-title="Infantil", ZooMoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
+#EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
 #EXTINF:-1 tvg-id="X Kids TV" tvg-logo="https://i.ibb.co/Csbf7n9Z/Picsart-25-12-16-14-47-38-764.webp" group-title="Infantil", XKids TV
 https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
 
 #EXTINF:-1 tvg-id="DM Kids TV" tvg-logo="https://i.ibb.co/ZzsvCtL0/Picsart-26-01-20-15-34-50-621.webp" group-title="Infantil", DM Kids TV
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
-#EXTINF:-1 tvg-id="KidOO" tvg-name="KidOO" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
-http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
@@ -2682,26 +2706,6 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/CLANHD/default.mpd
 #EXTINF:-1 tvg-id="Clan TVE.es" tvg-logo="https://i.ibb.co/gZGztz1B/Picsart-26-01-19-14-16-14-362.webp" group-title="Infantil", Clan TV Es
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
-https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
-#EXTINF:-1 tvg-id="PLIM.ar" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
-https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
-#EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
-https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=070660c4a07ab644fba62dab07306d43&key%5B%5D=6786eb56337a318fce0b7f9cccf96478
-#EXTINF:-1 tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png" group-title="Infantil", ZooMoo
-https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/bcb99dff-0630-41c9-b067-0a8387d7e18e.png?raw=true" group-title="Infantil", Zaz TV
 #EXTVLCOPT:network-caching=1500
