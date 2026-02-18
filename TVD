@@ -2643,9 +2643,8 @@ https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?|referer=h
 https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d4632100135488925c1d7e9895a26b99&key%5B%5D=1da478f687b850c61c9af61985d97c17
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=YzE2YzAyM2YtMzg2YS00YzhmLTllYmUtOGY0NTU3YmFiZDQ5
 #EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://i.ibb.co/BHMw5CQm/Nickelodeon-Splat-2023-Sin-Fondo.webp" group-title="Infantil", Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2684,6 +2683,12 @@ https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlis
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
+#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Infantil", [Adult Swim]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/x02rysry6ojueoad66u7f/etc.json?rlkey=ol31gg8vrkq7fjkie3np6kcpy&st=nv2yxn0h&dl=0
 #EXTINF:-1 tvg-id="ETC TV HD.cl" tvg-logo="https://i.ibb.co/mF4sn5yB/ETC-2016-actual.webp" group-title="Infantil", ETC
 https://cdn-live.mundogo.cl/etctv/etctv.mpd
@@ -2694,8 +2699,6 @@ https://cdn-live.mundogo.cl/etctv/etctv.mpd
 https://cdn-live.mundogo.cl/funbox/funbox.mpd
 
 #EXTINF:-1 tvg-id="Planeta Creación" tvg-logo="https://i.ibb.co/C35QsXS2/Picsart-25-11-27-04-23-02-735.webp" group-title="Infantil", Planeta Creación
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://livecdn.enlace.plus/planetacreacion/smil:planetacreacion-hd.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2746,8 +2749,6 @@ http://190.102.242.130:25461/monitvpo/monitvpo/1
 #EXTINF:-1 tvg-id="Captain Tsubasa" tvg-logo="https://i.ibb.co/Kz5drFXF/Fun-Box-TV-logo-svg.webp" group-title="Infantil", Captain Tsubasa
 https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channela-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Toon Kids" tvg-logo="https://i.ibb.co/Kz5drFXF/Fun-Box-TV-logo-svg.webp" group-title="Infantil", Toon Kids
-
 #EXTINF:-1 tvg-id="Toon Goggles" tvg-logo="https://i.ibb.co/5gBhbBdr/Toon-Goggles-logo.webp" group-title="Infantil", Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
@@ -2755,18 +2756,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dios Kids" tvg-logo="https://i.ibb.co/YTcwKzhK/Picsart-26-02-06-01-38-06-485.webp" group-title="Infantil", Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
-#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Infantil", [Adult Swim]
-https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-id="Varied TV" tvg-logo="https://i.ibb.co/LDQ6MjwT/Picsart-25-11-24-19-25-18-645.webp" group-title="Infantil", Varied TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
-
-#EXTINF:-1 group-title="Infantil", El Chavo 24/7
-tvg-logo="https://i.ibb.co/SwFSh3GH/1768935550742.webp"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=elchavo&token=3576520243
 
 Cine + Series
 
