@@ -2044,9 +2044,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=357652024
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Antina
 https://mplus.pontiscloud.com/bpk-tv/ESPNPremium/default/index.mpd
 
-#EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="Deportes", AFA Play Ascenso
-https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/master.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
@@ -2556,17 +2553,17 @@ AFA (PLay)
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", (AFA Play) "Pasion del Ascenso"
 https://lpf.vod.immergo.tv/lpf-immergo/transcoded/4f3d8275-c21a-440a-ad68-6c11d8ef9232/hls/master.m3u8?|referer=https://lpfplay.com/
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 1
-https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/104ae40d-4f59-42e1-9e29-191339fe1cd2/b8e341f5-b70d-4e62-8e74-dc044af8bb02/master.m3u8?|referer=https://lpfplay.com/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 1
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 2
-https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/master.m3u8?|referer=https://lpfplay.com/
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/104ae40d-4f59-42e1-9e29-191339fe1cd2/b8e341f5-b70d-4e62-8e74-dc044af8bb02/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 3
-https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-cd18-4b47-a28b-7fe8352c41c2/ecc235c0-ff7d-4397-bcf1-9f8c9b91046c/master.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-cd18-4b47-a28b-7fe8352c41c2/ecc235c0-ff7d-4397-bcf1-9f8c9b91046c/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 4
-https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f2245911-a2bb-4e0c-bf9b-58a5f6413c53/0b1e6e59-27b5-4b32-b0d8-5567d704bcd7/master.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
 #EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 5
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/master.m3u8
