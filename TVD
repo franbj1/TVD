@@ -5,8 +5,6 @@ Nacional
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6b17538810f1dd4485f174dcc204872c&key%5B%5D=3d5b973772433ce07c8999aa659ea48c
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/whwZctgt/Picsart-25-08-23-19-06-59-423.webp" group-title="Nacional", Televisión Pública
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?
@@ -53,11 +51,13 @@ https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/Hfzp11FS/Picsart-25-07-10-02-07-28-322.webp" group-title="Nacional", Net TV
-https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
 #EXTINF:-1 tvg-id="BRAVO TV.ar" tvg-logo="https://i.ibb.co/hJfNmX6Y/Picsart-25-07-06-16-17-14-365.webp" group-title="Nacional", Bravo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -66,12 +66,11 @@ https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webcl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/CARAS_TV/sa_live_dash/CARAS_TV.mpd
 
-https://origin.dpsgo.com/ssai/event/AJpb2YitT5iW0eFydxPOHA/master.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
 #EXTINF:-1 tvg-id="Encuentro.uy" tvg-logo="https://i.ibb.co/s95wzJQj/Picsart-25-07-11-12-22-13-553.webp" group-title="Nacional", Encuentro
-https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/tPxBGTyc/Picsart-25-08-14-00-52-10-301.webp" group-title="Nacional", Telemax
@@ -81,52 +80,61 @@ http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
 #EXTINF:-1 tvg-id="CNAR.ar" tvg-logo="https://i.ibb.co/Y431ZnVn/Picsart-25-08-08-13-43-09-870.webp" group-title="Nacional", Cine AR
-https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/Knc6y2r/Picsart-25-11-04-21-41-40-358.webp" group-title="Nacional", Ciudad Magazine
-https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/Kc072Yg9/Picsart-25-09-16-09-07-28-650.webp" group-title="Nacional", Volver
-https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKbTG7rr/Picsart-25-07-01-16-25-45-778.webp" group-title="Nacional", TN (Todo Noticias)
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
 #EXTINF:-1 tvg-id="La Nacion.uy" tvg-logo="https://i.ibb.co/xKRYfVZV/Picsart-25-07-05-21-05-10-940.webp" group-title="Nacional", La Nación Mas
-https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
 #EXTINF:-1 tvg-id="America 24.uy" tvg-logo="https://i.ibb.co/GfW0XzVJ/Picsart-25-10-04-18-16-30-973.webp" group-title="Nacional", A24
-https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
 #EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/3yjsKj0c/Picsart-25-10-17-23-26-41-562.webp" group-title="Nacional", C5N
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
 #EXTINF:-1 tvg-id="CRON.ar" tvg-logo="https://i.ibb.co/twkWRvGv/Picsart-25-08-23-18-14-48-966.webp" group-title="Nacional", Crónica
-https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/VcYd0qXG/Picsart-25-07-05-16-13-44-471.webp" group-title="Nacional", 26 Noticias
-https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 #EXTINF:-1 tvg-id="ARGENTINA 12.ar" tvg-name="721#IP Noticias HD" tvg-logo="https://i.ibb.co/847XFDjb/Picsart-25-12-15-16-16-49-153.webp" group-title="Nacional", Ar|12
-https://trs.cdn.rcs.net.ar/mnp/ip/output.mpd
+https://link-bee.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
@@ -144,37 +152,44 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dnews&token=3576520243
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
 #EXTINF:-1 tvg-id="CNLE.ar" tvg-logo="https://i.ibb.co/dsDCNj43/Picsart-25-07-06-16-23-32-083.webp" group-title="Nacional", Canal E
-https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
 #EXTINF:-1 tvg-id="El Destape.ar" tvg-logo="https://i.ibb.co/VWz4qC0T/Picsart-25-07-18-07-21-27-552.webp" group-title="Nacional", El Destape
-https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
 #EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="https://i.ibb.co/N2fzmcRr/Picsart-25-07-14-18-59-26-784.webp" group-title="Nacional", Rural
-https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
 #EXTINF:-1 tvg-id="CHTV.ar" tvg-logo="https://i.ibb.co/SDTmTsZj/Picsart-25-09-16-09-31-03-504.webp" group-title="Nacional", Chacra TV
-https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
 #EXTINF:-1 tvg-id="T5 Nacional tvg-logo="https:///i.ibb.co/8DFBkB9r/Picsart-25-10-11-12-46-58-484.webp" group-title="Nacional", T5 Satelital
-https://cdn.sensa.com.ar/T5/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/T5/T5Satelital/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
 #EXTINF:-1 tvg-id="Telefe Cordoba.ar" tvg-logo="https://i.ibb.co/qLZLb9HS/Picsart-25-12-02-22-05-14-737.webp" group-title="Nacional", Telefe Córdoba
-https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
 #EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://i.ibb.co/27BN825L/Picsart-25-12-22-10-40-13-733.webp" group-title="Nacional", Canal 10 Córdoba
-https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
@@ -209,12 +224,14 @@ https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Play
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
 #EXTINF:-1 tvg-id="ARGENTINISIMA.ar" tvg-logo="https://i.ibb.co/sJCcpWxm/Picsart-25-09-16-01-34-29-488.webp" group-title="Nacional", Argentinisima Satelital
-https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 tvg-id="Futurock.ar" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
-https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
