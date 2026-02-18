@@ -2610,7 +2610,7 @@ https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4d8b3220ac30e5c8148d4bcc225efa5a&key%5B%5D=eb6918dfe117fc405396a9c3986a0450
 #EXTINF:-1 tvg-id="Discovery Kids.ar" tvg-logo="https://i.ibb.co/wHtbFpy/1176px-Discovery-Kids-2021-2-D-Gradient-svg.png" group-title="Infantil", Discovery Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, como Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
