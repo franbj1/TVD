@@ -2534,7 +2534,7 @@ https://ch11-04-11-tyc.vodgc.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 8
 https://ch11-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8?|referer=https://play.tycsports.com/
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports", TyC Sports Play 9
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 9
 https://ch10-04-11-tyc.vodgc.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8?|referer=https://play.tycsports.com/
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 10
@@ -2546,27 +2546,27 @@ https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 12
 https://ch12-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8?|referer=https://play.tycsports.com/
 
-AFA (PLay)
+LPF (PLay)
 
 #EXTINF:-1 group-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp"
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="AFA Play", (AFA Play) "Pasion del Ascenso"
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/Xf0hGYLM/thumbnail-afa-play-logo-2023-color-2-f19950a2db.webp" group-title="LPF Play", (AFA Play) "Pasion del Ascenso"
 https://lpf.vod.immergo.tv/lpf-immergo/transcoded/4f3d8275-c21a-440a-ad68-6c11d8ef9232/hls/master.m3u8?|referer=https://lpfplay.com/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="LPF Play", LPF Play 1
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 2
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="LPF Play", LPF Play 2
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/104ae40d-4f59-42e1-9e29-191339fe1cd2/b8e341f5-b70d-4e62-8e74-dc044af8bb02/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 3
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="LPF Play", LPF Play 3
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-cd18-4b47-a28b-7fe8352c41c2/ecc235c0-ff7d-4397-bcf1-9f8c9b91046c/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 4
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="LPF Play", LPF Play 4
 https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/2/streamPlaylist.m3u8?|referer=https://lpfplay.com/
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="AFA Play", LPF Play 5
-https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/master.m3u8
+#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.ibb.co/0j4c2qSz/9ac81436-28e2-4e50-9775-e69dc8192797.webp" group-title="LPF Play", LPF Play 5
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/2/streamPlaylist.m3u8
 
 Infantil
 
