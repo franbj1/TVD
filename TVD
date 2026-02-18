@@ -98,7 +98,7 @@ https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://webcl
 https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ed936cd5cb59eeee83addafb446662a4&key%5B%5D=dd4b7aeb2bc000468883296e7ae4a09b
 #EXTINF:-1 tvg-id="America 24.uy" tvg-logo="https://i.ibb.co/GfW0XzVJ/Picsart-25-10-04-18-16-30-973.webp" group-title="Nacional", A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://webclient.antinaplayplus.com.ar
@@ -218,7 +218,7 @@ https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Play
 https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=04983282c2fa819a08fa03a13fe4fdbe&key%5B%5D=4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 tvg-id="Futurock.ar" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://webclient.antinaplayplus.com.ar
