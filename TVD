@@ -2584,54 +2584,54 @@ https://nog-live1-ott.izzigo.tv/4/out/u/dash/BITMEHD/default.mpd
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
-#EXTINF:-1 group-title="Infantil" ch-number="200" tvg-id="Baby TV.uy" tvg-logo="https://i.supaimg.com/57d81e23-0140-4156-b4a2-996e721fc679.webp?raw=true", Baby TV
-https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5cf6da7262ddb74c2f370ded6056f46c&key%5B%5D=78109125565ab1747f511f7e77e3bbaf
+#EXTINF:-1 group-title="Infantil" ch-number="200" tvg-id="Baby TV.uy" tvg-logo="https://i.supaimg.com/57d81e23-0140-4156-b4a2-996e721fc679.webp", Baby TV
+https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
-#EXTINF:-1 group-title="Infantil" ch-number="201" tvg-id="CANAL INFANTIL" tvg-logo="https://i.supaimg.com/c32a05bc-0f6a-433f-bca6-d6dc7ba5f30a.webp?raw=true", Canal Infantil
-https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=39673983f4ba22f0f80c0934ce0424c8&key%5B%5D=cd9f3498cb63cc72d1317b14a67ab93c
+#EXTINF:-1 tvg-id="CANAL INFANTIL" tvg-logo="https://i.supaimg.com/c32a05bc-0f6a-433f-bca6-d6dc7ba5f30a.webp" group-title="Infantil", Canal Infantil
+https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7efe63bbf682a4124fb34c01eb7a0a7:48667511b8668df96fa3abaa623e4f69
-#EXTINF:-1 ch-number="202" tvg-id="Cartoon Network.uy" tvg-logo="https://i.supaimg.com/9b9d033b-1451-4b38-80e1-5d9df773155e.png?raw=true" group-title="Infantil", Cartoon Network
-https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c7efe63bbf682a4124fb34c01eb7a0a7&key%5B%5D=48667511b8668df96fa3abaa623e4f69
+#EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.supaimg.com/9b9d033b-1451-4b38-80e1-5d9df773155e.png?raw=true" group-title="Infantil", Cartoon Network
+https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf15d5a0f9329f815779d4a7dd760fbc:cd00a8a3f6a167954d4f678fab2323da
-#EXTINF:-1 ch-number="203" tvg-id="Cartoonito HD.uy" tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/350/500/0/0/3115537507174.png?raw=true" group-title="Infantil", Cartoonito
-https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cf15d5a0f9329f815779d4a7dd760fbc&key%5B%5D=cd00a8a3f6a167954d4f678fab2323da
+#EXTINF:-1 tvg-id="Cartoonito HD.uy" tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/350/500/0/0/3115537507174.png?raw=true" group-title="Infantil", Cartoonito
+https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d8b3220ac30e5c8148d4bcc225efa5a:eb6918dfe117fc405396a9c3986a0450
-#EXTINF:-1 ch-number="204" tvg-id="Discovery Kids.ar" tvg-logo="https://i.ibb.co/wHtbFpy/1176px-Discovery-Kids-2021-2-D-Gradient-svg.png" group-title="Infantil", Discovery Kids
-https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4d8b3220ac30e5c8148d4bcc225efa5a&key%5B%5D=eb6918dfe117fc405396a9c3986a0450
+#EXTINF:-1 tvg-id="Discovery Kids.ar" tvg-logo="https://i.ibb.co/wHtbFpy/1176px-Discovery-Kids-2021-2-D-Gradient-svg.png" group-title="Infantil", Discovery Kids
+https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
-#EXTINF:-1 tvg-id="Dreamworks.uy" tvg-logo="https://i.ibb.co/DfPjZmxV/Picsart-25-11-23-02-02-43-934.webp" group-title="Infantil", DreamWorks TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
-https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2f70f543b9effe70bff3f97542ff6ff5&key%5B%5D=6a7e17712027287a68adda6e1df4716a
+#EXTINF:-1 tvg-id="Dreamworks.uy" tvg-logo="https://i.ibb.co/DfPjZmxV/Picsart-25-11-23-02-02-43-934.webp" group-title="Infantil", DreamWorks TV
+https://cdn.sensa.com.ar/live/sta01/Dreamworks/live_dash_cld/Dreamworks.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d91b14935a3599f02e5dab71ef21dc:803e9152e9daf717b772399a97802076
-#EXTINF:-1 ch-number="205" tvg-id="Disney Channel HD.uy" tvg-logo="https://i.supaimg.com/3c250db6-a786-4b0b-8956-2266282c4113.png?raw=true" group-title="Infantil", Disney Channel
-https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=70d91b14935a3599f02e5dab71ef21dc&key%5B%5D=803e9152e9daf717b772399a97802076
+#EXTINF:-1 tvg-id="Disney Channel HD.uy" tvg-logo="https://i.supaimg.com/3c250db6-a786-4b0b-8956-2266282c4113.png?raw=true" group-title="Infantil", Disney Channel
+https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=18654944953b25a8b6392722a83db653:40bf6a9f05bbf0e06715ed5707f0edd2
-#EXTINF:-1 ch-number="206" tvg-id="Disney Jr HD.uy" tvg-logo="https://i.supaimg.com/9c1ec0c0-3a16-49f2-ab5e-cf431d78d114.png?raw=true" group-title="Infantil", Disney Jr.
-https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=18654944953b25a8b6392722a83db653&key%5B%5D=40bf6a9f05bbf0e06715ed5707f0edd2
+#EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-logo="https://i.supaimg.com/9c1ec0c0-3a16-49f2-ab5e-cf431d78d114.png?raw=true" group-title="Infantil", Disney Jr.
+https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4632100135488925c1d7e9895a26b99:1da478f687b850c61c9af61985d97c17
-#EXTINF:-1 ch-number="209" tvg-id="Nickelodeon.uy" tvg-logo="https://i.ibb.co/BHMw5CQm/Nickelodeon-Splat-2023-Sin-Fondo.webp" group-title="Infantil", Nickelodeon
-https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=YzE2YzAyM2YtMzg2YS00YzhmLTllYmUtOGY0NTU3YmFiZDQ5
+#EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://i.ibb.co/BHMw5CQm/Nickelodeon-Splat-2023-Sin-Fondo.webp" group-title="Infantil", Nickelodeon
+https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=040efb4ac8008085d09c17db602b24fa:1940b88114de13d460cb196326e638a7
-#EXTINF:-1 ch-number="210" tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png" group-title="Infantil", Nick Jr.
-https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=040efb4ac8008085d09c17db602b24fa&key%5B%5D=1940b88114de13d460cb196326e638a7
+#EXTINF:-1 tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png" group-title="Infantil", Nick Jr.
+https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #EXTINF:-1 tvg-id="X Kids TV" tvg-logo="https://i.ibb.co/Csbf7n9Z/Picsart-25-12-16-14-47-38-764.webp" group-title="Infantil", XKids TV
 https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
