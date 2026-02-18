@@ -5,41 +5,33 @@ Nacional
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6b17538810f1dd4485f174dcc204872c&key%5B%5D=3d5b973772433ce07c8999aa659ea48c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/whwZctgt/Picsart-25-08-23-19-06-59-423.webp" group-title="Nacional", Televisión Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?
-|referer=https://webclient.antinaplayplus.com.ar
+|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b5651806b42f087c58332b052de727c5&key%5B%5D=11901b35cc3e5aa73619f64d02c38a0f
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="America.uy" tvg-logo="https://i.ibb.co/5g7p7840/Picsart-25-10-11-02-27-53-703.webp" group-title="Nacional", América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c1f50e3f51216bdd1efcc99d3a27217&key%5B%5D=3441c930277d824402aafee446ba8f90
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://i.ibb.co/LD8sBBvR/Picsart-25-10-17-17-00-47-680.webp" group-title="Nacional", El Nueve Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9bb54fccffaddd38916e85c08de98cc9&key%5B%5D=d06f509c418eb6f1b2fc2b766445328b
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/spTpDCPj/Picsart-26-02-16-12-32-01-280.webp" group-title="Nacional", Telefe Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Canal 13 (Satelital).ar" tvg-logo="https://i.ibb.co/Pv89dgw7/Picsart-25-10-10-15-42-34-639.webp" group-title="Nacional", El Trece Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?
 |referer=https://webclient.antinaplayplus.com.ar
 
@@ -58,7 +50,7 @@ https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https:/
 #KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
 #EXTINF:-1 tvg-id="BRAVO TV.ar" tvg-logo="https://i.ibb.co/hJfNmX6Y/Picsart-25-07-06-16-17-14-365.webp" group-title="Nacional", Bravo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/&webtoken=1.0
+https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3225af993d7b4994b342c04a1db89c17:db73ec5dce14fe1c810aad0ad0165e68
