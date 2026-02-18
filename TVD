@@ -2608,6 +2608,7 @@ https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?|referer=https://webc
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dcd89337a501ab929c01a039774089dc&key%5B%5D=e96cc7be9139a8d581b3f5eebebfc10d
 #EXTINF:-1 tvg-id="KidOO" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2753,14 +2754,11 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999245
 #EXTINF:-1 tvg-id="Moni TV" tvg-logo="https://i.ibb.co/3XDJw6f/Picsart-26-02-06-01-33-03-875.webp" group-title="Infantil", Moni TV
 http://190.102.242.130:25461/monitvpo/monitvpo/1
 
-#EXTINF:-1 tvg-id="Captain Tsubasa" tvg-logo="https://i.ibb.co/Kz5drFXF/Fun-Box-TV-logo-svg.webp" group-title="Infantil", Captain Tsubasa
-https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channela-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Toon Goggles" tvg-logo="https://i.ibb.co/5gBhbBdr/Toon-Goggles-logo.webp" group-title="Infantil", Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 
-#EXTINF:-1 tvg-id="Dios Kids" tvg-logo="https://i.ibb.co/YTcwKzhK/Picsart-26-02-06-01-38-06-485.webp" group-title="Infantil", Dios Te Ve Kids
+#EXTINF:-1 tvg-id="Dios Kids" tvg-logo="https://i.ibb.co/YTcwKzhK/Picsart-26-02-06-01-38-06-485.webp" group-title="Infantil", Dios TeVe Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 Cine + Series
