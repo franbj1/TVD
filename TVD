@@ -221,7 +221,11 @@ https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https:/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=04983282c2fa819a08fa03a13fe4fdbe&key%5B%5D=4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 tvg-id="Futurock.ar" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://cdn.sensa.com.ar/output/SMT3/FTRd/output.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", Vale 97.5
+https://cdn.sensa.com.ar/output/SMT4/R1D/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
