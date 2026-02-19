@@ -167,7 +167,7 @@ https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://webc
 #KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
 #EXTINF:-1 tvg-id="T5 Nacional tvg-logo="https:///i.ibb.co/8DFBkB9r/Picsart-25-10-11-12-46-58-484.webp" group-title="Nacional", T5 Satelital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/T5/T5Satelital/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
