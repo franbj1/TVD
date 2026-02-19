@@ -924,6 +924,12 @@ KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://d2uls86ez1k5b9.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/caracol-tv/out/v1/bae7424cc2024a2c95a13ae0ec8f6d90/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6687308c9c969315c7ec77f6a9c46afb&keyid%5B%5D=b605a3b3ae2ee3d49e92c1f6424b5ba9
+#EXTINF:-1 tvg-id="Caracol Int.co" tvg-logo="https://i.ibb.co/Df6nY7Pr/Picsart-26-02-19-03-57-13-554.webp" group-title="TV Colombia", Caracol Internacional
+#EXTVLCOPT:http-user-agent="AgileTV/2.49.0 (Linux;Android 15) ExoPlayerLib/2.17.1
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=b47a19dbad3c4fc3a2b51ef8fadba715&keyid=7b044b595a2b90179a1dbce08bd3b098
 #EXTINF:-1 tvg-id="Caracol Noticias" tvg-logo="https://i.ibb.co/TxLZJS9d/Picsart-26-01-29-13-27-48-097.webp" group-title="TV Colombia", Noticias Caracol COL
 https://d2ltl67q3l75ps.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/ahora/out/v1/285068e6a16642d28f2b8856bb6337de/index.mpd
