@@ -235,12 +235,12 @@ https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS.mpd
 #EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/LATINA_TV.mpd
 
 #EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/LATINA_TV.mpd
 
 #EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
 https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
