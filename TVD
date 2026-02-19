@@ -230,7 +230,7 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/q3Sh0DLM/Picsart-25-11-04-17-11-44-504.webp" group-title="Nacional", Music Top
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS.mpd
 
 #EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
