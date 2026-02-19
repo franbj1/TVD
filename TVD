@@ -65,7 +65,7 @@ https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/tPxBGTyc/Picsart-25-08-14-00-52-10-301.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+https://bvclive2.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
@@ -235,7 +235,7 @@ https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS.mpd
 #EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/LATINA_TV.mpd
+https://bvclive2.boldmss.com/TIERRAMIA_TV/TIERRAMIA_TV.isml/TIERRAMIA_TV.mpd
 
 #EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
