@@ -3861,9 +3861,9 @@ https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://p
 #EXTINF:-1 tvg-id="Daystar" tvg-logo="https://i.ibb.co/PGSDz169/Picsart-26-02-16-13-09-42-306.webp" group-title="Religión", Daystar Español
 https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tele Vid.mx" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID https://dmuabtojs7ukn.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/Televid/out/v1/a5bab151f56e431b920e0f2d8d935a5a/index.mpd
+#EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID https://dmuabtojs7ukn.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/Televid/out/v1/a5bab151f56e431b920e0f2d8d935a5a/index.mpd
 
-#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.ibb.co/MkkSD0Tb/1771258471446.webp" group-title="Religión", Dios TV
+#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.ibb.co/VYRsqstw/Picsart-26-02-19-04-27-44-878.webp" group-title="Religión", Dios TV
 https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
