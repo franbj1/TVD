@@ -3240,35 +3240,41 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
-#EXTINF:-1 ch-number="342" tvg-id="Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" group-title="HBO + Universal", Universal TV
-https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="342" tvg-id="Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" group-title="HBO + Universal", Universal TV Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ca479ba8963f132c701eefaa0fb2b5a:bed235194da5e18108c12ef81b324a80
-#EXTINF:-1 ch-number="343" tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/40407e1e-81ce-4f35-9833-88e744e6398c.png?raw=true" group-title="HBO + Universal", Universal Premiere
-https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="343" tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/40407e1e-81ce-4f35-9833-88e744e6398c.png?raw=true" group-title="HBO + Universal", Universal Premiere Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a65e77fb5f2838b2f97c778cc571ac2:bc1f28b1ec619ed7da22fc9a80d3a35d
-#EXTINF:-1 ch-number="344" tvg-id="Universal Cinema.uy" tvg-logo="https://i.supaimg.com/de07cca5-10eb-479e-a9da-eb7da495691c.png?raw=true" group-title="HBO + Universal", Universal Cinema
-https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="344" tvg-id="Universal Cinema.uy" tvg-logo="https://i.supaimg.com/de07cca5-10eb-479e-a9da-eb7da495691c.png?raw=true" group-title="HBO + Universal", Universal Cinema Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94cdab8673fe231a8de57259eac5522b:1125d154649770cc122770531b8f8b30
-#EXTINF:-1 ch-number="345" tvg-id="Universal Comedy.uy" tvg-logo="https://i.supaimg.com/c102157a-9010-4539-98c5-446931802e19.png?raw=true" group-title="HBO + Universal", Universal Comedy
-https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="345" tvg-id="Universal Comedy.uy" tvg-logo="https://i.supaimg.com/c102157a-9010-4539-98c5-446931802e19.png?raw=true" group-title="HBO + Universal", Universal Comedy Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad1cfe8edbc35b5bab1a66a5ce298b3:25794ae1df1e9908d43a102481e7d311
-#EXTINF:-1 ch-number="346" tvg-id="Universal Crime.uy" tvg-logo="https://i.supaimg.com/66aaefcd-bb3a-4e3f-860c-8128545d8c46.png?raw=true" group-title="HBO + Universal", Universal Crime
-https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="346" tvg-id="Universal Crime.uy" tvg-logo="https://i.supaimg.com/66aaefcd-bb3a-4e3f-860c-8128545d8c46.png?raw=true" group-title="HBO + Universal", Universal Crime Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfbcbe656b34884d8f8dcc57d2dc51f8:d3e2c03003b443ccedd30d6442fbdd40
-#EXTINF:-1 ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://i.supaimg.com/ed080cc3-5744-48a3-90ab-45b361c479a6.png?raw=true" group-title="HBO + Universal ", Universal Reality
-https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://i.supaimg.com/ed080cc3-5744-48a3-90ab-45b361c479a6.png?raw=true" group-title="HBO + Universal ", Universal Reality Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
-#EXTINF:-1 tvg-id="Universal HD.uy" tvg-logo="https://i.supaimg.com/f6600496-5d89-4b71-9cb6-18732833b70c.png?raw=true" group-title="HBO + Universal",  Universal TV HD
+#EXTINF:-1 tvg-id="Universal HD.uy" tvg-logo="https://i.supaimg.com/f6600496-5d89-4b71-9cb6-18732833b70c.png?raw=true" group-title="HBO + Universal",  Universal TV HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd
@@ -3325,74 +3331,85 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16772
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
 #EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://i.supaimg.com/48104346-2418-42dd-b625-f8a4fb20742b.png" group-title="Cultura", Animal Planet Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
 #EXTINF:-1 tvg-id="Discovery HD.uy" tvg-logo="https://i.supaimg.com/ddde3064-56dc-4ef7-a6a9-a8a6eae2f099.png" group-title="Cultura", Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
 #EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.supaimg.com/a5e82da7-932b-4b49-aadd-4c4571df31ac.png" group-title="Cultura", Discovery H&H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f413ca6b4955bab7d89a3d24bbf8c98b:58168613434035ceb98e18815f97436c
 #EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.supaimg.com/9436b5e0-f5e5-4e08-ab5e-fa02aac3da35.png" group-title="Cultura", Investigación Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fcef63599e86bd9bd69644234020cd6:a82db4ee21e762bf6c734e71088511c0
 #EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-logo="https://i.ibb.co/ZpQD4Ywk/Picsart-26-01-30-01-44-04-154.webp" group-title="Cultura", Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a753ba6e6b313f129bd6591364680f07:f3f8e1a7633b262ca37ae8c35f3cd1e2
 #EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-logo="https://i.supaimg.com/3faea074-bc9a-46f5-be81-4fd9336b46c6.png" group-title="Cultura", Discovery Theater
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b94901c6926870683c5baebc63496653:f04da24cd7eba6dfdd0d66ea2a2feb24
 #EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://i.supaimg.com/49c5b9fc-37e7-4022-90c6-4ba0c407f674.png" group-title="Cultura", Discovery World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6902d50ec036d30146b12b927f4363d4:d40dc5eb6e0f8fbd58ab7dd6b91143b5
 #EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-logo="https://i.supaimg.com/5dad092e-9e78-49f2-9c3f-60192e86f400.png" group-title="Cultura", Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bed07c7fbbc6a3024baa8a44c052dd59:a632dead698156b3f2083076aa192b57
 #EXTINF:-1 tvg-id="TLC HD.uy" tvg-logo="https://i.supaimg.com/e99b6e64-308e-48e6-84a4-5c7d119bc85d.png" group-title="Cultura", TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
 #EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://i.supaimg.com/08790f2a-2922-4d8c-9fdd-82e89d39cac0.png" group-title="Cultura", (É) Entertaiment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0853b1d2af7d6ee5f7a8a571637ee6b7:f173ff83e8a50d7d0c363cde0c261dc6
 #EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://i.supaimg.com/40da4af8-ac76-46f9-bf79-e8cbfad1fcf6.png" group-title="Cultura", El Gourmet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-id="Tastemade.es" tvg-logo="https://i.ibb.co/gLrx79yZ/tastemadeespanol-color.webp" group-title="Cultura", Tastemade
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
 #EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://i.supaimg.com/fc21bc4b-2e65-4a0f-88ed-3d371ba2eed1.png" group-title="Cultura", Film & Arts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FilmArts/live_dash_cld/FilmArts.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b35977eefc0237bef0173f9b431a07:5402473ba47096edc01bb2334685d860
 #EXTINF:-1 tvg-id="Food Network HD.uy" tvg-logo="https://i.supaimg.com/cdb39ebe-21dc-4af6-bbbe-a1d49b3f3ded.png" group-title="Cultura", Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
 #EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.supaimg.com/e1d25030-7aed-4bdf-886e-5778f15c02ee.png" group-title="Cultura", HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
