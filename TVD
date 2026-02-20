@@ -2895,7 +2895,7 @@ https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https://web
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
-#EXTINF:-1 ch-number="341" tvg-id="TNT Series HD.uy" tvg-logo="https://i.ibb.co/x8m7yN5D/Picsart-25-09-20-14-14-01-281.webp" group-title="Cine + Series", TNT Series
+#EXTINF:-1 ch-number="341" tvg-id="TNT Series HD.uy" tvg-logo="https://i.ibb.co/r2NRvFFR/TNT-Series-2025-svg.webp" group-title="Cine + Series", TNT Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
@@ -2947,6 +2947,43 @@ https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
+#EXTINF:-1 group-title="Cine + Series" ch-number="317" tvg-id="Golden.ar" tvg-logo="https://i.ibb.co/Q7mNmdv8/Picsart-25-10-28-14-13-16-179.webp", Golden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#EXTINF:-1 ch-number="318" tvg-id="Golden Edge.ar" tvg-logo="https://i.ibb.co/gbf8MYM6/Picsart-25-10-28-14-26-50-541.webp" group-title="Cine + Series", Golden Edge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7mNmdv8/Picsart-25-10-28-14-13-16-179.webp" group-title="Cine + Series", Golden Multiplex
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/GOLDENMULTIPLEX/default.mpd
+
+#EXTINF:-1 tvg-id="Golden Plus.mx" tvg-logo="https://i.ibb.co/XZ4r7jp0/Picsart-25-11-06-02-50-20-396.webp" group-title="Cine + Series", Golden Plus
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3555824ee6a09d671a2362f37f5a39b9:f240e5b5e8a27ca8550f23a553451a90
+https://zap-live1-ott.izzigo.tv/out/u/dash/CDMX1/GOLDENPLUSHD/default.mpd
+
+#EXTINF:-1 tvg-id="Golden Premier HD.uy" tvg-logo="https://i.ibb.co/tTYXcPCt/large-large-1689826971-Golden-Premier2020-png-55867f88ed97ec1141ed81ba0f75a494-png-926c708c6f8ba6654.webp" group-title="Cine + Series", Golden Premier
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/GOLDENPREMIERHD/default.mpd
+
+#EXTINF:-1 tvg-id="Golden Premier 2 HD.uy" tvg-logo="https://i.ibb.co/CpJCtgDX/Picsart-25-10-28-14-11-56-954.webp" group-title="Cine + Series", Golden Premier 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=717324c2c4e6694baddacfd5fbd3a20f:aacbecfb7f1da441a420a582400102da
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENPREMIER2HRHD/default.mpd
+
+
 #EXTINF:-1 tvg-id="Netflix" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/gM9TJfFx/image-43063-converted-To-Png.webp" group-title="Cine + Series", Netflix
 https://cdn.cvattv.com.ar/live/c7eds/Placa_Netflix/SA_Live_dash_cenc/Placa_Netflix.mpd
 
@@ -2978,40 +3015,6 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
-#EXTINF:-1 group-title="Cine + Series" ch-number="317" tvg-id="Golden.ar" tvg-logo="https://i.ibb.co/Q7mNmdv8/Picsart-25-10-28-14-13-16-179.webp", Golden
-https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
-#EXTINF:-1 ch-number="318" tvg-id="Golden Edge.ar" tvg-logo="https://i.ibb.co/gbf8MYM6/Picsart-25-10-28-14-26-50-541.webp" group-title="Cine + Series", Golden Edge
-https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7mNmdv8/Picsart-25-10-28-14-13-16-179.webp" group-title="Cine + Series", Golden Multiplex
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/GOLDENMULTIPLEX/default.mpd
-
-#EXTINF:-1 tvg-id="Golden Plus.mx" tvg-logo="https://i.ibb.co/XZ4r7jp0/Picsart-25-11-06-02-50-20-396.webp" group-title="Cine + Series", Golden Plus
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3555824ee6a09d671a2362f37f5a39b9:f240e5b5e8a27ca8550f23a553451a90
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/GOLDENPLUSHD/default.mpd
-
-#EXTINF:-1 tvg-id="Golden Premier HD.uy" tvg-logo="https://i.ibb.co/tTYXcPCt/large-large-1689826971-Golden-Premier2020-png-55867f88ed97ec1141ed81ba0f75a494-png-926c708c6f8ba6654.webp" group-title="Cine + Series", Golden Premier
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/GOLDENPREMIERHD/default.mpd
-
-#EXTINF:-1 tvg-id="Golden Premier 2 HD.uy" tvg-logo="https://i.ibb.co/CpJCtgDX/Picsart-25-10-28-14-11-56-954.webp" group-title="Cine + Series", Golden Premier 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=717324c2c4e6694baddacfd5fbd3a20f:aacbecfb7f1da441a420a582400102da
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENPREMIER2HRHD/default.mpd
 
 #EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multi Premier
 #EXTVLCOPT:network-caching=1000
