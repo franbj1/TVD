@@ -2871,28 +2871,9 @@ https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?|ref
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/FLf24tF5/Picsart-25-08-07-11-15-29-285.webp" group-title="Cine + Series", FX
+#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://webclient.antinaplayplus.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
-#EXTINF:-1 tvg-id="MORBIDO TV" tvg-logo="https://i.ibb.co/Kpd14Lfy/Picsart-25-11-28-02-26-26-523.webp" group-title="Cine + Series", Morbido TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
-
-#EXTINF:-1 tvg-id="Netflix" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/gM9TJfFx/image-43063-converted-To-Png.webp" group-title="Cine + Series", Netflix
-https://cdn.cvattv.com.ar/live/c7eds/Placa_Netflix/SA_Live_dash_cenc/Placa_Netflix.mpd
-
-#EXTINF:-1 tvg-id="Amazon Prime" tvg-logo="https://i.postimg.cc/sDrw13K1/worldtv2.png" group-title="Cine + Series", Amazon Prime https://cdn.cvattv.com.ar/live/c7eds/Placa_amazon/SA_Live_dash_cenc/Placa_amazon.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM9TJfFx/image-43063-converted-To-Png.webp" group-title="Cine + Series", Disney Plus
-https://cdn.cvattv.com.ar/live/c7eds/Placa_Disney_Plus/SA_Live_dash_cenc/Placa_Disney_Plus.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
-#EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-logo="https://i.ibb.co/x8Xt4nwG/Picsart-26-02-11-13-18-09-062.webp" group-title="Cine + Series", My Times Movie Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
@@ -2911,6 +2892,26 @@ https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://web
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.ibb.co/pvV43Wt9/Picsart-25-09-11-20-00-04-010.webp" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
+#EXTINF:-1 tvg-id="MORBIDO TV" tvg-logo="https://i.ibb.co/Kpd14Lfy/Picsart-25-11-28-02-26-26-523.webp" group-title="Cine + Series", Morbido TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#EXTINF:-1 tvg-id="Netflix" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/gM9TJfFx/image-43063-converted-To-Png.webp" group-title="Cine + Series", Netflix
+https://cdn.cvattv.com.ar/live/c7eds/Placa_Netflix/SA_Live_dash_cenc/Placa_Netflix.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDrw13K1/worldtv2.png" group-title="Cine + Series", Amazon Prime
+https://cdn.cvattv.com.ar/live/c7eds/Placa_amazon/SA_Live_dash_cenc/Placa_amazon.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM9TJfFx/image-43063-converted-To-Png.webp" group-title="Cine + Series", Disney Plus
+https://cdn.cvattv.com.ar/live/c7eds/Placa_Disney_Plus/SA_Live_dash_cenc/Placa_Disney_Plus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
+#EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-logo="https://i.ibb.co/x8Xt4nwG/Picsart-26-02-11-13-18-09-062.webp" group-title="Cine + Series", My Times Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
