@@ -3152,80 +3152,88 @@ HBO + Universal
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dead023f7a81634339ae639990c1517a:ba970222b4466c61d0deccc67ab34452
-#EXTINF:-1 ch-number="319" tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="HBO + Universal", HBO 
-https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="319" tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="HBO + Universal", HBO Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f962b76c3693dafee011746344b5e823:1ac863f1633dfc2d3db069f3dd9a8145
-#EXTINF:-1 ch-number="320" tvg-id="HBO 2 HD.uy" tvg-logo="https://i.ibb.co/F4GfYRNj/Picsart-25-08-07-11-05-53-939.webp" group-title="HBO + Universal", HBO 2
-https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="320" tvg-id="HBO 2 HD.uy" tvg-logo="https://i.ibb.co/F4GfYRNj/Picsart-25-08-07-11-05-53-939.webp" group-title="HBO + Universal", HBO 2 Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
-#EXTINF:-1 ch-number="321" tvg-id="HBO Plus HD.uy" tvg-logo="https://i.ibb.co/LXr6XqL3/Picsart-25-08-07-10-23-54-566.webp" group-title="HBO + Universal", HBO Plus
-https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="321" tvg-id="HBO Plus HD.uy" tvg-logo="https://i.ibb.co/LXr6XqL3/Picsart-25-08-07-10-23-54-566.webp" group-title="HBO + Universal", HBO Plus Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
-#EXTINF:-1 ch-number="322" tvg-id="HBO Family.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="HBO + Universal", HBO Family
-https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="322" tvg-id="HBO Family.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="HBO + Universal", HBO Family Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bea5da44f49a7e30d21a6e0a2fddc225:0185b209bf50e2a1b1cfd416db5177de
-#EXTINF:-1 ch-number="323" tvg-id="HBO Mundi HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="HBO + Universal", HBO Mundi
-https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="323" tvg-id="HBO Mundi HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="HBO + Universal", HBO Mundi Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5cf1ad9c7bc0a20051535aff63a5c04:019ea0de590a01385f50ae3fe090d19e
-#EXTINF:-1 ch-number="324" tvg-id="HBO POP HD.uy" tvg-logo="https://i.ibb.co/0jy8QdWH/Picsart-25-08-07-10-49-29-418.webp" group-title="HBO + Universal", HBO Pop
-https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="324" tvg-id="HBO POP HD.uy" tvg-logo="https://i.ibb.co/0jy8QdWH/Picsart-25-08-07-10-49-29-418.webp" group-title="HBO + Universal", HBO Pop Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf48ba89e03b41e52882a7e155facd9c:50103d8a819d4faed4e44dc6cd908066
-#EXTINF:-1 ch-number="325" tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" group-title="HBO + Universal", HBO Signature
-https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="325" tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" group-title="HBO + Universal", HBO Signature Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33d4823ed2cae55c19fa0a7c20fa4235:a64c4d55edb20046802e76332c8aa75e
-#EXTINF:-1 ch-number="326" tvg-id="HBO Xtreme HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png" group-title="HBO + Universal", HBO Xtreme
-https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 ch-number="326" tvg-id="HBO Xtreme HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png" group-title="HBO + Universal", HBO Xtreme Sensa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
-#EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://i.supaimg.com/a79c6c90-de9a-478d-8a82-184fe96cf4bc.png?raw=true" group-title="HBO + Universal", HBO HD
+#EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://i.supaimg.com/a79c6c90-de9a-478d-8a82-184fe96cf4bc.png?raw=true" group-title="HBO + Universal", HBO HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
 https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
 
-#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://i.supaimg.com/b0de5144-8b1e-45e2-bf13-845e62363759.png?raw=true" group-title="HBO + Universal", HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://i.supaimg.com/b0de5144-8b1e-45e2-bf13-845e62363759.png?raw=true" group-title="HBO + Universal", HBO 2 HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
 https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
 
-#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.supaimg.com/a72bbd7d-f657-43f0-8bec-e8046efd100d.png?raw=true" group-title="HBO + Universal", HBO Plus HD
+#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.supaimg.com/a72bbd7d-f657-43f0-8bec-e8046efd100d.png?raw=true" group-title="HBO + Universal", HBO Plus HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
 
-#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://i.supaimg.com/b9ca9d5f-b651-4d35-bdb6-be60d4cd78ab.png?raw=true" group-title="HBO + Universal", HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://i.supaimg.com/b9ca9d5f-b651-4d35-bdb6-be60d4cd78ab.png?raw=true" group-title="HBO + Universal", HBO Family HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://i.supaimg.com/357f70bb-98db-4dde-be39-ef3e117e41ad.png?raw=true" group-title="HBO + Universal", HBO Mundi HD
+#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://i.supaimg.com/357f70bb-98db-4dde-be39-ef3e117e41ad.png?raw=true" group-title="HBO + Universal", HBO Mundi HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://i.supaimg.com/e313afb8-f818-415a-8474-1f30948c14f5.png?raw=true" group-title="HBO + Universal", HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://i.supaimg.com/e313afb8-f818-415a-8474-1f30948c14f5.png?raw=true" group-title="HBO + Universal", HBO Signature HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd
 
-#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://i.supaimg.com/45163b90-d354-4245-bc80-6c6e352a81c1.png?raw=true" group-title="HBO + Universal", HBO Pop HD
+#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://i.supaimg.com/45163b90-d354-4245-bc80-6c6e352a81c1.png?raw=true" group-title="HBO + Universal", HBO Pop HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd
 
-#EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://i.supaimg.com/fe9b6d39-bb48-4f99-a0cb-b0cdedc6201e.png?raw=true" group-title="HBO + Universal", HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://i.supaimg.com/fe9b6d39-bb48-4f99-a0cb-b0cdedc6201e.png?raw=true" group-title="HBO + Universal", HBO Xtreme HD Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd
