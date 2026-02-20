@@ -2786,7 +2786,8 @@ Cine + Series
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
 #EXTINF:-1 tvg-id="AXN HD.uy" tvg-logo="https://i.ibb.co/8DYmtZ2R/SNAXN.webp" group-title="Cine + Series", AXN
-https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68fc78cb6fe580c35d269da87a471eb0:2bd623220a247d95d6900cea612769df
@@ -2797,17 +2798,20 @@ https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd?|referer=https://web
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=36ae8a96a35562af4c5469cad84bfe68:24eb15ff1f525103aadfabd1908ce366
 #EXTINF:-1 tvg-id="Mas Chic.uy" tvg-logo="https://i.ibb.co/twpbWkJM/Picsart-25-11-01-14-28-35-708.webp" group-title="Cine + Series", AMC Series
-https://cdn.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
 #EXTINF:-1 tvg-id="Cinecanal HD.uy" tvg-logo="https://i.ibb.co/21nxnvkj/Picsart-25-10-27-20-46-59-125.webp" group-title="Cine + Series", Cinecanal
-https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine + Series", Cinemax
-https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?||referer=https://webclient.antinaplayplus.com.ar
 
 #EXTINF:-1 tvg-id="Cinelatino.py" tvg-logo="https://i.ibb.co/v6hxbbyr/1757691917770.webp" group-title="Cine + Series", Cine Latino
 #EXTVLCOPT:network-caching=1000
@@ -2820,27 +2824,29 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
 #EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="Cine + Series", DHE
-https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd?||referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eed9a193b3c6167b823030d788d771a4:d21daeba7e513d9f3ba714deeddd0630
 #EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" group-title="Cine + Series", Comedy Central
-https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd?||referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
 #EXTINF:-1 tvg-id="De Pelicula.ar" tvg-logo="https://i.ibb.co/ZpjThFDg/Picsart-25-08-07-03-45-46-911.png" group-title="Cine + Series", De Pelicula
-https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?||referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
 #EXTINF:-1 tvg-id="De Pelicula Plus.mx" tvg-logo="https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png" group-title="Cine + Series", De Pelicula Plus
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/DEPELICULAHD/default.mpd
+https://zap-live1-ott.izzigo.tv/out/u/dash/CDMX1/DEPELICULAHD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJ79yTMd/Picsart-25-11-06-21-17-42-424.webp" group-title="Cine + Series", De Pelicula Clasico
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/2625
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
