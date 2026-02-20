@@ -1194,27 +1194,27 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/ONCENINASYNINOSSD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=685296908106c98b843ec0ecab5e53bd:feda5f6bdf622bf52e3991cfcf47f842
 #EXTINF:-1 tvg-id="APRENDE+.mx" tvg-logo="https://i.postimg.cc/rm2FnJbR/aprende-mas.png" group-title="TV México", Aprende + MX
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/APRENDEMASSD/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/APRENDE-MAS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74fcb59a5c38a6ee59a13aa32585eb02:483a204a347bc45bc3f3ab27874bc564
 #EXTINF:-1 tvg-id="EL HERALDO.mx" tvg-logo="https://i.postimg.cc/nzvqr4cg/heraldo-television.png" group-title="TV México", Heraldo Televisión MX
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/HERALDOTVHD/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/HERALDO-TV-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef2bd499aa32fa45be33013d6b035abc:1f0d60ad49ef43bbb03b392e05a37200
 #EXTINF:-1 tvg-id="TV UNAM.mx" tvg-logo="https://i.ibb.co/DDh6kVgF/Picsart-25-11-13-17-33-49-057.webp" group-title="TV México", TV Unam MX
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/TVUNAMSD/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/TV-UNAM-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7399e4ec95e1fd86b61da263476c34:06c2a7b4d56dabbf050d51f451dd72ba
 #EXTINF:-1 tvg-id="MX NUESTRO CINE.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MX_Nuestro_Cine_2022~.png/revision/latest/scale-to-width-down/200?cb=20250512015312" group-title="TV México", MX Nuestro Cine MX
-https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=024bb38ecf7831a54d6ff8eb9d9c5e6a:031599eff8092a9a9428363fb4356d53
 #EXTINF:-1 tvg-id="Telefe HD.uy" tvg-logo="https://i.ibb.co/zMCFw8R/Picsart-25-11-10-03-45-20-539.webp" group-title="TV México", Telefe MX
-https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/TELEFE-HD/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/TELEFE-RDF-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e93bd99b1b0550ca60a1516f0c2ded:06835565e588e72d6c60512dff9e24e6
@@ -1229,7 +1229,7 @@ https://zap-live-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=30a744a8c9c6fa00f9f05c83c27e4b4d:402d81ac9059cfdeb119b452bafb8882
 #EXTINF:-1 tvg-id="Excelsior TV.mx" tvg-logo="https://i.postimg.cc/g2gfnhBM/excelsior-tv.png" group-title="TV México", Excelsior MX
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/EXCELSIORHD/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/EXCELSIOR-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a154c749417e9045df2b3dd974e0d9:08d84cb2d8bd21b28b765d4a187f9e13
@@ -1240,7 +1240,7 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/CVSHOPPINGSD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
 #EXTINF:-1 tvg-id="ESPN 2.mx" tvg-logo="https://i.ibb.co/S7RNG6JL/Picsart-25-10-19-02-29-52-278.webp" group-title="TV México", ESPN MX
-https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/ESPN-HDH-265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
