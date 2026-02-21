@@ -1214,7 +1214,7 @@ https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=024bb38ecf7831a54d6ff8eb9d9c5e6a:031599eff8092a9a9428363fb4356d53
-#EXTINF:-1 tvg-id="Telefe HD.uy" tvg-logo="https://i.ibb.co/zMCFw8R/Picsart-25-11-10-03-45-20-539.webp" group-title="TV México", Telefe
+#EXTINF:-1 tvg-id="Telefe HD.uy" tvg-logo="https://i.ibb.co/PGcswc0w/Picsart-26-02-21-16-31-19-487.webp" group-title="TV México", Telefe Internacional
 https://nog-live1-ott.izzigo.tv/11/out/u/dash/TELEFE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2767,6 +2767,9 @@ https://nog-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
+#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.ibb.co/gbRdzk0H/Picsart-25-11-28-04-52-49-368.webp" group-title="Infantil", Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/x02rysry6ojueoad66u7f/etc.json?rlkey=ol31gg8vrkq7fjkie3np6kcpy&st=nv2yxn0h&dl=0
 #EXTINF:-1 tvg-id="ETC TV HD.cl" tvg-logo="https://i.ibb.co/mF4sn5yB/ETC-2016-actual.webp" group-title="Infantil", ETC (Geo)🇨🇱
@@ -3091,9 +3094,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Placa_Disney_Plus/SA_Live_dash_cenc/Placa_D
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 #EXTINF:-1 tvg-id="Espacio HD.uy" tvg-logo="https://i.ibb.co/WWvfFKQS/Picsart-25-10-27-21-14-34-583.webp" group-title="Cine + Series", Space (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=space&token=3576520243
-
-#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.ibb.co/gbRdzk0H/Picsart-25-11-28-04-52-49-368.webp" group-title="Cine + Series", Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/PzsfnJg0/Picsart-25-11-17-19-20-11-799.webp" group-title="Cine + Series", Big TV
 #EXTVLCOPT:network-caching=1000
