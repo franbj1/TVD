@@ -2896,7 +2896,7 @@ https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?|refer
 #EXTINF:-1 tvg-id="De Pelicula Plus.mx" tvg-logo="https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png" group-title="Cine + Series", De Pelicula Plus
 https://zap-live1-ott.izzigo.tv/out/u/dash/CDMX1/DEPELICULAHD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ79yTMd/Picsart-25-11-06-21-17-42-424.webp" group-title="Cine + Series", De Pelicula Clasico
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NT6BcZR/Picsart-26-02-21-16-00-13-941.webp" group-title="Cine + Series", De Pelicula Clasico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/2625
 
