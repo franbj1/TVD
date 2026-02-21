@@ -924,7 +924,7 @@ TV Colombia
 
 KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=f9152f20917b401a89d05c188ab49a99&keyid=2d883dc648556ccb6b9071ac7ef99eeb
-#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/5xxVjzJJ/Picsart-26-01-29-12-49-35-106.webp" group-title="TV Colombia", Caracol Televisión COL
+#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/5xxVjzJJ/Picsart-26-01-29-12-49-35-106.webp" group-title="TV Colombia", Caracol Televisión
 https://d2uls86ez1k5b9.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/caracol-tv/out/v1/bae7424cc2024a2c95a13ae0ec8f6d90/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -935,100 +935,100 @@ https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=b47a19dbad3c4fc3a2b51ef8fadba715&keyid=7b044b595a2b90179a1dbce08bd3b098
-#EXTINF:-1 tvg-id="Caracol Noticias" tvg-logo="https://i.ibb.co/TxLZJS9d/Picsart-26-01-29-13-27-48-097.webp" group-title="TV Colombia", Noticias Caracol COL
+#EXTINF:-1 tvg-id="Caracol Noticias" tvg-logo="https://i.ibb.co/TxLZJS9d/Picsart-26-01-29-13-27-48-097.webp" group-title="TV Colombia", Noticias Caracol
 https://d2ltl67q3l75ps.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/ahora/out/v1/285068e6a16642d28f2b8856bb6337de/index.mpd
 
-#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN COL
-https://conect.calcioitalia.live/hls/3beae1108811bdc940b86ae92005d10e.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN
+http://108.181.135.111:9090/279393_.m3u8
 
-#EXTINF:-1 tvg-id="RCN Noticias.co" tvg-logo="https://i.ibb.co/p6N0X82c/Picsart-26-01-29-13-34-13-542.webp" group-title="TV Colombia", RCN Noticias COL
+#EXTINF:-1 tvg-id="RCN Noticias.co" tvg-logo="https://i.ibb.co/p6N0X82c/Picsart-26-01-29-13-34-13-542.webp" group-title="TV Colombia", RCN Noticias
 https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.supaimg.com/229f4d3f-8be3-416a-b851-44676528c4a8.png" group-title="TV Colombia", RCN Más COL
+#EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.supaimg.com/229f4d3f-8be3-416a-b851-44676528c4a8.png" group-title="TV Colombia", RCN Más
 https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.supaimg.com/f996cb17-f180-42fc-89c6-821307522ffc.png" group-title="TV Colombia", RCN Novelas
 https://rcntv-rcnnovelas-2-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno COL
+#EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno
 https://val01.ride.com.ar/tvmia/bn14/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp" group-title="TV Colombia", Trece COL
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp" group-title="TV Colombia", Trece
 https:/val01.ride.com.ar/tvmia/bn27/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GQLMn7C4/Picsart-26-01-23-13-20-19-431.webp" group-title="TV Colombia", Capital COL
+#EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GQLMn7C4/Picsart-26-01-23-13-20-19-431.webp" group-title="TV Colombia", Capital
 https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 
-#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV COL
+#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
 https://val01.ride.com.ar/tvmia/bn11/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", Cali TV COL
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Tiempo Television.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", El Tiempo TV COL
+#EXTINF:-1 tvg-id="El Tiempo Television.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", El Tiempo TV
 https:/val03.ride.com.ar/tvmia/bn12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia COL
+#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia
 https:/val01.ride.com.ar/tvmia/bn01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.ibb.co/N6FWJv99/Picsart-26-01-23-22-59-07-822.webp" group-title="TV Colombia", Telepacifico COL
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.ibb.co/N6FWJv99/Picsart-26-01-23-22-59-07-822.webp" group-title="TV Colombia", Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.ibb.co/210Snk85/Picsart-26-01-23-17-33-56-352.webp" group-title="TV Colombia", NTN24 COL
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.ibb.co/210Snk85/Picsart-26-01-23-17-33-56-352.webp" group-title="TV Colombia", NTN24
 https://val04.ride.com.ar/tvmia/bn04/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.ibb.co/zTrVy4VP/1769223902170.webp" group-title="TV Colombia", Teleantioquia COL
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.ibb.co/zTrVy4VP/1769223902170.webp" group-title="TV Colombia", Teleantioquia
 https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
-#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co/TxzjXJpw/Picsart-25-10-26-11-31-57-310.webp" group-title="TV Colombia", ESPN COL
+#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co/TxzjXJpw/Picsart-25-10-26-11-31-57-310.webp" group-title="TV Colombia", ESPN
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/gMhwd10x/Picsart-25-10-26-11-33-08-339.webp" group-title="TV Colombia", ESPN 2 COL
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/gMhwd10x/Picsart-25-10-26-11-33-08-339.webp" group-title="TV Colombia", ESPN 2
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66 
-#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co/8nn9Ch3n/Picsart-25-10-26-11-38-40-118.webp" group-title="TV Colombia", ESPN 3 COL
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co/8nn9Ch3n/Picsart-25-10-26-11-38-40-118.webp" group-title="TV Colombia", ESPN 3
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" group-title="TV Colombia" tvg-logo="https://i.ibb.co/DsMBHS6/Picsart-25-10-26-11-43-02-216.webp" ,ESPN 4 COL
+#EXTINF:-1 tvg-id="ESPN 4 HD.uy" group-title="TV Colombia" tvg-logo="https://i.ibb.co/DsMBHS6/Picsart-25-10-26-11-43-02-216.webp" ,ESPN 4
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.ibb.co/jkWRpVhH/Picsart-25-10-26-11-47-17-617.webp" group-title="TV Colombia", ESPN 5 COL
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.ibb.co/jkWRpVhH/Picsart-25-10-26-11-47-17-617.webp" group-title="TV Colombia", ESPN 5
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
-#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.ibb.co/xKyfrykc/Picsart-25-10-26-11-48-30-478.webp" group-title="TV Colombia", ESPN 6 COL
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.ibb.co/xKyfrykc/Picsart-25-10-26-11-48-30-478.webp" group-title="TV Colombia", ESPN 6
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
-#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/7xzWyjpn/Picsart-25-10-26-11-56-28-801.webp" group-title="TV Colombia", ESPN 7 COL
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/7xzWyjpn/Picsart-25-10-26-11-56-28-801.webp" group-title="TV Colombia", ESPN 7
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/ZR6Vdqfg/Picsart-25-10-24-11-33-49-304.webp" group-title="TV Colombia", Tigo Sports Eventos COL
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/ZR6Vdqfg/Picsart-25-10-24-11-33-49-304.webp" group-title="TV Colombia", Tigo Sports Eventos
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2747488564e7e1f8e0f8bb25d349e3ba:edbcebc4f3b9ac228eed0cc29739bc0c
-#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.ibb.co/GvTYbZqB/Picsart-25-11-09-16-44-39-656.webp" group-title="TV Colombia", Win Sports COL
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.ibb.co/GvTYbZqB/Picsart-25-11-09-16-44-39-656.webp" group-title="TV Colombia", Win Sports
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
-#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp" group-title="TV Colombia", Win + Fútbol COL
+#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp" group-title="TV Colombia", Win + Fútbol
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
 
 TV Ecuador
