@@ -2649,7 +2649,7 @@ Infantil
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/BITMEHD/default.mpd
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/BITME-HD/default.mpd
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
@@ -2759,7 +2759,7 @@ https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
 #EXTINF:-1 tvg-id="EDYE TV.mx" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
