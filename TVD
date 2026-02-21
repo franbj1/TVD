@@ -2960,6 +2960,8 @@ https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://web
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/4g9Z2HmF/Warner-TV-logo-svg.webp" group-title="Cine + Series", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://link-bee.cdn.rcs.net.ar/mnp/warner/output.mpd
+
 https://mplus.pontiscloud.com/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2967,6 +2969,11 @@ https://mplus.pontiscloud.com/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.ibb.co/pvV43Wt9/Picsart-25-09-11-20-00-04-010.webp" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
+#EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-logo="https://i.ibb.co/x8Xt4nwG/Picsart-26-02-11-13-18-09-062.webp" group-title="Cine + Series", My Times Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a1e766119c3fb03b095c8e7f0e63139:03932364e1ff6ab68cdc2c1969aee6a5
@@ -3079,11 +3086,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Placa_amazon/SA_Live_dash_cenc/Placa_amazon
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM9TJfFx/image-43063-converted-To-Png.webp" group-title="Cine + Series", Disney Plus
 https://cdn.cvattv.com.ar/live/c7eds/Placa_Disney_Plus/SA_Live_dash_cenc/Placa_Disney_Plus.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
-#EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-logo="https://i.ibb.co/x8Xt4nwG/Picsart-26-02-11-13-18-09-062.webp" group-title="Cine + Series", My Times Movie Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
