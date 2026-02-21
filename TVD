@@ -1421,6 +1421,8 @@ TV Peru
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/DfZq3yKV/Picsart-25-09-24-03-06-41-877.webp" group-title="TV Peru", América TV PE
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8?uid=6236042
+
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/america.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina PE
