@@ -2894,7 +2894,7 @@ https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?|refer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
 #EXTINF:-1 tvg-id="De Pelicula Plus.mx" tvg-logo="https://i.ibb.co/FkmYB8Sb/Picsart-26-02-21-16-08-32-760.webp" group-title="Cine + Series", De Pelicula Plus
-https://zap-live1-ott.izzigo.tv/out/u/dash/DE-PELICULA-PUS-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NT6BcZR/Picsart-26-02-21-16-00-13-941.webp" group-title="Cine + Series", De Pelicula Clasico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
