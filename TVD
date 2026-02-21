@@ -2919,6 +2919,12 @@ https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer
 https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
+#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/4g9Z2HmF/Warner-TV-logo-svg.webp" group-title="Cine + Series", Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.ibb.co/pvV43Wt9/Picsart-25-09-11-20-00-04-010.webp" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -2929,12 +2935,6 @@ https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https:/
 #EXTINF:-1 tvg-id="USA.uy" tvg-logo="https://i.ibb.co/JXRQK48/Picsart-26-02-20-12-39-19-030.webp" group-title="Cine + Series", USA Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|referer=https://webclient.antinaplayplus.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Cine + Series", Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
@@ -3102,12 +3102,6 @@ https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlay" tvg-logo="https://i.ibb.co/chdDNd7C/Picsart-25-11-28-23-33-52-688.webp" group-title="Cine + Series", Oli
-https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="FMH Movies" tvg-logo="https://i.ibb.co/HTQDgny6/Picsart-25-11-28-14-24-54-681.webp" group-title="Cine + Series", FMH Movies
-http://45.173.201.51:4000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="Cine + Series", Net Channel
 https://media.streambrothers.com:19360/8158/8158.m3u8
