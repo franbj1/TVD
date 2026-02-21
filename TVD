@@ -281,7 +281,7 @@ https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/sxpdi5lscc50lks78r46h/elnueve-sensa.json?rlkey=zsrzqe4ovmmf511502ujcyfqa&st=abjeyeqj&dl=0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c1f50e3f51216bdd1efcc99d3a27217&key%5B%5D=3441c930277d824402aafee446ba8f90
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="TV Digital", El Nueve
 https://mplus.pontiscloud.com/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
