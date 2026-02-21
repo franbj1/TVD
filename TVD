@@ -1579,6 +1579,39 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 #EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor PE
 https://live.obslivestream.com/telecolormux/index.m3u8
 
+#EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="TV Peru", Coco TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-id="Retro Cinema.py" tvg-logo="https://i.ibb.co/G3W12yyT/Picsart-25-11-26-12-50-50-196.webp" group-title="TV Peru", West Cine
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://38.199.6.1:17001/play/a0wn/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine35mm" tvg-logo="https://i.ibb.co/ksy7c8Rm/Picsart-25-11-28-02-39-10-065.webp" group-title="TV Peru", Cine 35 mm
+https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="TV Peru", Crom TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+#EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="TV Peru", Net Channel
+https://media.streambrothers.com:19360/8158/8158.m3u8
+
+#EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="TV Peru", WOW Movies
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nexxo TV" tvg-logo="https://i.ibb.co/W4hgzW1h/1764397326517.webp" group-title="TV Peru", Nexxo TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
+#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/5WY3ydKK/Picsart-25-11-29-03-16-56-757.webp" group-title="TV Peru", Retro TV
+https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="TV Peru", Retro Cine TV
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKwY11nT/Picsart-25-10-18-17-54-49-553.webp" group-title="TV Peru", L1 PE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36"
@@ -2834,6 +2867,11 @@ https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=htt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36"
 https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzGaEbHYLfeHcvAQwBj_t_Vg/ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="Cine + Series", Cinerama
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
 #EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="Cine + Series", DHE
@@ -2922,7 +2960,7 @@ https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://web
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/4g9Z2HmF/Warner-TV-logo-svg.webp" group-title="Cine + Series", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://mplus.pontiscloud.com/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
@@ -3055,11 +3093,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=space&token=3576520243
 #EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.ibb.co/gbRdzk0H/Picsart-25-11-28-04-52-49-368.webp" group-title="Cine + Series", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="Cine + Series", Cinerama
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/PzsfnJg0/Picsart-25-11-17-19-20-11-799.webp" group-title="Cine + Series", Big TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
@@ -3074,49 +3107,6 @@ http://179.49.163.34:45000/play/a016/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://181.78.109.48:9998/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-id="Varied TV" tvg-logo="https://i.ibb.co/Y4xxkd64/Picsart-25-11-25-04-01-47-790.webp" group-title="Cine + Series", Next
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-id="Retro Cinema.py" tvg-logo="https://i.ibb.co/2Y1NGznL/Picsart-25-11-25-04-14-10-280.webp" group-title="Cine + Series", Retro Cinema
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Cine + Series", Coco TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1 tvg-id="Retro Cinema.py" tvg-logo="https://i.ibb.co/G3W12yyT/Picsart-25-11-26-12-50-50-196.webp" group-title="Cine + Series", West Cine
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://38.199.6.1:17001/play/a0wn/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine35mm" tvg-logo="https://i.ibb.co/ksy7c8Rm/Picsart-25-11-28-02-39-10-065.webp" group-title="Cine + Series", Cine 35 mm
-https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="Cine + Series", Crom TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-
-#EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="Cine + Series", Net Channel
-https://media.streambrothers.com:19360/8158/8158.m3u8
-
-#EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="Cine + Series", WOW Movies
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nexxo TV" tvg-logo="https://i.ibb.co/W4hgzW1h/1764397326517.webp" group-title="Cine + Series", Nexxo TV
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-
-#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/5WY3ydKK/Picsart-25-11-29-03-16-56-757.webp" group-title="Cine + Series", Retro TV
-https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="Cine + Series", Retro Cine TV
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.ibb.co/wFhLKPGj/1761779703690.webp" group-title="Cine + Series", Retro Plus
 https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
