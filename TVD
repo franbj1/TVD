@@ -2864,8 +2864,8 @@ https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=htt
 
 #EXTINF:-1 tvg-id="Cinelatino.py" tvg-logo="https://i.ibb.co/v6hxbbyr/1757691917770.webp" group-title="Cine + Series", Cine Latino
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36"
-https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzGaEbHYLfeHcvAQwBj_t_Vg/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://181.78.211.244:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="Cine + Series", Cinerama
 #EXTVLCOPT:network-caching=1000
