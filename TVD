@@ -2649,7 +2649,7 @@ Infantil
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
-https://nog-live1-ott.izzigo.tv/12/out/u/dash/BITME-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/BIT-ME-HD/default.mpd
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
@@ -2721,7 +2721,7 @@ https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_key=d4632100135488925c1d7e9895a26b99:1da478f687b850c61c9af61985d97c17
 #EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://i.ibb.co/BHMw5CQm/Nickelodeon-Splat-2023-Sin-Fondo.webp" group-title="Infantil", Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=040efb4ac8008085d09c17db602b24fa&key%5B%5D=1940b88114de13d460cb196326e638a7
@@ -2769,12 +2769,12 @@ https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/x02rysry6ojueoad66u7f/etc.json?rlkey=ol31gg8vrkq7fjkie3np6kcpy&st=nv2yxn0h&dl=0
-#EXTINF:-1 tvg-id="ETC TV HD.cl" tvg-logo="https://i.ibb.co/mF4sn5yB/ETC-2016-actual.webp" group-title="Infantil", ETC
+#EXTINF:-1 tvg-id="ETC TV HD.cl" tvg-logo="https://i.ibb.co/mF4sn5yB/ETC-2016-actual.webp" group-title="Infantil", ETC (Geo)🇨🇱
 https://cdn-live.mundogo.cl/etctv/etctv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/fg4qncj29c1rco90003xx/funbox-mundogo.json?rlkey=frkeqw052ws784e769chl3u95&st=v3n36mqr&dl=0
-#EXTINF:-1 tvg-id="Funbox.cl" tvg-logo="https://i.ibb.co/Kz5drFXF/Fun-Box-TV-logo-svg.webp" group-title="Infantil", Fun Box TV
+#EXTINF:-1 tvg-id="Funbox.cl" tvg-logo="https://i.ibb.co/Kz5drFXF/Fun-Box-TV-logo-svg.webp" group-title="Infantil", Fun Box TV (Geo)🇨🇱
 https://cdn-live.mundogo.cl/funbox/funbox.mpd
 
 #EXTINF:-1 tvg-id="Planeta Creación" tvg-logo="https://i.ibb.co/C35QsXS2/Picsart-25-11-27-04-23-02-735.webp" group-title="Infantil", Planeta Creación
