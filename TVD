@@ -2961,7 +2961,7 @@ https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://web
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/4g9Z2HmF/Warner-TV-logo-svg.webp" group-title="Cine + Series", Warner TV
+#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.postimg.cc/rp66782P/Warner-TV-logo-svg.png" group-title="Cine + Series", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://link-bee.cdn.rcs.net.ar/mnp/warner/output.mpd
 
