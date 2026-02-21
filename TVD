@@ -2886,7 +2886,7 @@ https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd?|refer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
-#EXTINF:-1 tvg-id="De Pelicula.ar" tvg-logo="https://i.ibb.co/ZpjThFDg/Picsart-25-08-07-03-45-46-911.png" group-title="Cine + Series", De Pelicula
+#EXTINF:-1 tvg-id="De Pelicula.ar" tvg-logo="https://i.ibb.co/QFkxB7yt/Picsart-26-02-21-13-43-38-230.webp" group-title="Cine + Series", De Pelicula
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
