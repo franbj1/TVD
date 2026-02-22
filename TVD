@@ -1636,7 +1636,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_cenc/Canal4_
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dd34782d754f8fcb1e8b38da9ffad0b:6fb97467c0f0ea13f86d41a70e029c51
-#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/PvCMXV01/Picsart-25-12-26-19-23-03-057.webp" group-title="TV Uruguay", Canal 10 Flow
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.postimg.cc/htVbNYv2/Picsart-26-02-22-13-52-41-130.png" group-title="TV Uruguay", Canal 10 Flow
 https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_cenc/Canal10_URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
