@@ -24,7 +24,7 @@ https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/spTpDCPj/Picsart-26-02-16-12-32-01-280.webp" group-title="Nacional", Telefe Interior
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -65,7 +65,7 @@ https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/tPxBGTyc/Picsart-25-08-14-00-52-10-301.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://bvclive2.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd
+https://bvclive4.boldmss.com/TELEMAX/TELEMAX_BVC.isml/TELEMAX_BVC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
