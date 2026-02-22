@@ -336,7 +336,7 @@ https://mplus.pontiscloud.com/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazi
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7a7ecf0c34695dd4e253574b0b85441e&key%5B%5D=e6518e0b5dfa5e0dc268a5b16106811b
-#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="TV Digital", Volver
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.postimg.cc/sXpFnhNM/Picsart-26-02-22-17-50-20-590.png" group-title="TV Digital", Volver
 https://mplus.pontiscloud.com/live/eds/Volver/live_dash_cld/Volver.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
