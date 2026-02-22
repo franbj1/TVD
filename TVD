@@ -1630,6 +1630,31 @@ TV Uruguay
 #EXTINF:-1 group-logo="https://i.ibb.co/S4nC6fXB/Picsart-26-01-11-04-28-20-714.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
+#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 Flow
+https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_cenc/Canal4_URU.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dd34782d754f8fcb1e8b38da9ffad0b:6fb97467c0f0ea13f86d41a70e029c51
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/PvCMXV01/Picsart-25-12-26-19-23-03-057.webp" group-title="TV Uruguay", Canal 10 Flow
+https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_cenc/Canal10_URU.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/PZRBFTyw/Picsart-25-12-26-14-34-01-011.webp" group-title="TV Uruguay", Teledoce Flow
+https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_cenc/Canal12URU.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
+#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 Flow
+https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_cenc/TV_Nacional_Uy.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
+#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad Flow
+https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_cenc/Teve_Ciudad.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=88928eece082402b99598ae4ecc08be6&key%5B%5D=d03c32df212148b40eecb445222e1288
 #EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 UY
 https://mcgo2.boldmss.com/CANAL_4/CANAL_4_MC.isml/CANAL_4_MC.mpd
