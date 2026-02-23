@@ -2887,7 +2887,7 @@ https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
-#EXTINF:-1 tvg-id="Cinelatino.py" tvg-logo="https://i.ibb.co/v6hxbbyr/1757691917770.webp" group-title="Cine + Series", Cine Latino
+#EXTINF:-1 tvg-id="Cinelatino.py" tvg-logo="https://i.postimg.cc/W4pFRzfT/1771817360929.png" group-title="Cine + Series", Cine Latino
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://181.78.211.244:8000/play/a01i/index.m3u8
