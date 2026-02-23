@@ -1259,7 +1259,7 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN-3-HD-H265/default.mpd
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN-4-HD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+#KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VjjgVWW/hbo.png" group-title="TV México", HBO
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
