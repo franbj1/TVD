@@ -2995,6 +2995,16 @@ https://mplus.pontiscloud.com/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
+#EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multi Premier
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://181.78.211.244:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", Multi Cinema
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://181.78.109.48:9998/play/a03x/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
 #EXTINF:-1 tvg-id="/esmytime-movie-network" tvg-logo="https://i.ibb.co/x8Xt4nwG/Picsart-26-02-11-13-18-09-062.webp" group-title="Cine + Series", My Times Movie Network
@@ -3121,16 +3131,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=space&token=3576520243
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multi Premier
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://179.49.163.34:45000/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", Multi Cinema
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://181.78.109.48:9998/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.ibb.co/wFhLKPGj/1761779703690.webp" group-title="Cine + Series", Retro Plus
 https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
