@@ -2134,7 +2134,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=357652024
 
 KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Trimi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
