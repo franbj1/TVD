@@ -3417,7 +3417,7 @@ https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALCINEMA.DGO.json
 #EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://i.supaimg.com/b88c0fe0-fc5c-4256-8a8b-ea2298986e79.png?raw=true" group-title="HBO + Universal II", Universal Cinema Vrioott
-https://1252-tbx.vrioott.com/universalcomedy/manifest.mpd
+https://1252-tbx.vrioott.com/universalcinema/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALCOMEDY.DGO.json
@@ -3438,7 +3438,6 @@ https://1252-tbx.vrioott.com/universalreality/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALPREMIERE.DGO.json
 #EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/c45b84e6-621b-4c70-9e5a-9ef3c8398ff5.png" group-title="HBO + Universal II", Universal Premiere Vrioott
 https://1256-tbx.vrioott.com/universalpremiereeste/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://i.ibb.co/PscDwzdy/Picsart-26-02-24-10-28-44-073.webp" group-title="HBO + Universal II", HBO onpower
