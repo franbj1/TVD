@@ -3362,6 +3362,58 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=universalrealitytbx&token=3
 #KODIPROP:inputstream.adaptive.license_key=cb514eb614e8547882e90ae7e96f066d:f3c541f4052e5eba5a749b0dbd1f910f
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=universalpremieretbx&token=3576520243
 
+HBO + Universal II
+
+#EXTINF:-1 group-logo="https://i.ibb.co/Kc3pgcPR/Picsart-26-02-07-17-04-38-137.webp"
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBO.DGO.json
+#EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="HBO + Universal II", HBO Vrioott
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://1140-tbx.vrioott.com/hbo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBO2.DGO.json
+#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://i.ibb.co/F4GfYRNj/Picsart-25-08-07-11-05-53-939.webp" group-title="HBO + Universal II", HBO 2 vrioott
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://1137-tbx.vrioott.com/hbo2la/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBO+.DGO.json
+#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.ibb.co/LXr6XqL3/Picsart-25-08-07-10-23-54-566.webp" group-title="HBO + Universal II", HBO Plus vrioott
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://1141-tbx.vrioott.com/hboplusla/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBOFAMILY.DGO.json
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="HBO + Universal II", HBO Family vrioott
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://1139-tbx.vrioott.com/hbofamilyla/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bea5da44f49a7e30d21a6e0a2fddc225:0185b209bf50e2a1b1cfd416db5177de
+#EXTINF:-1 ch-number="323" tvg-id="HBO Mundi HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="HBO + Universal II", HBO Mundi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5cf1ad9c7bc0a20051535aff63a5c04:019ea0de590a01385f50ae3fe090d19e
+#EXTINF:-1 ch-number="324" tvg-id="HBO POP HD.uy" tvg-logo="https://i.ibb.co/0jy8QdWH/Picsart-25-08-07-10-49-29-418.webp" group-title="HBO + Universal II", HBO Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBOSIGNATURE.DGO.json
+#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" group-title="HBO + Universal II", HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://1143-tbx.vrioott.com/hbosignaturela/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33d4823ed2cae55c19fa0a7c20fa4235:a64c4d55edb20046802e76332c8aa75e
+#EXTINF:-1 ch-number="326" tvg-id="HBO Xtreme HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png" group-title="HBO + Universal II", HBO Xtreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer=https://webclient.antinaplayplus.com.ar
+
 Cultura
 
 #EXTINF:-1 group-logo="https://i.ibb.co/j9cC8P5d/1769740252470.webp"
