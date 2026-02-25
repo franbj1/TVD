@@ -3,6 +3,21 @@ Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nacional",GH 24 Horas 2026
+https://vrio-cloud.canal6.eu.org/memfs/1dc63741-782a-4539-a6c2-b7c2aa9031dd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Camara GH 2026
+https://vrio-cloud.canal6.eu.org/memfs/937a42aa-5a92-4692-8948-376a5855239f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nacional", Camara 2 GH 2026
+https://vrio-cloud.canal6.eu.org/memfs/bd936784-a454-4d03-b261-9a2360e77c67.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nacional", Camara 3 GH 2026
+https://vrio-cloud.canal6.eu.org/memfs/f6f12e01-77f0-4945-8c42-dfbf7af1fe1c.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="Nacional", Multicam GH 2026
+https://vrio-cloud.canal6.eu.org/memfs/fd9d9a00-66c9-4189-8a10-82c4c31d4b6b.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/whwZctgt/Picsart-25-08-23-19-06-59-423.webp" group-title="Nacional", Televisión Pública
