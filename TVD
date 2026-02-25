@@ -2180,7 +2180,7 @@ https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|ref
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
 
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3b6fa6524d254c96b5a101c8118d3ae6&key%5B%5D=d5e2a9d3e2c5aa8587eada281acef6bc
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Trimi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
