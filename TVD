@@ -1317,7 +1317,8 @@ https://nog-live1-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://nog-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="TV México", Golden Edge MX
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://nog-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd?
