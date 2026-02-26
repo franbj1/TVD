@@ -2172,7 +2172,7 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4c79a27f46f44bfbb774b8c7f1f1e57f&key%5B%5D=530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/TzkYn2L/Picsart-26-02-03-02-59-19-414.webp group-title="Deportes", TNT Sports Premium Trimi
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium Trimi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BACKUP_21-5/sa_live_dash_ll/TNT_SPORTS_BACKUP_21-5.mpd
 
