@@ -2164,19 +2164,11 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
-#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.ibb.co/7NS4hRwY/20251216-051607.webp" group-title="Deportes", PPV Pack Futbol 2026
-http://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c26371079e89206d63e1454893e881b6&key%5B%5D=adac3c3b3774e411d6e49724f7ea0ee3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://webclient.antinaplayplus.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium (FL)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4c79a27f46f44bfbb774b8c7f1f1e57f&key%5B%5D=530fd0cba9dc556a339b03af4b0951b9
@@ -2185,21 +2177,26 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
 https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BACKUP_21-5/sa_live_dash_ll/TNT_SPORTS_BACKUP_21-5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/WvqXmbQV/Picsart-25-09-01-03-46-17-789.webp" group-title="Deportes", TNT Sports Premium (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo=https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium Trimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/jvXRQLCM/Picsart-25-11-09-14-48-47-848.webp" group-title="Deportes", ESPN Premium Trimi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
