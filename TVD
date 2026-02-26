@@ -1268,7 +1268,7 @@ https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=908a93fe41acf07538c88c1b30277656&keyid%5B%5D=a1b8099b64726abc7723e17829b43a55
 #EXTINF:-1 tvg-id="ESPN 4.mx" tvg-logo="https://i.ibb.co/dw6vFTzQ/Picsart-25-10-19-02-41-02-245.webp" group-title="TV México", ESPN 4 MX
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd
 
