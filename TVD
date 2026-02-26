@@ -1263,7 +1263,7 @@ https://nog-live1-ott.izzigo.tv/8/out/u/dash/ESPN-HD-H265/default.mpd
 https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=68693fb66dc31ca864d854cd176c44c6&keyid%5B%5D=dc3c1a083eae593631b5b5019e2efb78
 #EXTINF:-1 tvg-id="ESPN 3.mx" tvg-logo="https://i.ibb.co/0yRyShfZ/Picsart-25-10-19-02-38-22-447.webp" group-title="TV México", ESPN 3 MX
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd
 
