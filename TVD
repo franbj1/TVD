@@ -3730,9 +3730,6 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVLA.png?raw=true" group-title="Música", MTV Reality
 https://cdn.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.supaimg.com/3bf466ec-4395-4b70-ae60-4bd8bee46bb1.png", MTV Flow Latino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
 #EXTINF:-1 tvg-id="MTV Classic" tvg-logo="https://i.ibb.co/VpM1tQKF/Picsart-25-11-19-16-56-04-786.webp" group-title="Música", MTV Classic
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
@@ -3843,9 +3840,6 @@ https://chromecast.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_wl/HEI_NOW.
 
 #EXTINF:-1 tvg-id="Top Latino.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", Top Latino
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
-
-
-https://mvs-live.daioncdn.net/exatv/exatv.m3u8?sense=true
  
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/2864731b-2acc-4774-9286-e5885c24f01e.png" group-title="Música", ONE TV
 #EXTVLCOPT:network-caching=1000
@@ -3939,6 +3933,8 @@ https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mBqtBJs/Rock-TV.webp" group-title="Música", Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzmMT05f/Picsart-26-02-26-16-12-18-874.webp" group-title="Música", Vevo Rock https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhyM960d/1763514457736.webp" group-title="Música", Kronehit TV
 #EXTVLCOPT:network-caching=1000
