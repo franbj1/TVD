@@ -2195,7 +2195,7 @@ https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium (FL)
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.postimg.cc/bNhkdZzF/Picsart-26-02-26-00-59-21-265.png" group-title="Deportes", ESPN Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
