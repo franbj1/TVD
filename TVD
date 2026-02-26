@@ -2166,7 +2166,7 @@ Deportes
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c26371079e89206d63e1454893e881b6&key%5B%5D=adac3c3b3774e411d6e49724f7ea0ee3
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
