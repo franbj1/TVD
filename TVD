@@ -3934,7 +3934,8 @@ https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mBqtBJs/Rock-TV.webp" group-title="Música", Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzmMT05f/Picsart-26-02-26-16-12-18-874.webp" group-title="Música", Vevo Rock https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzmMT05f/Picsart-26-02-26-16-12-18-874.webp" group-title="Música", Vevo Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhyM960d/1763514457736.webp" group-title="Música", Kronehit TV
 #EXTVLCOPT:network-caching=1000
