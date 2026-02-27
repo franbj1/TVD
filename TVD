@@ -563,28 +563,28 @@ Televisión Argentina
 #EXTINF:-1 group-logo="https://i.ibb.co/q307sndR/Picsart-25-12-04-15-03-45-922.webp"
 
 #EXTINF:-1 tvg-id="AMERICA 2.ar" tvg-logo="https://i.ibb.co/0RS4w6x6/Picsart-25-12-04-11-13-32-726.webp" group-title="TV Argentina", América
-https://link-bee.cdn.rcs.net.ar/mnp/aql85vnv5iz5c2u00000002x2d0qqv8n/output.mpd
+https://is.cdn.rcs.net.ar/mnp/aql85vnv5iz5c2u00000002x2d0qqv8n/output.mpd
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/jk4GKGJb/Picsart-25-11-22-17-40-02-878.webp" group-title="TV Argentina", Televisión Argentina
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/ssc4ln4movbqlr1qczb00000005dktih/output.mpd
+https://is.cdn.rcs.net.ar/mnp/ssc4ln4movbqlr1qczb00000005dktih/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/4w6Btcmw/Picsart-25-11-22-17-29-38-577.webp" group-title="TV Argentina", El Nueve
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+https://is.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="Telefe.uy" tvg-logo="https://i.ibb.co/27bnZ7vb/Picsart-26-02-17-12-36-42-274.webp" group-title="TV Argentina", Telefe
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/cfmpu0h00000004iyi5jdg8ca027sk5z/output.mpd
+https://is.cdn.rcs.net.ar/mnp/cfmpu0h00000004iyi5jdg8ca027sk5z/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/3ywW4jv4/828-8283014-eltrece-logo-eltrece-logo-el-trece.webp" group-title="TV Argentina", El Trece
-https://link-bee.cdn.rcs.net.ar/mnp/el13/output.mpd
+https://is.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/rG35mpgg/Picsart-25-12-04-11-37-58-696.webp" group-title="TV Argentina", NET TV
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -596,13 +596,13 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Móvil/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://link-bee.cdn.rcs.net.ar/mnp/telemaxiptv/output.mpd
+https://is.cdn.rcs.net.ar/mnp/telemaxiptv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/800/542/0/0/98997452071605.png" group-title="TV Argentina", Cine AR
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/cinear/output.mpd
+https://is.cdn.rcs.net.ar/mnp/cinear/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rmmz2Sk/1771189819152.webp" group-title="TV Argentina", Unife TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -614,25 +614,25 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-at=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/cn23/output.mpd
+https://is.cdn.rcs.net.ar/mnp/cn23/output.mpd
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="TV Argentina", Encuentro
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+https://is.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 
 #EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/KMpjDFf/Picsart-25-12-04-12-22-46-123.webp" group-title="TV Argentina", Tec
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
+https://is.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 
 #EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/vCnLRTzG/Picsart-26-02-15-19-00-37-105.webp" group-title="TV Argentina", Construir TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+https://is.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/gcwhTNR/1762294123386.webp" group-title="TV Argentina", Gen TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
@@ -648,7 +648,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/cm/output.mpd
+https://is.cdn.rcs.net.ar/mnp/cm/output.mpd
 
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="TV Argentina", TN (Todo Noticias)
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -660,17 +660,17 @@ https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/hub/a24/dash/output.mpd
+https://is.cdn.rcs.net.ar/hub/a24/dash/output.mpd
 
 #EXTINF:-1 tvg-id="Crónica TV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="TV Argentina", Crónica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/93.0.4577.82 Safari móvil/537.36"
-https://link-bee.cdn.rcs.net.ar/mnp/q9apwz2yfhqf00000009g4tjh6i5vhtm/output.mpd
+https://is.cdn.rcs.net.ar/mnp/q9apwz2yfhqf00000009g4tjh6i5vhtm/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="TV Argentina", Canal 26
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/canal26/output.mpd
+https://is.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
 #EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-logo="https://i.imgur.com/SQSu9M5.png" group-title="TV Argentina", IP Noticias
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -736,19 +736,19 @@ https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/EL_NUEVE.mpd
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd
+https://is.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLcpL06g/1764978814965.webp" group-title="TV Argentina", Canal 13 SJ
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/ixp-sanjuan/dash/c13/index.mpd
+https://is.cdn.rcs.net.ar/ixp-sanjuan/dash/c13/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7J8Byp/Picsart-25-12-07-11-43-06-345.webp" group-title="TV Argentina", Canal 4
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/hub/canal4/dash/live.mpd
+https://is.cdn.rcs.net.ar/hub/canal4/dash/live.mpd
 
 #EXTINF:-1 tvg-id="CANAL 9 TELEVIDA.ar" tvg-logo="https://i.ibb.co/S4z8Ggc0/Picsart-25-08-01-03-33-48-843.png" group-title="TV Argentina", Televida
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -760,7 +760,7 @@ https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/onpower/dash/telesol/index.mpd
+https://is.cdn.rcs.net.ar/onpower/dash/telesol/index.mpd
 
 #EXTINF:-1 tvg-id="Telefe Santa Fe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png" group-title="TV Argentina", Telefe Santa Fé
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -778,13 +778,13 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/hub/xama/xama.mpd
+https://is.cdn.rcs.net.ar/hub/xama/xama.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDxQfjct/Picsart-25-12-05-11-16-20-781.webp" group-title="TV Argentina", AM1020
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/onpower/dash/am1020/index.mpd
+https://is.cdn.rcs.net.ar/onpower/dash/am1020/index.mpd
 
 #EXTINF:-1 tvg-id="Canal 7 de Jujuy.ar" tvg-logo="https://i.ibb.co/sv5D5ctq/1765376391101.webp" group-title="TV Argentina", Canal 7 Jujuy
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
