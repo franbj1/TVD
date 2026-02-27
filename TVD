@@ -3061,6 +3061,9 @@ https://mplus.pontiscloud.com/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
+#EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://i.postimg.cc/VkX0YvBK/Picsart-26-02-27-13-53-53-455.png" group-title="Cine + Series", ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://i.postimg.cc/tJbhj68P/entf.png" group-title="Cine + Series", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
