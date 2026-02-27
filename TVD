@@ -566,10 +566,12 @@ https://is.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cfmpu0h00000004iyi5jdg8ca027sk5z/output.mpd
+
 https://is.cdn.rcs.net.ar/mnp/cfmpu0h00000004iyi5jdg8ca027sk5z/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/3ywW4jv4/828-8283014-eltrece-logo-eltrece-logo-el-trece.webp" group-title="TV Argentina", El Trece
-https://is.cdn.rcs.net.ar/mnp/el13/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/rG35mpgg/Picsart-25-12-04-11-37-58-696.webp" group-title="TV Argentina", NET TV
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -3502,35 +3504,35 @@ https://1256-tbx.vrioott.com/universalpremiereeste/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://i.ibb.co/PscDwzdy/Picsart-26-02-24-10-28-44-073.webp" group-title="HBO + Universal II", HBO onpower
-https://broker.cdn.rcs.net.ar/mnp/hbo/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://i.ibb.co/Zpds8nWs/Picsart-26-02-24-10-30-39-340.webp" group-title="HBO + Universal II", HBO 2 onpower
-https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.ibb.co/gMmCDGxm/Picsart-26-02-24-10-36-59-845.webp" group-title="HBO + Universal II", HBO Plus onpower
-https://broker.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://i.ibb.co/jP5GNHHJ/Picsart-26-02-24-10-32-01-648.webp" group-title="HBO + Universal II", HBO Family onpower
-https://broker.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://i.ibb.co/4gVdW3Rc/Picsart-26-02-24-10-40-18-544.webp" group-title="HBO + Universal II", HBO Mundi onpower
-https://broker.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://i.ibb.co/DHprvCjh/Picsart-26-02-24-10-45-02-479.webp" group-title="HBO + Universal II", HBO Pop onpower
-https://broker.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://i.ibb.co/1GpwGcXy/Picsart-26-02-24-10-47-18-995.webp" group-title="HBO + Universal II", HBO Signature onpower
-https://broker.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://i.ibb.co/1GQ9tf9S/Picsart-26-02-24-10-37-56-805.webp" group-title="HBO + Universal II", HBO Xtreme onpower
-https://broker.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 
 Cultura
 
