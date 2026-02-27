@@ -302,11 +302,13 @@ https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_cenc/Arte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f519a4181806429bb2a998d77a937f32:6dbf5c8f0c50938cebc35fdf095833e1
 #EXTINF:-1 tvg-id="Net TV.ar" group-title="TV Digital" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true", Net TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/NET_TV_BACKUP/sa_live_dash/NET_TV_BACKUP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
 #EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/BR4V0_TV_BACKUP/sa_live_dash/BR4V0_TV_BACKUP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -314,7 +316,7 @@ https://cdn.trimi.com.ar/live/sm-live/BR4V0_TV_BACKUP/sa_live_dash/BR4V0_TV_BACK
 https://redirector.rudo.video/hls/carastvav/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/5vc3m4bfxkj43krcdh7oz/ENCUENTRO.DGO.json?rlkey=af54j1oau0k436pbf4sru44yg&st=cackx2zf&dl=0
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/5vc3m4bfxkj43krcdh7oz/ENCUENTRO.DGO.json
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="TV Digital", Encuentro
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
