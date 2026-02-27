@@ -271,12 +271,13 @@ https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd?|a
 https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6b17538810f1dd4485f174dcc204872c&key%5B%5D=3d5b973772433ce07c8999aa659ea48c
+#KODIPROP:inputstream.adaptive.license_key=9825d6a017d5406e8bc50bb2bc7857c9:26196b3593c359c226bb7637cb188ce4
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp?raw=true" group-title="TV Digital", Televisión Pública
-https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
+https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=737a88876b64489ab46cf69f8c5dfe5a:bf0ae0a5210cb0604e465690c201eec4 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América
+#KODIPROP:inputstream.adaptive.license_key=737a88876b64489ab46cf69f8c5dfe5a:bf0ae0a5210cb0604e465690c201eec4
+#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América
 https://cdn.trimi.com.ar/live/sm-live/RESPALDO_AMERICA/sa_live_dash/RESPALDO_AMERICA.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
