@@ -1726,6 +1726,8 @@ https://mcgo2.boldmss.com/CANAL_4/CANAL_4_MC.isml/CANAL_4_MC.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ff44d9aca7fe481da98900d1f79cb345&key%5B%5D=bca3a993208129b9bd4eed159d8cdfb2
 #EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/PvCMXV01/Picsart-25-12-26-19-23-03-057.webp" group-title="TV Uruguay", Canal 10 UY
+http://194.76.0.229:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8515
+
 https://mcgo2.boldmss.com/SAETA_HD/SAETA_HD_MC.isml/SAETA_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
