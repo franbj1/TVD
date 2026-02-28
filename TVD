@@ -577,6 +577,12 @@ https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/rG35mpgg/Picsart-25-12-04-11-37-58-696.webp" group-title="TV Argentina", NET TV
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHJW4PDh/static-assets-upload6042126328681592663.webp" group-title="TV Argentina", Paka Paka
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://router.cdn.rcs.net.ar/mnp/pkpk/output.mpd
+
 #EXTINF:-1 tvg-id="126#Bravo TV (ARG)" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Argentina", Bravo TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
