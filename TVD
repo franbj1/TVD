@@ -2821,7 +2821,7 @@ http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=070660c4a07ab644fba62dab07306d43&key%5B%5D=6786eb56337a318fce0b7f9cccf96478
 #EXTINF:-1 tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png" group-title="Infantil", ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/zoomoo/output.mpd
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
