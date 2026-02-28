@@ -584,7 +584,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Versión/14.0.1 Móvil/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://router.cdn.rcs.net.ar/mnp/telemaxiptv/output.mpd
+https://router.cdn.rcs.net.ar/mnp/unife/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/800/542/0/0/98997452071605.png" group-title="TV Argentina", Cine AR
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -622,16 +622,6 @@ https://router.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/gcwhTNR/1762294123386.webp" group-title="TV Argentina", Gen TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/KzsB3zYq/Logo-Neo-Tv-1.webp" group-title="TV Argentina", NEO TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
 #EXTINF:-1 tvg-id="MAGAZINE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="TV Argentina", Ciudad Magazine
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
@@ -644,11 +634,17 @@ https://router.cdn.rcs.net.ar/mnp/cm/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g9hy1vL/Picsart-26-02-28-15-18-53-230.webp" group-title="TV Argentina", La Nacion +
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://router.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+
 #EXTINF:-1 tvg-id="AMERICA 24.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="TV Argentina", A24
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/hub/a24/dash/output.mpd
+https://router.cdn.rcs.net.ar/mnp/lpi5300000011aspgysk33uc55vuihwg/output.mpd
 
 #EXTINF:-1 tvg-id="Crónica TV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="TV Argentina", Crónica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/93.0.4577.82 Safari móvil/537.36"
@@ -761,6 +757,16 @@ https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/gcwhTNR/1762294123386.webp" group-title="TV Argentina", Gen TV
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/KzsB3zYq/Logo-Neo-Tv-1.webp" group-title="TV Argentina", NEO TV
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99C25mCq/Picsart-25-12-05-20-57-54-624.webp" group-title="TV Argentina", Xama
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
