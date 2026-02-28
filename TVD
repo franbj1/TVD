@@ -2732,8 +2732,6 @@ Infantil
 
 #EXTINF:-1 group-logo="https://i.ibb.co/FbJj81vj/Picsart-25-08-24-13-43-22-748.webp"
 
-#EXTINF:-1 tvg-id="BITIME.mx" tvg-logo="https://i.supaimg.com/7fcfa479-755d-4902-8a2c-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c7efe63bbf682a4124fb34c01eb7a0a7&key%5B%5D=48667511b8668df96fa3abaa623e4f69
 #EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.supaimg.com/9b9d033b-1451-4b38-80e1-5d9df773155e.png?raw=true" group-title="Infantil", Cartoon Network
@@ -2857,7 +2855,7 @@ https://nog-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
-#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.ibb.co/gbRdzk0H/Picsart-25-11-28-04-52-49-368.webp" group-title="Infantil", Max Anime
+#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/YSVxfF5j/Picsart-26-02-28-02-09-27-892.png" group-title="Infantil", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3765,10 +3763,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 
 #EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/SwbrLFws/tmc-dance.webp" group-title="Música", Total Music Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-id="Video Hit TV" tvg-logo="https://i.ibb.co/Fk0mgFCQ/Picsart-26-01-11-11-50-35-546.webp" group-title="Música", Video Hit
-https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
