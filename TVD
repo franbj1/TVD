@@ -1708,18 +1708,21 @@ https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_cenc/Teve_C
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=88928eece082402b99598ae4ecc08be6&key%5B%5D=d03c32df212148b40eecb445222e1288
-#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 UY
+#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 UY tvpremium
+#EXTVLCOPT:http-user-agent=User-Agent=yohan.tvpremium/10.1 (Linux;Android 12) AndroidXMedia3/1.1.1
 http://194.76.0.229:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8525
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ff44d9aca7fe481da98900d1f79cb345&key%5B%5D=bca3a993208129b9bd4eed159d8cdfb2
-#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/PvCMXV01/Picsart-25-12-26-19-23-03-057.webp" group-title="TV Uruguay", Canal 10 UY
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/PvCMXV01/Picsart-25-12-26-19-23-03-057.webp" group-title="TV Uruguay", Canal 10 UY tvpremium
+#EXTVLCOPT:http-user-agent=User-Agent=yohan.tvpremium/10.1 (Linux;Android 12) AndroidXMedia3/1.1.1
 http://194.76.0.229:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8515
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2e36b18dc45c4d83868da659f5354938&key%5B%5D=297464517e9c7f055e12095e6ac2b07b
-#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/PZRBFTyw/Picsart-25-12-26-14-34-01-011.webp" group-title="TV Uruguay", Teledoce UY
-https://mcgo2.boldmss.com/TELEDOCE_HD/TELEDOCE_HD_MC.isml/TELEDOCE_HD.mpd
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/PZRBFTyw/Picsart-25-12-26-14-34-01-011.webp" group-title="TV Uruguay", Teledoce UY tvpremium
+#EXTVLCOPT:http-user-agent=User-Agent=yohan.tvpremium/10.1 (Linux;Android 12) AndroidXMedia3/1.1.1
+http://194.76.0.229:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8520
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=deb8f98c76cb2314c26488adc84de3a0&keyid%5B%5D=5d73cf2e179d5a11885a551f3bd2f956
