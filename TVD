@@ -2182,10 +2182,10 @@ https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|ref
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.postimg.cc/bNhkdZzF/Picsart-26-02-26-00-59-21-265.png" group-title="Deportes", ESPN Premium (FL)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.postimg.cc/bNhkdZzF/Picsart-26-02-26-00-59-21-265.png" group-title="", ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
