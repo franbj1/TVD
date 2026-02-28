@@ -3769,39 +3769,36 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 #EXTINF:-1 tvg-id="Video Hit TV" tvg-logo="https://i.ibb.co/Fk0mgFCQ/Picsart-26-01-11-11-50-35-546.webp" group-title="Música", Video Hit
 https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DNWX9K5/Picsart-25-11-06-12-34-46-980.webp" group-title="Música", Telehit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/TELEHITSD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DNWX9K5/Picsart-25-11-06-12-34-46-980.webp" group-title="Música", Telehit
+https://zap-live4-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png" group-title="Música", Telehit Música
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7d810bd4b89d31487577fbef6b747a:1ab459db1bacf63917df0d35a1107c94
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICASD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png" group-title="Música", Telehit Música
+https://zap-live4-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ccb3e0cda334a12da75037444d0ccc83:291b1496e0900041f6a1d0e2aeb3314c
+#KODIPROP:inputstream.adaptive.license_key=d6480d79dd3e68cd3fd2f0e57113aa74:083b3cd8fd642e4ab7ac601fdc53bd6c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png" group-title="Música", Telehit Música Plus
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICAPLUSHD/default.mpd
+https://zap-live4-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96f177548046a9f56bbb39a900a82ddd:96aa836072fd84c9a8e6219652330272
 #EXTINF:-1 tvg-id="SKY ONE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sky_One_-_Logo_2020_%28television_channel%29.png" group-title="Música", Sky ONE
-https://nog-live1-ott.izzigo.tv/13/out/u/dash/SKY-ONE-HD/default.mpd
+https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-ONE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d014b4c7f22d490f56e2d7d3fe125c15:69864ad4b98d06e9fcf2430ed67b6c33
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.ibb.co/1Jz193Q6/Picsart-25-11-19-19-48-41-972.webp" group-title="Música", Bandamax
-https://nog-live1-ott.izzigo.tv/14/out/u/dash/BANDAMAX-HD/default.mpd
+https://zap-live4-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cf2398fa903f300962a0771512a93f1:f345e1b35c357fa7137e7325059d95b1
 #EXTINF:-1 tvg-id="Tele Ritmo.mx" tvg-logo="https://i.ibb.co/99gkcKMM/Teleritmo-2023.webp" group-title="Música", Tele Ritmo
-https://nog-live1-ott.izzigo.tv/13/out/u/dash/TELERITMO-HD/default.mpd
+https://zap-live4-ott.izzigo.tv/11/out/u/dash/TELERITMO-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music  (605)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
