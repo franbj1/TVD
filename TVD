@@ -1158,7 +1158,7 @@ http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.ibb.co/Gv5W2LgC/logo-univision.webp" group-title="TV México", Univisión TV
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
+http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="UNI (KMEX) Los Angeles, CA HD.us" tvg-logo="https://i.ibb.co/NdWr61XS/Picsart-26-01-15-02-55-54-266.webp" group-title="TV México", Univisión 34 LA
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/dash.mpd
