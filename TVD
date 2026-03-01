@@ -3561,6 +3561,37 @@ https://router.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://i.ibb.co/1GQ9tf9S/Picsart-26-02-24-10-37-56-805.webp" group-title="HBO + Universal II", HBO Xtreme onpower
 https://router.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://archive.org/download/9_20260209_20260209_2252/91.json
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="HBO + Universal II", Universal Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://archive.org/download/9_20260209_20260209_2252/92.json
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="HBO + Universal II", Universal Comedy
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://unipluslivedash.akamaized.net/universalcomedyt0/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://archive.org/download/9_20260209_20260209_2252/93.json
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="HBO + Universal II", Universal Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://unipluslivedash.akamaized.net/universalcrimet0/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://archive.org/download/9_20260209_20260209_2252/97.json
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="HBO + Universal II", Universal Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-titlle="HBO + Universal II", Universal Reality
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
+
+
 Cultura
 
 #EXTINF:-1 group-logo="https://i.ibb.co/j9cC8P5d/1769740252470.webp"
