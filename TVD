@@ -628,6 +628,12 @@ https://router.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFXfpt00/Picsart-26-02-28-21-32-39-117.webp" group-title="TV Argentina", Volver
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/volver/output.mpd
+
 #EXTINF:-1 tvg-id="MAGAZINE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="TV Argentina", Ciudad Magazine
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
