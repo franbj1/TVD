@@ -2972,7 +2972,8 @@ https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=htt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://181.78.211.244:8000/play/a01i/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=082e524a6a7b2d7139c7639caa0123f0&keyid%5B%5D=bfdf6a9cdd5d702753de59b79627848d #EXTINF:-1 tvg-id="Cinema.mx" tvg-logo="https://i.ibb.co/tyJwk5S/Picsart-26-03-02-17-43-25-826.webp" group-title="Cine + Series", Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=082e524a6a7b2d7139c7639caa0123f0&keyid%5B%5D=bfdf6a9cdd5d702753de59b79627848d
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-logo="https://i.ibb.co/tyJwk5S/Picsart-26-03-02-17-43-25-826.webp" group-title="Cine + Series", Cinema
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/nu8ejtgtm2/out/v1/e1cd165fdbd64f53a845447d6ea7f993/cenc-sd.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="Cine + Series", Cinerama
