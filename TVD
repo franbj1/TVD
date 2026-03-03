@@ -466,27 +466,27 @@ https://djquy0bt9pvn7.cloudfront.net/d/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
-#EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-logo="https://i.ibb.co/HDRJnhdR/Picsart-25-07-26-02-15-02-987.webp" group-title="TV Digital", Canal 3 Rosario HD
+#EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-logo="https://i.ibb.co/HDRJnhdR/Picsart-25-07-26-02-15-02-987.webp" group-title="TV Digital", Canal 3 Rosario
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_wl/Canal_3_Rosario.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed542fdaa4598671e26aca3e160afed7:cdb880c60523b9ebc61b9003c41f8048
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/78d5cf89-b51a-46e9-ad30-042434c05b96.png" group-title="TV Digital", América Tucumán HD
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/78d5cf89-b51a-46e9-ad30-042434c05b96.png" group-title="TV Digital", América Tucumán
 https://chromecast.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc_wl/America_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec52ca8f4d229ae6aae86b6835256ed:506afbd8be37e388f5d3ceb7992069d4
-#EXTINF:-1 tvg-id="Canal 7 SDE.ar" tvg-logo="https://i.ibb.co/v6hdbS96/Picsart-25-12-18-18-24-03-780.webp" group-title="TV Digital", Canal 7 SDE HD
+#EXTINF:-1 tvg-id="Canal 7 SDE.ar" tvg-logo="https://i.ibb.co/v6hdbS96/Picsart-25-12-18-18-24-03-780.webp" group-title="TV Digital", Canal 7 SDE
 https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc_wl/Canal7_SDE.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1 tvg-id="Canal 8 Tucuman.ar" tvg-logo="https://i.supaimg.com/4ec4ff80-0ee0-4522-b35c-8d21e6b4c53e.png" group-title="TV Digital", Canal 8 Tucumán HD
+#EXTINF:-1 tvg-id="Canal 8 Tucuman.ar" tvg-logo="https://i.supaimg.com/4ec4ff80-0ee0-4522-b35c-8d21e6b4c53e.png" group-title="TV Digital", Canal 8 Tucumán
 https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_wl/Canal_8_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/37e42d1a-0967-42ea-96a3-3b2e49c49a14.png?raw=true" group-title="TV Digital", Canal 9 Chaco HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZ8tHWtV/1772515196570.webp" group-title="TV Digital", Imagen del Nordeste
 https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc_wl/CH_9_Resistencia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -496,70 +496,70 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_9_Paraná/SA_Live_dash_enc_wl/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/3c4ab187-86ec-43cf-951c-f40668c92c18.png?raw=true" group-title="TV Digital", Canal 10 Tucumán HD
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3c4ab187-86ec-43cf-951c-f40668c92c18.png?raw=true" group-title="TV Digital", Canal 10 Tucumán
 https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_wl/Ch10_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=491adb9269c5c8ab41f83936d0b4a68f:7ab85b000d8b5a06f542aff956bcb007
-#EXTINF:-1 tvg-id="Canal 10 Río Negro.ar" tvg-logo="https://i.ibb.co/mCb3Bj27/Canal-10-General-Roca-Logo-2020.webp" group-title="TV Digital", Canal 10 Río Negro HD
+#EXTINF:-1 tvg-id="Canal 10 Río Negro.ar" tvg-logo="https://i.ibb.co/mCb3Bj27/Canal-10-General-Roca-Logo-2020.webp" group-title="TV Digital", Canal 10 Río Negro
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_Live_dash_enc_wl/Canal10_Rio_Negro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.ibb.co/rKZgPdYR/Picsart-25-12-18-14-21-52-727.webp" group-title="TV Digital", Canal 10 Mar del Plata HD
+#EXTINF:-1 tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.ibb.co/rKZgPdYR/Picsart-25-12-18-14-21-52-727.webp" group-title="TV Digital", Canal 10 Mar del Plata
 https://smt-usr-edge02.sensa.com.ar/salida/SMT6/C10MPD/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ccfc823faed878832b3e4a69fcb72a2:d68b394ab768f4a2ec148ab8cdac46ef
-#EXTINF:-1 tvg-id="TELEFE BAHIA BLANCA.ar" tvg-logo="https://i.ibb.co/wZvc7pwf/Picsart-25-07-26-02-19-28-462.webp" group-title="TV Digital", Canal 9 Bahía Blanca HD
+#EXTINF:-1 tvg-id="TELEFE BAHIA BLANCA.ar" tvg-logo="https://i.ibb.co/wZvc7pwf/Picsart-25-07-26-02-19-28-462.webp" group-title="TV Digital", Canal 9 Bahía Blanca
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc_Wl/Canal9_Bahia_Blanca.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
-#EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-logo="https://i.ibb.co/HDRJnhdR/Picsart-25-07-26-02-15-02-987.webp" group-title="TV Digital", Canal 3 Rosario HD
+#EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-logo="https://i.ibb.co/HDRJnhdR/Picsart-25-07-26-02-15-02-987.webp" group-title="TV Digital", Canal 3 Rosario
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_C/Canal_3_Rosario.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c996a1465acddc9c3f7a2dd9b86aa88:a2b63e48c99bebb52bfcdb1830efdd3e
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/738e041e-9fe7-45ef-b328-1c4c52c1d9cf.png?raw=true" group-title="TV Digital", Canal 12 Misiones HD
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/738e041e-9fe7-45ef-b328-1c4c52c1d9cf.png?raw=true" group-title="TV Digital", Canal 12 Misiones
 https://chromecast.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_C/CH_12_Posadas.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="TV Digital", Canal 11 Salta HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="TV Digital", Canal 11 Salta
 https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc_C/Telefe_Salta.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/f54fe162-d102-4e32-a65b-ae796de311fa.png" group-title="TV Digital", El Doce Córdoba
-https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_cenc/Canal_12_CBA.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee837d0ec414d95a51b0c7a57d49d307:883fd72dc9b72db33d7b4f8dc0eb0016
-#EXTINF:-1 tvg-id="13 Max TV.ar" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="TV Digital", 13 Max HD
-https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc_wl/CH_13_Corrientes.mpd
+#EXTINF:-1 tvg-id="13 Max TV.ar" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="TV Digital", 13 Max Corrientes
+https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_cenc/CH_13_Corrientes.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd=&keys81c204c443987d7b176587d626a124a0
-#EXTINF:-1 tvg-id="Canal C.ar" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="TV Digital", Canal C HD
-https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_wl/Canal_C.mpd
+#EXTINF:-1 tvg-id="Canal C.ar" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="TV Digital", Canal C
+https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_cenc/Canal_C.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a15243320c0a79defa8814252e3e8c07:0659db05632c0061c126db7a12582499
-#EXTINF:-1 tvg-id="Canal 7 BAHIA BLANCA.ar" tvg-logo="https://i.supaimg.com/b00477d1-abd4-4a39-a6f1-70e66dd805fa.png" group-title="TV Digital", El 7 Bahía Blanca HD
-https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_wl/Canal7_Bahia_Blanca.mpd
+#EXTINF:-1 tvg-id="Canal 7 BAHIA BLANCA.ar" tvg-logo="https://i.supaimg.com/b00477d1-abd4-4a39-a6f1-70e66dd805fa.png" group-title="TV Digital", Canal 7 Bahía Blanca
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_cenc/Canal7_Bahia_Blanca.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
-#EXTINF:-1 tvg-id="Canal 10 Córdoba.ar" tvg-logo="https://i.ibb.co/hxtqV4Gc/Canal-10-C-rdoba-Logo-2025-2.webp" group-title="TV Digital", Canal 10 Córdoba HD
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_wl/Canal10_CBA_HD.mpd
+#EXTINF:-1 tvg-id="Canal 10 Córdoba.ar" tvg-logo="https://i.ibb.co/hxtqV4Gc/Canal-10-C-rdoba-Logo-2025-2.webp" group-title="TV Digital", Canal 10 Córdoba
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_cenc/Canal10_CBA_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZcXKZFN/Picsart-25-07-31-16-46-20-585.webp" group-title="TV Digital", El Siete Bahía Blanca
 https://bvclive1.boldmss.com/CANAL_7/CANAL_7.isml/CANAL_7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDRJnhdR/Picsart-25-07-26-02-15-02-987.webp" group-title="TV Digital", El Tres Rosario HD
-https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_wl/Canal_3_Rosario.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDRJnhdR/Picsart-25-07-26-02-15-02-987.webp" group-title="TV Digital", El Tres Rosario
+https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_cenc/Canal_3_Rosario.mpd
 
 Televisión Argentina
 
