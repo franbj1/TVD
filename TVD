@@ -1530,12 +1530,6 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.ibb.co/S44BKCCG/1768021562733.webp" group-title="TV Peru", Latina Noticias
-https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.ibb.co/TBX1Bms3/1767065024502.webp" group-title="TV Peru", Latina Clásicos
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/latina2/playlist.m3u8?did='+_dpssid
-
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/chW4BJZk/1769620388834.webp" group-title="TV Peru", ATV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
