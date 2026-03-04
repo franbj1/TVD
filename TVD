@@ -1720,9 +1720,7 @@ http://38.199.6.1:17001/play/a0wn/index.m3u8
 https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="TV Peru", Crom TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="TV Peru", Net Channel
 https://media.streambrothers.com:19360/8158/8158.m3u8
