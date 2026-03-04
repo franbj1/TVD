@@ -1611,7 +1611,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://i.ibb.co/yF6GXp3K/Picsart-26-01-10-19-49-46-968.webp" group-title="TV Peru", Ovación TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ovacion.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Ovacion.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1639,7 +1639,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión
 https://servilive.com:3028/live/jntv19live.m3u8
 
-#EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/TzSn2qv/Picsart-25-12-26-15-54-39-547.webp" group-title="TV Peru", Sol TV
+#EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/Sw7V8zX4/Picsart-26-03-04-14-45-29-280.webp" group-title="TV Peru", Sol TV
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FMH Movies.pe" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies
