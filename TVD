@@ -1577,41 +1577,41 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA TELE PERU.pe" tvg-logo="https://i.ibb.co/WvR9GL5J/Picsart-26-01-09-18-33-06-616.webp" group-title="TV Peru", La Tele
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/la_tele.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/La_Tele.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/BHTV.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FUEGOTV.pe" tvg-logo="https://i.ibb.co/zHbhmSXx/Picsart-26-01-10-01-40-38-946.webp" group-title="TV Peru", Fuego TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KARIBEÑA.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Karibeña TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/karibena.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BONITA TV.pe" tvg-logo="https://i.ibb.co/0jQvBGRb/1768020666485.webp" group-title="TV Peru", Bonita TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/bonitatv.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal B.pe" tvg-logo="https://i.ibb.co/5bQJtVj/Picsart-26-01-10-15-07-36-478.webp" group-title="TV Peru", Canal B
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/CanalB.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega TV.pe" tvg-logo="https://i.ibb.co/sd8WNf9y/Picsart-26-01-10-15-20-56-741.webp" group-title="TV Peru", Mega TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/megatv.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa
 https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nativa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/PGNQZSNS/Picsart-26-01-10-15-08-31-158.webp" group-title="TV Peru", Telelima
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SUMAC TV.pe" tvg-logo="https://i.ibb.co/ccNrYDwP/Picsart-26-01-10-19-39-50-088.webp" group-title="TV Peru", Sumac TV PE
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sumactv.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://i.ibb.co/yF6GXp3K/Picsart-26-01-10-19-49-46-968.webp" group-title="TV Peru", Ovación TV PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Ovacion.stream/playlist.m3u8
