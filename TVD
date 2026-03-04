@@ -1542,7 +1542,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax
+#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/67jnWHw8/1772646688428.webp" group-title="TV Peru", Willax
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 
