@@ -1550,7 +1550,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/HTRgmZx1/Picsart-25-12-22-19-01-38-959.webp" group-title="TV Peru", Panamericana
+#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/1t8ZvMhc/1772647159388.webp" group-title="TV Peru", Panamericana
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 
