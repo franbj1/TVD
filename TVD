@@ -1580,6 +1580,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/La_Tele.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FUEGOTV.pe" tvg-logo="https://i.ibb.co/zHbhmSXx/Picsart-26-01-10-01-40-38-946.webp" group-title="TV Peru", Fuego TV
@@ -1603,56 +1604,66 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nativa.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nativa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/PGNQZSNS/Picsart-26-01-10-15-08-31-158.webp" group-title="TV Peru", Telelima
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SUMAC TV.pe" tvg-logo="https://i.ibb.co/ccNrYDwP/Picsart-26-01-10-19-39-50-088.webp" group-title="TV Peru", Sumac TV PE
+#EXTINF:-1 tvg-id="SUMAC TV.pe" tvg-logo="https://i.ibb.co/ccNrYDwP/Picsart-26-01-10-19-39-50-088.webp" group-title="TV Peru", Sumac TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://i.ibb.co/yF6GXp3K/Picsart-26-01-10-19-49-46-968.webp" group-title="TV Peru", Ovación TV PE
+#EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://i.ibb.co/yF6GXp3K/Picsart-26-01-10-19-49-46-968.webp" group-title="TV Peru", Ovación TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Ovacion.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu PE
+#EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/trivu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Cosmos.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos PE
+#EXTINF:-1 tvg-id="TV Cosmos.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV PE
+#EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.ibb.co/6f8hzLR/Picsart-26-01-10-22-23-31-768.webp" group-title="TV Peru", Congreso TV PE
+#EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.ibb.co/6f8hzLR/Picsart-26-01-10-22-23-31-768.webp" group-title="TV Peru", Congreso TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/canalelcongreso.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JUSTICIA.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV PE
+#EXTINF:-1 tvg-id="JUSTICIA.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.ibb.co/5VB2n8L/Picsart-26-01-10-22-45-15-442.webp" group-title="TV Peru", Conecta2 TV PE
+#EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.ibb.co/5VB2n8L/Picsart-26-01-10-22-45-15-442.webp" group-title="TV Peru", Conecta2 TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PASIONES.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", Pasiones PE
+#EXTINF:-1 tvg-id="PASIONES.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", Pasiones
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones_abr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión PE
+#EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión
 https://servilive.com:3028/live/jntv19live.m3u8
 
-#EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/TzSn2qv/Picsart-25-12-26-15-54-39-547.webp" group-title="TV Peru", Sol TV PE
+#EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/TzSn2qv/Picsart-25-12-26-15-54-39-547.webp" group-title="TV Peru", Sol TV
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="FMH Movies.pe" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies PE
+#EXTINF:-1 tvg-id="FMH Movies.pe" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids PE
+#EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Anima Kids.pe" tvg-logo="https://i.ibb.co/4RmMzpk7/1770646894837.webp" group-title="TV Peru", Anima Kids PE
+#EXTINF:-1 tvg-id="Anima Kids.pe" tvg-logo="https://i.ibb.co/4RmMzpk7/1770646894837.webp" group-title="TV Peru", Anima Kids
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/anima_kids/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Chikitoonz.pe" tvg-logo="https://i.ibb.co/N2LWRMsx/1770647060669.webp" group-title="TV Peru", Chikitoonz PE
+#EXTINF:-1 tvg-id="Chikitoonz.pe" tvg-logo="https://i.ibb.co/N2LWRMsx/1770647060669.webp" group-title="TV Peru", Chikitoonz
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peques TV.pe" tvg-logo="https://i.ibb.co/cXZZxPDg/1768942902878.webp" group-title="TV Peru", Peques TV PE
