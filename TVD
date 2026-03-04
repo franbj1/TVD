@@ -1617,7 +1617,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://i.ibb.co/yF6GXp3K/Picsart-26-01-10-19-49-46-968.webp" group-title="TV Peru", Ovación TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Ovacion.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ovacion.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1644,7 +1644,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PASIONES.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", Pasiones
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones_abr.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión
 https://servilive.com:3028/live/jntv19live.m3u8
@@ -1669,25 +1669,25 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 #EXTINF:-1 tvg-id="Peques TV.pe" tvg-logo="https://i.ibb.co/cXZZxPDg/1768942902878.webp" group-title="TV Peru", Peques TV PE
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Creo.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Creo TV PE
+#EXTINF:-1 tvg-id="Creo.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Creo TV
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Creo Plus.pe" tvg-logo="https://i.ibb.co/zVKdSvqm/Picsart-26-02-09-11-48-37-375.webp" group-title="TV Peru", Creo Plus PE
+#EXTINF:-1 tvg-id="Creo Plus.pe" tvg-logo="https://i.ibb.co/zVKdSvqm/Picsart-26-02-09-11-48-37-375.webp" group-title="TV Peru", Creo Plus
 https://live-evg18.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Creo Fe.pe" tvg-logo="https://i.ibb.co/d0hCjkX2/Picsart-26-01-11-13-14-38-835.webp" group-title="TV Peru", Creo Fe PE
+#EXTINF:-1 tvg-id="Creo Fe.pe" tvg-logo="https://i.ibb.co/d0hCjkX2/Picsart-26-01-11-13-14-38-835.webp" group-title="TV Peru", Creo Fe
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoFeSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Creolatino.pe" tvg-logo="https://i.ibb.co/FkNYQw41/1770645294144.webp" group-title="TV Peru", Creo Latino PE
+#EXTINF:-1 tvg-id="Creolatino.pe" tvg-logo="https://i.ibb.co/FkNYQw41/1770645294144.webp" group-title="TV Peru", Creo Latino
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.ibb.co/SXNdFBCh/Picsart-26-02-09-11-17-07-107.webp" group-title="TV Peru", Creo Kids TV PE
+#EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.ibb.co/SXNdFBCh/Picsart-26-02-09-11-17-07-107.webp" group-title="TV Peru", Creo Kids TV
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Fierro.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo PE
+#EXTINF:-1 tvg-id="Fierro.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Filka.pe" tvg-logo="https://i.ibb.co/zK1bGw4/1770900938918.webp" group-title="TV Peru", Filka TV PE
+#EXTINF:-1 tvg-id="Filka.pe" tvg-logo="https://i.ibb.co/zK1bGw4/1770900938918.webp" group-title="TV Peru", Filka TV
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Cocinando.pe" tvg-logo="https://i.ibb.co/4RQXRp9d/1770902596477.webp" group-title="TV Peru", Cocinando TV PE
@@ -1699,18 +1699,16 @@ https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 #EXTINF:-1 tvg-id="Turbo Mix.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Turbo Mix PE
 https://live-evg25.tv360.bitel.com.pe/bitel/turbomix/chunks.m3u8
 
-#EXTINF:-1 tvg-id="La Mega Mix.pe" tvg-logo="https://i.ibb.co/hRGZFhPy/1770902787733.webp" group-title="TV Peru", La Mega Mix PE
+#EXTINF:-1 tvg-id="La Mega Mix.pe" tvg-logo="https://i.ibb.co/hRGZFhPy/1770902787733.webp" group-title="TV Peru", La Mega Mix
 https://live-evg3.tv360.bitel.com.pe/audio/5fada56fe4e09508207a7951/live.m3u8
 
-#EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/jvLx4hHL/Picsart-26-02-12-10-36-42-293.webp" group-title="TV Peru", Radio Tropical PE
+#EXTINF:-1 tvg-id="Radio Tropical.pe" tvg-logo="https://i.ibb.co/jvLx4hHL/Picsart-26-02-12-10-36-42-293.webp" group-title="TV Peru", Radio Tropical
 https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor PE
+#EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor
 https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="TV Peru", Coco TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Retro Cinema.py" tvg-logo="https://i.ibb.co/G3W12yyT/Picsart-25-11-26-12-50-50-196.webp" group-title="TV Peru", West Cine
