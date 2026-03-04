@@ -1524,7 +1524,7 @@ TV Peru
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina PE
-https://live-evg7.tv360.bitel.com.pe/bitel/Latina_abr/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.ibb.co/S44BKCCG/1768021562733.webp" group-title="TV Peru", Latina Noticias PE
 https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/playlist.m3u8
@@ -1539,7 +1539,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/playlist.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/WZzkdgs/Picsart-25-12-29-23-08-54-647.webp" group-title="TV Peru", ATV + PE
-https://live-evg18.tv360.bitel.com.pe/bitel/Atvmas_abr/playlist.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/atvmas_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/Q7vJKWKD/Picsart-25-12-22-16-24-25-070.webp" group-title="TV Peru", Willax PE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/willax.stream/playlist.m3u8
