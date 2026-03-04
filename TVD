@@ -1642,10 +1642,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PASIONES.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", Pasiones
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión
 https://servilive.com:3028/live/jntv19live.m3u8
 
@@ -1709,12 +1705,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="TV Peru", Coco TV
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1 tvg-id="Retro Cinema.py" tvg-logo="https://i.ibb.co/G3W12yyT/Picsart-25-11-26-12-50-50-196.webp" group-title="TV Peru", West Cine
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://38.199.6.1:17001/play/a0wn/index.m3u8
+https://mlb.essastream.com:8081/canalcocotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine35mm" tvg-logo="https://i.ibb.co/ksy7c8Rm/Picsart-25-11-28-02-39-10-065.webp" group-title="TV Peru", Cine 35 mm
 https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
