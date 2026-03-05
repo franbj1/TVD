@@ -1577,6 +1577,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/La_Tele.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel TV 
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FUEGOTV.pe" tvg-logo="https://i.ibb.co/zHbhmSXx/Picsart-26-01-10-01-40-38-946.webp" group-title="TV Peru", Fuego TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
@@ -4342,9 +4345,6 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Gvn0qMK/1763959685343.webp" group-title="Religión", ÉL TV
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="Religión", Bethel TV 
-http://magiz.net:25461/leo/leo/110
 
 #EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.supaimg.com/5f38a7e8-aa01-42a8-95bc-9da75e9fb1aa.png?raw=true" group-title="Religión", Logos TV
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
