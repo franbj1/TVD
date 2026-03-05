@@ -1558,9 +1558,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/xt4Gtxf5/Canal-N-1999.webp" group-title="TV Peru", Canal N
-https://val03.ride.com.ar/tvmia/an38/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
