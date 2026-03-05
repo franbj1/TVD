@@ -1598,11 +1598,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa
+#EXTINF:-1 tvg-id="NATIVA.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nativa.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/PGNQZSNS/Picsart-26-01-10-15-08-31-158.webp" group-title="TV Peru", Telelima
+#EXTINF:-1 tvg-id="TELELIMA.pe" tvg-logo="https://i.ibb.co/PGNQZSNS/Picsart-26-01-10-15-08-31-158.webp" group-title="TV Peru", Telelima
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
 
@@ -1618,7 +1618,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Ovaciontv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/trivu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Cosmos.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos
+#EXTINF:-1 tvg-id="TV COSMOS.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
@@ -1644,14 +1644,14 @@ https://servilive.com:3028/live/jntv19live.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
+#EXTINF:-1 tvg-id="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
 http://45.173.201.51:4000/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-id="FMH Movies.pe" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies.
+#EXTINF:-1 tvg-id="FMH Movies" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies.
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/FMH_Movies.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
+#EXTINF:-1 tvg-id="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/FMH_Kids.stream/playlist.m3u8
 
@@ -1687,7 +1687,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Fierro.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo
+#EXTINF:-1 tvg-id="FIERRO A FONDO.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8
 
