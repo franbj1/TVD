@@ -1611,15 +1611,14 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://i.ibb.co/yF6GXp3K/Picsart-26-01-10-19-49-46-968.webp" group-title="TV Peru", Ovación TV
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Ovaciontv.stream/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/trivu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV COSMOS.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
 
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
