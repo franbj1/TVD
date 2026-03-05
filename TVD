@@ -2407,6 +2407,9 @@ https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="Deportes", TyC Sports SD
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
+
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/800/542/0/0/28233186072861.png?raw=true" group-title="Deportes", TyC Sports HD
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
@@ -2748,48 +2751,6 @@ https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cSHnVnV8/Picsart-25-10-26-19-02-53-579.webp" group-title="Deportes", Azteca Deportes
 http://199.127.63.105:8989/278576_.m3u8
-
-TyC Sports (Play)
-
-#EXTINF:-1 group-logo="https://i.ibb.co/Gf7JnFqT/Picsart-26-02-04-14-20-54-082.webp"
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play
-https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 1  
-https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 2  https://ch11-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1  tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 3
-https://ch12-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 4 
-https://ch10-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 5  
-https://ch11-04-11-tyc.vodgc.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 6
-https://ch10-04-11-tyc.vodgc.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 7
-https://ch11-04-11-tyc.vodgc.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 8
-https://ch11-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 9
-https://ch10-04-11-tyc.vodgc.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 10
-https://ch10-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 11
-https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="TyC Sports Play", TyC Sports Play 12
-https://ch12-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8?|referer=https://play.tycsports.com/
 
 Infantil
 
