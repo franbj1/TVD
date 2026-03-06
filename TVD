@@ -2329,19 +2329,19 @@ https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd?|refer
 https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/xgd6zb6isj8jhmrv2unzs/fox-sports-sensa.json?rlkey=rj5jvzcodchoj1acl6jncu142&st=p0z606e1&dl=0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=fdc62b44394044f5929d40ef41f425a1&key%5B%5D=bc88342b7940f2f85dbe698cec2639c5
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="https://i.ibb.co/FkYfq5N5/Picsart-26-02-02-23-19-48-492.webp" group-title="Deportes", Fox Sports AR
-https://mplus.pontiscloud.com/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_BKP2/sa_live_dash_ll/FOX_SPORTS_BKP2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/q7ozmigarml524nkhu2i6/fox-sports-2-sensa.json?rlkey=ufp4h1mat9uku0pi2js5tf2vl&st=ow5g7vue&dl=0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=fb87b63bd6ea4005b66b41cdaca7ba9b&key%5B%5D=bb54f7132fb47d804723ec429ef65c81
 #EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", Fox Sports 2 AR
-https://mplus.pontiscloud.com/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4tpc067aw31lsnb92q8gy/fox-sports-3-sensa.json?rlkey=a3c9l3p9mj7b0ysi1u6hd4aji&st=warwuayi&dl=0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d2c3554c2f9540849031439326cce8e9&key%5B%5D=f97391f9e36f6f33eed844ebaab72a8f
 #EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-logo="https://i.ibb.co/8nnVbppx/1770086314401.webp" group-title="Deportes", Fox Sports 3 AR
-https://mplus.pontiscloud.com/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_3_BACKUP/sa_live_dash/FOX_SPORTS_3_BACKUP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
