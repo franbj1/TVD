@@ -763,7 +763,7 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u
 #EXTINF:-1 tvg-id="Canal 13 Jujuy.ar" tvg-logo="https://i.ibb.co/pjxhc84K/Picsart-25-12-11-00-53-04-406.webp" group-title="TV Digital", Canal 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-#EXTINF:-1 tvg-id="Cable Imagen.ar" tvg-logo="https://i.ibb.co/6R3r1HWv/1765424697620.webp" group-title="TV Argentina", Cable Imagen Arg
+#EXTINF:-1 tvg-id="Cable Imagen.ar" tvg-logo="https://i.ibb.co/6R3r1HWv/1765424697620.webp" group-title="TV Digital", Cable Imagen Arg
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Once La Costa.ar" tvg-logo="https://i.ibb.co/hx2kk0sx/1765424776522.webp" group-title="TV Digital", Once La Costa
@@ -959,47 +959,47 @@ TV Ecuador
 
 #EXTINF:-1 group-logo="https://i.ibb.co/mC4cPTs4/Picsart-26-01-26-16-07-10-512.webp"
 
-#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.ibb.co/dwGG3B8D/Picsart-26-01-26-16-20-16-308.webp" group-title="TV Ecuador", Ecuavisa ECU
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.ibb.co/dwGG3B8D/Picsart-26-01-26-16-20-16-308.webp" group-title="TV Ecuador", Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1
 
-#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-logo="https://i.ibb.co/m5Mwrxz0/TC-Televisi-n-new-logo-2020.webp" group-title="TV Ecuador", TC Mi Canal ECU
+#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-logo="https://i.ibb.co/m5Mwrxz0/TC-Televisi-n-new-logo-2020.webp" group-title="TV Ecuador", TC Mi Canal
 http://lamtv.ddns.net/play/iB2ChdIwA4RNT7QfphYuNDdR83JUQ6kx8xylu7R6ifA/m3u8
 
-#EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS ECU
+#EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS
 https://val04.ride.com.ar/tvmia/an48/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Canal Uno.ec" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", Canal Uno ECU
+#EXTINF:-1 tvg-id="Canal Uno.ec" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", Canal Uno
 https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
 
-#EXTINF:-1 tvg-id="oromar" tvg-logo="https://i.ibb.co/9F8HS9g/1769727410877.webp" group-title="TV Ecuador", Oromar TV ECU
+#EXTINF:-1 tvg-id="oromar" tvg-logo="https://i.ibb.co/9F8HS9g/1769727410877.webp" group-title="TV Ecuador", Oromar TV
 Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://i.ibb.co/JFjWx3Bd/TVCEcuador2023.webp" group-title="TV Ecuador", TVC ECU
+#EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://i.ibb.co/JFjWx3Bd/TVCEcuador2023.webp" group-title="TV Ecuador", TVC
 https://val04.ride.com.ar/tvmia/an49/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/9kbN9N01/Picsart-26-01-26-17-06-19-322.webp" group-title="TV Ecuador", Ecuador TV ECU
+#EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/9kbN9N01/Picsart-26-01-26-17-06-19-322.webp" group-title="TV Ecuador", Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión ECU
+#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión
 https://val04.ride.com.ar/tvmia/an52/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Ecotel.ec" tvg-logo="https://i.ibb.co/wD2jFK3/1769720916381.webp" group-title="TV Ecuador", Ecotel TV ECU
+#EXTINF:-1 tvg-id="Ecotel.ec" tvg-logo="https://i.ibb.co/wD2jFK3/1769720916381.webp" group-title="TV Ecuador", Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="America Estereo.ec" tvg-logo="https://i.ibb.co/gMmCfYJx/Picsart-26-01-29-18-04-09-407.webp" group-title="TV Ecuador", América Estereo ECU
+#EXTINF:-1 tvg-id="America Estereo.ec" tvg-logo="https://i.ibb.co/gMmCfYJx/Picsart-26-01-29-18-04-09-407.webp" group-title="TV Ecuador", América Estereo
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Cinecable.ec" tvg-logo="https://i.ibb.co/b5gV9bdm/horizontal-cine.webp" group-title="TV Ecuador", Cine Cable ECU
+#EXTINF:-1 tvg-id="Cinecable.ec" tvg-logo="https://i.ibb.co/b5gV9bdm/horizontal-cine.webp" group-title="TV Ecuador", Cine Cable
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Red TVE Ventanas.ec" tvg-logo="https://i.ibb.co/Fb9RW6qr/1769721710145.webp" group-title="TV Ecuador", Red TVE Ventanas ECU
+#EXTINF:-1 tvg-id="Red TVE Ventanas.ec" tvg-logo="https://i.ibb.co/Fb9RW6qr/1769721710145.webp" group-title="TV Ecuador", Red TVE Ventanas
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.ibb.co/dy9Dp6m/Picsart-26-01-29-18-23-38-476.webp" group-title="TV Ecuador", RTU TV ECU
+#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.ibb.co/dy9Dp6m/Picsart-26-01-29-18-23-38-476.webp" group-title="TV Ecuador", RTU TV
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Puruwa TV.ec" tvg-logo="https://i.ibb.co/FkyJWyKS/Picsart-26-01-29-18-33-38-202.webp" group-title="TV Ecuador", Puruwa TV ECU
+#EXTINF:-1 tvg-id="Puruwa TV.ec" tvg-logo="https://i.ibb.co/FkyJWyKS/Picsart-26-01-29-18-33-38-202.webp" group-title="TV Ecuador", Puruwa TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TVPJ.ec" tvg-logo="https://i.ibb.co/jv7td9ZM/Picsart-26-01-29-18-55-45-916.webp" group-title="TV Ecuador", TVPJ
@@ -3460,7 +3460,6 @@ https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-titlle="HBO + Universal II", Universal Reality
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
-
 
 Cultura
 
