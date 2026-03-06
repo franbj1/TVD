@@ -734,91 +734,91 @@ https://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
-#EXTINF:-1 tvg-id="132#Telediario Televisión" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/800/542/0/0/93452015074309.png" group-title="TV Argentina", Telediario Televisión
+#EXTINF:-1 tvg-id="132#Telediario Televisión" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/800/542/0/0/93452015074309.png" group-title="TV Digital", Telediario Televisión
 https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8PJShr2/San-Luis-Logo-2023.webp" group-title="TV Argentina", San Luis +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8PJShr2/San-Luis-Logo-2023.webp" group-title="TV Digital", San Luis +
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="TV Argentina", Cinco TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="TV Digital", Cinco TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://panel.host-live.com:19360/8118/8118.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mF654r3T/Picsart-25-08-10-23-34-49-702.webp" group-title="TV Argentina", Cinco TV Tigre
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mF654r3T/Picsart-25-08-10-23-34-49-702.webp" group-title="TV Digital", Cinco TV Tigre
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c228956-0a6b-433e-a07f-e2d9a75eb945.png?raw=true" group-title="TV Argentina", Canal Diez Junín TDA
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c228956-0a6b-433e-a07f-e2d9a75eb945.png?raw=true" group-title="TV Digital", Canal Diez Junín TDA
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://g4.vxral-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Aire.ar" tvg-logo="https://i.ibb.co/zTN3NZQm/20251211-124751.webp" group-title="TV Argentina", Aire De Santa Fé
+#EXTINF:-1 tvg-id="Aire.ar" tvg-logo="https://i.ibb.co/zTN3NZQm/20251211-124751.webp" group-title="TV Digital", Aire De Santa Fé
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 Jujuy.ar" tvg-logo="https://i.ibb.co/pjxhc84K/Picsart-25-12-11-00-53-04-406.webp" group-title="TV Argentina", Canal 13 Jujuy
+#EXTINF:-1 tvg-id="Canal 13 Jujuy.ar" tvg-logo="https://i.ibb.co/pjxhc84K/Picsart-25-12-11-00-53-04-406.webp" group-title="TV Digital", Canal 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 #EXTINF:-1 tvg-id="Cable Imagen.ar" tvg-logo="https://i.ibb.co/6R3r1HWv/1765424697620.webp" group-title="TV Argentina", Cable Imagen Arg
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Once La Costa.ar" tvg-logo="https://i.ibb.co/hx2kk0sx/1765424776522.webp" group-title="TV Argentina", Once La Costa
+#EXTINF:-1 tvg-id="Once La Costa.ar" tvg-logo="https://i.ibb.co/hx2kk0sx/1765424776522.webp" group-title="TV Digital", Once La Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-#EXTINF:-1 tvg-id="Aire.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="TV Argentina", Cel TV
+#EXTINF:-1 tvg-id="Aire.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="TV Digital", Cel TV
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feb8083bdef2.13054359.png" group-title="TV Argentina", Canal 2 MDP
+#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feb8083bdef2.13054359.png" group-title="TV Digital", Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://yt3.googleusercontent.com/JeqwFtrWVXOXE4cxLND1Ulnhk64c5Ow33B7q5iigVv-pYDmlBjS3al0CRtVsAC1jFplX2EO5aQ=s900-ck-c0x00ffffff-no-r" group-title="TV Argentina", Canal 2 Posadas
+#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://yt3.googleusercontent.com/JeqwFtrWVXOXE4cxLND1Ulnhk64c5Ow33B7q5iigVv-pYDmlBjS3al0CRtVsAC1jFplX2EO5aQ=s900-ck-c0x00ffffff-no-r" group-title="TV Digital", Canal 2 Posadas
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png" group-title="TV Argentina", Canal 2 Usuahia
+#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png" group-title="TV Digital", Canal 2 Usuahia
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feb82e445458.35615699.png" group-title="TV Argentina", Canal 3 Pinamar
+#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feb82e445458.35615699.png" group-title="TV Digital", Canal 3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://i.postimg.cc/8PMm8fbR/IMG-20250520-WA0024.jpg" group-title="TV Argentina", TVP Pampeana
+#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://i.postimg.cc/8PMm8fbR/IMG-20250520-WA0024.jpg" group-title="TV Digital", TVP Pampeana
 https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4esquelchubut.png" group-title="TV Argentina", Canal 4 Esquel
+#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4esquelchubut.png" group-title="TV Digital", Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="TV Argentina", Canal 4 Misiones
+#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="TV Digital", Canal 4 Misiones
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6c12d3c7-e995-473a-8a2c-03e97281b56c.png?raw=true" group-title="TV Argentina", Canal 5 Multimedios
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6c12d3c7-e995-473a-8a2c-03e97281b56c.png?raw=true" group-title="TV Digital", Canal 5 Multimedios
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/1f3e4d06-4e39-41e4-bdba-3c97b7ac9d68.png?raw=true " group-title="TV Argentina", CELT TV
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1f3e4d06-4e39-41e4-bdba-3c97b7ac9d68.png?raw=true " group-title="TV Digital", CELT TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/66912773-1c16-4e58-bff8-2c85d228e672.png?raw=true" group-title="TV Argentina", Eco TV Tandil
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/66912773-1c16-4e58-bff8-2c85d228e672.png?raw=true" group-title="TV Digital", Eco TV Tandil
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnWcZC2w/logo-Pwr-HD-small.webp" group-title="TV Argentina", Power TV Pinamar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnWcZC2w/logo-Pwr-HD-small.webp" group-title="TV Digital", Power TV Pinamar
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Argentina", Canal 79 Mar Del Plata SUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Digital", Canal 79 Mar Del Plata SUR
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Argentina", Canal 79 Santa Clara Del Mar SUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Digital", Canal 79 Santa Clara Del Mar SUR
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
