@@ -645,91 +645,91 @@ https://router.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd?http-referrer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/ixp-sanjuan/dash/c13/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7J8Byp/Picsart-25-12-07-11-43-06-345.webp" group-title="TV Argentina", Canal 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7J8Byp/Picsart-25-12-07-11-43-06-345.webp" group-title="TV Digital", Canal 4
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/hub/canal4/dash/live.mpd
 
-#EXTINF:-1 tvg-id="CANAL 9 TELEVIDA.ar" tvg-logo="https://i.ibb.co/S4z8Ggc0/Picsart-25-08-01-03-33-48-843.png" group-title="TV Argentina", Televida
+#EXTINF:-1 tvg-id="CANAL 9 TELEVIDA.ar" tvg-logo="https://i.ibb.co/S4z8Ggc0/Picsart-25-08-01-03-33-48-843.png" group-title="TV Digital", Televida
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/44118084" group-title="TV Argentina", Telesol
+#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/44118084" group-title="TV Digital", Telesol
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/onpower/dash/telesol/index.mpd
 
-#EXTINF:-1 tvg-id="Telefe Santa Fe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png" group-title="TV Argentina", Telefe Santa Fé
+#EXTINF:-1 tvg-id="Telefe Santa Fe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png" group-title="TV Digital", Telefe Santa Fé
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe Neuquen.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png" group-title="TV Argentina", Canal 7 Neuquén
+#EXTINF:-1 tvg-id="Telefe Neuquen.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png" group-title="TV Digital", Canal 7 Neuquén
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/gcwhTNR/1762294123386.webp" group-title="TV Argentina", Gen TV
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/gcwhTNR/1762294123386.webp" group-title="TV Digital", Gen TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/KzsB3zYq/Logo-Neo-Tv-1.webp" group-title="TV Argentina", NEO TV
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/KzsB3zYq/Logo-Neo-Tv-1.webp" group-title="TV Digital", NEO TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99C25mCq/Picsart-25-12-05-20-57-54-624.webp" group-title="TV Argentina", Xama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99C25mCq/Picsart-25-12-05-20-57-54-624.webp" group-title="TV Digital", Xama
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/hub/xama/xama.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDxQfjct/Picsart-25-12-05-11-16-20-781.webp" group-title="TV Argentina", AM1020
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDxQfjct/Picsart-25-12-05-11-16-20-781.webp" group-title="TV Digital", AM1020
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/onpower/dash/am1020/index.mpd
 
-#EXTINF:-1 tvg-id="Canal 7 de Jujuy.ar" tvg-logo="https://i.ibb.co/sv5D5ctq/1765376391101.webp" group-title="TV Argentina", Canal 7 Jujuy
+#EXTINF:-1 tvg-id="Canal 7 de Jujuy.ar" tvg-logo="https://i.ibb.co/sv5D5ctq/1765376391101.webp" group-title="TV Digital", Canal 7 Jujuy
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGwyMNwp/1765382165242.webp" group-title="TV Argentina", Canal 7 Salta
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGwyMNwp/1765382165242.webp" group-title="TV Digital", Canal 7 Salta
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
-#EXTINF:-1 tvg-id="EL SIETE.ar" tvg-logo="https://i.ibb.co/Q362pCLt/1765376203268.webp" group-title="TV Argentina", El Siete Mendoza
+#EXTINF:-1 tvg-id="EL SIETE.ar" tvg-logo="https://i.ibb.co/Q362pCLt/1765376203268.webp" group-title="TV Digital", El Siete Mendoza
 https://g3.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5jyDPy1/13-max2024.webp" group-title="TV Argentina", 13 Max
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5jyDPy1/13-max2024.webp" group-title="TV Digital", 13 Max
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21CMCnBG/Canal-9-Litoral-Logo-2025.webp" group-title="TV Argentina", Canal 9 Litoral
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21CMCnBG/Canal-9-Litoral-Logo-2025.webp" group-title="TV Digital", Canal 9 Litoral
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc99kfNL/1765377671158.webp" group-title="TV Argentina", Chacra TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc99kfNL/1765377671158.webp" group-title="TV Digital", Chacra TV
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f9261beee045d06c325c380b9275e15:89976f64ccde3509e15e38c9196a529f
-#EXTINF:-1 tvg-id="MULTIVISIÓN FEDERAL.ar" tvg-logo="https://i.ibb.co/3YjJMDkK/1765382078216.webp" group-title="TV Argentina", Multivisión
+#EXTINF:-1 tvg-id="MULTIVISIÓN FEDERAL.ar" tvg-logo="https://i.ibb.co/3YjJMDkK/1765382078216.webp" group-title="TV Digital", Multivisión
 https://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -824,19 +824,19 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Argentina", Canal 79 La Costa SUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Digital", Canal 79 La Costa SUR
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Argentina", Canal 79 Puan SUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Digital", Canal 79 Puan SUR
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://streamconex.com:19360/puan/puan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Argentina", Canal 79 Villa Maza SUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="TV Digital", Canal 79 Villa Maza SUR
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
