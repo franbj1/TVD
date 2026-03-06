@@ -196,19 +196,22 @@ https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://web
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxhX1scn/Picsart-26-03-06-16-34-05-762.webp" group-title="Nacional", BTV TDA
+https://smt-usr-edge02.sensa.com.ar/output/SMT6/BTVD/output.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="EVENTOS HD.ar" tvg-logo="https://i.ibb.co/hJpRHYSb/Picsart-25-11-16-20-43-14-788.webp" group-title="Nacional", Gen TV
+#EXTINF:-1 tvg-id="EVENTOS HD.ar" tvg-logo="https://i.ibb.co/hJpRHYSb/Picsart-25-11-16-20-43-14-788.webp" group-title="Nacional", Gen TV TDA
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Five TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Five TV TDA
 https://panel.host-live.com:19360/8118/8118.m3u8
 
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/svkNt2zC/Picsart-25-11-04-17-43-41-786.webp" group-title="Nacional", Neo TV Digital
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/svkNt2zC/Picsart-25-11-04-17-43-41-786.webp" group-title="Nacional", Neo TV Digital TDA
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -216,7 +219,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7xNMRPMw/Picsart-25-07-06-13-09-54-823.png" group-title="Nacional", Bayres TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xNMRPMw/Picsart-25-07-06-13-09-54-823.png" group-title="Nacional", Bayres TV TDA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
 
 #EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/RpBx1DNJ/Picsart-26-01-08-18-19-07-464.webp" group-title="Nacional", Señal Urbana +
