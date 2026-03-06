@@ -347,6 +347,30 @@ https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="TV Digital", Telemax
 https://bvclive1.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rmmz2Sk/1771189819152.webp" group-title="TV Digital", Unife TV
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+
+#EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.ibb.co/f5M1qv9/Picsart-25-11-16-03-25-08-002.webp" group-title="TV Digital", CN23
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-at=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://router.cdn.rcs.net.ar/mnp/cn23/output.mpd
+
+#EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/KMpjDFf/Picsart-25-12-04-12-22-46-123.webp" group-title="TV Digital", Tec
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tecnopolis/output.mpd
+
+#EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/vCnLRTzG/Picsart-26-02-15-19-00-37-105.webp" group-title="TV Digital", Construir TV
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
+https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=014771c4a91db80e96f038ec0acfc304&key%5B%5D=e37fa696265923a6082de157662aab73
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="TV Digital", Ciudad Magazine
@@ -360,7 +384,7 @@ https://mplus.pontiscloud.com/live/eds/Volver/live_dash_cld/Volver.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4b4ebe3c68c4c95c7639096e76c233d0&key%5B%5D=0c48cd5e3298b762a099acdc05a5182a
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="TV Digital", TN (Todo Noticias)
-https://mplus.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd
+https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a002010b506854599dffbb8b9048ec7c&key%5B%5D=160eedf85229da919a7c5eec4fbef809
