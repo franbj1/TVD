@@ -243,7 +243,7 @@ https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https:/
 https://cdn.sensa.com.ar/bpk-tv/Futurock/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", Vale 97.5
+#EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/8LN4NGpz/Picsart-26-03-07-04-05-18-965.webp" group-title="Nacional", Vale 97.5
 https://smt-usr-edge02.sensa.com.ar/output/SMT4/R1D/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
