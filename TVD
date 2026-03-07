@@ -202,7 +202,7 @@ https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MxhX1scn/Picsart-26-03-06-16-34-05-762.webp" group-title="Nacional", BTV TDA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxhX1scn/Picsart-26-03-06-16-34-05-762.webp" group-title="Nacional", BTV
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/BTVD/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -321,9 +321,7 @@ https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd
 #KODIPROP:inputstream.adaptive.license_key=93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="TV Digital", Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/137.0.0.0 Safari/537.36
-http://194.76.0.229:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/157617
-
-https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP/sa_live_dash_ll/TELEFE_PUBLICA_BACKUP.mpd
+http://liketv.pro:80/User1626/28TM4MEU66/99.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
