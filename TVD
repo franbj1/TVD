@@ -264,7 +264,7 @@ https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/TIERRAMIATV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/LATINA_TV.mpd
 
-EXTINF:-1 tvg-id="popular" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3982/CH_LOGO/160/160/0/0/67035155079040.png" group-title="Nacional", La Popu
+#EXTINF:-1 tvg-id="popular" tvg-logo="https://i.postimg.cc/PqK5Lpw0/Picsart-26-03-07-05-14-47-924.png" group-title="Nacional", La Popu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
 
