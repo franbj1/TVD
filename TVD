@@ -92,13 +92,13 @@ https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/Knc6y2r/Picsart-25-11-04-21-41-40-358.webp" group-title="Nacional", Ciudad Magazine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14.0; Build/UTTC.250917.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.0 Safari/537.36 DeviceType/AndroidTV
-https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/Kc072Yg9/Picsart-25-09-16-09-07-28-650.webp" group-title="Nacional", Volver
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14.0; Build/UTTC.250917.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.0 Safari/537.36 DeviceType/AndroidTV
-https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
