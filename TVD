@@ -1439,14 +1439,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/WZzkdgs/Picsart-25-12-29-23-08-54-647.webp" group-title="TV Peru", ATV +
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/Pzhvd0L0/Picsart-26-03-04-16-40-43-356.webp" group-title="TV Peru", Global TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
@@ -1459,6 +1451,14 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/WZzkdgs/Picsart-25-12-29-23-08-54-647.webp" group-title="TV Peru", ATV +
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
@@ -1469,7 +1469,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA TELE PERU.pe" tvg-logo="https://i.ibb.co/WvR9GL5J/Picsart-26-01-09-18-33-06-616.webp" group-title="TV Peru", La Tele
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/La_Tele.stream/playlist.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/16.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
