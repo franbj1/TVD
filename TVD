@@ -272,7 +272,7 @@ https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
-#EXTINF:-1 tvg-id="Cadena3" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3841/CH_LOGO/160/160/0/0/71241680072511.png" group-title="Nacional", Cadena 3
+#EXTINF:-1 tvg-id="Cadena3" tvg-logo="https://i.postimg.cc/g2XVHpDV/logo2-cadena-3.png" group-title="Nacional", Cadena 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
