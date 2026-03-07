@@ -890,7 +890,7 @@ https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 http://181.78.27.128:12543/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno
-https://val01.ride.com.ar/tvmia/bn14/playlist.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/02.m3u8
 
 #EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp" group-title="TV Colombia", Trece
 https:/val01.ride.com.ar/tvmia/bn27/playlist.m3u8
@@ -993,7 +993,7 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://val04.ride.com.ar/tvmia/an49/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/9kbN9N01/Picsart-26-01-26-17-06-19-322.webp" group-title="TV Ecuador", Ecuador TV
-https://samson.streamerr.co:8081/shogun/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/02.m3u8
 
 #EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión
 https://val04.ride.com.ar/tvmia/an52/playlist.m3u8?sense=true
