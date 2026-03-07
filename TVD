@@ -268,7 +268,7 @@ EXTINF:-1 tvg-id="popular" tvg-logo="https://geo.edge.pontiscloud.com:9002/image
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
 
-#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3981/CH_LOGO/160/160/0/0/71941975079039.png" group-title="Nacional", Cosquin Rock
+#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://i.ibb.co/R4659vcp/Picsart-26-03-07-05-05-06-595.webp" group-title="Nacional", Cosquin Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
