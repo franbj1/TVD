@@ -1343,78 +1343,78 @@ TV Chile
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/qa0bd5cdqu5jn3dnrcj27/chv-mundogo.json?rlkey=x3q4aq749i1pdj9blyib4z8qd&st=frctl4d6&dl=0
-#EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://i.ibb.co/nNHFyS05/Picsart-26-01-28-03-20-55-163.webp" group-title="TV Chile", Chilevisión CL
+#EXTINF:-1 tvg-id="CHV.cl" tvg-logo="https://i.ibb.co/nNHFyS05/Picsart-26-01-28-03-20-55-163.webp" group-title="TV Chile", Chilevisión
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/o1avk66a1o6l5oexv2h42/chvculto-mundogo.json?rlkey=yph2jgyn0kzl1sei8j757nzdm&st=9ej0kxd4&dl=0
-#EXTINF:-1 tvg-id="Chv de culto.cl" tvg-logo="https://i.ibb.co/JjnyjZf9/Picsart-26-01-28-03-19-27-721.webp" group-title="TV Chile", CHV de Culto CL
+#EXTINF:-1 tvg-id="Chv de culto.cl" tvg-logo="https://i.ibb.co/JjnyjZf9/Picsart-26-01-28-03-19-27-721.webp" group-title="TV Chile", CHV de Culto
 https://cdn-live.mundogo.cl/chvculto/chvculto.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4w8igpk6whxpma33tcxkz/chv-contigo-mundogo.json?rlkey=s29g38dqrf41rcpbghljb83qd&st=4y8daxt8&dl=0
-#EXTINF:-1 tvg-id="CHV Contigo.cl" tvg-logo="https://i.ibb.co/ksByyDWL/Picsart-26-01-28-11-28-02-076.webp" group-title="TV Chile", CHV Contigo  CL
+#EXTINF:-1 tvg-id="CHV Contigo.cl" tvg-logo="https://i.ibb.co/ksByyDWL/Picsart-26-01-28-11-28-02-076.webp" group-title="TV Chile", CHV Contigo
 https://cdn-live.mundogo.cl/chvcontigo/chvcontigo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/8rcvvqk7sol0nfkbqmxos/mega-mundogo.json?rlkey=j2s6y0b40h8zb0g4fqsfiflo9&st=lecr68xp&dl=0
-#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.ibb.co/j9XJkCK9/Picsart-26-01-27-21-10-07-132.webp" group-title="TV Chile", Mega CL
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.ibb.co/j9XJkCK9/Picsart-26-01-27-21-10-07-132.webp" group-title="TV Chile", Mega
 https://cdn-live.mundogo.cl/megahd/megahd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/mloccckzoasgc7w33sz84/mega2-mundogo.json?rlkey=f9gq5klep5kpihtc4xu2haj0c&st=ockk27am&dl=0
-#EXTINF:-1 tvg-id="Mega 2.cl" tvg-logo="https://i.ibb.co/7d5kjf8Y/Picsart-26-01-28-03-16-03-557.webp" group-title="TV Chile", Mega 2 CL
+#EXTINF:-1 tvg-id="Mega 2.cl" tvg-logo="https://i.ibb.co/7d5kjf8Y/Picsart-26-01-28-03-16-03-557.webp" group-title="TV Chile", Mega 2
 https://cdn-live.mundogo.cl/mega2/mega2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/ou5tyqpvippyvquht2v8s/mega-tiempo-mundogo.json?rlkey=f6flzla5vx6tizb67a23c7a0p&st=pny4ukuy&dl=0
-#EXTINF:-1 tvg-id="Mega Tiempo.cl" tvg-logo="https://i.ibb.co/JwD6CzxX/1769612561718.webp" group-title="TV Chile", Mega Tiempo CL
+#EXTINF:-1 tvg-id="Mega Tiempo.cl" tvg-logo="https://i.ibb.co/JwD6CzxX/1769612561718.webp" group-title="TV Chile", Mega Tiempo
 https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd
 
-#EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.ibb.co/wNNtLRt7/Picsart-26-01-27-21-12-55-672.webp" group-title="TV Chile", Canal 13 CL
+#EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.ibb.co/wNNtLRt7/Picsart-26-01-27-21-12-55-672.webp" group-title="TV Chile", Canal 13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8?did='+_dpssid
 
-#EXTINF:-1 tvg-id="13 Internacional.cl" tvg-logo="https://i.ibb.co/4RBmfBgv/Picsart-26-01-28-11-20-33-700.webp" group-title="TV Chile", 13 Internacional CL
+#EXTINF:-1 tvg-id="13 Internacional.cl" tvg-logo="https://i.ibb.co/4RBmfBgv/Picsart-26-01-28-11-20-33-700.webp" group-title="TV Chile", 13 Internacional
 https://origin.dpsgo.com/ssai/event/AoG07lVzSdW0gdaCAcSl-g/master.m3u8
 
-#EXTINF:-1 tvg-id="T13 En Vivo.cl" tvg-logo="https://i.ibb.co/C5TgMTYr/Picsart-26-01-28-03-13-01-705.webp" group-title="TV Chile", T13 CL
+#EXTINF:-1 tvg-id="T13 En Vivo.cl" tvg-logo="https://i.ibb.co/C5TgMTYr/Picsart-26-01-28-03-13-01-705.webp" group-title="TV Chile", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?did='+_dpssid
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/j75bl6lor5byhevz0js1n/ntv-mundogo.json?rlkey=8hsh9gqibxoczabae752tv6ia&st=vbk9zo9v&dl=0
-#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.ibb.co/V0TGRBKf/Picsart-26-01-28-11-20-06-247.webp" group-title="TV Chile", NTV CL
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.ibb.co/V0TGRBKf/Picsart-26-01-28-11-20-06-247.webp" group-title="TV Chile", NTV
 https://cdn-live.mundogo.cl/ntv/ntv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b108e54efb596e5d6403a1759deea810&key=781e087cf7f814fd187f74daa62d112a
-#EXTINF:-1 tvg-id="TV Chile.ar" tvg-logo="https://i.ibb.co/HTdCSX5V/Picsart-26-01-27-20-55-32-021.webp" group-title="TV Chile", TV Chile CL
+#EXTINF:-1 tvg-id="TV Chile.ar" tvg-logo="https://i.ibb.co/HTdCSX5V/Picsart-26-01-27-20-55-32-021.webp" group-title="TV Chile", TV Chile
 https://mplus.pontiscloud.com/bpk-tv/TVChile/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/gibxl5arn8vgka14wl4a8/24-horas-mundogo.json?rlkey=ysl6jm96y77hcf5wrbn7x2ctd&st=rsnu13m4&dl=0
-#EXTINF:-1 tvg-id="24 Horas HD.cl" tvg-logo="https://i.ibb.co/cS6N7mYn/Picsart-26-01-28-11-51-42-719.webp" group-title="TV Chile", 24 Horas  CL
+#EXTINF:-1 tvg-id="24 Horas HD.cl" tvg-logo="https://i.ibb.co/cS6N7mYn/Picsart-26-01-28-11-51-42-719.webp" group-title="TV Chile", 24 Horas
 https://cdn-live.mundogo.cl/24horas/24horas.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/vd3h9nxklgi8ag99kb1gq/tvn-mundogo.json?rlkey=e3t3lr4hpcd9mgwdqsfk6u4ff&st=iionogap&dl=0
-#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.ibb.co/SDQ2fx7v/Picsart-26-01-27-20-57-24-556.webp" group-title="TV Chile", TVN Chile CL
+#EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.ibb.co/SDQ2fx7v/Picsart-26-01-27-20-57-24-556.webp" group-title="TV Chile", TVN Chile
 https://cdn-live.mundogo.cl/tvn/tvn.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/22pp1ug28sctsf1yv5b2v/cnn-chile-mundogo.json?rlkey=7oi5n54wemxcdl3x5j6rfkdg8&st=ygbyhs1l&dl=0
-#EXTINF:-1 tvg-id="CNN CHILE.cl" tvg-logo="https://i.ibb.co/MxPW97V9/Picsart-26-01-28-11-52-01-106.webp" group-title="TV Chile", CNN Chile CL
+#EXTINF:-1 tvg-id="CNN CHILE.cl" tvg-logo="https://i.ibb.co/MxPW97V9/Picsart-26-01-28-11-52-01-106.webp" group-title="TV Chile", CNN Chile
 https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
 
-#EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="TV Chile", TNT Sports Premium CL
+#EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="TV Chile", TNT Sports Premium
 http://45.189.108.146:1935/xmp_trans/tnt_sports2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://i.ibb.co/23FHqL6g/Picsart-25-10-26-18-21-59-149.webp" group-title="TV Chile", TNT Sports CL
+#EXTINF:-1 tvg-id="TNT Sports.cl" tvg-logo="https://i.ibb.co/23FHqL6g/Picsart-25-10-26-18-21-59-149.webp" group-title="TV Chile", TNT Sports
 #EXTVLCOPT:almacenamiento en caché de red=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Version/14.0.1 Mobile/15E148
 http://45.189.108.146:1935/xmp_trans/tnt_sports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="TV Chile", ESPN Premium CL
+#EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="TV Chile", ESPN Premium
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
 
 TV Peru
@@ -1461,6 +1461,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KARIBEÑA.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Karibeña TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.ibb.co/Y77qCFbW/1768086830476.webp" group-title="TV Peru", Canal IPE
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
@@ -1473,17 +1477,13 @@ http://liketv.pro:80/User1626/28TM4MEU66/16.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel
+#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel ✟
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FUEGOTV.pe" tvg-logo="https://i.ibb.co/zHbhmSXx/Picsart-26-01-10-01-40-38-946.webp" group-title="TV Peru", Fuego TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KARIBEÑA.pe" tvg-logo="https://i.ibb.co/SDyHQmF9/1767018992848.webp" group-title="TV Peru", Karibeña TV
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BONITA TV.pe" tvg-logo="https://i.ibb.co/0jQvBGRb/1768020666485.webp" group-title="TV Peru", Bonita TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
