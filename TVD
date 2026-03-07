@@ -2356,7 +2356,7 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2
 #EXTINF:-1 tvg-id="ESPN Deportes.mx" tvg-name="" tvg-logo="https://i.ibb.co/4RQFpPNy/Picsart-25-10-13-07-22-30-930.webp" group-title="Deportes", ESPN Deportes
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://zonamovie.pro:443/play/M_6vweDxOIMf35HJo8fEzJEFr5XBqNBSH2TGAXFPrb0/ts
+http://liketv.pro:80/User1626/28TM4MEU66/44.m3u8
 
 #EXTINF:-1 tvg-id="Combate Brasil" tvg-logo="https://i.ibb.co/kgMLk8zG/Picsart-25-10-21-18-50-48-728.webp" group-title="Deportes", Combate BR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
