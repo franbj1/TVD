@@ -244,7 +244,7 @@ https://cdn.sensa.com.ar/bpk-tv/Futurock/default/index.mpd?|referer=https://webc
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", Vale 97.5
-https://cdn.sensa.com.ar/output/SMT4/R1D/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/SMT4/R1D/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
