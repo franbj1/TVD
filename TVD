@@ -1536,7 +1536,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/QFy3LKDF/1767063016054.webp" group-title="TV Peru", JN19 Televisión
-https://servilive.com:3028/live/jntv19live.m3u8
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/jn19/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/Sw7V8zX4/Picsart-26-03-04-14-45-29-280.webp" group-title="TV Peru", Sol TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
