@@ -1682,6 +1682,18 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CINE FAMILIAR.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/800/542/0/0/38183247075481.png" group-title="TV Peru", Cine Familiar
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINE HISPANO HD.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/800/542/0/0/47205068074564.png" group-title="TV Peru", Cine Hispano
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINE PREMIUM HD.pe" tvg-logo="https://i.ibb.co/cSvVDBNf/Picsart-25-10-28-16-56-41-097.webp" group-title="TV Peru", Cine Premium
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="L1.pe" tvg-logo="https://i.ibb.co/BKwY11nT/Picsart-25-10-18-17-54-49-553.webp" group-title="TV Peru", L1
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 http://38.199.6.1:17001/play/a0cz/index.m3u8
