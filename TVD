@@ -1642,6 +1642,32 @@ https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 #EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="TV Peru", Retro Cine TV
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="TV Peru", Sony Channel
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPACE.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Peru", Space
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STARCHANNEL.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="TV Peru", Star Channel
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png" group-title="TV Peru", Studio Universal
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/studiouniversal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="TV Peru", TCM https://lilac01.pontiscloud.com/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#EXTINF:-1 group-title="TV Peru" tvg-id="TLNovelas.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png", TL Novelas
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="TV Peru", TNT
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
+
 #EXTINF:-1 tvg-id="L1.pe" tvg-logo="https://i.ibb.co/BKwY11nT/Picsart-25-10-18-17-54-49-553.webp" group-title="TV Peru", L1
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 http://38.199.6.1:17001/play/a0cz/index.m3u8
