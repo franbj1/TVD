@@ -1601,8 +1601,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIERRO A FONDO.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/chunks.m3u8
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fierrofondo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Filka.pe" tvg-logo="https://i.ibb.co/zK1bGw4/1770900938918.webp" group-title="TV Peru", Filka TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
