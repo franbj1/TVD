@@ -1792,6 +1792,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_cenc/Eventos_2_UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c926dba1fe354d529601ee6e38fe0a4b&key=41c5da6d1608e6377ff86c0ded7d042a
 #EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal 21
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
 https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
 
 #EXTINF:-1 tvg-id="Florida Televisora Color HD.uy" tvg-logo="https://i.ibb.co/Q3VVPF9W/Picsart-26-02-04-04-34-03-266.webp" group-title="TV Uruguay", TV Florida
