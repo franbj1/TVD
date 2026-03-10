@@ -5,19 +5,19 @@ Nacional
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/BKzW3q66/Picsart-26-03-03-01-10-51-754.webp" group-title="Nacional", GH 24 Horas 2026
-https://cdn-content-cf2-us.latamlive.net/GH24_ENC_LIVE/index.m3u8
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749367.m3u8
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/ZRLHHLwr/Picsart-26-03-03-01-19-24-078.webp" group-title="Nacional", GH Camara 1
-https://cdn-content-cf2-us.latamlive.net/GH_CAM_1_ENC_LIVE/index.m3u8
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749368.m3u8
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/h1Yj05QH/Picsart-26-03-03-01-19-36-812.webp" group-title="Nacional", GH Camara 2
-https://cdn-content-cf2-us.latamlive.net/GH_CAM_2_ENC_LIVE/index.m3u8
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749369.m3u8
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/MxLGTCN1/Picsart-26-03-03-01-19-53-518.webp" group-title="Nacional", GH Camara 3
-https://cdn-content-cf2-us.latamlive.net/GH_CAM_3_ENC_LIVE/index.m3u8
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749370.m3u8
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/k2SxXyTf/Picsart-26-03-03-01-26-31-381.webp" group-title="Nacional", GH Multicamara
-https://cdn-content-cf2-us.latamlive.net/GHMULTICAMARA_ENC_LIVE/index.m3u8
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749371.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
