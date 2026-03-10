@@ -1463,11 +1463,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV PERU.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV PERU.pe" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
+#EXTINF:-1 tvg-id="TV Peru Noticias" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
 
