@@ -1471,6 +1471,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV PERU.pe" tvg-logo="https://i.ibb.co/JWp38HB2/Picsart-26-03-11-02-09-47-040.webp" group-title="TV Peru", TVPE Internacional https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+
 #EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
@@ -1539,7 +1541,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Ovacion.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/miscelaneos/trivu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV COSMOS.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", TV Cosmos
+#EXTINF:-1 tvg-id="TV COSMOS.pe" tvg-logo="https://i.ibb.co/N2B2KX8F/Picsart-25-12-30-00-39-57-787.webp" group-title="TV Peru", Cosmos
 https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
 
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
@@ -1605,7 +1607,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creofe.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.ibb.co/SXNdFBCh/Picsart-26-02-09-11-17-07-107.webp" group-title="TV Peru", Creo Kids TV
+#EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.ibb.co/SXNdFBCh/Picsart-26-02-09-11-17-07-107.webp" group-title="TV Peru", Creo Kids
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 
