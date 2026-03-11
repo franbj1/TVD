@@ -1467,11 +1467,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Peru Noticias" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV PERU.pe" tvg-logo="https://i.ibb.co/JWp38HB2/Picsart-26-03-11-02-09-47-040.webp" group-title="TV Peru", TVPE Internacional https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWp38HB2/Picsart-26-03-11-02-09-47-040.webp" group-title="TV Peru", TVPE Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
 #EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
