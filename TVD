@@ -1594,8 +1594,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/anima_kids/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peques TV.pe" tvg-logo="https://i.ibb.co/cXZZxPDg/1768942902878.webp" group-title="TV Peru", Peques TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Pequetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Creo.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Creo TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
