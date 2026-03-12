@@ -1875,42 +1875,42 @@ https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_cenc/SNT_C4.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5d2731cf8a59b73438ef59d88cd882bf&key%5B%5D=3f412fa6368b7db4903588de695377e1
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://i.ibb.co/vCPHqGhr/Telefuturo-Logo2022.webp" group-title="TV Paraguay", Telefuturo
-https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_cenc/TELEFUTURO_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c6a481adf6a080ec09637d3f25989cf&key%5B%5D=036e343d636b821ab81838de387b62cb
 #EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.ibb.co/SFgZy9Y/Ltlcolor.webp" group-title="TV Paraguay", La Tele
-https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_cenc/LA_TELE_C4.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c4eds/LA_TELE_C4/SA_Live_dash_cenc/LA_TELE_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a8093cdcb2d504bd38f16764bd21b6e5&key%5B%5D=bfcf3b033b5f0b5ae020751a6746326f
 #EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/B1Gs5cf/Picsart-26-01-20-21-06-21-005.webp" group-title="TV Paraguay", Trece
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bd8e8c9b32ef027e8ff4ff0cfce855a4&key%5B%5D=2918e9893b570c3fa1f215b52a12cc91
 #EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://i.ibb.co/xK5jj85F/Picsart-26-01-21-22-16-53-353.webp" group-title="TV Paraguay", Paravisión
-https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=988ae4e8408981609ded9f8b23bbf79d&key%5B%5D=b867c66791bcad67ee142be1e21c2577
 #EXTINF:-1 tvg-id="Sur TV.py" tvg-logo="https://i.ibb.co/0p2nJFLY/Sur-TV-Itap-a-logo-2022.webp" group-title="TV Paraguay", Sur TV
-https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=63a3729cfd60f24f7e1266bee5eca02c&key%5B%5D=cb9ed028af40654e1aa43934ee58db58
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Paraguay", Unicanal
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=80196dfcb7852e2b5e1165b3b17030e1&key%5B%5D=58face97c908502f17549eb62459bd80
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV
-https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_cenc/Mega_TV.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c7eds/Mega_TV/SA_Live_dash_cenc/Mega_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=daab5ccf306d67749740f7ce02c07850&keyid%5B%5D=4e4a187474de8e29a8507d496c8a594f
 #EXTINF:-1 tvg-id="America.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América
-http://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd
+http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=db60bfaa0178071a5572e6e6ffb46ed3&keyid%5B%5D=82e87fac1c33915ad5d344ffac1bbbb4
