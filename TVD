@@ -376,7 +376,7 @@ https://router.cdn.rcs.net.ar/mnp/cn23/output.mpd
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tecnopolis/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 
 #EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/vCnLRTzG/Picsart-26-02-15-19-00-37-105.webp" group-title="TV Digital", Construir TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
