@@ -2229,7 +2229,7 @@ https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/7t2JTk6C/1514908808-ESPNPremium-12-png-bc6914a1a9a3e5d8a0843bd44b9bee8c-2.png" group-title="Deportes", ESPN Premium Trimi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-http://190.7.19.197:232/play/a038/index.m3u8
+https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
 
 https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_21-05/sa_live_dash_ll/ESPN_PREM_21-05.mpd
 
