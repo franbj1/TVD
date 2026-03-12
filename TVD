@@ -1460,17 +1460,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Pe Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-
 #EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/jXsQWP8/Picsart-25-12-29-23-33-52-451.webp" group-title="TV Peru", ATV Sur
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
@@ -1545,6 +1534,17 @@ https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Pe Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
 #EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.ibb.co/6f8hzLR/Picsart-26-01-10-22-23-31-768.webp" group-title="TV Peru", Congreso TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
