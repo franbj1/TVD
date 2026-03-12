@@ -319,7 +319,7 @@ https://cdn.trimi.com.ar/live/sm-live/C4N4L_NU3V3/sa_live_dash/C4N4L_NU3V3.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="TV Digital", Telefe
-https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzc5MDUxIiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvY zdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZmM2OGFkMThkOWZmYTU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsI mRldmljZV9pZCI6IiIsIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsI joiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjEwMCIsInNvdXJjZXMiOls4NSwxNDQsO DYsODhdfQ==.IMJgRJ2oJ3Sy8bnBKd-0w4FR6YPL83kc1eFVVu3XamR4wDDDG_-sC6rbDgRkE7aP OmeRAAiLW8YdwaQV-JPZFA==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+https://edge-live32-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #EXTINF:-1 tvg-id="Telefe HD.uy" tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="TV Digital", Telefe Int
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
