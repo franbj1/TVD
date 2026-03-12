@@ -1655,6 +1655,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 #EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor
 https://live.obslivestream.com/telecolormux/index.m3u8
 
+#EXTINF:-1 tvg-id="Telecentro.pe" tvg-logo="https://i.ibb.co/0yW4mFhB/tele-centro-logo-2024.webp" group-title="TV Peru", Telecentro
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telecentro.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="TV Peru", Coco TV
 https://mlb.essastream.com:8081/canalcocotv/index.m3u8
 
