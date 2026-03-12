@@ -1505,6 +1505,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.ibb.co/B5xDZLym/PBO.webp" group-title="TV Peru", PBO
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pbo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal B.pe" tvg-logo="https://i.ibb.co/5bQJtVj/Picsart-26-01-10-15-07-36-478.webp" group-title="TV Peru", Canal B
@@ -1632,9 +1633,11 @@ https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/1
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ODTV.pe" tvg-logo="https://i.ibb.co/TMg7bph8/1773350706732.webp" group-title="TV Peru", ODTV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ODTV.stream/playlist.m3u8
 
-EXTINF:-1 tvg-id="ODTV2.pe" tvg-logo="https://i.ibb.co/CKVx6H2L/1773350793424.webp" group-title="TV Peru", ODTV 2
+#EXTINF:-1 tvg-id="ODTV2.pe" tvg-logo="https://i.ibb.co/CKVx6H2L/1773350793424.webp" group-title="TV Peru", ODTV 2
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ODTV2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Turbo Mix.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Turbo Mix
