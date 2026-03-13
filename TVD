@@ -2770,7 +2770,6 @@ https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d1ee410be96d200301ca31230e217fa3&key%5B%5D=4362b9affc67462f28da0b7927f63dfc
 #EXTINF:-1 tvg-id="BITIME.mx" tvg-logo="https://i.supaimg.com/7fcfa479-755d-4902-8a2c-
 3e11d28c70b4.png?raw=true" group-title="Infantil", Bitme
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 AndroidDevice
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jnn66otuvo/out/v1/c35e1d95879d4de5a3b8ead30830ecaf/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3100,9 +3099,6 @@ https://cdn.sensa.com.ar/bpk-tv/Morbido/default/index.mpd?|referer=https://webcl
 
 #EXTINF:-1 tvg-id="Panico TV" tvg-logo="https://i.ibb.co/RkD89VyP/Picsart-26-03-02-17-11-47-258.webp" group-title="Cine + Series", Pánico TV
 https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/playlist/amg27164-amg27164c2-amgplt0181/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Claro" tvg-logo="https://i.ibb.co/cXvbfnTC/Picsart-26-01-19-02-54-27-895.webp" group-title="Cine + Series", Canal Claro
-https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9&profilesFromStream=true
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
