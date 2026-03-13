@@ -2770,7 +2770,7 @@ https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d1ee410be96d200301ca31230e217fa3&key%5B%5D=4362b9affc67462f28da0b7927f63dfc
 #EXTINF:-1 tvg-id="BITIME.mx" tvg-logo="https://i.supaimg.com/7fcfa479-755d-4902-8a2c-
 3e11d28c70b4.png?raw=true" group-title="Infantil", Bitme
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 AndroidDevice
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jnn66otuvo/out/v1/c35e1d95879d4de5a3b8ead30830ecaf/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2789,6 +2789,9 @@ https://1024-tbx.vrioott.com/babytv/manifest.mpd
 #EXTINF:-1 tvg-id="CANAL INFANTIL" tvg-logo="https://i.supaimg.com/c32a05bc-0f6a-433f-bca6-d6dc7ba5f30a.webp" group-title="Infantil", Canal Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#EXTINF:-1 tvg-id="el reino infantil" tvg-logo="https://i.ibb.co/cSBQ3HRK/Contenedor-Logo-ERI-Nube-White-1.webp" group-title="Infantil", El Reino Infantil
+https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a47bfb9e246f3b8405c1225fae73da9e&key%5B%5D=a4865fb8742b4541f64ac37370e902a6
