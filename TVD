@@ -2768,7 +2768,7 @@ https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d1ee410be96d200301ca31230e217fa3&key%5B%5D=4362b9affc67462f28da0b7927f63dfc
-#EXTINF:-1 tvg-id="BITIME.mx" tvg-logo="https://i.supaimg.com/7fcfa479-755d-4902-8a2c-
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7fcfa479-755d-4902-8a2c-
 3e11d28c70b4.png?raw=true" group-title="Infantil", Bitme
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jnn66otuvo/out/v1/c35e1d95879d4de5a3b8ead30830ecaf/cenc-sd.mpd
 
@@ -2810,8 +2810,6 @@ http://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
@@ -2849,12 +2847,8 @@ https://livecdn.enlace.plus/planetacreacion/smil:planetacreacion-hd.smil/playlis
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
-#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan TV Latam
+#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan
 https://zap-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
-
-#EXTINF:-1 tvg-id="Clan TVE.es" tvg-logo="https://i.ibb.co/gZGztz1B/Picsart-26-01-19-14-16-14-362.webp" group-title="Infantil", Clan TV Es
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/bcb99dff-0630-41c9-b067-0a8387d7e18e.png?raw=true" group-title="Infantil", Zaz TV
 #EXTVLCOPT:network-caching=1500
