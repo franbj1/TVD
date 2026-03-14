@@ -308,7 +308,7 @@ http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6Ik
 #KODIPROP:inputstream.adaptive.license_type=Android
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8ea235ce0826408b221c498115a9b62d&key%5B%5D=7aa9266ed91ea4510483370029dfcf45
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América
-http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-xiXsPZ8Zn5F6TJbWdco0uUIEg==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1527881baf4166865452f046d8f445:d192df40da8a2c752a8a921f827c325f
