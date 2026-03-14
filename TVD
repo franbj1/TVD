@@ -2769,7 +2769,7 @@ https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d1ee410be96d200301ca31230e217fa3&key%5B%5D=4362b9affc67462f28da0b7927f63dfc
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/7fcfa479-755d-4902-8a2c-
-3e11d28c70b4.png?raw=true" group-title="Infantil", Bitme
+3e11d28c70b4.png" group-title="Infantil", Bitme
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/jnn66otuvo/out/v1/c35e1d95879d4de5a3b8ead30830ecaf/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2849,6 +2849,9 @@ https://livecdn.enlace.plus/planetacreacion/smil:planetacreacion-hd.smil/playlis
 #KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
 #EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan
 https://zap-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.ibb.co/4wyRSRTj/Picsart-26-01-19-14-16-14-362.webp" group-title="Infantil", Clan España
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a5171bcd3217190b928c&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB9&AV_CONTENT_RATING=TP&AV_CLIENT_SECTION=RTVE_clan&content_channel_name=Clan&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/bcb99dff-0630-41c9-b067-0a8387d7e18e.png?raw=true" group-title="Infantil", Zaz TV
 #EXTVLCOPT:network-caching=1500
