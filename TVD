@@ -1,17 +1,6 @@
 #EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay1.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/peru3.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz,https://www.open-epg.com/files/argentina7.xml.gz,https://www.open-epg.com/files/paraguay1.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/paraguay3.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz,https://www.open-epg.com/files/chile1.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://www.open-epg.com/files/ecuador1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz,https://www.open-epg.com/files/bolivia1.xml.gz,https://www.open-epg.com/files/bolivia2.xml.gz"
 
-Nacional
-
-#EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
-
-"name": "TELEFE",
-    "uri": "https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3cec1b1ea9799dda5596e64f37e5ed20&key%5B%5D=c69f3afde2085dcaaaddbf55246a0323",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png",
-    "origin": "Android"
-   },
-
+XTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/BKzW3q66/Picsart-26-03-03-01-10-51-754.webp" group-title="Nacional", GH 24 Horas 2026
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749367.m3u8
@@ -28,356 +17,96 @@ http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749370.m3u8
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/k2SxXyTf/Picsart-26-03-03-01-26-31-381.webp" group-title="Nacional", GH Multicamara
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749371.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
-#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/whwZctgt/Picsart-25-08-23-19-06-59-423.webp" group-title="Nacional", Televisión Pública
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
-#EXTINF:-1 tvg-id="America.uy" tvg-logo="https://i.ibb.co/5g7p7840/Picsart-25-10-11-02-27-53-703.webp" group-title="Nacional", América
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
-#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://i.ibb.co/LD8sBBvR/Picsart-25-10-17-17-00-47-680.webp" group-title="Nacional", El Nueve Interior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/spTpDCPj/Picsart-26-02-16-12-32-01-280.webp" group-title="Nacional", Telefe Interior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
-#EXTINF:-1 tvg-id="Canal 13 (Satelital).ar" tvg-logo="https://i.ibb.co/Pv89dgw7/Picsart-25-10-10-15-42-34-639.webp" group-title="Nacional", El Trece Interior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
-#EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
-https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/Hfzp11FS/Picsart-25-07-10-02-07-28-322.webp" group-title="Nacional", Net TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
-#EXTINF:-1 tvg-id="BRAVO TV.ar" tvg-logo="https://i.ibb.co/hJfNmX6Y/Picsart-25-07-06-16-17-14-365.webp" group-title="Nacional", Bravo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3225af993d7b4994b342c04a1db89c17:db73ec5dce14fe1c810aad0ad0165e68
-#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/5gkRmD0Q/Picsart-25-08-24-01-31-17-223.webp" group-title="Nacional", Caras TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.trimi.com.ar/live/sm-live/CARAS_TV/sa_live_dash/CARAS_TV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
-#EXTINF:-1 tvg-id="Encuentro.uy" tvg-logo="https://i.ibb.co/s95wzJQj/Picsart-25-07-11-12-22-13-553.webp" group-title="Nacional", Encuentro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/tPxBGTyc/Picsart-25-08-14-00-52-10-301.webp" group-title="Nacional", Telemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://bvclive2.boldmss.com/TELEMAX/TELEMAX_BVC.isml/TELEMAX_BVC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
-#EXTINF:-1 tvg-id="CNAR.ar" tvg-logo="https://i.ibb.co/Y431ZnVn/Picsart-25-08-08-13-43-09-870.webp" group-title="Nacional", Cine AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
-#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/Knc6y2r/Picsart-25-11-04-21-41-40-358.webp" group-title="Nacional", Ciudad Magazine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
-#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/Kc072Yg9/Picsart-25-09-16-09-07-28-650.webp" group-title="Nacional", Volver
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKbTG7rr/Picsart-25-07-01-16-25-45-778.webp" group-title="Nacional", TN (Todo Noticias)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
-#EXTINF:-1 tvg-id="La Nacion.uy" tvg-logo="https://i.ibb.co/fYV4gkKp/1772900135215.webp" group-title="Nacional", La Nación Mas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
-#EXTINF:-1 tvg-id="America 24.uy" tvg-logo="https://i.ibb.co/GfW0XzVJ/Picsart-25-10-04-18-16-30-973.webp" group-title="Nacional", A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/3yjsKj0c/Picsart-25-10-17-23-26-41-562.webp" group-title="Nacional", C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
-#EXTINF:-1 tvg-id="CRON.ar" tvg-logo="https://i.ibb.co/twkWRvGv/Picsart-25-08-23-18-14-48-966.webp" group-title="Nacional", Crónica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
-#EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/VcYd0qXG/Picsart-25-07-05-16-13-44-471.webp" group-title="Nacional", 26 Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-#EXTINF:-1 tvg-id="ARGENTINA 12.ar" tvg-name="721#IP Noticias HD" tvg-logo="https://i.ibb.co/847XFDjb/Picsart-25-12-15-16-16-49-153.webp" group-title="Nacional", Ar|12
-https://link-bee.cdn.rcs.net.ar/mnp/ip/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7xNMRPMw/Picsart-25-07-06-13-09-54-823.png" group-title="Nacional", Metro
-https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="France 24 en Español.ar" tvg-logo="https://i.ibb.co/3mt2gQTg/Picsart-25-12-21-01-29-45-440.webp" group-title="Nacional", France 24
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=france24&token=3576520243
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
-#KODIPROP:inputstream.adaptive.stream_headers=origen=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="700#DNoticias" tvg-logo="https://i.ibb.co/vCQ58sfZ/Picsart-25-12-17-00-26-00-720.webp" group-title="Nacional", D News
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=dnews&token=3576520243
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
-#EXTINF:-1 tvg-id="CNLE.ar" tvg-logo="https://i.ibb.co/dsDCNj43/Picsart-25-07-06-16-23-32-083.webp" group-title="Nacional", Canal E
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
-#EXTINF:-1 tvg-id="El Destape.ar" tvg-logo="https://i.ibb.co/VWz4qC0T/Picsart-25-07-18-07-21-27-552.webp" group-title="Nacional", El Destape
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
-#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="https://i.ibb.co/N2fzmcRr/Picsart-25-07-14-18-59-26-784.webp" group-title="Nacional", Rural
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
-#EXTINF:-1 tvg-id="CHTV.ar" tvg-logo="https://i.ibb.co/SDTmTsZj/Picsart-25-09-16-09-31-03-504.webp" group-title="Nacional", Chacra TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTINF:-1 tvg-id="T5 Nacional tvg-logo="https:///i.ibb.co/8DFBkB9r/Picsart-25-10-11-12-46-58-484.webp" group-title="Nacional", T5 Satelital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTINF:-1 tvg-id="Telefe Cordoba.ar" tvg-logo="https://i.ibb.co/qLZLb9HS/Picsart-25-12-02-22-05-14-737.webp" group-title="Nacional", Telefe Córdoba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
-#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://i.ibb.co/27BN825L/Picsart-25-12-22-10-40-13-733.webp" group-title="Nacional", Canal 10 Córdoba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MxhX1scn/Picsart-26-03-06-16-34-05-762.webp" group-title="Nacional", BTV
-https://smt-usr-edge02.sensa.com.ar/output/SMT6/BTVD/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="EVENTOS HD.ar" tvg-logo="https://i.ibb.co/hJpRHYSb/Picsart-25-11-16-20-43-14-788.webp" group-title="Nacional", Gen TV
-https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Five TV
-https://panel.host-live.com:19360/8118/8118.m3u8
-
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/svkNt2zC/Picsart-25-11-04-17-43-41-786.webp" group-title="Nacional", Neo TV Digital
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/RpBx1DNJ/Picsart-26-01-08-18-19-07-464.webp" group-title="Nacional", Señal Urbana +
-https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="CDLC.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
-https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
-#EXTINF:-1 tvg-id="ARGENTINISIMA.ar" tvg-logo="https://i.ibb.co/sJCcpWxm/Picsart-25-09-16-01-34-29-488.webp" group-title="Nacional", Argentinisima Satelital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTINF:-1 tvg-id="Futurock.ar" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Futurock/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/8LN4NGpz/Picsart-26-03-07-04-05-18-965.webp" group-title="Nacional", Vale 97.5
-https://smt-usr-edge02.sensa.com.ar/output/SMT4/R1D/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-
-#EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/q3Sh0DLM/Picsart-25-11-04-17-11-44-504.webp" group-title="Nacional", Music Top
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS.mpd
-
-#EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/TIERRAMIATV.mpd
-
-#EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/LATINA_TV.mpd
-
-#EXTINF:-1 tvg-id="popular" tvg-logo="https://i.postimg.cc/PqK5Lpw0/Picsart-26-03-07-05-14-47-924.png" group-title="Nacional", La Popu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
-
-#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://i.ibb.co/R4659vcp/Picsart-26-03-07-05-05-06-595.webp" group-title="Nacional", Cosquin Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-
-#EXTINF:-1 tvg-id="Cadena3" tvg-logo="https://i.postimg.cc/g2XVHpDV/logo2-cadena-3.png" group-title="Nacional", Cadena 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-
-#EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
-https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
-
-https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
-
-Televisión digital
+Televisión Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/pBnmg6QJ/Picsart-25-10-17-03-58-34-381.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rG5nTMd6/Picsart-26-01-05-16-00-54-492.webp" group-title="TV Digital", Telefe Tend
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rG5nTMd6/Picsart-26-01-05-16-00-54-492.webp" group-title="Nacional", Telefe Tend
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=3e6b5789d099cdb3e192486bea627a05&keyid%5B%5D=2f0c81461adf4520971cf45ee5036d91
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/S4Pc8gm5/Picsart-26-01-05-16-14-22-135.webp" group-title="TV Digital", TN Tend
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/S4Pc8gm5/Picsart-26-01-05-16-14-22-135.webp" group-title="Nacional", TN Tend
 https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&keyid%5B%5D=8fefbdadc7844e46952fb0320c77692d
-#EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/BV6kXm7v/Picsart-26-01-05-20-09-45-793.webp" group-title="TV Digital", C5N Tend
+#EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/BV6kXm7v/Picsart-26-01-05-20-09-45-793.webp" group-title="Nacional", C5N Tend
 https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd?|a
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=Android
 #KODIPROP:inputstream.adaptive.license_keyid=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc8c82ac2ec7e9799527c29db7354e81&key%5B%5D=cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp?raw=true" group-title="TV Digital", Televisión Pública
+#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp?raw=true" group-title="Nacional", Televisión Pública
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
-#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="TV Digital", América
+#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8ea235ce0826408b221c498115a9b62d&key%5B%5D=7aa9266ed91ea4510483370029dfcf45
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=24f4ff211136ae6512a1b552200db405&key%5B%5D=602122f8426c5c942b8c18d299cc6020
-#EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="TV Digital", El Nueve
+#EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="Nacional", El Nueve
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3cec1b1ea9799dda5596e64f37e5ed20&key%5B%5D=c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="TV Digital", Telefe
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="Telefe HD.uy" tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="TV Digital", Telefe Internacional
+#EXTINF:-1 tvg-id="Telefe HD.uy" tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="Nacional", Telefe Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc0abcc84ec380cfc192b96d32abad23&key%5B%5D=9b7825385b89ff82d01909a4ae404877
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5bd469f8bf268d5d148c3971c7c23fca&key%5B%5D=9af98080d22846fdf2988b8ba9ec4add
-#EXTINF:-1 tvg-id="EL TRECE.pe" tvg-logo="https://i.ibb.co/8D1mvRYm/Picsart-25-08-04-19-24-06-425.webp" group-title="TV Digital", El Trece Internacional
+#EXTINF:-1 tvg-id="EL TRECE.pe" tvg-logo="https://i.ibb.co/8D1mvRYm/Picsart-25-08-04-19-24-06-425.webp" group-title="Nacional", El Trece Internacional
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f519a4181806429bb2a998d77a937f32:6dbf5c8f0c50938cebc35fdf095833e1
-#EXTINF:-1 tvg-id="Net TV.ar" group-title="TV Digital" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true", Net TV
+#EXTINF:-1 tvg-id="Net TV.ar" group-title="Nacional" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true", Net TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/NET_TV_BACKUP/sa_live_dash/NET_TV_BACKUP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f65bad34feb42a28276e3ec047480cc:e3b4b74c12ffb5802a0acd04c0f4f84d
-#EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="TV Digital", Bravo TV
+#EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="Nacional", Bravo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/BR4V0_TV_BACKUP/sa_live_dash/BR4V0_TV_BACKUP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="TV Digital", Caras TV
+#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
 https://redirector.rudo.video/hls/carastvav/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/5vc3m4bfxkj43krcdh7oz/ENCUENTRO.DGO.json
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="TV Digital", Encuentro
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="TV Digital", Telemax
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
 https://bvclive1.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rmmz2Sk/1771189819152.webp" group-title="TV Digital", Unife TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rmmz2Sk/1771189819152.webp" group-title="Nacional", Unife TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
-#EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.ibb.co/f5M1qv9/Picsart-25-11-16-03-25-08-002.webp" group-title="TV Digital", CN23
+#EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.ibb.co/f5M1qv9/Picsart-25-11-16-03-25-08-002.webp" group-title="Nacional", CN23
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-at=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/mnp/cn23/output.mpd
 
-#EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/KMpjDFf/Picsart-25-12-04-12-22-46-123.webp" group-title="TV Digital", Tec
+#EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/KMpjDFf/Picsart-25-12-04-12-22-46-123.webp" group-title="Nacional", Tec
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -505,6 +234,102 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 #EXTINF:-1 tvg-id="Viajar.ar" tvg-logo="https://i.ibb.co/RG6f6dz5/Picsart-25-07-25-19-56-29-182.webp" group-title="TV Digital", Viajar
 https://djquy0bt9pvn7.cloudfront.net/d/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
+#EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/tPxBGTyc/Picsart-25-08-14-00-52-10-301.webp" group-title="Nacional", Telemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://bvclive2.boldmss.com/TELEMAX/TELEMAX_BVC.isml/TELEMAX_BVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xNMRPMw/Picsart-25-07-06-13-09-54-823.png" group-title="Nacional", Metro
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxhX1scn/Picsart-26-03-06-16-34-05-762.webp" group-title="Nacional", BTV
+https://smt-usr-edge02.sensa.com.ar/output/SMT6/BTVD/output.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="EVENTOS HD.ar" tvg-logo="https://i.ibb.co/hJpRHYSb/Picsart-25-11-16-20-43-14-788.webp" group-title="Nacional", Gen TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Five TV
+https://panel.host-live.com:19360/8118/8118.m3u8
+
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/svkNt2zC/Picsart-25-11-04-17-43-41-786.webp" group-title="Nacional", Neo TV Digital
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/RpBx1DNJ/Picsart-26-01-08-18-19-07-464.webp" group-title="Nacional", Señal Urbana +
+https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="CDLC.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
+https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
+#EXTINF:-1 tvg-id="ARGENTINISIMA.ar" tvg-logo="https://i.ibb.co/sJCcpWxm/Picsart-25-09-16-01-34-29-488.webp" group-title="Nacional", Argentinisima Satelital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 tvg-id="Futurock.ar" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Futurock/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/8LN4NGpz/Picsart-26-03-07-04-05-18-965.webp" group-title="Nacional", Vale 97.5
+https://smt-usr-edge02.sensa.com.ar/output/SMT4/R1D/output.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
+#EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/q3Sh0DLM/Picsart-25-11-04-17-11-44-504.webp" group-title="Nacional", Music Top
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS.mpd
+
+#EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/TIERRAMIATV.mpd
+
+#EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/LATINA_TV.mpd
+
+#EXTINF:-1 tvg-id="popular" tvg-logo="https://i.postimg.cc/PqK5Lpw0/Picsart-26-03-07-05-14-47-924.png" group-title="Nacional", La Popu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
+
+#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://i.ibb.co/R4659vcp/Picsart-26-03-07-05-05-06-595.webp" group-title="Nacional", Cosquin Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://smt-usr-edge02.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+
+#EXTINF:-1 tvg-id="Cadena3" tvg-logo="https://i.postimg.cc/g2XVHpDV/logo2-cadena-3.png" group-title="Nacional", Cadena 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
+https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
+
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
