@@ -228,19 +228,13 @@ https://mplus.pontiscloud.com/live/eds/CanalRural/live_dash_cld/CanalRural.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="TV Digital", Argentinísima
+#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Nacional", Argentinísima
 https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
-#EXTINF:-1 tvg-id="Viajar.ar" tvg-logo="https://i.ibb.co/RG6f6dz5/Picsart-25-07-25-19-56-29-182.webp" group-title="TV Digital", Viajar
-https://djquy0bt9pvn7.cloudfront.net/d/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
 #EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
 https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/tPxBGTyc/Picsart-25-08-14-00-52-10-301.webp" group-title="Nacional", Telemax
@@ -366,7 +360,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_wl/Ch1
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=491adb9269c5c8ab41f83936d0b4a68f:7ab85b000d8b5a06f542aff956bcb007
-#EXTINF:-1 tvg-id="Canal 10 Río Negro.ar" tvg-logo="https://i.ibb.co/mCb3Bj27/Canal-10-General-Roca-Logo-2020.webp" group-title="TV Digital", Canal 10 Río Negro
+#EXTINF:-1 tvg-id="Canal 10 Río Negro.ar" tvg-logo="https://i.ibb.co/mCb3Bj27/Canal-10-General-Roca-Logo-2020.webp" group-title="Nacional", Canal 10 Río Negro
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_Live_dash_enc_wl/Canal10_Rio_Negro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
