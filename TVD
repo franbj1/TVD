@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay1.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://tvit.leicaflorianrobert.dev/epg/list.xml.gz,https://www.open-epg.com/files/italy2.xml.gz,https://www.open-epg.com/files/spain1.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/peru1.xml.gz,https://www.open-epg.com/files/peru2.xml.gz,https://www.open-epg.com/files/peru3.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina5.xml.gz,https://www.open-epg.com/files/argentina6.xml.gz,https://www.open-epg.com/files/argentina7.xml.gz,https://www.open-epg.com/files/paraguay1.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://www.open-epg.com/files/paraguay3.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz,https://www.open-epg.com/files/chile1.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://www.open-epg.com/files/ecuador1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz,https://www.open-epg.com/files/bolivia1.xml.gz,https://www.open-epg.com/files/bolivia2.xml.gz"
 
-XTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp
+Televisión Nacional
+
+#EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/BKzW3q66/Picsart-26-03-03-01-10-51-754.webp" group-title="Nacional", GH 24 Horas 2026
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749367.m3u8
@@ -16,12 +18,6 @@ http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749370.m3u8
 
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/k2SxXyTf/Picsart-26-03-03-01-26-31-381.webp" group-title="Nacional", GH Multicamara
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749371.m3u8
-
-
-
-Televisión Nacional
-
-#EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
