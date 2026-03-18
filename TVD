@@ -74,6 +74,11 @@ https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
+https://1096-tbx.vrioott.com/encuentro/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f65bad34feb42a28276e3ec047480cc:e3b4b74c12ffb5802a0acd04c0f4f84d
 #EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="Nacional", Bravo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/137.0.0.0 Safari/537.36
@@ -82,11 +87,6 @@ https://cdn.trimi.com.ar/live/sm-live/BR4V0_TV_BACKUP/sa_live_dash/BR4V0_TV_BACK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
 https://redirector.rudo.video/hls/carastvav/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/5vc3m4bfxkj43krcdh7oz/ENCUENTRO.DGO.json
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
-https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
