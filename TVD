@@ -4,6 +4,10 @@ Televisión Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
 
+
+"name": "🇵🇾 PARAGUAY",
+    "samples": [
+
 #EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/BKzW3q66/Picsart-26-03-03-01-10-51-754.webp" group-title="Nacional", GH 24 Horas 2026
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749367.m3u8
 
