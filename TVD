@@ -2769,7 +2769,7 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
-#EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="Cine + Series", DHE
+#EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://i.postimg.cc/bY0mLMrQ/Picsart-26-03-20-09-00-53-395.png" group-title="Cine + Series", DHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ori1.relay.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
