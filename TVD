@@ -3398,28 +3398,28 @@ https://1077-tbx.vrioott.com/discoveryidar/manifest.mpd
 https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a753ba6e6b313f129bd6591364680f07:f3f8e1a7633b262ca37ae8c35f3cd1e2
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYTHEATER.DGO.json
 #EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-logo="https://i.supaimg.com/3faea074-bc9a-46f5-be81-4fd9336b46c6.png" group-title="Cultura", Discovery Theater
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://1080-tbx.vrioott.com/discoverytheater/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b94901c6926870683c5baebc63496653:f04da24cd7eba6dfdd0d66ea2a2feb24
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYWORLD.DGO.json
 #EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://i.supaimg.com/49c5b9fc-37e7-4022-90c6-4ba0c407f674.png" group-title="Cultura", Discovery World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://1082-tbx.vrioott.com/discoveryworld/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6902d50ec036d30146b12b927f4363d4:d40dc5eb6e0f8fbd58ab7dd6b91143b5
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYTURBO.DGO.json
 #EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-logo="https://i.supaimg.com/5dad092e-9e78-49f2-9c3f-60192e86f400.png" group-title="Cultura", Discovery Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://1081-tbx.vrioott.com/discoveryturbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bed07c7fbbc6a3024baa8a44c052dd59:a632dead698156b3f2083076aa192b57
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/TLC.DGO.json
 #EXTINF:-1 tvg-id="TLC HD.uy" tvg-logo="https://i.supaimg.com/e99b6e64-308e-48e6-84a4-5c7d119bc85d.png" group-title="Cultura", TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/feo4p-6m8di-39pf4-j1h25.m3u8
+https://1224-tbx.vrioott.com/tlc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
@@ -3428,10 +3428,10 @@ https://ori1.relay.edge-apps.net/hls/feo4p-6m8di-39pf4-j1h25.m3u8
 https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0853b1d2af7d6ee5f7a8a571637ee6b7:f173ff83e8a50d7d0c363cde0c261dc6
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/GOURMET.DGO.json
 #EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://i.supaimg.com/40da4af8-ac76-46f9-bf79-e8cbfad1fcf6.png" group-title="Cultura", El Gourmet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
+https://1093-tbx.vrioott.com/gourmet/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
@@ -3440,10 +3440,10 @@ https://ori1.relay.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
 https://ori1.relay.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53b35977eefc0237bef0173f9b431a07:5402473ba47096edc01bb2334685d860
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/FOODNETWORK.DGO.json
 #EXTINF:-1 tvg-id="Food Network HD.uy" tvg-logo="https://i.supaimg.com/cdb39ebe-21dc-4af6-bbbe-a1d49b3f3ded.png" group-title="Cultura", Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://1113-tbx.vrioott.com/foodnetwork/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
