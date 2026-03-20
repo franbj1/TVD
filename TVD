@@ -3446,10 +3446,10 @@ https://ori1.relay.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
 https://1113-tbx.vrioott.com/foodnetwork/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HGTV.DGO.json
 #EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.supaimg.com/e1d25030-7aed-4bdf-886e-5778f15c02ee.png" group-title="Cultura", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://1144-tbx.vrioott.com/hgtvlat/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
@@ -3458,15 +3458,15 @@ https://cdn.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd?|referer=https://p
 https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=454a4c570f8b662076ce4f1a931d3b06:2e7233e228d7d8a203e07e2b08584019
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HISTORY2.DGO.json
 #EXTINF:-1 tvg-id="History 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" group-title="Cultura", History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://1147-tbx.vrioott.com/historychannel2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
 #EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Cultura", Hola TV
-https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_wl/Hola_TV.mpd
+https://ori1.relay.edge-apps.net/hls/cl7lf-54530-2egee-p14da.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f85d8282bb6fe2db8f34299d5742f02:28d49f409d718ecad8f82f477d3beb77
@@ -3478,10 +3478,10 @@ https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/64384481074718.png" group-title="Cultura", Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://ori1.relay.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
-http://cors.tundracast.com:2000/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+https://ori1.relay.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
 #EXTINF:-1 tvg-id="Magellan TV" tvg-logo="https://i.ibb.co/4ZMTCS33/Picsart-26-01-30-00-55-13-400.webp" group-title="Cultura", Magellan TV
 http://cors.tundracast.com:2000/https://amg00376-amg00376c21-plex-us-4309.playouts.now.amagi.tv/playlist.m3u8
@@ -3490,13 +3490,13 @@ http://cors.tundracast.com:2000/https://amg00376-amg00376c21-plex-us-4309.playou
 #KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
 #EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://i.supaimg.com/2e93b1c0-8894-4af5-9e6f-56f36a546278.png" group-title="Cultura", National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://ori1.relay.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ae7578729bde9d2f342090141103687:fb009bb37dd8fb98e2913f6b762b79e5
 #EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-logo="https://i.supaimg.com/c3e69b36-9a8c-4025-bdbb-55e4d9b27a63.png" group-title="Cultura", Sun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://ori1.relay.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
 
 Música
 
