@@ -2039,10 +2039,10 @@ Deportes
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports Premium
 https://ori1.relay.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/HTJ1yk0Y/Picsart-26-02-25-22-10-38-903.webp" group-title="Deportes", Eventos Deportivo
+https://ori1.relay.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+
+#EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.ibb.co/HTJ1yk0Y/Picsart-26-02-25-22-10-38-903.webp" group-title="Deportes", Eventos Deportivo
 https://ori1.relay.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
