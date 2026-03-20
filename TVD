@@ -2887,7 +2887,7 @@ http://181.78.211.244:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", Multi Cinema
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://181.78.109.48:9998/play/a03x/index.m3u8
+https://ori1.relay.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e00b78c1a170dafdce62ab2b9015b585:1c99513da8023278c05d8597fef18463
