@@ -3483,9 +3483,6 @@ https://ori1.relay.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 #EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
 https://ori1.relay.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
-#EXTINF:-1 tvg-id="Magellan TV" tvg-logo="https://i.ibb.co/4ZMTCS33/Picsart-26-01-30-00-55-13-400.webp" group-title="Cultura", Magellan TV
-http://cors.tundracast.com:2000/https://amg00376-amg00376c21-plex-us-4309.playouts.now.amagi.tv/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
 #EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://i.supaimg.com/2e93b1c0-8894-4af5-9e6f-56f36a546278.png" group-title="Cultura", National Geographic
