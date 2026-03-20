@@ -1504,6 +1504,11 @@ https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 #EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="TV Peru", Net Channel
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="TV Peru", Cinerama
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="TV Peru", WOW Movies
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
@@ -2761,11 +2766,6 @@ http://181.78.211.244:8000/play/a01i/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=082e524a6a7b2d7139c7639caa0123f0&keyid%5B%5D=bfdf6a9cdd5d702753de59b79627848d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/nu8ejtgtm2/out/v1/e1cd165fdbd64f53a845447d6ea7f993/cenc-sd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="Cine + Series", Cinerama
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
