@@ -2828,45 +2828,43 @@ https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.
 #KODIPROP:inputstream.adaptive.license_key=78396693b172158176c33c28f2e7c0b8:1e251112819a34ed691bc3881c64ea4d
 #EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-logo="https://i.ibb.co/DgjGtqdX/Picsart-25-10-27-19-42-46-875.webp" group-title="Cine + Series", Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
 #EXTINF:-1 tvg-id="TNT HD.uy" tvg-logo="https://i.ibb.co/27F7rMRG/Picsart-25-10-26-14-18-12-392.webp" group-title="Cine + Series", TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
-#EXTINF:-1 ch-number="341" tvg-id="TNT Series HD.uy" tvg-logo="https://i.ibb.co/r2NRvFFR/TNT-Series-2025-svg.webp" group-title="Cine + Series", TNT Series
+#EXTINF:-1 tvg-id="TNT Series HD.uy" tvg-logo="https://i.ibb.co/r2NRvFFR/TNT-Series-2025-svg.webp" group-title="Cine + Series", TNT Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
 #EXTINF:-1 tvg-id="TCM SD.uy" tvg-logo="https://i.ibb.co/Y7mmdNRF/1771575995411.webp" group-title="Cine + Series", TCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.postimg.cc/rp66782P/Warner-TV-logo-svg.png" group-title="Cine + Series", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://link-bee.cdn.rcs.net.ar/mnp/warner/output.mpd
-
-https://mplus.pontiscloud.com/live/eds/Warner/live_dash_cld/Warner.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.ibb.co/pvV43Wt9/Picsart-25-09-11-20-00-04-010.webp" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
 #EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multipremier
 #EXTVLCOPT:network-caching=1000
