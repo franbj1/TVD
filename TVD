@@ -2927,7 +2927,7 @@ https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/playlist/amg27164-a
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
 #EXTINF:-1 tvg-id="Golden.ar" tvg-logo="https://i.ibb.co/Q7mNmdv8/Picsart-25-10-28-14-13-16-179.webp" group-title="Cine + Series", Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://ori1.relay.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
