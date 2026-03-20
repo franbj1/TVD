@@ -3347,11 +3347,6 @@ Cultura
 
 #EXTINF:-1 group-logo="https://i.ibb.co/j9cC8P5d/1769740252470.webp"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=c825ede79c7f63aa9c16844f67ee2b45&keyid=d1afef1b6c4f286ebfdc1dce0e174a17
-#EXTINF:-1 tvg-id="Curiosity Channel" tvg-logo="https://i.ibb.co/HLGTfdtS/Picsart-26-01-30-00-21-01-664.webp" group-title="Cultura", Curiosity Channel
-https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
-
 #EXTINF:-1 tvg-id="1+1 Travel" tvg-logo="https://i.ibb.co/9mSnjJdp/Picsart-26-01-30-03-57-06-233.webp" group-title="Cultura", 1+1 Travel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CHANGE_ME]&AV_WIDTH=[CHANGE_ME]&AV_HEIGHT=[CHANGE_ME]&AV_APPNAME=[CHANGE_ME/ENCODED APP NAME]&AV_APPSTOREURL=[CHANGE_ME/ENCODED_APPSTORE URL]&AV_APPPKGNAME=[CHANGE_ME]&AV_IDFA=[CHANGE_ME]&AV_IFA_TYPE=[CHANGE_ME]&AV_CCPA=[CHANGE_ME]&AV_GDPR=[CHANGE_ME]&AV_CONSENT=[CHANGE_ME]&AV_CONTENT_URL=[CHANGE_ME]&AV_CONTENT_TITLE=[CHANGE_ME]&AV_CONTENT_EPISODE=[CHANGE_ME]&AV_CONTENT_SERIES=[CHANGE_ME]&AV_CONTENT_SEASON=[CHANGE_ME]&AV_CONTENT_KEYWORDS=[CHANGE_ME]&AV_CONTENT_NETWORK=[CHANGE_ME]&AV_CONTENT_ID=[CHANGE_ME]&AV_CONTENT_CHANNEL=[CHANGE_ME]&AV_CONTENT_CONTEXT=[CHANGE_ME]&AV_CONTENT_LENGTH=[CHANGE_ME]&AV_VAUTH=[CHANGE_ME]&AV_DNT=[CHANGE_ME]&AV_LANGUAGE=[CHANGE_ME]&AV_OSVERS=[CHANGE_ME]&AVS_SSAIID=694a811fbd6ca6259b0f9985&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=Entertainment&AV_CONTENT_CAT=IAB20&AV_CONTENT_RATING=TV-G&AV_CONTENT_SECTION=1+1 Media_1+1 Travel&content_channel_name=1plus1travel&content_livestream=1&AV_CONTENT_PROVIDER=Media ES Egyebek Ko rlatolt Felelossegu Tarsasag&app_bundle=&app_name=wedotv&app_store_url=https://wedotv.com&url=https://wedotv.com&gdpr=1&channel_name=1 + 1 Travel&content_custom_1_param=1 + 1 Travel
 
@@ -3363,9 +3358,6 @@ https://amg01024-amg01024c23-directtv-latam-5624.playouts.now.amagi.tv/playlist/
 
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://i.ibb.co/qYNKj7jf/Picsart-26-01-30-13-18-52-775.webp" group-title="Cultura", Fashion TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16434
-
-#EXTINF:-1 tvg-id="Wamis TV" tvg-logo="https://i.ibb.co/0VrJ6NHM/Wamiz-1.webp" group-title="Cultura", Wamiz TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16772
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ANIMALPLANET.DGO.json
@@ -3488,6 +3480,11 @@ https://ori1.relay.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 #EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://i.supaimg.com/2e93b1c0-8894-4af5-9e6f-56f36a546278.png" group-title="Cultura", National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ori1.relay.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c825ede79c7f63aa9c16844f67ee2b45&keyid%5B%5D=d1afef1b6c4f286ebfdc1dce0e174a17
+#EXTINF:-1 tvg-id="Curiosity Channel" tvg-logo="https://i.ibb.co/HLGTfdtS/Picsart-26-01-30-00-21-01-664.webp" group-title="Cultura", Curiosity Channel
+https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ae7578729bde9d2f342090141103687:fb009bb37dd8fb98e2913f6b762b79e5
