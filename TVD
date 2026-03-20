@@ -4,21 +4,6 @@ Televisión Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
 
-#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/BKzW3q66/Picsart-26-03-03-01-10-51-754.webp" group-title="Nacional", GH 24 Horas 2026
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749367.m3u8
-
-#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/ZRLHHLwr/Picsart-26-03-03-01-19-24-078.webp" group-title="Nacional", GH Camara 1
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749368.m3u8
-
-#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/h1Yj05QH/Picsart-26-03-03-01-19-36-812.webp" group-title="Nacional", GH Camara 2
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749369.m3u8
-
-#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/MxLGTCN1/Picsart-26-03-03-01-19-53-518.webp" group-title="Nacional", GH Camara 3
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749370.m3u8
-
-#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/k2SxXyTf/Picsart-26-03-03-01-26-31-381.webp" group-title="Nacional", GH Multicamara
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749371.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rG5nTMd6/Picsart-26-01-05-16-00-54-492.webp" group-title="Nacional", Telefe Tend
@@ -673,6 +658,24 @@ https://streamconex.com:19360/puan/puan.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
+GH 2026
+
+#EXTINF:-1 group-logo="https://i.ibb.co/ycrg7szm/Picsart-26-03-20-04-58-54-357.webp"
+
+#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/BKzW3q66/Picsart-26-03-03-01-10-51-754.webp" group-title="GH2026", GH 24 Horas 2026
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749367.m3u8
+
+#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/ZRLHHLwr/Picsart-26-03-03-01-19-24-078.webp" group-title="GH2026", GH Camara 1
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749368.m3u8
+
+#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/h1Yj05QH/Picsart-26-03-03-01-19-36-812.webp" group-title="GH2026", GH Camara 2
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749369.m3u8
+
+#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/MxLGTCN1/Picsart-26-03-03-01-19-53-518.webp" group-title="GH2026", GH Camara 3
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749370.m3u8
+
+#EXTINF:-1 tvg-id="GH" tvg-logo="https://i.ibb.co/k2SxXyTf/Picsart-26-03-03-01-26-31-381.webp" group-title="GH2026", GH Multicamara
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749371.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
 
