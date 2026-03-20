@@ -4,21 +4,6 @@ Televisión Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rG5nTMd6/Picsart-26-01-05-16-00-54-492.webp" group-title="Nacional", Telefe Tend
-https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=3e6b5789d099cdb3e192486bea627a05&keyid%5B%5D=2f0c81461adf4520971cf45ee5036d91
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/S4Pc8gm5/Picsart-26-01-05-16-14-22-135.webp" group-title="Nacional", TN Tend
-https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd?|a
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&keyid%5B%5D=8fefbdadc7844e46952fb0320c77692d
-#EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/BV6kXm7v/Picsart-26-01-05-20-09-45-793.webp" group-title="Nacional", C5N Tend
-https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd?|a
-
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp" group-title="Nacional", Televisión Pública
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_keyid=https://vimetrix.lat/api/license.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662
@@ -38,18 +23,13 @@ https://ori1.relay.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 https://ori1.relay.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/vo3mpzmdtv2213yb11up6/telefe.json?rlkey=zdcihjllhj0tuflwpufcgj5u3&st=9mbwbptn&dl=0
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
-https://ori1.relay.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
+https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5179017f49326d14af0a9ceec831aee6&key%5B%5D=09b4a463b029ebc28a288bed2da70a76
 https://ori1.relay.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5bd469f8bf268d5d148c3971c7c23fca&key%5B%5D=9af98080d22846fdf2988b8ba9ec4add
-#EXTINF:-1 tvg-id="EL TRECE.pe" tvg-logo="https://i.ibb.co/8D1mvRYm/Picsart-25-08-04-19-24-06-425.webp" group-title="Nacional", El Trece Internacional
-https://edge-live14-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=89d433166edd31d56df2a59df8ec6704&key%5B%5D=b2015faded0a456d10aa8db1b4cbac68
@@ -110,12 +90,12 @@ https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=194e53184a424ce6989ad82c5f28fbc5&key%5B%5D=65d60c5cc4de031172be0a6a51edbdfe
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/4n9gbKs8/volver-ar.webp" group-title="Nacional", Volver
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
+tps://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7ceb1cd0622cd7e88fcdc99fe3a55de6&key%5B%5D=951637093d41c7388a1ef3f620cfea21
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=3e6b5789d099cdb3e192486bea627a05&keyid%5B%5D=2f0c81461adf4520971cf45ee5036d91
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="Nacional", TN (Todo Noticias)
-https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
-tps://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4eade7bbc39b25402acfa301bbad04a&key%5B%5D=a74d1df4235a74878327aa8d53ff283c
@@ -128,9 +108,9 @@ https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=050df5c6e78c774e78c3e99eef8a1b29&key%5B%5D=0e4141d6ab21a36cbc4da777ab3096d4
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&keyid%5B%5D=8fefbdadc7844e46952fb0320c77692d
 #EXTINF:-1 tvg-id="C5N.uy" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
-https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=745e7abcc90d41ab706b2ac2f4371da3&key%5B%5D=50acd9d19d1361cb4a8a13a867bdc352
