@@ -2848,10 +2848,10 @@ https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.141
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a1e766119c3fb03b095c8e7f0e63139:03932364e1ff6ab68cdc2c1969aee6a5
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/USANETWORK.DGO.json
 #EXTINF:-1 tvg-id="USA.uy" tvg-logo="https://i.ibb.co/JXRQK48/Picsart-26-02-20-12-39-19-030.webp" group-title="Cine + Series", USA Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd?|referer=https://webclient.antinaplayplus.com.ar
+https://1211-tbx.vrioott.com/usala/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
