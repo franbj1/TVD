@@ -2780,7 +2780,7 @@ https://ori1.relay.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
-#EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.ibb.co/pvV43Wt9/Picsart-25-09-11-20-00-04-010.webp" group-title="Cine + Series", Space
+#EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.postimg.cc/MT05z3h1/Picsart-26-03-21-17-06-53-262.png" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ori1.relay.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
