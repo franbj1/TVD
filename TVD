@@ -2164,23 +2164,13 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycspo
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/800/542/0/0/28233186072861.png?raw=true" group-title="Deportes", TyC Sports HD
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A_wl/TyCSport.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1c671f202f035fc68295e285440e1f06":"310aef86833c26696c1f6682934530ce","3269cc1ffdc856d39d6d27acaaeb9c57":"af30637020bd80650ef7ac7a57f05405","98c0a1fb0d425f88bfe1c2ad098575ae":"aae9f2ad90d5d29db4314586af9b414f"}
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional (FL)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycintercl&token=3576520243
 
 #EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_wl/TyC_Internacional.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad94ad091751a8adf0369f80ca83d17:be43a68903a920561dc14daf19229d97
-#EXTINF:-1 tvg-id="TyC Sports 2.ar" tvg-logo="https://i.ibb.co/KjNbnPDh/Picsart-25-10-21-19-22-47-152.webp" group-title="Deportes", Sensa Deportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A_wl/TyC_Internacional.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="Deportes", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
@@ -2238,35 +2228,6 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.ibb.co/wZqzSXc2/Tve-teledeporte.webp" group-title="Deportes", Teledeportes
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/gM4YnNsh/Picsart-25-10-20-17-01-08-313.webp" group-title="Deportes", ESPN BR
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/135.0.0.0 Safari/537.36"
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3 Brasil" tvg-logo="https://i.ibb.co/23rVjBW1/Picsart-25-10-20-17-02-24-706.webp" group-title="Deportes", ESPN 3 BR
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/135.0.0.0 Safari/537.36"
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/662.m3u8
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.ibb.co/DPmW9z5Q/Picsart-25-10-20-14-04-57-239.webp" group-title="Deportes", SporTV BR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://i.ibb.co/vvMK0BR4/Picsart-25-10-20-14-08-33-246.webp" group-title="Deportes", SporTV 2 BR
-http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/796.m3u8
-
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://i.ibb.co/5XjSGGJz/Picsart-25-10-20-14-19-33-993.webp" group-title="Deportes", SporTV 3 BR
-http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/797.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE BRASIL" tvg-logo="https://i.ibb.co/1JXGWPhZ/Picsart-25-10-20-14-22-48-246.webp" group-title="Deportes", Premiere BR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="Premiere brasil" tvg-logo="https://i.ibb.co/1JXGWPhZ/Picsart-25-10-20-14-22-48-246.webp" group-title="Deportes", Premiere BR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-http://45.229.135.2:8555/live/stonetv_f/2ckLGChm12/790.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
