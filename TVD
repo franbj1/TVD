@@ -3066,10 +3066,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Premiere_Universal/SA_Live_dash_cenc
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="HBO + Universal", Universal Reality Flow
 https://chromecast.cvattv.com.ar/live/c6eds/Realidad_Universal/SA_Live_dash_cenc/Realidad_Universal.mpd
 
-HBO + Universal II
-
-#EXTINF:-1 group-logo="https://i.ibb.co/Kc3pgcPR/Picsart-26-02-07-17-04-38-137.webp"
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBO.DGO.json
 #EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="HBO + Universal II", HBO Vrioott
