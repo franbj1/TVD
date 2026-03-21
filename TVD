@@ -2782,10 +2782,10 @@ https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer
 https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=78396693b172158176c33c28f2e7c0b8:1e251112819a34ed691bc3881c64ea4d
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/STARCHANNEL.DGO.json
 #EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-logo="https://i.ibb.co/DgjGtqdX/Picsart-25-10-27-19-42-46-875.webp" group-title="Cine + Series", Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+https://1196-tbx.vrioott.com/starchannelarg/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
