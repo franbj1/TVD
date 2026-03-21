@@ -2756,7 +2756,7 @@ http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/2625
 #KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
 #EXTINF:-1 tvg-id="Sony HD.uy" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://webclient.antinaplayplus.com.ar
+http://181.13.252.102:8000/play/a05d/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
