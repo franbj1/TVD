@@ -3348,23 +3348,23 @@ Música
 #KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
 #EXTINF:-1 tvg-id="Quiero.ar" tvg-logo="https://i.ibb.co/TD2tqG0f/1751651714072.webp" group-title="Música", Quiero Música TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://ori1.relay.edge-apps.net/hls/3la6l-e802j-1ekem-6k9o6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "OfoGg27A+B2N2bbgGjBw4w","kid": "6r4sIjUMJsfwrYSzSTLwjQ"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0286Ly7R/1772180627368.png" group-title="Música", Vorterix
-https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A_wl/Vorterix.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 #EXTINF:-1 tvg-id="El Canal de la Música.ar" tvg-logo="https://i.ibb.co/pr5HtSww/Picsart-25-11-04-14-16-42-433.webp" group-title="Música", CM Canal de la Música
-https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_cenc/CM.mpd
+https://ori1.relay.edge-apps.net/hls/i7gnj-ipp8m-bc68e-ad3hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/b9d3b003-b954-4e8f-b9a6-1cec72b0a305.png" group-title="Música", HTV Música
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
-https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_cenc/HTV.mpd
+https://ori1.relay.edge-apps.net/hls/l4b0l-njg9j-4ic97-4c15b.m3u8
 
 #EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music Top
 #EXTVLCOPT:network-caching=1000
