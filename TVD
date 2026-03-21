@@ -2984,7 +2984,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
 
 HBO + Universal
 
-#EXTINF:-1 group-logo="https://i.ibb.co/Kc3pgcPR/Picsart-26-02-07-17-04-38-137.webp"
+#EXTINF:-1 group-logo="https://i.postimg.cc/L8Qpvn7Y/Nuevo-proyecto-5-8594A15.png"
 
 #EXTINF:-1 tvg-id="Universal HD.uy" tvg-logo="https://i.supaimg.com/f6600496-5d89-4b71-9cb6-18732833b70c.png?raw=true" group-title="HBO + Universal",  Universal TV Flow
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3142,7 +3142,7 @@ https://ori1.relay.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
 https://ori1.relay.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://i.ibb.co/jP5GNHHJ/Picsart-26-02-24-10-32-01-648.webp" group-title="HBO + Universal II", HBO Family ori
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://i.ibb.co/jP5GNHHJ/Picsart-26-02-24-10-32-01-648.webp" group-title="HBO + Universal", HBO Family ori
 https://ori1.relay.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
