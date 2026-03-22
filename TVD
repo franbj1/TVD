@@ -1053,7 +1053,7 @@ https://zap-live2-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="TV México", FX MX
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
+https://zap-live1-ott.izzigo.tv/6/out/u/dash/FX-HD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=010c457d967d5aa2c57c727fdddc5ed3&key%5B%5D=5e214c17052cc48416e676ff712e19f3
