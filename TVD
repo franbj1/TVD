@@ -2893,6 +2893,11 @@ https://zap-live4-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://zap-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-PREMIER-2HR-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=300b58dfdaf35e8537ce25c39e99aec7&key%5B%5D=6fc107a6f62f39da27b36ff079d7f937
+#EXTINF:-1 tvg-id="Star.es" tvg-logo="https://i.postimg.cc/fRPKMBNw/image-64177-converted-To-Png.png" group-title="Cine + Series", Star
+https://ori1.relay.edge-apps.net/hls/k4jn-k8e9h-i267a-acckf.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyTL64r/Picsart-26-03-20-18-02-34-821.png" group-title="Cine + Series", A3Cine
