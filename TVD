@@ -1520,10 +1520,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SPACE.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Peru", Space
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="STARCHANNEL.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="TV Peru", Star Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
@@ -1538,9 +1534,13 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/studiouniversal/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="TV Peru", TNT
+#EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://i.postimg.cc/gkQLQtRX/Tnt-tv-romania.png" group-title="TV Peru", TNT
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPACE.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Peru", Space
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINE FAMILIAR.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/800/542/0/0/38183247075481.png" group-title="TV Peru", Cine Familiar
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
