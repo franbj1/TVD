@@ -38,6 +38,12 @@ https://ori1.relay.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 https://ori1.relay.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=89d433166edd31d56df2a59df8ec6704&key%5B%5D=b2015faded0a456d10aa8db1b4cbac68
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/h19whTxj/Picsart-26-03-24-18-36-53-349.webp" group-title="Nacional", Laika Channel desde el 1 de abril
+#KODIPROP:inputstream.adaptive.stream_headers=origin="Android/
+https://ori1.relay.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
