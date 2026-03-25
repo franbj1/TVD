@@ -2805,7 +2805,7 @@ https://ori1.relay.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
 #EXTINF:-1 tvg-id="TNT HD.uy" tvg-logo="https://i.postimg.cc/sgBRV91p/Picsart-26-03-20-17-48-01-870.png" group-title="Cine + Series", TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/15.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
