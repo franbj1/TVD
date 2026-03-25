@@ -815,7 +815,7 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 http://liketv.pro:80/User1626/28TM4MEU66/35.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/9kbN9N01/Picsart-26-01-26-17-06-19-322.webp" group-title="TV Ecuador", Ecuador TV
-http://liketv.pro:80/User1626/28TM4MEU66/04.m3u8
+https://samson.streamerr.co:8081/shogun/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión
 http://liketv.pro:80/User1626/28TM4MEU66/14.m3u8
