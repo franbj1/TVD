@@ -708,6 +708,9 @@ https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.supaimg.com/f996cb17-f180-42fc-89c6-821307522ffc.png" group-title="TV Colombia", RCN Novelas
 http://181.78.27.128:12543/play/a03b/index.m3u8
 
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.ibb.co/TZYJT83/1774545475547.webp" group-title="TV Colombia", Cable Noticias
+http://107.152.39.199:8030/hls/canal15.m3u8
+
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno
 http://liketv.pro:80/User1626/28TM4MEU66/02.m3u8
 
