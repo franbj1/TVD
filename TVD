@@ -20,7 +20,7 @@ https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="Nacional", El Nueve
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+http://107.152.39.199:8030/hls/canal7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
@@ -718,7 +718,7 @@ https:/val01.ride.com.ar/tvmia/bn27/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
-https://val01.ride.com.ar/tvmia/bn11/playlist.m3u8
+http://107.152.39.199:8030/hls/canal6.m3u8
 
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
