@@ -816,6 +816,9 @@ https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/
 #EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/d4Qp9PbB/Picsart-26-03-25-02-37-33-524.webp" group-title="TV Ecuador", Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 
+#EXTINF:-1 tvg-id="Educa TV.ec" tvg-logo="https://i.ibb.co/v48dP4DR/1774535800608.webp" group-title="TV Ecuador", Educa TV
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión
 http://liketv.pro:80/User1626/28TM4MEU66/14.m3u8
 
