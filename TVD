@@ -2114,7 +2114,7 @@ https://ori1.relay.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 https://ori1.relay.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #EXTINF:-1 tvg-id="DTSAHD.ar" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
-http://liketv.pro:80/User1626/28TM4MEU66/131.m3u8
+http://104.238.205.28:9090/278758_.m3u8
 
 #EXTINF:-1 tvg-id="DTV2.ar" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
 https://dl.dropbox.com/scl/fi/rsed1ggwsex8id8ei9z6p/dsports2.m3u8?rlkey=fgsr7mnl8c4ykjabdtssnt4w2&st=ylazs89v&dl=0
