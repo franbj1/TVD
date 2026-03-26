@@ -816,14 +816,14 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión
 http://liketv.pro:80/User1626/28TM4MEU66/14.m3u8
 
+#EXTINF:-1 tvg-id="Austral TV.ec" tvg-logo="https://i.ibb.co/b5fgRypZ/Picsart-26-03-26-03-37-03-882.webp" group-title="TV Ecuador", Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ecotel.ec" tvg-logo="https://i.ibb.co/wD2jFK3/1769720916381.webp" group-title="TV Ecuador", Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="America Estereo.ec" tvg-logo="https://i.ibb.co/gMmCfYJx/Picsart-26-01-29-18-04-09-407.webp" group-title="TV Ecuador", América Estereo
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Cinecable.ec" tvg-logo="https://i.ibb.co/b5gV9bdm/horizontal-cine.webp" group-title="TV Ecuador", Cine Cable
-https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Red TVE Ventanas.ec" tvg-logo="https://i.ibb.co/Fb9RW6qr/1769721710145.webp" group-title="TV Ecuador", Red TVE Ventanas
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
