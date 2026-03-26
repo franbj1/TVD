@@ -682,7 +682,7 @@ TV Colombia
 KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=f9152f20917b401a89d05c188ab49a99&keyid=2d883dc648556ccb6b9071ac7ef99eeb
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/5xxVjzJJ/Picsart-26-01-29-12-49-35-106.webp" group-title="TV Colombia", Caracol Televisión
-https://d2uls86ez1k5b9.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/caracol-tv/out/v1/bae7424cc2024a2c95a13ae0ec8f6d90/index.mpd
+http://107.152.39.199:8030/hls/canal10.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6687308c9c969315c7ec77f6a9c46afb&keyid%5B%5D=b605a3b3ae2ee3d49e92c1f6424b5ba9
