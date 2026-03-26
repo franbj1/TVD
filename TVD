@@ -828,7 +828,7 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecotel.ec" tvg-logo="https://i.ibb.co/wD2jFK3/1769720916381.webp" group-title="TV Ecuador", Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal Wuan(Ecuador).ec" tvg-logo="https://i.ibb.co/mV3ZcnXN/Wuan-logo.webp" group-title="TV Ecuador", Wuan +
+#EXTINF:-1 tvg-id="Canal Wuan(Ecuador).ec" tvg-logo="https://i.ibb.co/Kx8Qbxx8/Picsart-26-03-26-11-52-41-616.webp" group-title="TV Ecuador", Wuan +
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
 #EXTINF:-1 tvg-id="America Estereo.ec" tvg-logo="https://i.ibb.co/gMmCfYJx/Picsart-26-01-29-18-04-09-407.webp" group-title="TV Ecuador", América Estereo
