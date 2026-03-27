@@ -1790,7 +1790,7 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=daab5ccf306d67749740f7ce02c07850&keyid%5B%5D=4e4a187474de8e29a8507d496c8a594f
 #EXTINF:-1 tvg-id="America.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América
-http://flow-live-t.dlt.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczMzU3NTU1Iiwic2lwIjoiNDUuMjI4LjY3LjMiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb19Ob3RpY2lhc180Sy9TQV9MaXZlX2Rhc2hfd2lkZXZpbmUvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmY2NDY0MDE3ZjIzNGRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI4MiIsInNvdXJjZXMiOls4Nl19.vcKupeUAphDoAbMCSIFCXmCIqnDaG95NBMI5ANbCFlmXXlsKNc1pljV0cjII-https://latan.stonetv.com.br/americatv/tracks-v1a1/playlist.m3u8
+https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=db60bfaa0178071a5572e6e6ffb46ed3&keyid%5B%5D=82e87fac1c33915ad5d344ffac1bbbb4
@@ -1825,12 +1825,12 @@ https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_wl/5_Dias_PY.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8f66fe15735b2b1b3d5eb3646caa405e&key%5B%5D=404b93fd7b499b1061c9a714e1cdb2d0
 #EXTINF:-1 tvg-id="NPY.py" tvg-logo="https://i.ibb.co/DZbBPdD/1768252798566.webp" group-title="TV Paraguay", NPY
-https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_wl/NOTICIAS_PY_C4.mpd
+https://latan.stonetv.com.br/npy/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9357704ade444dc3b23be89865af2f58&key%5B%5D=3d03e0a79d8f7b7aa2897c3d24bd4b6a
 #EXTINF:-1 tvg-id="TV Camara.py" tvg-logo="https://i.ibb.co/b5HqHn3t/1768252588129.webp" group-title="TV Paraguay", TV Cámara
-https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_wl/TV_Camara.mpd
+https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49eb924ba998ca7fbbaee30dcef1ecb4&key%5B%5D=6e131b04b2e87598fb588ac205673698
@@ -1870,7 +1870,7 @@ https://latan.stonetv.com.br/educanal/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=d1f89fc694800645ae926d9c5f13a1f6&keyid%5B%5D=d8479ae2a7cc939e8382c8851927425d
 #EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/RKm1gSX/Picsart-26-01-13-00-23-11-931.webp" group-title="TV Paraguay", RCC
-https://cdn.cvattv.com.ar/live/c4eds/RCC/SA_Live_dash_enc_wl/RCC.mpd
+https://latan.stonetv.com.br/rcc/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nande Portete.py" tvg-logo="https://i.ibb.co/FLFrfzkB/Picsart-26-01-21-17-39-15-265.webp" group-title="TV Paraguay", Ñande Portetepe
 https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
