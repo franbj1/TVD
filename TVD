@@ -822,7 +822,7 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="Educa TV.ec" tvg-logo="https://i.ibb.co/v48dP4DR/1774535800608.webp" group-title="TV Ecuador", Educa TV
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/Zp1JNgF2/Nuevologo-Gamavisi-n.webp" group-title="TV Ecuador", Gamavisión
+#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/VcZDxgxg/Picsart-26-03-27-02-45-30-602.webp" group-title="TV Ecuador", Gamavisión
 http://liketv.pro:80/User1626/28TM4MEU66/14.m3u8
 
 #EXTINF:-1 tvg-id="Austral TV.ec" tvg-logo="https://i.ibb.co/b5fgRypZ/Picsart-26-03-26-03-37-03-882.webp" group-title="TV Ecuador", Austral TV
@@ -840,7 +840,7 @@ https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist
 #EXTINF:-1 tvg-id="Red TVE Ventanas.ec" tvg-logo="https://i.ibb.co/Fb9RW6qr/1769721710145.webp" group-title="TV Ecuador", Red TVE Ventanas
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.ibb.co/dy9Dp6m/Picsart-26-01-29-18-23-38-476.webp" group-title="TV Ecuador", RTU TV
+#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.ibb.co/dy9Dp6m/Picsart-26-01-29-18-23-38-476.webp" group-title="TV Ecuador", RTU
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Puruwa TV.ec" tvg-logo="https://i.ibb.co/FkyJWyKS/Picsart-26-01-29-18-33-38-202.webp" group-title="TV Ecuador", Puruwa TV
