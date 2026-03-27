@@ -673,7 +673,7 @@ http://liketv.pro:80/User1626/28TM4MEU66/1143.m3u8
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.ibb.co/tpPg27qL/RTPbolivia2021.webp" group-title="TV Bolivia", RTP
-http://liketv.pro:80/User1626/28TM4MEU66/1141.m3u8
+https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/99cMLfK9/1774627860722.webp" group-title="TV Bolivia", F10
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
