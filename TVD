@@ -895,19 +895,19 @@ https://zap-live1-ott.izzigo.tv/12/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 https://zap-live4-ott.izzigo.tv/12/out/u/dash/UNICABLE-HD/default.mpd
 
 #EXTINF:-1 tvg-id="UniMás (KAJB) Yuma, AZ HD.us" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás
-http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/dash.mpd
+https://cors-proxy.cooks.fyi:443/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="UniMás (KFTU) Tucson, AZ HD.us" tvg-logo="https://i.ibb.co/tPJtHsmR/umas-1-spot-wht.webp" group-title="TV México", Unimás NY
-http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/dash.mpd
+https://cors-proxy.cooks.fyi:443/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hx2cfKf1/Picsart-25-11-28-14-51-20-027.webp" group-title="TV México", Galavisión East
-http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/dash.mpd
+https://cors-proxy.cooks.fyi:443/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hx2cfKf1/Picsart-25-11-28-14-51-20-027.webp" group-title="TV México", Galavisión West
-http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/dash.mpd
+https://cors-proxy.cooks.fyi:443/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.ibb.co/Gv5W2LgC/logo-univision.webp" group-title="TV México", Univisión TV
-http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/dash.mpd
+https://cors-proxy.cooks.fyi:443/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/dash.mpd
 
 #EXTINF:-1 tvg-id="UNI (KMEX) Los Angeles, CA HD.us" tvg-logo="https://i.ibb.co/NdWr61XS/Picsart-26-01-15-02-55-54-266.webp" group-title="TV México", Univisión 34 LA
 http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/dash.mpd
