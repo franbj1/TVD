@@ -3157,35 +3157,35 @@ https://1256-tbx.vrioott.com/universalpremiereeste/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://i.ibb.co/PscDwzdy/Picsart-26-02-24-10-28-44-073.webp" group-title="HBO + Universal", HBO ori
-https://ori1.relay.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+https://latan.stonetv.com.br/hbo/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://i.ibb.co/Zpds8nWs/Picsart-26-02-24-10-30-39-340.webp" group-title="HBO + Universal", HBO 2 ori
-https://ori1.relay.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
+https://latan.stonetv.com.br/hbo-2/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.ibb.co/gMmCDGxm/Picsart-26-02-24-10-36-59-845.webp" group-title="HBO + Universal", HBO Plus ori
-https://ori1.relay.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
+https://latan.stonetv.com.br/hbo-plus/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://i.ibb.co/jP5GNHHJ/Picsart-26-02-24-10-32-01-648.webp" group-title="HBO + Universal", HBO Family ori
-https://ori1.relay.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+https://latan.stonetv.com.br/hbo-family/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://i.ibb.co/4gVdW3Rc/Picsart-26-02-24-10-40-18-544.webp" group-title="HBO + Universal", HBO Mundi ori
-https://ori1.relay.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+https://latan.stonetv.com.br/hbo-mundi/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://i.ibb.co/DHprvCjh/Picsart-26-02-24-10-45-02-479.webp" group-title="HBO + Universal", HBO Pop ori
-https://ori1.relay.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
+https://latan.stonetv.com.br/hbo-popo/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://i.ibb.co/1GpwGcXy/Picsart-26-02-24-10-47-18-995.webp" group-title="HBO + Universal", HBO Signature ori
-https://ori1.relay.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
+https://latan.stonetv.com.br/hbo-signature/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://i.ibb.co/1GQ9tf9S/Picsart-26-02-24-10-37-56-805.webp" group-title="HBO + Universal", HBO Xtreme ori
-https://ori1.relay.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
+https://latan.stonetv.com.br/hbo-extreme/tracks-v1a1/playlist.m3u8
 
 Cultura
 
