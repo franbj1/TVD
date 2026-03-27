@@ -4027,17 +4027,17 @@ https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
-#EXTINF:-1 group-title="Mundo" tvg-id="France 24 en Español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/800/542/0/0/85662193074124.png", France24 EspaÃƒÆ’Ã‚Â±ol
+#EXTINF:-1 group-title="Mundo" tvg-id="France 24 en Español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/800/542/0/0/85662193074124.png", France24 Español
 https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd225327cc07001ffff55bd9271b1b2f:faae6578b5c3fde01b9f41fd39696605
-#EXTINF:-1 ch-number="617" tvg-id="RAI Italia HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/800/542/0/0/668028540729.png" group-title="Mundo", RAI Italia
-https://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=300f9ac115bf3eba0b7c7478d3a2b939&keyid%5B%5D=83393dbe57ce55a882f65a3b3a8493be
+#EXTINF:-1 tvg-id="RAI Italia HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/800/542/0/0/668028540729.png" group-title="Mundo", RAI Italia
+https://1184-tbx.vrioott.com/rai/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
-#EXTINF:-1 ch-number="619" tvg-id="Telemundo" tvg-name="Telemundo.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
 https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title="Mundo", Telemundo Internacional
@@ -4045,17 +4045,85 @@ https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0b773a5fcc763d52bad98824f33c69aa&key%5B%5D=dfe56f9c478cc8f43c1a1d0ef90d3728
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wkaq)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Texas
-https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951226
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ed5aac3691b33a02ac86d84f886a8a06&key%5B%5D=6b2cf6dd150416b758d228fc38980473
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Miami
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Florida
-https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951227
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=95a52a115ed134e881d0e7dcdd423b3e&key%5B%5D=5acb62e242dfdf1da7d041a600ec62fd
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Orlando
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wtmo)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Inglaterra
-https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951228
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7d6bb9f86e133e4cb33440b493b6b672&key%5B%5D=584ad285dcb9e7d42cf3e93f1cc3fe11
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Chicago
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wsns)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c71fe7bc82f037c6af21fd299d6341b0&key%5B%5D=13223c98886ff43d3c5f271eeb457cc6
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Nueva York
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wnju)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ce7ab3022e753307997f58afe001bac4&key%5B%5D=72d631a66e635c60829a0fe7705516c1
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Los Angeles
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=5956b4a41b7143127bbfeff76fc1af2e&keyid%5B%5D=42650f83bf6e34f697721b9789039472
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Houston
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(ktmd)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=9945fc9d36616ec453f3942b45f196c4&keyid%5B%5D=93bf10f6398139ff9bf0f28c641fd371
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Nueva Inglaterra
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wneu)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=f9809d1b37c6eded90b4f5fbcc7eda26&keyid%5B%5D=0a650504ba2f3f849c290b66a425f2d9
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Nuevo México
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=b3811c0664e20490ae5c24945eee39fa&keyid%5B%5D=a1f39cc8dedd34e9ac7d711594039fee
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Tampa
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wrmd)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=e6cba1c52ebee16289775f5164daece7&keyid%5B%5D=2a195c95880e37688286e0a6117a336f
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Denver
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kden)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c7e50df751d72ea6c8f23c70bb2b7d25&keyid%5B%5D=5533d6f9a41f3dc2b2abfa290ec0f11c
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Filadelfia
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wwsi)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0ae66f1c55d298e8f667e4b5ec515e4f&keyid%5B%5D=d52cee9cd351305dbebf5b5e50239985
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Tucson
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(khrr)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=d9730a236f91a456694ae069c2be87f5&keyid%5B%5D=1d9e9405b6fd33d7b42c2e6db39b757b
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Dallas
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kxtx)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=98967423589e63b0b783fd44641274c6&keyid%5B%5D=e60702ab30b4303b903ae86e01f54ffe
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Las Vegas
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kblr)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=2631f0c374c234afcf925f0e6d6c6f04&keyid%5B%5D=05f21bc693f738d091b99d7fb6ae0771
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Sacramento
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kcso)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
@@ -4072,11 +4140,15 @@ https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://pla
 #EXTINF:-1 group-title="Mundo" ch-number="625" tvg-id="UCL.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/800/542/0/0/62763250072541.png", UCL
 https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e356ecaae6cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Mundo", Azteca Internacional
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6c01435ed4e839996f40f8ee08965324&key%5B%5D=74eb7b54510e463ea51dccff80a53f3e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Azteca_Uno_2017.svg/640px-Azteca_Uno_2017.svg.png" group-title="Mundo", Azteca Uno
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-UNO-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png" group-title="Mundo", BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4087,11 +4159,6 @@ https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_N
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e50891cdc64452aae20d049727f2f3f:551871ba1dc6a95597ec0cb82eb3b2a4
 https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ganzGYBFGY6WN-kYwl7BpRdEVYl3mmEOng&s" group-title="Mundo", RAI Italia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
-https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/48e8927c-7144-443e-86ee-dfe28c956144.png?raw=true" group-title="Mundo", TV Chile
 #KODIPROP:inputstream.adaptive.license_type=clearkey
