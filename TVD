@@ -675,7 +675,13 @@ https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.ibb.co/tpPg27qL/RTPbolivia2021.webp" group-title="TV Bolivia", RTP
 http://liketv.pro:80/User1626/28TM4MEU66/1141.m3u8
 
-#EXTINF:-1 tvg-id="Red Advir.bo" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Bolivia", Rede Advir https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
+#EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/99cMLfK9/1774627860722.webp" group-title="TV Bolivia", F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/wNKW58pR/1774627131369.webp" group-title="TV Bolivia", Cadena
+https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Red Advir.bo" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Bolivia", Rede Advenir https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
 
 #EXTINF:-1 tvg-id="PAT.bo" tvg-logo="https://i.ibb.co/nMtRN5rh/Picsart-26-03-09-01-34-18-440.webp" group-title="TV Bolivia", Pat TV
 http://liketv.pro:80/User1626/28TM4MEU66/1133.m3u8
