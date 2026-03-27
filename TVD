@@ -3908,7 +3908,7 @@ Mundo
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
-#EXTINF:-1 tvg-id="CNN EspaÃƒÆ’Ã‚Â±ol.uy" tvg-logo="https://i.supaimg.com/02080231-7618-4a3f-8e8b-ca2361efc0f2.png?raw=true" group-title="Mundo", CNN En EspaÃƒÆ’Ã‚Â±ol
+#EXTINF:-1 tvg-id="CNN Español.uy" tvg-logo="https://i.supaimg.com/02080231-7618-4a3f-8e8b-ca2361efc0f2.png?raw=true" group-title="Mundo", CNN En Español
 https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3924,19 +3924,19 @@ https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc_wl/DNews.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e21fc12c6ee185fbc90a052b05026be9:0f96fd52903707aac0b42853a043ffd0
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/b9f7c734-4bd9-454a-b61a-f1e3d62ea044.png?raw=true" group-title="Mundo", Deutsche Welle
-https://chromecast.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc_Wl/DW.mpd
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=11d6e9a2abb2e241804148713531f64d&keyid%5B%5D=52e6281b1d3c364c872497e8058977b1
 #EXTINF:-1 tvg-id="BBC WORLD NEWS.ar" tvg-logo="https://i.supaimg.com/c3b74138-0f2d-4a70-80c8-611b20260fe9.png?raw=true" group-title="Mundo", BBC News
-https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd
+https://zap-live4-ott.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e50891cdc64452aae20d049727f2f3f:551871ba1dc6a95597ec0cb82eb3b2a4
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=33a700e326c993c2392c1d7c5b4ea10b&keyid%5B%5D=aa5577cccdf3569a848257bb431379af
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/138d8924-b4a4-4bfb-88f9-3bc83b32fed7.png?raw=true" group-title="Mundo", Bloomberg TV
-https://chromecast.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_C/Bloomberg.mpd
+https://1025-tbx.vrioott.com/bloomberglat/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/75aa1eb4-2ed0-4666-bbb7-d98eae21c06a.png?raw=true" group-title="Mundo", RT en EspaÃ±ol
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/75aa1eb4-2ed0-4666-bbb7-d98eae21c06a.png?raw=true" group-title="Mundo", RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/295a5c7a-d647-4c0c-9dd4-7ec4da527877.png?raw=true" group-title="Mundo",  Lefigaro
@@ -3949,7 +3949,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/83a1f878-346f-4659-900f-9884333c148d.png?raw=true" group-title="Mundo", News Max
-https://nmx1gonet.akamaized.net/hls/live/2107009/Live_1/index.m3u8
+https://amg00217-newsmax-amg00217c4-plex-us-9039.playouts.now.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/5bb22dc4-272d-4efc-b045-23a9cde97786.png?raw=true" group-title="Mundo", Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -3968,9 +3968,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc_C/Alljaz
 https://chromecast.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_C/Euronews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
-#EXTINF:-1 tvg-id="F24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Mundo", France 24
-https://chromecast.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6b90cb076ce91a29da1e197a8b6995dd&keyid%5B%5D=61981531aa7c40ecfd07166f6f87d09b
+#EXTINF:-1 tvg-id="F24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Mundo", France 24 Español
+https://zap-live4-ott.izzigo.tv/13/out/u/dash/FRANCE-24-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72187f2651724db18505cdcad435841d:6f41e05476e34edf7bb9dc51f08f95df
@@ -3978,9 +3978,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/Franc
 https://chromecast.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c4e6e98535157642fffa89e5a2a2da3d&keyid%5B%5D=ece5861b6dab57e1807baa084824a2e6
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/d7f907b3-b2d0-4edb-ba48-e2e8c8da1e9b.png?raw=true" group-title="Mundo", Fox News
-https://chromecast.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd
+https://1114-tbx.vrioott.com/foxnews/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5235d8ee29f14ce6b26ea5d828aee77a:6bf6bd339e3098babc2ab0b984cd2376
