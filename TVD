@@ -675,7 +675,7 @@ https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.ibb.co/tpPg27qL/RTPbolivia2021.webp" group-title="TV Bolivia", RTP
 https://rtp.noxun.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/99cMLfK9/1774627860722.webp" group-title="TV Bolivia", F10
+#EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/5XLKNLSV/Picsart-26-03-27-13-32-40-271.webp" group-title="TV Bolivia", F10
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/wNKW58pR/1774627131369.webp" group-title="TV Bolivia", Cadena
