@@ -1834,7 +1834,7 @@ https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49eb924ba998ca7fbbaee30dcef1ecb4&key%5B%5D=6e131b04b2e87598fb588ac205673698
 #EXTINF:-1 tvg-id="Gen TV.py" tvg-logo="https://i.ibb.co/0R6mfDXH/Picsart-26-01-12-23-21-51-440.webp" group-title="TV Paraguay", GEN TV
-https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_wl/GEN_TV.mpd
+https://latan.stonetv.com.br/gen-tv/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a8922522d07bc6aea96decd1c61553a6&key%5B%5D=dd9d597ceaf05fa903587ff1a657a04e
@@ -2557,7 +2557,7 @@ https://ori1.relay.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=18654944953b25a8b6392722a83db653&key%5B%5D=40bf6a9f05bbf0e06715ed5707f0edd2
 #EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-logo="https://i.supaimg.com/9c1ec0c0-3a16-49f2-ab5e-cf431d78d114.png?raw=true" group-title="Infantil", Disney Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
+https://latan.stonetv.com.br/disney-junior/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/NICKELODEON.DGO.json
@@ -2595,7 +2595,7 @@ https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/pla
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a47bfb9e246f3b8405c1225fae73da9e&key%5B%5D=a4865fb8742b4541f64ac37370e902a6
 #EXTINF:-1 tvg-id="PLIM.ar" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
+https://latan.stonetv.com.br/plim-plim/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dcd89337a501ab929c01a039774089dc&key%5B%5D=e96cc7be9139a8d581b3f5eebebfc10d
