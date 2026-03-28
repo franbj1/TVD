@@ -3232,13 +3232,13 @@ https://1013-tbx.vrioott.com/animalplanet/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
 #EXTINF:-1 tvg-id="Discovery HD.uy" tvg-logo="https://i.supaimg.com/ddde3064-56dc-4ef7-a6a9-a8a6eae2f099.png" group-title="Cultura", Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://latan.stonetv.com.br/discovery-channel/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
 #EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.supaimg.com/a5e82da7-932b-4b49-aadd-4c4571df31ac.png" group-title="Cultura", Discovery H&H
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
+https://latan.stonetv.com.br/discovery-homeandheal/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYID.DGO.json
@@ -3292,7 +3292,7 @@ https://1093-tbx.vrioott.com/gourmet/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
 #EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://i.supaimg.com/fc21bc4b-2e65-4a0f-88ed-3d371ba2eed1.png" group-title="Cultura", Film & Arts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
+https://latan.stonetv.com.br/film-&-art/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/FOODNETWORK.DGO.json
