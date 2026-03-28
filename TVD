@@ -3181,6 +3181,31 @@ https://latan.stonetv.com.br/hbo-signature/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://i.ibb.co/1GQ9tf9S/Picsart-26-02-24-10-37-56-805.webp" group-title="HBO + Universal", HBO Xtreme ori
 https://latan.stonetv.com.br/hbo-extreme/tracks-v1a1/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALCINEMA.DGO.json
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://i.supaimg.com/b88c0fe0-fc5c-4256-8a8b-ea2298986e79.png?raw=true" group-title="HBO + Universal", Universal Cinema ori
+https://latan.stonetv.com.br/universal-cinema/tracks-v1a1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALCOMEDY.DGO.json
+#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-logo="https://i.supaimg.com/d6fbcbe9-20de-4cde-8435-1d58dfce5b91.png"" group-title="HBO + Universal", Universal Comedy ori
+https://latan.stonetv.com.br/universal-comedy/tracks-v1a1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALCRIME.DGO.json
+#EXTINF:-1 tvg-id="Universal Crime.uy" tvg-logo="https://i.supaimg.com/b5a34bb5-eb66-454c-beac-fede3ec1cfbd.png" group-title="HBO + Universal", Universal Crime ori
+https://latan.stonetv.com.br/universal-crime/tracks-v1a1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALREALITY.DGO.json
+#EXTINF:-1 tvg-id="Universal Reality.uy" tvg-logo="https://i.supaimg.com/e16839d4-e02a-4714-8793-f0c461c2e2a2.png" group-title="HBO + Universal", Universal Reality ori
+https://latan.stonetv.com.br/universal-reality/tracks-v1a1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALPREMIERE.DGO.json
+#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/c45b84e6-621b-4c70-9e5a-9ef3c8398ff5.png" group-title="HBO + Universal", Universal Premiere ori
+https://latan.stonetv.com.br/universal-premiere/tracks-v1a1/playlist.m3u8
+
 Cultura
 
 #EXTINF:-1 group-logo="https://i.ibb.co/j9cC8P5d/1769740252470.webp"
