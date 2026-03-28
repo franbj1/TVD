@@ -1809,7 +1809,7 @@ https://latan.stonetv.com.br/abc-tv/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=646700eeb14cadfa0543a20cf413d37e&key%5B%5D=4fc037c462023764624d8446442cbbca
 #EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.ibb.co/JRSw3kCM/Picsart-26-01-12-23-15-47-142.webp" group-title="TV Paraguay", C9N
-https://latan.stonetv.com.br/c9n/tracks-v1a1/playlist.m3u8
+https://latan.stonetv.com.br/C9N/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8df0f1a1e05e9c6a438e23a87c9d06ea&key%5B%5D=5df74d374a2a8a871463e7c438fa3ba7
@@ -1849,12 +1849,12 @@ https://latan.stonetv.com.br/venus-media/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=41ca5477db3048dbf731fc12604c7504&key%5B%5D=6c7e8e96a86333cbfb4771cbfe9f6b4b
 #EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/4ZKXBRbk/logo-popu-tv-white.webp" group-title="TV Paraguay", Popu TV
-https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_wl/Universo.mpd
+https://latan.stonetv.com.br/universo/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=aed06fd292d278aa464da44752b9c313&keyid%5B%5D=46c3d8c42bb9799e5de5792e3fb45de4
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
-https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc_wl/Nanduti_Py.mpd
+https://latan.stonetv.com.br/nanduti-py/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ccf01c0661ae65f273b79eeda0ec0f3e&keyid%5B%5D=bc47bd761413375f1b6e7333a51de41a
