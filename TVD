@@ -1892,9 +1892,6 @@ https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Next.py" tvg-logo="https://i.ibb.co/8DfJDVGp/Picsart-26-01-14-00-39-46-249.webp" group-title="TV Paraguay", Next
 https://live.enhdtv.com:8081/8178/index.m3u8
 
-#EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/7NdqFMjV/Picsart-26-01-14-00-34-59-077.webp" group-title="TV Paraguay", RCC
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
-
 #EXTINF:-1 tvg-id="Lim TV.py" tvg-logo="https://i.ibb.co/QvmL2FJZ/Picsart-26-02-07-13-40-37-898.webp" group-title="TV Paraguay", Invasiva Media
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
@@ -1968,9 +1965,9 @@ Novelas ᥫ᭡
 #EXTINF:-1 group-logo="https://i.postimg.cc/brTbrF3P/Picsart-26-03-07-22-35-48-457.png"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/PASIONES.DGO.json
 #EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://i.supaimg.com/25eacfe0-e6c1-4c5d-b6b2-1275e73fabdb.png" group-title="Novelas ᥫ᭡", Pasiones
-https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_cenc/Pasiones.mpd
+https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/pasiones.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
@@ -1979,21 +1976,29 @@ https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
-#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Novelas ᥫ᭡", TL Novelas
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Novelas ᥫ᭡", TLNovelas
 https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/TNTNOVELAS.DGO.json
 #EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="Novelas ᥫ᭡", TNT Novelas
-https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://1212-tbx.vrioott.com/tntnovelas/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/qesbbh0h3sczislqjt0ss/globoplay-novelas.json?rlkey=7hvwu5v56wubt6m796w9hxz02&st=d6rn76fr&dl=0
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/260FZVvV/globoplay-novelas-4-SL170-FMpng.png" group-title="Novelas ᥫ᭡", Globoplay Novelas
-https://abc3orwaaaaaaaamagid7dq6nl7l3.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=eab4523b0358f3c59f1da92b3f478232&key%5B%5D=253ef14355d987d4076b4544e4741977
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://i.postimg.cc/260FZVvV/globoplay-novelas-4-SL170-FMpng.png" group-title="Novelas ᥫ᭡", Globoplay Novelas
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/6zs69kwdn29rrwkxpkm7a/globo-h265.json?rlkey=zx6u8qb8bn6kqi5njkqoy16od&st=5nev5s5o&dl=0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f22c4752daec59a584b950d7daf538dc&key%5B%5D=a4b71cc67dd9d305b367c5a488e32c7e
+#EXTINF:-1 tvg-id="CORAZON.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Novelas ᥫ᭡", Azteca Corazón
+https://1022-tbx.vrioott.com/aztecacorazon/manifest.mpd
+
+#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Novelas ᥫ᭡", Az Corazón Play
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a7bdeafe3ea058be002a746db787c490&key%5B%5D=73b0e65b968257daaae461c865f28177
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Novelas ᥫ᭡", TV Globo
 https://zap-live4-ott.izzigo.tv/8/out/u/dash/TV-GLOBO-SD-H265/default.mpd
 
@@ -2004,16 +2009,13 @@ https://cdn-live.mundogo.cl/antena3/antena3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=658e573246a856d880a877b69d1ad715&key%5B%5D=e95e4f1399649d0ed0fad935168cd975
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Az Clic
+#EXTINF:-1 tvg-id="Az Clic.mx" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Az Clic
 https://1021-tbx.vrioott.com/aztecaclic/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e35
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Azteca Internacional
 https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
-
-#EXTINF:-1 tvg-id="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="Novelas ᥫ᭡", Az Corazón Play
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
