@@ -1849,7 +1849,7 @@ https://latan.stonetv.com.br/venus-media/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=41ca5477db3048dbf731fc12604c7504&key%5B%5D=6c7e8e96a86333cbfb4771cbfe9f6b4b
 #EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/4ZKXBRbk/logo-popu-tv-white.webp" group-title="TV Paraguay", Popu TV
-https://latan.stonetv.com.br/universo/tracks-v1a1/playlist.m3u8
+https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/index.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
@@ -1857,7 +1857,7 @@ https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=aed06fd292d278aa464da44752b9c313&keyid%5B%5D=46c3d8c42bb9799e5de5792e3fb45de4
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
-https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/chunklist_w573748838.m3u8
+https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_py_alta/index.m3u8?admin=nacion
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ccf01c0661ae65f273b79eeda0ec0f3e&keyid%5B%5D=bc47bd761413375f1b6e7333a51de41a
