@@ -2091,7 +2091,7 @@ https://ori1.relay.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
 https://ori1.relay.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
-#EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.ibb.co/HTJ1yk0Y/Picsart-26-02-25-22-10-38-903.webp" group-title="Deportes", Eventos Deportivo
+#EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.ibb.co/84N37btp/Picsart-26-03-29-16-06-16-353.webp" group-title="Deportes", Eventos Deportivo
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
