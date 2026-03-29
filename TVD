@@ -2161,7 +2161,6 @@ https://ori1.relay.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
 #EXTINF:-1 tvg-id="Show Sports.uy" tvg-logo="https://i.ibb.co/M5N9nFKb/Picsart-25-10-27-14-13-24-820.webp" group-title="Deportes", Show Sports
@@ -2179,13 +2178,15 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c618d32c56cdc6cad8330eb98507ca3f&keyid%5B%5D=96b67fa09140329a89b7a1ead134eda3
+#EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo Este
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo West
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=7d9dbf8134535e1665e914fb7134ce47&keyid%5B%5D=069f3495380f3d25a8c03477067f7d1b
+#EXTINF:-1 tvg-id="UNIVERSO HD" tvg-logo="https://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo Oeste
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-west)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2199,9 +2200,9 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 https://zap-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d2c3554c2f9540849031439326cce8e9&key%5B%5D=f97391f9e36f6f33eed844ebaab72a8f
-#EXTINF:-1 tvg-id="Caracol sports" tvg-logo="https://i.postimg.cc/d3WZmg7G/Picsart-26-03-21-18-23-25-926.png" group-title="Deportes", Caracol Sports
-https://d332hctu9ygz9f.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/caracol-sports/out/v1/4dac3e236d354cd7b5ceddf8a4b999b1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d1a163914db8ffad2c3e94f979896a0d&key%5B%5D=9728800a3959aafdd5b0bcfbf3768811
+#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://i.ibb.co/hFW8xDRC/FOX-Deportes-logo.webp" group-title="Deportes", Fox Deportes
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
 #EXTINF:-1 tvg-id="PX Sports.uy" tvg-logo="https://i.ibb.co/k23Lzxwd/Picsart-25-09-01-05-55-14-013.webp" group-title="Deportes", PX Sports
@@ -2212,12 +2213,12 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 tvg-id="Claro Sports HD.uy" tvg-logo="https://i.ibb.co/j9yKLXm2/Picsart-25-09-15-00-57-24-072.webp" group-title="Deportes", Claro Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=be43a68903a920561dc14daf19229d97&keyid%5B%5D=bad94ad091751a8adf0369f80ca83d17
 #EXTINF:-1 tvg-id="Claro Sports 2.pe" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
-https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd
+https://d14vi32khctxqc.cloudfront.net/live/0734bfb5-ca28-44a2-a241-00a95582e92d/live.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
