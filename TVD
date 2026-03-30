@@ -729,11 +729,11 @@ http://107.152.39.199:8030/hls/canal15.m3u8
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/r25mJ8Q6/Picsart-26-01-23-13-22-20-768.webp" group-title="TV Colombia", Canal Uno
 http://liketv.pro:80/User1626/28TM4MEU66/02.m3u8
 
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp" group-title="TV Colombia", Trece
-https:/val01.ride.com.ar/tvmia/bn27/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/qFkhRCS2/Canal-Trece-logo-svg.webp" group-title="TV Colombia", TR3CE
+http://107.152.39.199:8030/hls/canal12.m3u8
 
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GQLMn7C4/Picsart-26-01-23-13-20-19-431.webp" group-title="TV Colombia", Capital
-http://107.152.39.199:8030/hls/canal12.m3u8
+http://107.152.39.199:8030/hls/canal8.m3u8
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
 http://107.152.39.199:8030/hls/canal6.m3u8
