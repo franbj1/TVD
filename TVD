@@ -3072,7 +3072,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_cenc/U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="HBO + Universal", Universal Crime Flow
-https://chromecast.cvattv.com.ar/live/c6eds/Universal_Crime/SA_Live_dash_cenc/Universal_Crime.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_cenc/universal_Crime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
