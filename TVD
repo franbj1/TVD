@@ -733,7 +733,7 @@ http://liketv.pro:80/User1626/28TM4MEU66/02.m3u8
 https:/val01.ride.com.ar/tvmia/bn27/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GQLMn7C4/Picsart-26-01-23-13-20-19-431.webp" group-title="TV Colombia", Capital
-https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
+http://107.152.39.199:8030/hls/canal12.m3u8
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
 http://107.152.39.199:8030/hls/canal6.m3u8
@@ -1954,9 +1954,6 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 
 #EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/Kcs1DB8L/Picsart-26-01-21-15-46-29-332.webp" group-title="TV Paraguay", Tigo Sports +
 https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35XsfPmZ/Picsart-25-10-19-18-32-24-368.webp" group-title="TV Paraguay", WTV Nicaragua
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 Novelas ᥫ᭡
 
