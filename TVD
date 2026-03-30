@@ -27,31 +27,29 @@ https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 
-#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5179017f49326d14af0a9ceec831aee6&key%5B%5D=09b4a463b029ebc28a288bed2da70a76
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
+#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+
 http://107.152.39.199:8030/hls/canal12.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=89d433166edd31d56df2a59df8ec6704&key%5B%5D=b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true" group-title="Nacional", Net TV
-#KODIPROP:inputstream.adaptive.stream_headers=origin="Android/
-https://ori1.relay.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c3db691c7e4520b7b2dc822ab905545a&key%5B%5D=ee2a1ebe6fcc2ef3b01943cdd9256cc6
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true" group-title="Nacional", NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=89d433166edd31d56df2a59df8ec6704&key%5B%5D=b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/h19whTxj/Picsart-26-03-24-18-36-53-349.webp" group-title="Nacional", Laika TV
-https://mitv.zplay.cl/LaikaTV/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f65bad34feb42a28276e3ec047480cc:e3b4b74c12ffb5802a0acd04c0f4f84d
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1d7d1609477d0b0d51a5b7d1539e65eb&key%5B%5D=90b61b3fa577eab7b53ef6f1caeb82bf
 #EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/8LHCLPCh/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.webp" group-title="Nacional", Bravo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/137.0.0.0 Safari/537.36
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
@@ -2699,6 +2697,11 @@ http://190.102.242.130:25461/monitvpo/monitvpo/1
 
 #EXTINF:-1 tvg-id="Dios Kids" tvg-logo="https://i.ibb.co/YTcwKzhK/Picsart-26-02-06-01-38-06-485.webp" group-title="Infantil", Dios TeVe Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=89d433166edd31d56df2a59df8ec6704&key%5B%5D=b2015faded0a456d10aa8db1b4cbac68
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/h19whTxj/Picsart-26-03-24-18-36-53-349.webp" group-title="Infantil", Laika Channel
+https://mitv.zplay.cl/LaikaTV/index.m3u8
 
 Cine + Series
 
