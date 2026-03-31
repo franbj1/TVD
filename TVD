@@ -2089,7 +2089,7 @@ https://ori1.relay.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 https://ori1.relay.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 #EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.ibb.co/84N37btp/Picsart-26-03-29-16-06-16-353.webp" group-title="Deportes", Eventos Deportivo
-https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
+http://170.82.113.51:8899/play/a0j1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
