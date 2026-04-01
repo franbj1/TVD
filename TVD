@@ -75,7 +75,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-at=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://broker.cdn.rcs.net.ar/mnp/cn23/output.mpd
+https://ushuaia-vision.cdn.rcs.net.ar/mnp/cn23/output.mpd
 
 #EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/KMpjDFf/Picsart-25-12-04-12-22-46-123.webp" group-title="Nacional", Tec
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
