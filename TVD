@@ -2065,7 +2065,6 @@ https://1149-tbx.vrioott.com/holatv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/MTV.DGO.json
 #EXTINF:-1 tvg-id="MTV.uy" tvg-logo="https://i.ibb.co/dwRCJNkp/Picsart-26-03-28-20-26-15-684.webp" group-title="Novelas ᥫ᭡", MTV Reality
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/143.0.0.0 Safari/537.36
 https://1165-tbx.vrioott.com/mtvls/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
