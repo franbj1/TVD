@@ -58,7 +58,7 @@ https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
-https://bvclive1.boldmss.com/TELEMAX/TELEMAX.isml/TELEMAX.mpd
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8#t=0.1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rmmz2Sk/1771189819152.webp" group-title="Nacional", Unife TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
