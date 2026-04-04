@@ -3235,8 +3235,8 @@ https://latan.stonetv.com.br/discovery-channel/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
 #EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.ibb.co/SDHtGcPR/Picsart-26-04-04-01-11-29-193.webp" group-title="Cultura", Discovery H&H
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/home-and-health/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYID.DGO.json
