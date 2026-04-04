@@ -3300,31 +3300,31 @@ https://1093-tbx.vrioott.com/gourmet/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
-#EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://i.supaimg.com/fc21bc4b-2e65-4a0f-88ed-3d371ba2eed1.png" group-title="Cultura", Film & Arts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/film-&-art/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://i.ibb.co/Ldbz7QN1/Picsart-26-04-04-16-32-02-261.webp" group-title="Cultura", Film & Arts
+#EXTVLCOPT:http-user-agent=Chrome/122.0.0.0 Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/FOODNETWORK.DGO.json
-#EXTINF:-1 tvg-id="Food Network HD.uy" tvg-logo="https://i.supaimg.com/cdb39ebe-21dc-4af6-bbbe-a1d49b3f3ded.png" group-title="Cultura", Food Network
+#EXTINF:-1 tvg-id="Food Network HD.uy" tvg-logo="https://i.ibb.co/0yg6YRWY/1775330651926.webp" group-title="Cultura", Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1113-tbx.vrioott.com/foodnetwork/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HGTV.DGO.json
-#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.supaimg.com/e1d25030-7aed-4bdf-886e-5778f15c02ee.png" group-title="Cultura", HGTV
+#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/chRLMvHy/1775331309858.webp" group-title="Cultura", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1144-tbx.vrioott.com/hgtvlat/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
-#EXTINF:-1 tvg-id="History HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" group-title="Cultura", History
+#EXTINF:-1 tvg-id="History HD.uy" tvg-logo="https://i.ibb.co/mCR9ZzyD/Picsart-26-04-04-16-44-26-533.webp" group-title="Cultura", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/history/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HISTORY2.DGO.json
-#EXTINF:-1 tvg-id="History 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" group-title="Cultura", History 2
+#EXTINF:-1 tvg-id="History 2 HD.uy" tvg-logo="https://i.ibb.co/CptDH3r6/Picsart-26-04-04-16-51-45-551.webp" group-title="Cultura", History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1147-tbx.vrioott.com/historychannel2/manifest.mpd
 
@@ -3335,7 +3335,7 @@ https://latan.stonetv.com.br/hola-tv/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f85d8282bb6fe2db8f34299d5742f02:28d49f409d718ecad8f82f477d3beb77
-#EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://i.supaimg.com/bab70c3c-a1e3-4e0d-b598-32dd82508591.png" group-title="Cultura", Lifetime
+#EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://i.ibb.co/Dgj10TTb/Logo-Lifetime-2020-svg.webp" group-title="Cultura", Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/life-time/tracks-v1a1/playlist.m3u8
 
@@ -3362,8 +3362,8 @@ https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ae7578729bde9d2f342090141103687:fb009bb37dd8fb98e2913f6b762b79e5
 #EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-logo="https://i.supaimg.com/c3e69b36-9a8c-4025-bdbb-55e4d9b27a63.png" group-title="Cultura", Sun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ori1.relay.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
+#EXTVLCOPT:http-user-agent=Chrome/122.0.0.0 Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
 
 Música
 
