@@ -29,16 +29,9 @@ https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9bb54fccffaddd38916e85c08de98cc9&key%5B%5D=d06f509c418eb6f1b2fc2b766445328b
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/v6RKqGpv/Picsart-26-03-31-20-23-22-575.webp" group-title="Nacional", Telefe Satelital
-#EXTVLCOPT:http-user-agent="FireFox
-https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
-#EXTVLCOPT:http-user-agent="FireFox
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
