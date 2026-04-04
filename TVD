@@ -7,20 +7,20 @@ Televisión Nacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6b17538810f1dd4485f174dcc204872c&key%5B%5D=3d5b973772433ce07c8999aa659ea48c
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp" group-title="Nacional", Televisión Pública
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b5651806b42f087c58332b052de727c5&key%5B%5D=11901b35cc3e5aa73619f64d02c38a0f
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c1f50e3f51216bdd1efcc99d3a27217&key%5B%5D=3441c930277d824402aafee446ba8f90
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/fV5vZhsT/Picsart-25-12-01-06-21-50-068.webp" group-title="Nacional", El Nueve
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
@@ -31,28 +31,26 @@ https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9bb54fccffaddd38916e85c08de98cc9&key%5B%5D=d06f509c418eb6f1b2fc2b766445328b
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/v6RKqGpv/Picsart-26-03-31-20-23-22-575.webp" group-title="Nacional", Telefe Satelital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|Referer=https://player.sensa.com.ar/
-
-http://107.152.39.199:8030/hls/canal12.m3u8
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c3db691c7e4520b7b2dc822ab905545a&key%5B%5D=ee2a1ebe6fcc2ef3b01943cdd9256cc6
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true" group-title="Nacional", NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1d7d1609477d0b0d51a5b7d1539e65eb&key%5B%5D=90b61b3fa577eab7b53ef6f1caeb82bf
 #EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/kVN5KV6w/Picsart-26-03-30-09-17-16-870.webp" group-title="Nacional", Bravo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent="Android
 https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,7 +60,8 @@ https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
-https://ori1.relay.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
