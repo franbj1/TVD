@@ -2855,6 +2855,12 @@ https://latan.stonetv.com.br/tnt-series/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ori1.relay.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
+#EXTINF:-1 tvg-id="TCM SD.uy" tvg-logo="https://i.ibb.co/Y7mmdNRF/1771575995411.webp" group-title="Cine + Series", TCM d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8?|https://cablevideo.com.ar/veo.php
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.postimg.cc/rp66782P/Warner-TV-logo-svg.png" group-title="Cine + Series", Warner TV
