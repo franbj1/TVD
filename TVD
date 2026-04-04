@@ -3270,7 +3270,7 @@ https://1080-tbx.vrioott.com/discoverytheater/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYWORLD.DGO.json
-#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://i.ibb.co/6ctyNDfD/1775274212785.webp" group-title="Cultura", Discovery World
+#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://i.ibb.co/S764Bc0F/Picsart-26-04-04-19-30-59-599.webp" group-title="Cultura", Discovery World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1082-tbx.vrioott.com/discoveryworld/manifest.mpd
 
