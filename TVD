@@ -3267,13 +3267,13 @@ https://latan.stonetv.com.br/discovery-channel/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
-#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.supaimg.com/a5e82da7-932b-4b49-aadd-4c4571df31ac.png" group-title="Cultura", Discovery H&H
+#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.ibb.co/SDHtGcPR/Picsart-26-04-04-01-11-29-193.webp" group-title="Cultura", Discovery H&H
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/discovery-h&h/tracks-v1a1/playlist.m3u8
+https://latan.stonetv.com.br/home-and-health/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYID.DGO.json
-#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.supaimg.com/9436b5e0-f5e5-4e08-ab5e-fa02aac3da35.png" group-title="Cultura", Investigación Discovery
+#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.ibb.co/0ygRZ2ns/Picsart-26-04-04-00-32-36-410.webp" group-title="Cultura", Discovery ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1077-tbx.vrioott.com/discoveryidar/manifest.mpd
 
@@ -3285,19 +3285,19 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScienc
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYTHEATER.DGO.json
-#EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-logo="https://i.supaimg.com/3faea074-bc9a-46f5-be81-4fd9336b46c6.png" group-title="Cultura", Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-logo="https://i.ibb.co/5PW6h9f/Picsart-26-04-04-00-40-14-956.webp" group-title="Cultura", Discovery Theater
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1080-tbx.vrioott.com/discoverytheater/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYWORLD.DGO.json
-#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://i.supaimg.com/49c5b9fc-37e7-4022-90c6-4ba0c407f674.png" group-title="Cultura", Discovery World
+#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://i.ibb.co/6ctyNDfD/1775274212785.webp" group-title="Cultura", Discovery World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1082-tbx.vrioott.com/discoveryworld/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYTURBO.DGO.json
-#EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-logo="https://i.supaimg.com/5dad092e-9e78-49f2-9c3f-60192e86f400.png" group-title="Cultura", Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-logo="https://i.ibb.co/3m8t2BnR/Picsart-26-04-04-00-50-52-328.webp" group-title="Cultura", Discovery Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1081-tbx.vrioott.com/discoveryturbo/manifest.mpd
 
@@ -3307,15 +3307,15 @@ https://1081-tbx.vrioott.com/discoveryturbo/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1224-tbx.vrioott.com/tlc/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
 #EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://i.supaimg.com/08790f2a-2922-4d8c-9fdd-82e89d39cac0.png" group-title="Cultura", (É) Entertaiment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/GOURMET.DGO.json
-#EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://i.supaimg.com/40da4af8-ac76-46f9-bf79-e8cbfad1fcf6.png" group-title="Cultura", El Gourmet
+#EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://i.ibb.co/spdY8W6N/1775274846086.webp" group-title="Cultura", El Gourmet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1093-tbx.vrioott.com/gourmet/manifest.mpd
 
