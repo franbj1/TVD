@@ -3222,7 +3222,7 @@ Cultura
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ANIMALPLANET.DGO.json
-#EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://i.supaimg.com/48104346-2418-42dd-b625-f8a4fb20742b.png" group-title="Cultura", Animal Planet Discovery
+#EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://i.ibb.co/tPCc96YT/Picsart-26-04-04-19-59-54-768.webp" group-title="Cultura", Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1013-tbx.vrioott.com/animalplanet/manifest.mpd
 
