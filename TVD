@@ -3233,6 +3233,12 @@ https://1013-tbx.vrioott.com/animalplanet/manifest.mpd
 https://latan.stonetv.com.br/discovery-channel/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
+#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://i.supaimg.com/2e93b1c0-8894-4af5-9e6f-56f36a546278.png" group-title="Cultura", National Geographic
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
 #EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.ibb.co/SDHtGcPR/Picsart-26-04-04-01-11-29-193.webp" group-title="Cultura", Discovery H&H
 #EXTVLCOPT:http-user-agent=Android
@@ -3276,6 +3282,30 @@ https://1081-tbx.vrioott.com/discoveryturbo/manifest.mpd
 https://1224-tbx.vrioott.com/tlc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HGTV.DGO.json
+#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/chRLMvHy/1775331309858.webp" group-title="Cultura", HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://1144-tbx.vrioott.com/hgtvlat/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6f85d8282bb6fe2db8f34299d5742f02&key%5B%5D=28d49f409d718ecad8f82f477d3beb77
+#EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://i.ibb.co/Dgj10TTb/Logo-Lifetime-2020-svg.webp" group-title="Cultura", Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime.playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
+#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Cultura", Hola TV
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/cl7lf-54530-2egee-p14da.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
+#EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://i.ibb.co/Ldbz7QN1/Picsart-26-04-04-16-32-02-261.webp" group-title="Cultura", Film & Arts
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
 #EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://i.supaimg.com/08790f2a-2922-4d8c-9fdd-82e89d39cac0.png" group-title="Cultura", (É) Entertaiment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -3293,18 +3323,6 @@ https://1093-tbx.vrioott.com/gourmet/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1113-tbx.vrioott.com/foodnetwork/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
-#EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://i.ibb.co/Ldbz7QN1/Picsart-26-04-04-16-32-02-261.webp" group-title="Cultura", Film & Arts
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HGTV.DGO.json
-#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/chRLMvHy/1775331309858.webp" group-title="Cultura", HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://1144-tbx.vrioott.com/hgtvlat/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
 #EXTINF:-1 tvg-id="History HD.uy" tvg-logo="https://i.ibb.co/mCR9ZzyD/Picsart-26-04-04-16-44-26-533.webp" group-title="Cultura", History
@@ -3318,18 +3336,6 @@ https://latan.stonetv.com.br/history/tracks-v1a1/playlist.m3u8
 https://1147-tbx.vrioott.com/historychannel2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
-#EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Cultura", Hola TV
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/cl7lf-54530-2egee-p14da.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6f85d8282bb6fe2db8f34299d5742f02&key%5B%5D=28d49f409d718ecad8f82f477d3beb77
-#EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://i.ibb.co/Dgj10TTb/Logo-Lifetime-2020-svg.webp" group-title="Cultura", Lifetime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime.playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/64384481074718.png" group-title="Cultura", Love Nature
 #EXTVLCOPT:http-user-agent=Android
@@ -3338,12 +3344,6 @@ https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 #EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
 #EXTVLCOPT:http-user-agent=Android
 https://cors-proxy.cooks.fyi:443/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
-#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://i.supaimg.com/2e93b1c0-8894-4af5-9e6f-56f36a546278.png" group-title="Cultura", National Geographic
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c825ede79c7f63aa9c16844f67ee2b45&keyid%5B%5D=d1afef1b6c4f286ebfdc1dce0e174a17
