@@ -2555,7 +2555,7 @@ https://cdn.sensa.com.ar/live/sta01/Dreamworks/live_dash_cld/Dreamworks.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=70d91b14935a3599f02e5dab71ef21dc&key%5B%5D=803e9152e9daf717b772399a97802076
 #EXTINF:-1 tvg-id="Disney Channel HD.uy" tvg-logo="https://i.supaimg.com/3c250db6-a786-4b0b-8956-2266282c4113.png?raw=true" group-title="Infantil", Disney Channel
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://joy.nx-pc.relay.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
+https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=18654944953b25a8b6392722a83db653&key%5B%5D=40bf6a9f05bbf0e06715ed5707f0edd2
@@ -2590,7 +2590,7 @@ https://1024-tbx.vrioott.com/babytv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=39673983f4ba22f0f80c0934ce0424c8&key%5B%5D=cd9f3498cb63cc72d1317b14a67ab93c
 #EXTINF:-1 tvg-id="CANAL INFANTIL" tvg-logo="https://i.supaimg.com/c32a05bc-0f6a-433f-bca6-d6dc7ba5f30a.webp" group-title="Infantil", Canal Infantil
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://joy.nx-pc.relay.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 
 #EXTINF:-1 tvg-id="el reino infantil" tvg-logo="https://i.ibb.co/cSBQ3HRK/Contenedor-Logo-ERI-Nube-White-1.webp" group-title="Infantil", El Reino Infantil
 https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
@@ -2623,7 +2623,7 @@ https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
 #EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://joy.nx-pc.relay.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
+https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
 
 #EXTINF:-1 tvg-id="X Kids TV" tvg-logo="https://i.ibb.co/Csbf7n9Z/Picsart-25-12-16-14-47-38-764.webp" group-title="Infantil", XKids TV
 https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
@@ -2634,7 +2634,7 @@ https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
 #EXTINF:-1 tvg-id="EDYE TV.mx" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
-https://nog-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d1ee410be96d200301ca31230e217fa3&key%5B%5D=4362b9affc67462f28da0b7927f63dfc
