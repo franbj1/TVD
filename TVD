@@ -2734,7 +2734,7 @@ https://latan.stonetv.com.br/cinecanal/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine + Series", Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/cinemas/tracks-v1a1/playlist.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-61.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinelatino.py" tvg-logo="https://i.postimg.cc/W4pFRzfT/1771817360929.png" group-title="Cine + Series", Cine Latino
 #EXTVLCOPT:network-caching=1000
@@ -2757,7 +2757,7 @@ https://latan.stonetv.com.br/dhe/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=eed9a193b3c6167b823030d788d771a4:d21daeba7e513d9f3ba714deeddd0630
 #EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" group-title="Cine + Series", Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/comedy-central/tracks-v1a1/playlist.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
