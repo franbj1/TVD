@@ -3335,7 +3335,7 @@ https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
 #EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
+https://cors-proxy.cooks.fyi:443/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
