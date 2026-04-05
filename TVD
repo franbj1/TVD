@@ -3220,55 +3220,55 @@ Cultura
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/jSV8hJdY/Nuevo-proyecto-10-2DC4856.png"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ANIMALPLANET.DGO.json
 #EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://i.ibb.co/tPCc96YT/Picsart-26-04-04-19-59-54-768.webp" group-title="Cultura", Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1013-tbx.vrioott.com/animalplanet/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
 #EXTINF:-1 tvg-id="Discovery HD.uy" tvg-logo="https://i.ibb.co/V0H2nBSQ/Picsart-26-04-04-19-47-01-401.webp" group-title="Cultura", Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/discovery-channel/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
 #EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.ibb.co/SDHtGcPR/Picsart-26-04-04-01-11-29-193.webp" group-title="Cultura", Discovery H&H
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYID.DGO.json
 #EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.ibb.co/0ygRZ2ns/Picsart-26-04-04-00-32-36-410.webp" group-title="Cultura", Discovery ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1077-tbx.vrioott.com/discoveryidar/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fcef63599e86bd9bd69644234020cd6:a82db4ee21e762bf6c734e71088511c0
 #EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-logo="https://i.ibb.co/ZpQD4Ywk/Picsart-26-01-30-01-44-04-154.webp" group-title="Cultura", Discovery Science
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYTHEATER.DGO.json
 #EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-logo="https://i.ibb.co/5PW6h9f/Picsart-26-04-04-00-40-14-956.webp" group-title="Cultura", Discovery Theater
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1080-tbx.vrioott.com/discoverytheater/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYWORLD.DGO.json
 #EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://i.ibb.co/S764Bc0F/Picsart-26-04-04-19-30-59-599.webp" group-title="Cultura", Discovery World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1082-tbx.vrioott.com/discoveryworld/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/DISCOVERYTURBO.DGO.json
 #EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-logo="https://i.ibb.co/3m8t2BnR/Picsart-26-04-04-00-50-52-328.webp" group-title="Cultura", Discovery Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1081-tbx.vrioott.com/discoveryturbo/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/TLC.DGO.json
 #EXTINF:-1 tvg-id="TLC HD.uy" tvg-logo="https://i.supaimg.com/e99b6e64-308e-48e6-84a4-5c7d119bc85d.png" group-title="Cultura", TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3280,7 +3280,7 @@ https://1224-tbx.vrioott.com/tlc/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|referer=https://player.sensa.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/GOURMET.DGO.json
 #EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://i.ibb.co/spdY8W6N/1775274846086.webp" group-title="Cultura", El Gourmet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3292,58 +3292,58 @@ https://1093-tbx.vrioott.com/gourmet/manifest.mpd
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/FOODNETWORK.DGO.json
 #EXTINF:-1 tvg-id="Food Network HD.uy" tvg-logo="https://i.ibb.co/0yg6YRWY/1775330651926.webp" group-title="Cultura", Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1113-tbx.vrioott.com/foodnetwork/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HGTV.DGO.json
 #EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/chRLMvHy/1775331309858.webp" group-title="Cultura", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1144-tbx.vrioott.com/hgtvlat/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
 #EXTINF:-1 tvg-id="History HD.uy" tvg-logo="https://i.ibb.co/mCR9ZzyD/Picsart-26-04-04-16-44-26-533.webp" group-title="Cultura", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/history/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HISTORY2.DGO.json
 #EXTINF:-1 tvg-id="History 2 HD.uy" tvg-logo="https://i.ibb.co/CptDH3r6/Picsart-26-04-04-16-51-45-551.webp" group-title="Cultura", History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1147-tbx.vrioott.com/historychannel2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
 #EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Cultura", Hola TV
 https://latan.stonetv.com.br/hola-tv/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f85d8282bb6fe2db8f34299d5742f02:28d49f409d718ecad8f82f477d3beb77
 #EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://i.ibb.co/Dgj10TTb/Logo-Lifetime-2020-svg.webp" group-title="Cultura", Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/Life-time/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/64384481074718.png" group-title="Cultura", Love Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/love-nature/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
 #EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://i.supaimg.com/2e93b1c0-8894-4af5-9e6f-56f36a546278.png" group-title="Cultura", National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/nat-geo/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c825ede79c7f63aa9c16844f67ee2b45&keyid%5B%5D=d1afef1b6c4f286ebfdc1dce0e174a17
 #EXTINF:-1 tvg-id="Curiosity Channel" tvg-logo="https://i.ibb.co/HLGTfdtS/Picsart-26-01-30-00-21-01-664.webp" group-title="Cultura", Curiosity Channel
 https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
@@ -3351,16 +3351,7 @@ https://zap-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
 #EXTINF:-1 tvg-id="1+1 Travel" tvg-logo="https://i.ibb.co/9mSnjJdp/Picsart-26-01-30-03-57-06-233.webp" group-title="Cultura", 1+1 Travel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CHANGE_ME]&AV_WIDTH=[CHANGE_ME]&AV_HEIGHT=[CHANGE_ME]&AV_APPNAME=[CHANGE_ME/ENCODED APP NAME]&AV_APPSTOREURL=[CHANGE_ME/ENCODED_APPSTORE URL]&AV_APPPKGNAME=[CHANGE_ME]&AV_IDFA=[CHANGE_ME]&AV_IFA_TYPE=[CHANGE_ME]&AV_CCPA=[CHANGE_ME]&AV_GDPR=[CHANGE_ME]&AV_CONSENT=[CHANGE_ME]&AV_CONTENT_URL=[CHANGE_ME]&AV_CONTENT_TITLE=[CHANGE_ME]&AV_CONTENT_EPISODE=[CHANGE_ME]&AV_CONTENT_SERIES=[CHANGE_ME]&AV_CONTENT_SEASON=[CHANGE_ME]&AV_CONTENT_KEYWORDS=[CHANGE_ME]&AV_CONTENT_NETWORK=[CHANGE_ME]&AV_CONTENT_ID=[CHANGE_ME]&AV_CONTENT_CHANNEL=[CHANGE_ME]&AV_CONTENT_CONTEXT=[CHANGE_ME]&AV_CONTENT_LENGTH=[CHANGE_ME]&AV_VAUTH=[CHANGE_ME]&AV_DNT=[CHANGE_ME]&AV_LANGUAGE=[CHANGE_ME]&AV_OSVERS=[CHANGE_ME]&AVS_SSAIID=694a811fbd6ca6259b0f9985&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=Entertainment&AV_CONTENT_CAT=IAB20&AV_CONTENT_RATING=TV-G&AV_CONTENT_SECTION=1+1 Media_1+1 Travel&content_channel_name=1plus1travel&content_livestream=1&AV_CONTENT_PROVIDER=Media ES Egyebek Ko rlatolt Felelossegu Tarsasag&app_bundle=&app_name=wedotv&app_store_url=https://wedotv.com&url=https://wedotv.com&gdpr=1&channel_name=1 + 1 Travel&content_custom_1_param=1 + 1 Travel
 
-#EXTINF:-1 tvg-id="Travel +" tvg-logo="https://i.ibb.co/HD6VTZyc/1769790434728.webp" group-title="Cultura", Travel +
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16313
-
-#EXTINF:-1 tvg-id="Free TV Saber Mas" tvg-logo="https://i.ibb.co/vxPxvSrs/1769743171730.webp" group-title="Cultura", Free TV Saber Más
-https://amg01024-amg01024c23-directtv-latam-5624.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvsabermas-directtvlatam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://i.ibb.co/qYNKj7jf/Picsart-26-01-30-13-18-52-775.webp" group-title="Cultura", Fashion TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16434
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ae7578729bde9d2f342090141103687:fb009bb37dd8fb98e2913f6b762b79e5
 #EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-logo="https://i.ibb.co/jvm8k03k/1775340923000.webp" group-title="Cultura", Sun Channel
 #EXTVLCOPT:http-user-agent=Android
