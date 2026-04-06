@@ -3209,7 +3209,7 @@ https://1077-tbx.vrioott.com/discoveryidar/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2fcef63599e86bd9bd69644234020cd6&key%5B%5D=a82db4ee21e762bf6c734e71088511c0
 #EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-logo="https://i.ibb.co/LzdqvYXN/Picsart-26-04-05-01-58-42-340.webp" group-title="Cultura", Discovery Science
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd?|referer=https://player.sensa.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
