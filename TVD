@@ -1070,7 +1070,13 @@ https://zap-live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="TV México", Cinemax MX
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd 
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Cinema.mx" tvg-logo="https://i.ibb.co/tyJwk5S/Picsart-26-03-02-17-43-25-826.webp" group-title="TV México", Cinema
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=082e524a6a7b2d7139c7639caa0123f0&keyid%5B%5D=bfdf6a9cdd5d702753de59b79627848d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/nu8ejtgtm2/out/v1/e1cd165fdbd64f53a845447d6ea7f993/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a61b7a7912064acc62a06a6ae22ac5c:5bfb374d644703550f0637532bca0491
@@ -2661,17 +2667,6 @@ https://latan.stonetv.com.br/cinecanal/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine + Series", Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-61.playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinelatino.py" tvg-logo="https://i.postimg.cc/W4pFRzfT/1771817360929.png" group-title="Cine + Series", Cine Latino
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://181.78.211.244:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinema.mx" tvg-logo="https://i.ibb.co/tyJwk5S/Picsart-26-03-02-17-43-25-826.webp" group-title="Cine + Series", Cinema
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=082e524a6a7b2d7139c7639caa0123f0&keyid%5B%5D=bfdf6a9cdd5d702753de59b79627848d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/nu8ejtgtm2/out/v1/e1cd165fdbd64f53a845447d6ea7f993/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
