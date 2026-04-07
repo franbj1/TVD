@@ -2681,20 +2681,10 @@ https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
-#EXTINF:-1 tvg-id="De Pelicula.ar" tvg-logo="https://i.ibb.co/QFkxB7yt/Picsart-26-02-21-13-43-38-230.webp" group-title="Cine + Series", De Pelicula
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
-#EXTINF:-1 tvg-id="De Pelicula Plus.mx" tvg-logo="https://i.ibb.co/FkmYB8Sb/Picsart-26-02-21-16-08-32-760.webp" group-title="Cine + Series", De Pelicula Plus
-https://nog-live1-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NT6BcZR/Picsart-26-02-21-16-00-13-941.webp" group-title="Cine + Series", De Pelicula Clasico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/2625
+#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
+#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
@@ -2709,9 +2699,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A_wl/Sony_Mov
 
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Todo Cine" tvg-logo="https://i.ibb.co/tMC4qrzG/1772438939484.webp" group-title="Cine + Series", Todo Cine
-https://live-manifest.production-public.tubi.io/live/d45a25a1-b1f2-42cc-81c8-5315806420d8/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
@@ -2730,12 +2717,6 @@ https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-logo="https://i.ibb.co/DgjGtqdX/Picsart-25-10-27-19-42-46-875.webp" group-title="Cine + Series", Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1196-tbx.vrioott.com/starchannelarg/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
-#EXTVLCOPT:http-user-agent="Android
-https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
@@ -2766,6 +2747,22 @@ https://latan.stonetv.com.br/warner/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.postimg.cc/MT05z3h1/Picsart-26-03-21-17-06-53-262.png" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/space/tracks-v1a1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
+#EXTINF:-1 tvg-id="De Pelicula.ar" tvg-logo="https://i.ibb.co/QFkxB7yt/Picsart-26-02-21-13-43-38-230.webp" group-title="Cine + Series", De Pelicula
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
+#EXTINF:-1 tvg-id="De Pelicula Plus.mx" tvg-logo="https://i.ibb.co/FkmYB8Sb/Picsart-26-02-21-16-08-32-760.webp" group-title="Cine + Series", De Pelicula Plus
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NT6BcZR/Picsart-26-02-21-16-00-13-941.webp" group-title="Cine + Series", De Pelicula Clasico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/2625
 
 #EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multipremier
 #EXTVLCOPT:network-caching=1000
