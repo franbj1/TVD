@@ -860,7 +860,7 @@ TV México
 #EXTINF:-1 group-logo="https://i.ibb.co/KpNwcXYD/Picsart-26-01-09-20-33-45-551.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f
+#KODIPROP:inputstream.adaptive.license_key=c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0
 #EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/xSCdHv2R/Picsart-25-11-07-16-08-09-052.webp" group-title="TV México", Azteca 7
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/dash/AZTECA-7-HD.mpd
@@ -878,7 +878,7 @@ https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/LAS-ESTRELLAS-RDF-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0455c3df25bf8568cda913c0a5c9f628&key=19a25f53ae494b654d4ce4950e1e979c
+#KODIPROP:inputstream.adaptive.license_key=0455c3df25bf8568cda913c0a5c9f628:19a25f53ae494b654d4ce4950e1e979c
 #EXTINF:-1 tvg-id="Las Estrellas 1HORA.mx" tvg-logo="https://i.ibb.co/MyN3qRbM/Picsart-26-03-29-03-40-19-907.webp" group-title="TV México", Las Estrellas 1 Horas
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://zap-live2-ott.izzigo.tv/4/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
@@ -935,29 +935,29 @@ http://cors.tundracast.com:2000/https://streaming-live-fcdn.api.prd.univisionnow
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96ce45fa9e1b72ef49b8f5784b21a001:bf9797535e629804cf48f8b6530582c1
 #EXTINF:-1 tvg-id="Canal 6.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1144px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV México", Canal 6
-https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/MULTIMEDIOS-RDF-HD/default.mpd
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MULTIMEDIOS-RDF-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44cc7d4a31a3e696d35f6b6ed0561be1:57e157bcfd59651e649911f513965680
 #EXTINF:-1 tvg-id="SEIS +.mx" tvg-logo="https://i.postimg.cc/C14YvVk9/canal-6-plus.png" group-title="TV México", Canal 6 +
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/CANAL-6-PLUS-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/CANAL-6-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bb910a4217a1af19b803e7f120796f9:8d3d83fadfc769674b9c7102109fc466
 #EXTINF:-1 tvg-id="NUEVE.mx" tvg-logo="https://i.ibb.co/q3wwtTZ7/Picsart-25-11-05-03-10-41-488.webp" group-title="TV México", NU9VE
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/11/out/u/dash/CANAL-9-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/CANAL-9-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c70b0d54f58f6dd4e2046bf64084773a:00a3aee5319f20ddfe288240697f559e
 #EXTINF:-1 tvg-id="CANAL 11.mx" tvg-logo="https://i.ibb.co/CXFjZGs/Picsart-25-11-05-03-11-33-010.webp" group-title="TV México", Canal Once
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/11/out/u/dash/ONCE-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/ONCE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d07062d0e56220efe394a1640f586162:b9457744e76306cfdbf58a886b45c1d7
 #EXTINF:-1 tvg-id="CANAL CATORCE.mx" tvg-logo="https://i.ibb.co/rGJ9F5Vn/Canal-Catorce2020.webp" group-title="TV México", Canal 14
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/CANAL-14-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/CANAL-14-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd02aab23d7af5a543381c7108de535e:2573aca79c477f674a5bbc22ad735c7b
@@ -967,51 +967,51 @@ https://nog-live1-ott.izzigo.tv/12/out/u/dash/CANAL-22-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63f768ba20535fdc9716a6419724ff9f:f54e09a043130b1412beb558b4494118
 #EXTINF:-1 tvg-id="ONCE NIÑOS.mx" tvg-logo="https://i.postimg.cc/qM8BF1D9/once-ninas-y-ninos.png" group-title="TV México", Once Niñas & Niños
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=685296908106c98b843ec0ecab5e53bd:feda5f6bdf622bf52e3991cfcf47f842
 #EXTINF:-1 tvg-id="APRENDE+.mx" tvg-logo="https://i.postimg.cc/rm2FnJbR/aprende-mas.png" group-title="TV México", Aprende +
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/APRENDE-MAS-SD/default.mpd
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/APRENDE-MAS-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74fcb59a5c38a6ee59a13aa32585eb02:483a204a347bc45bc3f3ab27874bc564
 #EXTINF:-1 tvg-id="EL HERALDO.mx" tvg-logo="https://i.postimg.cc/nzvqr4cg/heraldo-television.png" group-title="TV México", Heraldo Televisión
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/12/out/u/dash/HERALDO-TV-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/HERALDO-TV-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef2bd499aa32fa45be33013d6b035abc:1f0d60ad49ef43bbb03b392e05a37200
 #EXTINF:-1 tvg-id="TV UNAM.mx" tvg-logo="https://i.ibb.co/DDh6kVgF/Picsart-25-11-13-17-33-49-057.webp" group-title="TV México", TV Unam
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/TV-UNAM-SD/default.mpd
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/TV-UNAM-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7399e4ec95e1fd86b61da263476c34:06c2a7b4d56dabbf050d51f451dd72ba
 #EXTINF:-1 tvg-id="MX NUESTRO CINE.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MX_Nuestro_Cine_2022~.png/revision/latest/scale-to-width-down/200?cb=20250512015312" group-title="TV México", MX Nuestro Cine
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=024bb38ecf7831a54d6ff8eb9d9c5e6a:031599eff8092a9a9428363fb4356d53
 #EXTINF:-1 tvg-id="Telefe HD.uy" tvg-logo="https://i.ibb.co/PGcswc0w/Picsart-26-02-21-16-31-19-487.webp" group-title="TV México", Telefe Internacional
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/11/out/u/dash/TELEFE-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/TELEFE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e93bd99b1b0550ca60a1516f0c2ded:06835565e588e72d6c60512dff9e24e6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YqwxfyH/Picsart-26-02-20-19-47-05-413.webp" group-title="TV México", Quiero TV
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/QUIERO-TV-SD/default.mpd
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/QUIERO-TV-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=190e0dedd5c1ed7f5f76515d5f72058a:8e09da444ee448c2a85b8cd24c2eebe0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LyfhWn/imagentv.png" group-title="TV México", Imagen TV
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/IMAGEN-TV-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/IMAGEN-TV-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=30a744a8c9c6fa00f9f05c83c27e4b4d:402d81ac9059cfdeb119b452bafb8882
 #EXTINF:-1 tvg-id="Excelsior TV.mx" tvg-logo="https://i.ibb.co/4RBvVpt5/Picsart-26-02-20-20-09-11-325.webp" group-title="TV México", Excelsior TV
-https://zap-live1-ott.izzigo.tv/11/out/u/dash/EXCELSIOR-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/EXCELSIOR-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="TV México", MAUSSAN TV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
@@ -1022,18 +1022,18 @@ https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a154c749417e9045df2b3dd974e0d9:08d84cb2d8bd21b28b765d4a187f9e13
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC3KW4c5/Picsart-26-02-20-20-01-21-547.webp" group-title="TV México", CV Shopping
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/CV-SHOPPING-SD/default.mpd
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/CV-SHOPPING-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
 #EXTINF:-1 tvg-id="ESPN 2.mx" tvg-logo="https://i.ibb.co/S7RNG6JL/Picsart-25-10-19-02-29-52-278.webp" group-title="TV México", ESPN MX
-https://zap-live1-ott.izzigo.tv/8/out/u/dash/ESPN-HD-H265/default.mpd
+https://nog-live1-ott.izzigo.tv/8/out/u/dash/ESPN-HD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://i.ibb.co/chDGcCJM/Picsart-25-10-19-02-30-58-762.webp" group-title="TV México", ESPN 2 MX
-https://zap-live1-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=68693fb66dc31ca864d854cd176c44c6&keyid%5B%5D=dc3c1a083eae593631b5b5019e2efb78
@@ -1048,29 +1048,29 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="TV México", AXN MX
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="TV México", AMC MX
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="TV México", AMC Series MX #KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
-https://zap-live2-ott.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
+https://nog-live2-ott.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="TV México", Cinecanal MX
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd 
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="TV México", Cinemax MX
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
 
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-logo="https://i.ibb.co/tyJwk5S/Picsart-26-03-02-17-43-25-826.webp" group-title="TV México", Cinema
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
@@ -1102,7 +1102,7 @@ https://zap-live1-ott.izzigo.tv/6/out/u/dash/SONY-MOVIES-HD-H265/default.mpd
 #EXTINF:-1 tvg-id="STAR CHANNEL.mx" tvg-logo="https://i.ibb.co/1Y7g6kJS/Picsart-26-03-22-23-38-00-654.webp" group-title="TV México", Star Channel MX
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b482bd74b9fccb810bf94a3b3732c0f9:9207af2617ac4df3ee6860719a53eb8b
-https://zap-live1-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="TV México", FX MX
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
