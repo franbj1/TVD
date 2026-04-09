@@ -1877,6 +1877,9 @@ https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/index.m3u8?admin
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/7dW0LJDq/descarga.webp" group-title="TV Paraguay", Estación 40
+https://localhost.apppelis.es/solplay/15.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=aed06fd292d278aa464da44752b9c313&keyid%5B%5D=46c3d8c42bb9799e5de5792e3fb45de4
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
