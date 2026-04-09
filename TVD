@@ -2784,8 +2784,8 @@ https://1196-tbx.vrioott.com/starchannelarg/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
 #EXTINF:-1 tvg-id="TNT Series HD.uy" tvg-logo="https://i.ibb.co/r2NRvFFR/TNT-Series-2025-svg.webp" group-title="Cine + Series", TNT Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/tnt-series/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
@@ -2796,14 +2796,14 @@ https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8?|https://cablevi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.postimg.cc/rp66782P/Warner-TV-logo-svg.png" group-title="Cine + Series", Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/warner/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.postimg.cc/MT05z3h1/Picsart-26-03-21-17-06-53-262.png" group-title="Cine + Series", Space
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/space/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
 #EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", Multicinema
 #EXTVLCOPT:network-caching=1000
