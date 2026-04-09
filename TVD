@@ -45,7 +45,7 @@ https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1d7d1609477d0b0d51a5b7d1539e65eb&key%5B%5D=90b61b3fa577eab7b53ef6f1caeb82bf
 #EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/kVN5KV6w/Picsart-26-03-30-09-17-16-870.webp" group-title="Nacional", Bravo TV
 #EXTVLCOPT:http-user-agent="Android
-https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2602082488691fc3758469b
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
