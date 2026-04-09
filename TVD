@@ -1095,6 +1095,22 @@ https://nog-live2-ott.izzigo.tv/12/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://nog-live2-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
+#EXTINF:-1 tvg-id="De Pelicula.ar" tvg-logo="https://i.ibb.co/QFkxB7yt/Picsart-26-02-21-13-43-38-230.webp" group-title="TV México", De Pelicula
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
+#EXTINF:-1 tvg-id="De Pelicula Plus.mx" tvg-logo="https://i.ibb.co/FkmYB8Sb/Picsart-26-02-21-16-08-32-760.webp" group-title="TV México", De Pelicula Plus
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NT6BcZR/Picsart-26-02-21-16-00-13-941.webp" group-title="TV México", De Pelicula Clasico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/2625
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NR743x6/Picsart-26-03-22-23-28-55-261.webp" group-title="TV México", Sony Channel MX
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
@@ -2783,22 +2799,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A_wl/Sony_Mov
 
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
-#EXTINF:-1 tvg-id="De Pelicula.ar" tvg-logo="https://i.ibb.co/QFkxB7yt/Picsart-26-02-21-13-43-38-230.webp" group-title="Cine + Series", De Pelicula
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
-#EXTINF:-1 tvg-id="De Pelicula Plus.mx" tvg-logo="https://i.ibb.co/FkmYB8Sb/Picsart-26-02-21-16-08-32-760.webp" group-title="Cine + Series", De Pelicula Plus
-https://nog-live1-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NT6BcZR/Picsart-26-02-21-16-00-13-941.webp" group-title="Cine + Series", De Pelicula Clasico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://stkip.ddns.me:2082/IreneTello/sHfy5gWfDWFw/2625
 
 #EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multipremier
 #EXTVLCOPT:network-caching=1000
