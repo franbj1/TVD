@@ -2732,6 +2732,11 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playl
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
+#EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multipremier
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="android
+https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
@@ -2749,6 +2754,14 @@ https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony HD.uy" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/sony/tracks-v1a1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://i.ibb.co/1JB4mHF3/msf-43097-converted-To-Png.webp" group-title="Cine + Series", Sony Movies
+https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A_wl/Sony_Movies.mpd
+
+#EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
@@ -2792,19 +2805,6 @@ https://latan.stonetv.com.br/warner/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/space/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
-#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://i.ibb.co/1JB4mHF3/msf-43097-converted-To-Png.webp" group-title="Cine + Series", Sony Movies
-https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A_wl/Sony_Movies.mpd
-
-#EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multipremier
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="android
-https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
-
 #EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", Multicinema
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="android
@@ -2840,23 +2840,6 @@ https://latan.stonetv.com.br/cine-premium/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 http://liketv.pro:80/User1626/28TM4MEU66/37.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=300b58dfdaf35e8537ce25c39e99aec7&key%5B%5D=6fc107a6f62f39da27b36ff079d7f937
-#EXTINF:-1 tvg-id="Star.es" tvg-logo="https://i.postimg.cc/fRPKMBNw/image-64177-converted-To-Png.png" group-title="Cine + Series", Star
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyTL64r/Picsart-26-03-20-18-02-34-821.png" group-title="Cine + Series", A3Cine
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/39C8VR5c/Picsart-25-10-27-16-43-19-808.webp" group-title="Cine + Series", A3Series
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
-
 #EXTINF:-1 tvg-id="EUROCHANNEL" tvg-logo="https://i.ibb.co/Wp3xqqCy/EURO-LOGO-FINALE.webp" group-title="Cine + Series", Euro Channel
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2876,6 +2859,23 @@ https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?|r
 #EXTINF:-1 tvg-id="AandE HD.uy" tvg-logo="https://i.postimg.cc/SKTTjH5b/image-64125-converted-To-Png.png" group-title="Cine + Series", A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71.playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=300b58dfdaf35e8537ce25c39e99aec7&key%5B%5D=6fc107a6f62f39da27b36ff079d7f937
+#EXTINF:-1 tvg-id="Star.es" tvg-logo="https://i.postimg.cc/fRPKMBNw/image-64177-converted-To-Png.png" group-title="Cine + Series", Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyTL64r/Picsart-26-03-20-18-02-34-821.png" group-title="Cine + Series", A3 Cine
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39C8VR5c/Picsart-25-10-27-16-43-19-808.webp" group-title="Cine + Series", A3 Series
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
 
 HBO + Universal
 
