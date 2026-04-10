@@ -30,7 +30,8 @@ https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rGBckKdL/Picsart-26-03-31-20-23-22-575.webp" group-title="Nacional", Telefe Satelital
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/rGBckKdL/Picsart-26-03-31-20-23-22-575.webp" group-title="Nacional", Telefe Internacional
+https://latan.stonetv.com.br/telefe/tracks-v1a1/playlist.m3u8
 https://localhost.apppelis.es/solplay/149.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
