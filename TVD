@@ -2803,7 +2803,7 @@ https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8?|https://cablevi
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.postimg.cc/rp66782P/Warner-TV-logo-svg.png" group-title="Cine + Series", Warner TV
+#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/23Y1GwxQ/Picsart-26-04-10-07-24-21-418.webp" group-title="Cine + Series", Warner TV
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
