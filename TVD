@@ -29,22 +29,22 @@ http://107.152.39.199:8030/hls/canal23.m3u8
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
+#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc0abcc84ec380cfc192b96d32abad23&key%5B%5D=9b7825385b89ff82d01909a4ae404877
 #EXTINF:-1 tvg-id="Telefe Internacional.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="Nacional", Telefe Internacional
 #EXTVLCOPT:http-user-agent=Android
 https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1OTI0NTk5Iiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9WaWFqYXIvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjYWYxZWY0NmVkZTFmYjg5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzE2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.OzjZpk3T6Quv-SmEG_nsOp076f1vIN4Ods74Sh1mZxqbRcRdTY31Xt1vgC6vz_uBDj8CDSCDVVR_m-W-iPsA7Q==/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5bd469f8bf268d5d148c3971c7c23fca&key%5B%5D=9af98080d22846fdf2988b8ba9ec4add
 #EXTINF:-1 tvg-id="El Trece Internacional.uy" tvg-logo="https://i.ibb.co/08VhhYb/Picsart-26-04-10-04-15-23-871.webp" group-title="Nacional", El Trece Internacional
 #EXTVLCOPT:http-user-agent="Android
 https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1OTI0NTk5Iiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9WaWFqYXIvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjYWYxZWY0NmVkZTFmYjg5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzE2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.OzjZpk3T6Quv-SmEG_nsOp076f1vIN4Ods74Sh1mZxqbRcRdTY31Xt1vgC6vz_uBDj8CDSCDVVR_m-W-iPsA7Q==/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
-#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
-#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c3db691c7e4520b7b2dc822ab905545a&key%5B%5D=ee2a1ebe6fcc2ef3b01943cdd9256cc6
