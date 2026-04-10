@@ -3220,7 +3220,7 @@ https://1147-tbx.vrioott.com/historychannel2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
-#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo=https://i.ibb.co/rKprq6tT/Picsart-26-04-10-08-22-04-274.webp" group-title="Cultura", Love Nature en Español
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://i.postimg.cc/65L78qS8/Picsart-26-04-10-08-22-04-274.png" group-title="Cultura", Love Nature en Español
 #EXTVLCOPT:http-user-agent=Android
 https://cors-proxy.cooks.fyi:443/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
