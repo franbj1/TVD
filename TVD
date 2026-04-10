@@ -3113,7 +3113,7 @@ https://joy.nx-pc.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
-#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.ibb.co/SDHtGcPR/Picsart-26-04-04-01-11-29-193.webp" group-title="Cultura", Discovery H&H
+#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://i.ibb.co/SDHtGcPR/Picsart-26-04-04-01-11-29-193.webp" group-title="Cultura", Discovery home & health
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
 
@@ -3180,7 +3180,7 @@ https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
-#EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://i.supaimg.com/08790f2a-2922-4d8c-9fdd-82e89d39cac0.png" group-title="Cultura", (É) Entertaiment
+#EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://i.supaimg.com/08790f2a-2922-4d8c-9fdd-82e89d39cac0.png" group-title="Cultura", Entertaiment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14.playlist.m3u8
 
@@ -3220,7 +3220,7 @@ https://1147-tbx.vrioott.com/historychannel2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
-#EXTINF:-1 tvg-id="Love Nature en Español" tvg-logo="https://i.ibb.co/1tRFXGc9/1769744187638.webp" group-title="Cultura", Love Nature en Español
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo=https://i.ibb.co/rKprq6tT/Picsart-26-04-10-08-22-04-274.webp" group-title="Cultura", Love Nature en Español
 #EXTVLCOPT:http-user-agent=Android
 https://cors-proxy.cooks.fyi:443/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
