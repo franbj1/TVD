@@ -3700,22 +3700,22 @@ Religión
 
 #EXTINF:-1 group-logo="https://i.ibb.co/KcBT8Qz5/Picsart-25-10-26-19-27-16-818.webp"
 
-#EXTINF:-1 tvg-id="351#Canal21 (ARG)" tvg-logo="https://i.ibb.co/zhT7rS0N/Picsart-25-11-24-03-54-16-946.webp" group-title="Religión", Orbe 21
+#EXTINF:-1 tvg-id="Canal Orbe 21.ar" tvg-logo="https://i.ibb.co/Jjyg03gJ/Picsart-26-04-11-05-14-59-454.webp" group-title="Religión", Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
-#EXTINF:-1 tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="Religión", Canal Luz
+#EXTINF:-1 tvg-id="Canal Luz.ar" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="Religión", Canal Luz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
-#EXTINF:-1 tvg-id="350#Eternal Word TV Network" tvg-logo="https://i.ibb.co/s9MrdkmL/Picsart-25-11-23-12-57-58-788.webp" group-title="Religión", EWTN
+#EXTINF:-1 tvg-id="EWTN.ar" tvg-logo="https://i.ibb.co/8DxcwCm5/Picsart-26-04-11-05-42-49-216.webp" group-title="Religión", EWTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="Daystar" tvg-logo="https://i.ibb.co/PGSDz169/Picsart-26-02-16-13-09-42-306.webp" group-title="Religión", Daystar Español
+#EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/PGSDz169/Picsart-26-02-16-13-09-42-306.webp" group-title="Religión", Daystar Español✮
 https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID
@@ -3735,13 +3735,13 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKjCJPGZ/Picsart-25-08-11-12-09-07-438.webp" group-title="Religión", Santa Marí­a
 https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_cenc/Senal_Maria.mpd
 
-#EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN2 Latino
+#EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN2 Latino⛧
 https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 
-#EXTINF:-1 tvg-id="Brightstar Latino" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino
+#EXTINF:-1 tvg-id="Conexion Educativa.ar" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino🕊️
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 
-#EXTINF:-1 tvg-id="TBN Español" tvg-logo="https://i.ibb.co/3Yrywvvd/Picsart-25-11-24-06-39-08-830.webp" group-title="Religión", TBN Español
+#EXTINF:-1 tvg-id="TBN Español" tvg-logo="https://i.ibb.co/PZP68cjC/Picsart-26-04-11-04-52-21-200.webp" group-title="Religión", ♕ TBN Español
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksSkt9ch/Picsart-25-11-23-13-18-29-655.webp" group-title="Religión", Shalom World
@@ -3778,7 +3778,7 @@ https://stream.live.novotempo.com/tv/tvnuevotiempo.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd2fsRbs/Picsart-25-11-24-02-19-59-162.webp" group-title="Religión", Esperanza TV
 https://jstre.am/live/jsl:umb9869epxt.m3u8
 
-#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
+#EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dBGq0NC/Picsart-25-11-24-02-59-05-210.webp" group-title="Religión", Cristiana TV
