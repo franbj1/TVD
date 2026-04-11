@@ -2089,7 +2089,7 @@ https://cdn-live.mundogo.cl/antena3/antena3.mpd
 https://1021-tbx.vrioott.com/aztecaclic/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e35
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e356ecaae6cf
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Azteca Internacional
 https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
 
