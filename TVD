@@ -3221,7 +3221,7 @@ https://1147-tbx.vrioott.com/historychannel2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
-#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/64384481074718.png" group-title="Cultura", Love Nature
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="https://i.ibb.co/BKKCDLG3/Picsart-26-04-10-21-08-45-126.webp" group-title="Cultura", Love Nature
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 
