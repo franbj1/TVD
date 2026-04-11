@@ -3164,7 +3164,7 @@ https://1224-tbx.vrioott.com/tlc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HGTV.DGO.json
-#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/Kj5mZKHP/Picsart-26-04-05-14-44-40-937.webp" group-title="Cultura", HGTV
+#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/Kj5mZKHP/Picsart-26-04-05-14-44-40-937.webp" group-title="Cultura", ▲HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1144-tbx.vrioott.com/hgtvlat/manifest.mpd
 
