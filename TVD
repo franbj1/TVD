@@ -3721,19 +3721,14 @@ https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID
 https://dmuabtojs7ukn.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/Televid/out/v1/a5bab151f56e431b920e0f2d8d935a5a/index.mpd
 
-#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.ibb.co/VYRsqstw/Picsart-26-02-19-04-27-44-878.webp" group-title="Religión", Dios TV
-https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
-#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.ibb.co/sJgtG6yK/Picsart-25-08-17-02-13-43-260.webp" group-title="Religión", Radio María TV
+#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.ibb.co/sJgtG6yK/Picsart-25-08-17-02-13-43-260.webp" group-title="Religión", Radio María
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKjCJPGZ/Picsart-25-08-11-12-09-07-438.webp" group-title="Religión", Santa Marí­a
-https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_cenc/Senal_Maria.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKjCJPGZ/Picsart-25-08-11-12-09-07-438.webp" group-title="Religión", Santa Marí­a TV
+http://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN2 Latino⛧
 https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
@@ -3758,6 +3753,9 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzjsXvp9/Picsart-25-11-24-02-27-25-767.webp" group-title="Religión", Cristo visión ✞
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.ibb.co/VYRsqstw/Picsart-26-02-19-04-27-44-878.webp" group-title="Religión", Dios TV
+https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xq5fsqZp/Picsart-25-11-24-04-06-07-762.webp" group-title="Religión", Alma Visión
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cdccfdc52ff8ba3/playlist.m3u8
