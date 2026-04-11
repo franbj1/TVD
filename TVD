@@ -2787,7 +2787,7 @@ https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
-#EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://i.ibb.co/5xJ1hmS9/Picsart-25-10-27-14-45-59-630.webp" group-title="Cine + Series", Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://i.ibb.co/KprSJ32k/Picsart-26-04-11-01-28-15-765.webp" group-title="Cine + Series", Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 
