@@ -3930,15 +3930,17 @@ https://chromecast.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mp
 #EXTINF:-1 tvg-id="RAI Italia HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/800/542/0/0/668028540729.png" group-title="Mundo", RAI Italia
 https://1184-tbx.vrioott.com/rai/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title="Mundo", Telemundo Internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
-https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
+https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_cenc/Telemundo_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0b773a5fcc763d52bad98824f33c69aa&key%5B%5D=dfe56f9c478cc8f43c1a1d0ef90d3728
