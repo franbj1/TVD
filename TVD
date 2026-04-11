@@ -3803,15 +3803,19 @@ Mundo
 
 #EXTINF:-1 group-logo="https://i.ibb.co/W4sRPKW3/Picsart-25-08-30-14-51-05-406.webp"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
-#EXTINF:-1 tvg-id="CNN Español.uy" tvg-logo="https://i.supaimg.com/02080231-7618-4a3f-8e8b-ca2361efc0f2.png?raw=true" group-title="Mundo", CNN En Español
-https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
+#EXTINF:-1 tvg-id="CNN Español.uy" tvg-logo="https://i.supaimg.com/02080231-7618-4a3f-8e8b-ca2361efc0f2.png?raw=true" group-title="Mundo", CNN en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f24708ad1184ee3a04b650941f9894b:e5bc7c5ff392119423dbf1c023a7b21c
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
 #EXTINF:-1 tvg-id="CNN Internacional.uy" tvg-logo="https://i.supaimg.com/d8dafaa8-105e-4997-99d9-6d28d77819dd.png?raw=true" group-title="Mundo", CNN Internacional
-https://chromecast.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc_wl/CNN_Internacional.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
@@ -3826,7 +3830,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=11d6e9a2abb2e241804148713531f64d&keyid%5B%5D=52e6281b1d3c364c872497e8058977b1
 #EXTINF:-1 tvg-id="BBC WORLD NEWS.ar" tvg-logo="https://i.supaimg.com/c3b74138-0f2d-4a70-80c8-611b20260fe9.png?raw=true" group-title="Mundo", BBC News
-https://zap-live4-ott.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd
+https://nog-live4-ott.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=33a700e326c993c2392c1d7c5b4ea10b&keyid%5B%5D=aa5577cccdf3569a848257bb431379af
@@ -3835,6 +3839,20 @@ https://1025-tbx.vrioott.com/bloomberglat/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/75aa1eb4-2ed0-4666-bbb7-d98eae21c06a.png?raw=true" group-title="Mundo", RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
+#EXTINF:-1 tvg-id="Deustche Welle.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/493/CH_LOGO/800/542/0/0/854020000716.png" group-title="Mundo", Deutsche Welle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
+#EXTINF:-1 group-title="Mundo" tvg-id="France 24 en Español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/800/542/0/0/85662193074124.png", France24 Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/295a5c7a-d647-4c0c-9dd4-7ec4da527877.png?raw=true" group-title="Mundo",  Lefigaro
 https://static.lefigaro.fr/secom/tnt.m3u8
@@ -3906,26 +3924,6 @@ https://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandei
 #KODIPROP:inputstream.adaptive.license_key=436d78a75fad9bdcc6d409640c116a62:c77471ac3b694513a9c5ff68b8d4fac5
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/4058dd82-130e-45f3-9507-b3b04d315e1c.png?raw=true" group-title="Mundo", Arirang
 https://chromecast.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
-#EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/800/542/0/0/439650900762.png" group-title="Mundo", CNN En Español
-https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
-#EXTINF:-1 tvg-id="CNN Internacional.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/800/542/0/0/120048070713.png" group-title="Mundo", CNN Internacional
-https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
-#EXTINF:-1 tvg-id="Deustche Welle.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/493/CH_LOGO/800/542/0/0/854020000716.png" group-title="Mundo", Deutsche Welle
-https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
-#EXTINF:-1 group-title="Mundo" tvg-id="France 24 en Español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/800/542/0/0/85662193074124.png", France24 Español
-https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=300f9ac115bf3eba0b7c7478d3a2b939&keyid%5B%5D=83393dbe57ce55a882f65a3b3a8493be
