@@ -1529,6 +1529,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Pequetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="X Kids TV" tvg-logo="https://i.ibb.co/Csbf7n9Z/Picsart-25-12-16-14-47-38-764.webp" group-title="TV Peru", XKids TV
+https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
+
+#EXTINF:-1 tvg-id="DM Kids TV" tvg-logo="https://i.ibb.co/ZzsvCtL0/Picsart-26-01-20-15-34-50-621.webp" group-title="TV Peru", DM Kids TV
+https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Creo.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Creo TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creo_tv.stream/playlist.m3u8
@@ -2628,12 +2634,6 @@ https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 #EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
-
-#EXTINF:-1 tvg-id="X Kids TV" tvg-logo="https://i.ibb.co/Csbf7n9Z/Picsart-25-12-16-14-47-38-764.webp" group-title="Infantil", XKids TV
-https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
-
-#EXTINF:-1 tvg-id="DM Kids TV" tvg-logo="https://i.ibb.co/ZzsvCtL0/Picsart-26-01-20-15-34-50-621.webp" group-title="Infantil", DM Kids TV
-https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
