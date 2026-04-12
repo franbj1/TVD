@@ -830,6 +830,9 @@ http://liketv.pro:80/User1626/28TM4MEU66/29.m3u8
 #EXTINF:-1 tvg-id="Canal Telerama (Ecuador).ec" tvg-logo="https://i.ibb.co/JwTCLxKS/Picsart-26-03-26-03-50-22-503.webp" group-title="TV Ecuador", Telerama
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 
+#EXTINF:-1 tvg-id="Telemar.ec" tvg-logo="https://i.ibb.co/bgcjHcX1/Picsart-26-04-12-16-13-36-887.webp" group-title="TV Ecuador", Telemar
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 
