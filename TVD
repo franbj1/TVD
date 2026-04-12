@@ -2789,7 +2789,7 @@ https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/STARCHANNEL.DGO.json
-#EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-logo="https://i.ibb.co/DgjGtqdX/Picsart-25-10-27-19-42-46-875.webp" group-title="Cine + Series", Star Channel
+#EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-logo="https://i.ibb.co/DgjGtqdX/Picsart-25-10-27-19-42-46-875.webp" group-title="Cine + Series", St☆r Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1196-tbx.vrioott.com/starchannelarg/manifest.mpd
 
