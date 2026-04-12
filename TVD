@@ -2573,7 +2573,7 @@ https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=320e1cb23cf15aa8f41a9edd52baa655&key%5B%5D=63c5e57ae2a2bc7dab3c67cac1a6c956
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
-https://zap-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
+https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/BABYTV.DGO.json
@@ -2629,7 +2629,7 @@ https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
 #EXTINF:-1 tvg-id="EDYE TV.mx" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
-https://zap-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
+https://aca-ive1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6c9b3103cd519fcad556e84f918998cd&keyid%5B%5D=391ad12844fdb7c127e2c7ba23582b3b
@@ -2651,16 +2651,10 @@ https://livecdn.enlace.plus/planetacreacion/smil:planetacreacion-hd.smil/playlis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
 #EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan
-https://zap-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
+https://aca-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.ibb.co/4wyRSRTj/Picsart-26-01-19-14-16-14-362.webp" group-title="Infantil", Clan España
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a5171bcd3217190b928c&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB9&AV_CONTENT_RATING=TP&AV_CLIENT_SECTION=RTVE_clan&content_channel_name=Clan&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/bcb99dff-0630-41c9-b067-0a8387d7e18e.png?raw=true" group-title="Infantil", Zaz TV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Add commentMore actions
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv1/zaztv.m3u8
 
 #EXTINF:-1 tvg-id="Pequeradio TV.es" tvg-logo="https://i.supaimg.com/8a47edbb-20d9-4306-bf8e-61bb2d5e2ba5.png?raw=true" group-title="Infantil", Pequeradio TV
 #EXTVLCOPT:network-caching=1500
@@ -2683,19 +2677,8 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://i.ibb.co/3ybXtKfp/Picsart-26-02-06-01-20-59-421.webp" group-title="Infantil", FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moji TV" tvg-logo="https://i.ibb.co/tSbqcLv/3p-logo-CB407053275.webp" group-title="Infantil", Moji TV
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452
-
-#EXTINF:-1 tvg-id="Moni TV" tvg-logo="https://i.ibb.co/3XDJw6f/Picsart-26-02-06-01-33-03-875.webp" group-title="Infantil", Moni TV
-http://190.102.242.130:25461/monitvpo/monitvpo/1
-
 #EXTINF:-1 tvg-id="Dios Kids" tvg-logo="https://i.ibb.co/YTcwKzhK/Picsart-26-02-06-01-38-06-485.webp" group-title="Infantil", Dios TeVe Kids
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=89d433166edd31d56df2a59df8ec6704&key%5B%5D=b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/h19whTxj/Picsart-26-03-24-18-36-53-349.webp" group-title="Infantil", Laika Channel
-https://mitv.zplay.cl/LaikaTV/index.m3u8
 
 Cine + Series
 
