@@ -1911,7 +1911,7 @@ https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/index.m3u8?admin
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/7dW0LJDq/descarga.webp" group-title="TV Paraguay", Estación 40
-https://localhost.apppelis.es/solplay/15.mpd
+https://rds3tf.desdeparaguay.net/e40tv/e40tv_alta/playlist.m3u8?k=e73252a894cdd249df55ef31119405b9af6c50440880975b6b90a3fcd094801c&exp=1775958265
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=aed06fd292d278aa464da44752b9c313&keyid%5B%5D=46c3d8c42bb9799e5de5792e3fb45de4
