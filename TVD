@@ -2571,6 +2571,12 @@ https://1175-tbx.vrioott.com/nickelodeon/manifest.mpd
 https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=847544a11f7c1cf983f1ac8f08bdba14&keyid%5B%5D=8d38491f0d64373ddd3cc5b9ac177a88
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.ibb.co/gbZknx4c/1776015944439.webp" group-title="Infantil", Boing
+#EXTVLCOPT:http-user-agent=AgileTV/2.49.0 (Linux;Android 15) ExoPlayerLib/2.17.1
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r3/__c/Boing_HD_B/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=320e1cb23cf15aa8f41a9edd52baa655&key%5B%5D=63c5e57ae2a2bc7dab3c67cac1a6c956
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
 https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
@@ -2676,9 +2682,6 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://i.ibb.co/3ybXtKfp/Picsart-26-02-06-01-20-59-421.webp" group-title="Infantil", FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dios Kids" tvg-logo="https://i.ibb.co/YTcwKzhK/Picsart-26-02-06-01-38-06-485.webp" group-title="Infantil", Dios TeVe Kids
-https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 Cine + Series
 
