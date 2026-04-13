@@ -2860,7 +2860,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71.playl
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=300b58dfdaf35e8537ce25c39e99aec7&key%5B%5D=6fc107a6f62f39da27b36ff079d7f937
-#EXTINF:-1 tvg-id="Star.es;Star.es" tvg-logo="https://i.postimg.cc/fRPKMBNw/image-64177-converted-To-Png.png" group-title="Cine + Series", Star
+#EXTINF:-1 tvg-id="Star.es" tvg-logo="https://i.postimg.cc/fRPKMBNw/image-64177-converted-To-Png.png" group-title="Cine + Series", Star
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
