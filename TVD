@@ -3346,7 +3346,7 @@ http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_cenc/Flow_Music_3.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6723.73 Mobile Safari/537.36
 https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/
 
-#EXTINF:-1 tvg-id="Concert.cl" tvg-logo="https://i.ibb.co/5Btjrt1/concertch.png" group-title="Música", Concert Channel
+#EXTINF:-1 tvg-id="Concert Channel.co" tvg-logo="https://i.ibb.co/5Btjrt1/concertch.png" group-title="Música", Concert Channel
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 
 #EXTINF:-1 tvg-id="Maxima.cl" tvg-logo="https://i.ibb.co/20QJBXqH/1762287971177.webp" group-title="Música", Maxima FM
@@ -3384,11 +3384,6 @@ https://tigocloudgen.desdeparaguay.net/venusmedia/venusmedia/.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Mas Musica.tv" tvg-logo="https://i.ibb.co/v42gV6v3/1765925109008.webp" group-title="Música", Mass Música
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pj9WPx98/Picsart-25-11-19-17-11-54-668.webp" group-title="Música", Hits 360
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://cdn.essastream.com:3023/live/hits360tvlive.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxJ767Y2/Picsart-25-11-18-18-19-34-366.webp" group-title="Música", Activa TV
 #EXTVLCOPT:network-caching=1000
@@ -3449,6 +3444,9 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PzmMT05f/Picsart-26-02-26-16-12-18-874.webp" group-title="Música", Vevo Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+
+#EXTINF:-1 tvg-id="That's Rock" tvg-logo="https://i.ibb.co/bgcjHcX1/Picsart-26-04-12-16-13-36-887.webp" group-title="Música", That's Rock
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhyM960d/1763514457736.webp" group-title="Música", Kronehit TV
 #EXTVLCOPT:network-caching=1000
