@@ -2564,8 +2564,8 @@ https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=18654944953b25a8b6392722a83db653&key%5B%5D=40bf6a9f05bbf0e06715ed5707f0edd2
 #EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-logo="https://i.supaimg.com/9c1ec0c0-3a16-49f2-ab5e-cf431d78d114.png?raw=true" group-title="Infantil", Disney Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/disney-junior/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/NICKELODEON.DGO.json
