@@ -3706,9 +3706,6 @@ https://dmuabtojs7ukn.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKjCJPGZ/Picsart-25-08-11-12-09-07-438.webp" group-title="Religión", Santa Marí­a TV
-http://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-
 #EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN2 Latino⛧
 https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 
