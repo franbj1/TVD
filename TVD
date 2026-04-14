@@ -22,6 +22,10 @@ https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
+#EXTINF:-1 tvg-id="That's Rock" tvg-logo="https://i.ibb.co/bgcjHcX1/Picsart-26-04-12-16-13-36-887.webp" group-title="Nacional", Telefe int
+#EXTVLCOPT:http-user-agent=tv.gratisonline14/10.1 (Linux;Android 12) AndroidXMedia3/1.1.1
+http://45.184.109.11/auth/48_7uvyy8Muz-8dGclWGnMMdWWz7OWwmTRjnBbcR3L1suW3LgBqmqFKU6LSw1SuxxzJd67kIWiW40VauKx5HoC3X8plvwYlYD6V0xgHH7hqA1H566MAcfabf01aJDy-MQ4_OruaqhO43TQb5bU9VK1oT2sXpFjAjoAun7XnLkVTqpYcLC62mAs-TxnQvv_nUjjsbnPdJ1i84Zmt8ry73jI4beD6BhwGNbvujobhwesWTHbHhaXpF8K6rFTdSZ4aS-R1YQJ3U9QgWhkHNEcB0_mZG7FhYYG_1RuIPE-Aj00fnSLPaaMWJjd2L4gzDbWS0GM-Ay179qL3RdJHqymawt8LoGy67fdeeVuwKckX5ZHBm1Rv5MYo13AI69AlWyiiRDi3u4Zp3Y5hXNi4ysfYiypUqPY69Cpc54UaXDU865vj0xIwDrR_16Kl8hSggas_V2yaQOmIrw2fnC5UhG4HSZEYZLrL8RIcgtdO4YYivu2fV8B2ZVtVcVPq_UtDpO8hCWVe9fqCMA8V-nmo-R65F-mSwVHRkfgRsnwi_IE2clnBhgn7HtPO35-G19_qux9jppX5lhC9imn-Z3ijzm4tYrgfQehsShAwn5faaOzGamHwI94bVP8RfATY44B7iI6-OMtbDUNUIIVsdHIHjDEIy6Q
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
