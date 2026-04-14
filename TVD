@@ -2084,6 +2084,24 @@ https://cache4.zapitv.com/live/eds_c2/squirrel/dash_live_ez/squirrel.mpd
 #EXTVLCOPT:http-user-agent=Android
 https://cdn03052.cdn.agiletv.net/__cl/cg:lv-p1/__c/FOX_HD/__op/dash-wv/__f/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=619c1a092687a30cd399b8674958350b&key%5B%5D=4ac1425c34fe6a7012d4ed517b03d9d6
+#EXTINF:-1 group-title="TV España" tvg-id="Baby TV.es" tvg-logo="https://i.ibb.co/ZpD5JRjY/1776205607462.webp", Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Baby_tv/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=847544a11f7c1cf983f1ac8f08bdba14&keyid%5B%5D=8d38491f0d64373ddd3cc5b9ac177a88
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.ibb.co/gbZknx4c/1776015944439.webp" group-title="TV España", Boing
+#EXTVLCOPT:http-user-agent=AgileTV/2.49.0 (Linux;Android 15) ExoPlayerLib/2.17.1
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r3/__c/Boing_HD_B/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=df94077e5d1eefef0695ecbc5b1db341&keyid%5B%5D=aace26bb6d59be80480ab2c505ee7a2e
+#EXTINF:-1 tvg-id="Disney Channel.es" tvg-logo="https://i.ibb.co/d4rcwDg1/disney-channel-europe-logo-white-2022-present-by-waynemarcelo2009-df8rmov-fullview.webp" group-title="TV España", Disney Channel
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Disney_Junior_HD/__op/dash-wv/__f/manifest.mpd
+
 Novelas ᥫ᭡
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/brTbrF3P/Picsart-26-03-07-22-35-48-457.png"
