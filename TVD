@@ -3697,6 +3697,12 @@ https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=a2e37ff5b2db573844e12d36d57698fc&keyid%5B%5D=ee00973325dc44a7a40584e9303968ca
+#EXTINF:-1 tvg-id="Esne" tvg-logo="https://i.ibb.co/s9dLQQ82/Picsart-26-04-14-09-44-25-127.webp" group-title="Religión", ES🌿NE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://mega.z5cable.com/bpk-tv/esne/default/index.mpd
+
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Dayst☆r Español
 https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
 
