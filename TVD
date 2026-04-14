@@ -2038,19 +2038,19 @@ TV España
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=99c794f08ce50ebe75eb7e57f397f8e3&keyid%5B%5D=e4f79d996c3449fea0186c921d601115
-#EXTINF:-1 tvg-id="AXN HD.uy" tvg-logo="https://i.ibb.co/8DYmtZ2R/SNAXN.webp" group-title="TV España", AXN
+#EXTINF:-1 tvg-id="AXN.es" tvg-logo="https://i.ibb.co/8DYmtZ2R/SNAXN.webp" group-title="TV España", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cache07.zapitv.com/live/eds_c2/axn/dash_live_ez/axn.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=cd64df4904f900d2b513ecc7aa019b32&keyid%5B%5D=0cff80d5449a48e9a11865ef1532cecf
-#EXTINF:-1 tvg-id="AXN HD.uy" tvg-logo="https://i.ibb.co/k2vJCz3R/1776196264457.webp" group-title="TV España", AXN Movies
+#EXTINF:-1 tvg-id="AXN Movies.es" tvg-logo="https://i.ibb.co/k2vJCz3R/1776196264457.webp" group-title="TV España", AXN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cache07.zapitv.com/live/eds_c2/axn_white/dash_live_ez/axn_white.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=47e023e0a02213717eada9bcbe8badf6&key%5B%5D=11c51a7ca3406597a75f1cb2940e8046
-#EXTINF:-1 tvg-id="AMC HD.uy" tvg-logo="https://i.ibb.co/60p1XKCj/Picsart-25-08-07-11-01-27-860.webp" group-title="TV España", AMC
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://i.ibb.co/60p1XKCj/Picsart-25-08-07-11-01-27-860.webp" group-title="TV España", AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/atzreh4v7c/out/v1/911226ec26bf4f92a9f787b3e211fc53/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
