@@ -2760,6 +2760,7 @@ https://latan.stonetv.com.br/sony/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
 #EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://i.ibb.co/1JB4mHF3/msf-43097-converted-To-Png.webp" group-title="Cine + Series", Sony Movies
+http://69.48.207.25/ch1224/playlist.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_2A_wl/Sony_Movies.mpd
 
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
@@ -2768,7 +2769,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
 #EXTINF:-1 tvg-id="Universal HD.uy" tvg-logo="https://i.ibb.co/Hfp8q3Bb/Picsart-25-10-28-04-42-51-099.webp" group-title="Cine + Series", Universal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
+http://69.48.207.25/ch1202/playlist.m3u8
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
