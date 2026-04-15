@@ -1908,7 +1908,7 @@ https://latan.stonetv.com.br/GEN/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a8922522d07bc6aea96decd1c61553a6&key%5B%5D=dd9d597ceaf05fa903587ff1a657a04e
 #EXTINF:-1 tvg-id="HEi Network.py" tvg-logo="https://i.ibb.co/hFy19hBD/1768277194739.webp" group-title="TV Paraguay", HEI NOW
-https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_wl/HEI_NOW.mpd
+https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=753ed98985b348ab7bf3c0a2b24930eb&keyid%5B%5D=835af7d77bd13621ba044ab931e5e89f
