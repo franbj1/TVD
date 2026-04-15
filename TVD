@@ -1823,12 +1823,12 @@ https://latan.stonetv.com.br/snt/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5d2731cf8a59b73438ef59d88cd882bf&key%5B%5D=3f412fa6368b7db4903588de695377e1
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://i.ibb.co/vCPHqGhr/Telefuturo-Logo2022.webp" group-title="TV Paraguay", Telefuturo
-https://latan.stonetv.com.br/telefuturo/tracks-v1a1/playlist.m3u8
+https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c6a481adf6a080ec09637d3f25989cf&key%5B%5D=036e343d636b821ab81838de387b62cb
 #EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.ibb.co/SFgZy9Y/Ltlcolor.webp" group-title="TV Paraguay", La Tele
-https://latan.stonetv.com.br/latele/tracks-v1a1/playlist.m3u8
+https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a8093cdcb2d504bd38f16764bd21b6e5&key%5B%5D=bfcf3b033b5f0b5ae020751a6746326f
@@ -1924,7 +1924,7 @@ https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/index.m3u8?admin
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/7dW0LJDq/descarga.webp" group-title="TV Paraguay", Estación 40
-https://rds3tf.desdeparaguay.net/e40tv/e40tv_alta/playlist.m3u8?k=e73252a894cdd249df55ef31119405b9af6c50440880975b6b90a3fcd094801c&exp=1775958265
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=aed06fd292d278aa464da44752b9c313&keyid%5B%5D=46c3d8c42bb9799e5de5792e3fb45de4
