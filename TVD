@@ -2121,6 +2121,12 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/esiotal5zq/out/v1/c0
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/vj617waw17/out/v1/64aea7701f014f1693af57e3ac7b3689/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=271a02e1bc5decc30ac1eee7b1353b3d&key%5B%5D=3510f830b5873c9b3a4fa75c5c8e7b12
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.ibb.co/8gvL6X73/MEGA-svg.webp" group-title="TV España", MEGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/i3lh6rjo6h/out/v1/3f2d0041aa034913bccea57ede3396b6/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=seg
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=619c1a092687a30cd399b8674958350b&key%5B%5D=4ac1425c34fe6a7012d4ed517b03d9d6
 #EXTINF:-1 group-title="TV España" tvg-id="Baby TV.es" tvg-logo="https://i.ibb.co/ZpD5JRjY/1776205607462.webp", Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
