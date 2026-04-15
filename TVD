@@ -4028,13 +4028,13 @@ https://1184-tbx.vrioott.com/rai/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo Internacional.uy" tvg-name="Telemundo.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo Internacional.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/800/542/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_cenc/Telemundo_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4044,12 +4044,12 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ed5aac3691b33a02ac86d84f886a8a06&key%5B%5D=6b2cf6dd150416b758d228fc38980473
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Miami
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Miami
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wscv)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=95a52a115ed134e881d0e7dcdd423b3e&key%5B%5D=5acb62e242dfdf1da7d041a600ec62fd
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Orlando
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Orlando
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wtmo)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
