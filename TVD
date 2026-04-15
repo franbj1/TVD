@@ -2139,6 +2139,36 @@ https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r3/__c/Boing_HD_B/__op/dash-wv/__f/m
 https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Disney_Junior_HD/__op/dash-wv/__f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=d9fb0a59db4ce8bf8ddfbc6e47ab555b&keyid%5B%5D=c0a0f3fa63e58fab0a7fbef1b94886d9
+#EXTINF:-1 tvg-id="DKISS.es" tvg-logo="https://i.ibb.co/QvcY1nRd/DKISS-2019-logo-svg.webp" group-title="TV España", DKISS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r3/__c/DKISS_HD_B/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=3d272a9451ca930044f0833493000030&keyid%5B%5D=59e36bda0bc3a7c8c26502a4ac748e85
+#EXTINF:-1 tvg-id="DMAX.es" tvg-logo="https://i.ibb.co/8LCn6pCj/DMAX-Logo-2016-svg.webp" group-title="TV España", DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/DMAX_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=daee288c032bbca4dd7a8b89f5b24803&key%5B%5D=fc815a6fd284a33f6985d89fc0d7f1fa
+#EXTINF:-1 tvg-id="Discovery Channel.es" tvg-logo="https://i.ibb.co/fVqMJRV3/Picsart-26-04-15-16-19-02-540.webp" group-title="TV España", Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Discovery_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e23699c196c68b7f3762a7273f880d83&key%5B%5D=0ce674718406d8cb6a4c8a171e8673eb
+#EXTINF:-1 tvg-id="National Geographic.es" tvg-logo="https://i.ibb.co/b5WJZHq0/Picsart-26-04-15-16-18-00-032.webp" group-title="TV España", Nacional Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0d5f78ecbcf044820032c966ade44b93&key%5B%5D=1c7f50183adee8b2f9a76511970a960f
+#EXTINF:-1 tvg-id="National Geographic Wild HD.es" tvg-logo="https://i.ibb.co/p6hR7Jr5/Picsart-26-04-15-16-22-53-093.webp" group-title="TV España", Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Android
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_WILD_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d60ce2e5dedd56c8cf708f41468fd974&key%5B%5D=38b207c8cb479f3beb1b7629a0e5c1b1
 #EXTINF:-1 tvg-id="Odisea.es" tvg-logo="https://i.ibb.co/cc9wH5Lz/Picsart-26-04-15-15-39-18-371.webp" group-title="TV España", Odisea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
