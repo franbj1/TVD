@@ -2126,7 +2126,7 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/vj617waw17/out/v1/64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/i3lh6rjo6h/out/v1/3f2d0041aa034913bccea57ede3396b6/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=seg
 
-#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.ibb.co/4wyRSRTj/Picsart-26-01-19-14-16-14-362.webp" group-title="TV España", Clan
+#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://i.ibb.co/TxhQ2Pgd/Picsart-26-04-16-13-11-27-111.webp" group-title="TV España", Clan
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a5171bcd3217190b928c&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB9&AV_CONTENT_RATING=TP&AV_CLIENT_SECTION=RTVE_clan&content_channel_name=Clan&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2204,7 +2204,7 @@ https://448a93b8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
-#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas ᥫ᭡", Las Estrellas ☆⋆
+#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas ᥫ᭡", Las Estrellas ☆
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
