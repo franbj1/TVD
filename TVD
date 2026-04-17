@@ -2082,6 +2082,12 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/bjvcxfu6f5/out/v1/a7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cache07.zapitv.com/live/eds_c2/calle_13/dash_live_ez/calle_13.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f021533f180e1eac9983db85e4d99bd9&key%5B%5D=c8d8e7b3298b1f938d6a498acaa9365c
+#EXTINF:-1 tvg-id="Bon Dia TV.es" tvg-logo="https://i.ibb.co/5WgfcYCL/Picsart-26-04-17-04-08-30-949.webp" group-title="TV España", BOM Cine 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/BomCine_HD/__op/dash-wv/__f/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=16257ff813b1dbeaf5573871f540ad70&keyid%5B%5D=a753e0a4a5084b61ba93ae058c38b1ba
 #EXTINF:-1 tvg-id="SYFY.es" tvg-logo="https://i.ibb.co/R40dWFdp/1776202162873.webp" group-title="TV España", Syfy
@@ -2093,6 +2099,12 @@ https://cache07.zapitv.com/live/eds_c2/syfy/dash_live_ez/syfy.mpd
 #EXTINF:-1 tvg-id="Squirrel.es" tvg-logo="https://i.ibb.co/SwSWwSrf/Picsart-26-04-14-18-32-44-708.webp" group-title="TV España", Squirrel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cache4.zapitv.com/live/eds_c2/squirrel/dash_live_ez/squirrel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ddf4b8d753396b21fe5dd4a362b33871&keyid%5B%5D=52ee2c20542a45b5a51f68310a2f836c
+#EXTINF:-1 tvg-id="Paramount Channel.es" tvg-logo="https://i.ibb.co/r8gM2G7/Picsart-26-04-17-04-19-19-223.webp" group-title="TV España", Squirrel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cache4.zapitv.com/live/eds_c2/paramount_channel/dash_live_ez/paramount_channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=13ff6a1cc570dc53f7ce42e70db1ad82&key%5B%5D=8d97281b0a59e66cc56f954cf738589c
@@ -2167,6 +2179,12 @@ https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r3/__c/Boing_HD_B/__op/dash-wv/__f/m
 #EXTINF:-1 tvg-id="Disney Channel.es" tvg-logo="https://i.ibb.co/d4rcwDg1/disney-channel-europe-logo-white-2022-present-by-waynemarcelo2009-df8rmov-fullview.webp" group-title="TV España", Disney Channel
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Disney_Junior_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
+#EXTINF:-1 tvg-id="COSMO.es" tvg-logo="https://i.ibb.co/zVZGCT9S/Picsart-26-04-17-04-15-30-772.webp" group-title="TV España", Cosmo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Cosmopolitan_HD/__op/dash-wv/__f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=d9fb0a59db4ce8bf8ddfbc6e47ab555b&keyid%5B%5D=c0a0f3fa63e58fab0a7fbef1b94886d9
