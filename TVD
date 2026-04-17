@@ -722,8 +722,10 @@ https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZW
 https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.supaimg.com/f996cb17-f180-42fc-89c6-821307522ffc.png" group-title="TV Colombia", RCN Novelas
-http://181.78.27.128:12543/play/a03b/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
+#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.ibb.co/n90K1Ht/Picsart-26-04-17-01-22-11-744.webp" group-title="TV Colombia", RCN Novelas
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.ibb.co/TZYJT83/1774545475547.webp" group-title="TV Colombia", Cable Noticias
 http://107.152.39.199:8030/hls/canal15.m3u8
