@@ -2058,6 +2058,24 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/atzreh4v7c/out/v1/91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/kuyjtcy6mh/out/v1/4820fcb4f06d4187954fe03090307447/cenc.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=eb8156173f3256da61faa2d17c8159ca&key%5B%5D=d9947e4600adf5cb6bcc68d69bc28d00
+#EXTINF:-1 tvg-id="AMC Break.es" tvg-logo="https://i.ibb.co/d0YtTMdV/AMC-Break-svg.webp" group-title="TV España", AMC Break
+#EXTVLCOPT:http-user-agent=Android
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/cu3miff4hw/out/v1/80a199f5bc974b64b0281896d0a49b69/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3134884a0f457910ebe71cbad6247ada&key%5B%5D=4790ad9a1bc9912b5feada178d57c0fc
+#EXTINF:-1 tvg-id="AMC Crime.es" tvg-logo="https://i.ibb.co/BVwc1GGF/AMC-Crime-svg.webp" group-title="TV España", AMC Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/unpcb7o0f5/out/v1/a9d133bfdd2f4fc5bbe358888f6e7c3f/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b5950b52758a34ea1f5f71a908d916eb&key%5B%5D=b490f71561a1f661e795b1939a552d82
+#EXTINF:-1 tvg-id="AXN VOS.es" tvg-logo="https://i.ibb.co/5W6W70WZ/Picsart-26-04-17-03-51-34-171.webp" group-title="TV España", AMC Living
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/bjvcxfu6f5/out/v1/a78d5d0687d34ddd9c7c77926685c760/cenc.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8d306e5637e8bc48c105a3ad3f7e313d&keyid%5B%5D=29e88896154e4a7092acfcfdb4a0b094
 #EXTINF:-1 tvg-id="Calle 13.es" tvg-logo="https://i.ibb.co/21PTn1w2/image-69996-converted-To-Png.webp" group-title="TV España", Calle 13
