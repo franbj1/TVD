@@ -263,16 +263,16 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/q3Sh0DLM/Picsart-25-11-04-17-11-44-504.webp" group-title="Nacional", Music Top
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS.mpd
+https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest
 
 #EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/TIERRAMIATV.mpd
+https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/manifest
 
 #EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/LATINA_TV.mpd
+https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/manifest
 
 #EXTINF:-1 tvg-id="popular" tvg-logo="https://i.postimg.cc/PqK5Lpw0/Picsart-26-03-07-05-14-47-924.png" group-title="Nacional", La Popu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
