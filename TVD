@@ -36,9 +36,9 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc0abcc84ec380cfc192b96d32abad23&key%5B%5D=9b7825385b89ff82d01909a4ae404877
-#EXTINF:-1 tvg-id="Telefe Internacional.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="Nacional", Telefe Internacional
+#EXTINF:-1 tvg-id="Telefe Internacional.uy" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="Nacional", Telefe Nacional
 #EXTVLCOPT:http-user-agent=Android
-https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MDk2ODEwIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9WaWFqYXIvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3ZjRkN2I4MjVlYjdhN2FlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.BrHEyWc5GaW4EjS6EL1a80PmbIcxitW5wFCHLdcA-_67aKujGYr-DZDCLIKJuY5kaLm0U2-akbV5tfJoqSFboQ==/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5bd469f8bf268d5d148c3971c7c23fca&key%5B%5D=9af98080d22846fdf2988b8ba9ec4add
