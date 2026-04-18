@@ -2355,14 +2355,14 @@ Deportes
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bc80fa3da696e503f940fde5f681a1c5&key%5B%5D=ea46e4e9f1132e8dd71fb77f7d55058a
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports Premium ⚽︎ᯓ
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=chrome
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4c230dbc7f6a4bfa6ad0aa73ff792374&key%5B%5D=4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium ⚽︎ᯓ
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=chrome
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 #EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.ibb.co/84N37btp/Picsart-26-03-29-16-06-16-353.webp" group-title="Deportes", Atlético de Madrid - Real Sociedad (Copa del Rey) FINAL 17/04
