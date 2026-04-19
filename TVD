@@ -2371,10 +2371,11 @@ https://el4live1.boldmss.com/TNTS/TNTS_EL4.isml/manifest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4player.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/kVHv4Jw2/ESPN-Premium-blanco.webp" group-title="Deportes", ESPN Premium ARG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://el4live1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.ibb.co/84N37btp/Picsart-26-03-29-16-06-16-353.webp" group-title="Deportes", River Plate vs Boca Juniors L.P.F 18/04
