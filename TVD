@@ -2392,7 +2392,10 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/kVHv4Jw2/ESPN-Premium-blanco.webp" group-title="Deportes", ESPN Premium ARG
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://el4live1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_EL4.isml/manifest
+https://el4live2.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/1YB8dYn1/ESPN-Premium-logo-svg.webp" group-title="Deportes", ESPN Premium LPF
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eventos" tvg-logo="https://i.ibb.co/v64CJT2N/Picsart-26-04-19-03-13-21-964.webp" group-title="Deportes", River Plate vs Boca Juniors L.P.F 18/04
 http://190.7.19.197:232/play/a037/index.m3u8
