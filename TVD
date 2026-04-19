@@ -675,12 +675,18 @@ https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-id="Red Uno.bo" tvg-logo="https://i.ibb.co/WpcBk6s6/1774633793238.webp" group-title="TV Bolivia", Red Uno
 https://live.eu-north-1b.cf.dmcdn.net/sec2(TKXoPTa5aqfSviJsO1H5nTG3cBvfLSsYpXdH-fqF1y_HyttNm794379oiLuvVohb3SMeZGDNlRooZUEOPpux3vSmgVdIU_g-6Gg8ak0taqJpXPPcoP-quOA9U50rUx1Y)/dm/3/x9n2qyk/s/live-720.m3u8#cell=lcf-eu-north-1b
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
 #EXTINF:-1 tvg-id="Bolivia.bo" tvg-logo="https://i.ibb.co/fzc2HypH/Bolivia-TV2026.webp" group-title="TV Bolivia", Bolivia TV
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(BRmF5FGKQZwiJlM73Av6J_7nL1QzR9Ij5FzJqKgKbT3YzU0M3FwRbl_flQ4URgtM2JmTnWo4UXY7F9O1sxkydgdj-av-nmI3fWYHr06D-yC_2IfXqbdzJ__ythOMOPhD)/cloud/3/x9nzqpo/d/live-1080.m3u8#cell=lcf2-eu-north-1b
+https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6b16601734349eab878d52d00f583ab:03f5b7fbc1cbfb5d612dc3b735dfb184
 #EXTINF:-1 tvg-id="BOLIVISION.bo" tvg-logo="https://i.ibb.co/VYbn0v4D/Picsart-26-03-27-15-51-52-410.webp" group-title="TV Bolivia", Bolivisión TV
-https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/ts:abr.m3u8
+https://el4live2.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.ibb.co/tpPg27qL/RTPbolivia2021.webp" group-title="TV Bolivia", RTP
 https://rtp.noxun.net/hls/stream.m3u8
 
