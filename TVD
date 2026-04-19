@@ -2377,7 +2377,7 @@ https://el4live1.boldmss.com/TNTS/TNTS_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/ynHgRgQL/1776578260812.webp" group-title="Deportes", TNT Sports LPF
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/xS9Dv5kw/Picsart-26-04-19-04-37-32-943.webp" group-title="Deportes", TNT Sports LPF
 https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
