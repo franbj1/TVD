@@ -2376,6 +2376,11 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 https://el4live1.boldmss.com/TNTS/TNTS_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/ynHgRgQL/1776578260812.webp" group-title="Deportes", TNT Sports LPF
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4c230dbc7f6a4bfa6ad0aa73ff792374&key%5B%5D=4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium ⚽︎ᯓ
