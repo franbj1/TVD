@@ -2792,14 +2792,8 @@ https://1026-tbx.vrioott.com/cartoonitola/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4d8b3220ac30e5c8148d4bcc225efa5a&key%5B%5D=eb6918dfe117fc405396a9c3986a0450
 #EXTINF:-1 tvg-id="Discovery Kids.ar" tvg-logo="https://i.ibb.co/wHtbFpy/1176px-Discovery-Kids-2021-2-D-Gradient-svg.png" group-title="Infantil", Discovery Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2f70f543b9effe70bff3f97542ff6ff5&key%5B%5D=6a7e17712027287a68adda6e1df4716a
-#EXTINF:-1 tvg-id="Dreamworks.uy" tvg-logo="https://i.ibb.co/DfPjZmxV/Picsart-25-11-23-02-02-43-934.webp" group-title="Infantil", DreamWorks TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/Dreamworks/live_dash_cld/Dreamworks.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTVLCOPT:http-user-agent=Android
+https://el4live1.boldmss.com/DKIDS/DKIDS_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=70d91b14935a3599f02e5dab71ef21dc&key%5B%5D=803e9152e9daf717b772399a97802076
@@ -2812,6 +2806,12 @@ https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 #EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-logo="https://i.supaimg.com/9c1ec0c0-3a16-49f2-ab5e-cf431d78d114.png?raw=true" group-title="Infantil", Disney Jr.
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2f70f543b9effe70bff3f97542ff6ff5&key%5B%5D=6a7e17712027287a68adda6e1df4716a
+#EXTINF:-1 tvg-id="Dreamworks.uy" tvg-logo="https://i.ibb.co/DfPjZmxV/Picsart-25-11-23-02-02-43-934.webp" group-title="Infantil", DreamWorks TV
+#EXTVLCOPT:http-user-agent=Android
+https://el4live1.boldmss.com/DREAMWORKS/DREAMWORKS_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/NICKELODEON.DGO.json
