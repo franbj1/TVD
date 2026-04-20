@@ -650,12 +650,6 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 TV Bolivia
 
-#EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/bMr2n6Gf/Picsart-26-03-27-15-42-30-884.webp" group-title="TV Bolivia", 🪩Unitel
-https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-
-#EXTINF:-1 tvg-id="Red Uno.bo" tvg-logo="https://i.ibb.co/WpcBk6s6/1774633793238.webp" group-title="TV Bolivia", Red Uno
-https://live.eu-north-1b.cf.dmcdn.net/sec2(TKXoPTa5aqfSviJsO1H5nTG3cBvfLSsYpXdH-fqF1y_HyttNm794379oiLuvVohb3SMeZGDNlRooZUEOPpux3vSmgVdIU_g-6Gg8ak0taqJpXPPcoP-quOA9U50rUx1Y)/dm/3/x9n2qyk/s/live-720.m3u8#cell=lcf-eu-north-1b
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
 #EXTINF:-1 tvg-id="Bolivia.bo" tvg-logo="https://i.ibb.co/fzc2HypH/Bolivia-TV2026.webp" group-title="TV Bolivia", Bolivia TV
@@ -668,10 +662,22 @@ https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest
 
+#EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/bMr2n6Gf/Picsart-26-03-27-15-42-30-884.webp" group-title="TV Bolivia", Unitel
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+
+#EXTINF:-1 tvg-id="Red Uno.bo" tvg-logo="https://i.ibb.co/WpcBk6s6/1774633793238.webp" group-title="TV Bolivia", Red Uno
+https://live.eu-north-1b.cf.dmcdn.net/sec2(TKXoPTa5aqfSviJsO1H5nTG3cBvfLSsYpXdH-fqF1y_HyttNm794379oiLuvVohb3SMeZGDNlRooZUEOPpux3vSmgVdIU_g-6Gg8ak0taqJpXPPcoP-quOA9U50rUx1Y)/dm/3/x9n2qyk/s/live-720.m3u8#cell=lcf-eu-north-1b
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.ibb.co/tpPg27qL/RTPbolivia2021.webp" group-title="TV Bolivia", RTP
 https://rtp.noxun.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Gigavision.bo" tvg-logo="https://i.ibb.co/cSzKpmpL/Picsart-26-04-20-07-58-59-326.webp" group-title="TV Bolivia", Gigavisión
+https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
+
+#EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
+https://master.tucableip.com/univalletv/video.m3u8
 
 #EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/5XLKNLSV/Picsart-26-03-27-13-32-40-271.webp" group-title="TV Bolivia", F10
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
