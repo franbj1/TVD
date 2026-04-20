@@ -74,9 +74,10 @@ https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
+#EXTVLCOPT:http-user-agent=Android
 https://bvclive2.boldmss.com/TELEMAX/TELEMAX.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
