@@ -2972,7 +2972,7 @@ https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
-#EXTINF:-1 tvg-id="Sony HD.uy" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
+#EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Android
 https://el4live2.boldmss.com/SONY/SONY_EL4.isml/manifest
 
