@@ -2179,6 +2179,12 @@ https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r3/__c/Boing_HD_B/__op/dash-wv/__f/m
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Disney_Junior_HD/__op/dash-wv/__f/manifest.mpd
 
+#EXTINF:-1 tvg-id="Pequeradio TV.es" tvg-logo="https://i.supaimg.com/8a47edbb-20d9-4306-bf8e-61bb2d5e2ba5.png?raw=true" group-title="TV España", Peque TV
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Add commentMore actions
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
 #EXTINF:-1 tvg-id="COSMO.es" tvg-logo="https://i.ibb.co/zVZGCT9S/Picsart-26-04-17-04-15-30-772.webp" group-title="TV España", Cosmo
@@ -2892,12 +2898,6 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
 #EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan
 https://aca-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
-
-#EXTINF:-1 tvg-id="Pequeradio TV.es" tvg-logo="https://i.supaimg.com/8a47edbb-20d9-4306-bf8e-61bb2d5e2ba5.png?raw=true" group-title="Infantil", Pequeradio TV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Add commentMore actions
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
