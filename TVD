@@ -654,13 +654,13 @@ TV Bolivia
 #KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
 #EXTINF:-1 tvg-id="Bolivia.bo" tvg-logo="https://i.ibb.co/fzc2HypH/Bolivia-TV2026.webp" group-title="TV Bolivia", Bolivia TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
+https://el4live2.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6b16601734349eab878d52d00f583ab:03f5b7fbc1cbfb5d612dc3b735dfb184
 #EXTINF:-1 tvg-id="BOLIVISION.bo" tvg-logo="https://i.ibb.co/VYbn0v4D/Picsart-26-03-27-15-51-52-410.webp" group-title="TV Bolivia", Bolivisión TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest
+https://el4live2.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/bMr2n6Gf/Picsart-26-03-27-15-42-30-884.webp" group-title="TV Bolivia", Unitel
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
@@ -689,6 +689,9 @@ https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PAT.bo" tvg-logo="https://i.ibb.co/nMtRN5rh/Picsart-26-03-09-01-34-18-440.webp" group-title="TV Bolivia", Pat TV
 https://www.redpat.tv:8000/play/12/index.m3u8
+
+#EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
+https://live.enhdtv.com:8081/8190/index.m3u8
 
 TV Colombia
 
@@ -2007,9 +2010,6 @@ https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU
 https://live.enhdtv.com:8081/8054/index.m3u8
-
-#EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Paraguay", TVU
-https://live.enhdtv.com:8081/8190/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.ibb.co/qY52rqd1/1768957982576.webp" group-title="TV Paraguay", TV8 Visión
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
