@@ -652,7 +652,7 @@ TV Bolivia
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
-#EXTINF:-1 tvg-id="Bolivia.bo" tvg-logo="https://i.ibb.co/fzc2HypH/Bolivia-TV2026.webp" group-title="TV Bolivia", Bolivia TV
+#EXTINF:-1 tvg-id="Bolivia.bo" tvg-logo="https://i.ibb.co/MyD8qwP5/1776689167710.webp" group-title="TV Bolivia", Bolivia TV
 #EXTVLCOPT:http-user-agent=Android
 https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
 
