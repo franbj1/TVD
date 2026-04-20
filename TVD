@@ -80,10 +80,11 @@ https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://bvclive2.boldmss.com/TELEMAX/TELEMAX.isml/manifest
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4f1235069d34c22cb73d9b78bae15587&key%5B%5D=55e068ff6b152e34c66dc639b38e8692
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4f1235069d34c22cb73d9b78bae15587&key%5B%5D=55e068ff6b152e34c66dc639b38e8692
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/7xDXDyPH/Picsart-26-03-17-17-24-14-852.webp" group-title="Nacional", Ciudad Magazine
 #EXTVLCOPT:http-user-agent="Android
+https://el4live2.boldmss.com/MAGAZINE/MAGAZINE_EL4.isml/manifest
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
