@@ -2953,7 +2953,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playl
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
-#EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", Multipremier
+#EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", MP
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
@@ -2970,14 +2970,14 @@ https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
 #EXTINF:-1 tvg-id="Sony HD.uy" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Android
 https://el4live2.boldmss.com/SONY/SONY_EL4.isml/manifest
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
 #EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://i.ibb.co/1JB4mHF3/msf-43097-converted-To-Png.webp" group-title="Cine + Series", Sony Movies
 #EXTVLCOPT:http-user-agent=Android
 https://el4live2.boldmss.com/SONY_MOVIES/SONY_MOVIES_EL4.isml/manifest
@@ -2985,8 +2985,8 @@ https://el4live2.boldmss.com/SONY_MOVIES/SONY_MOVIES_EL4.isml/manifest
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
 #EXTINF:-1 tvg-id="Universal HD.uy" tvg-logo="https://i.ibb.co/Hfp8q3Bb/Picsart-25-10-28-04-42-51-099.webp" group-title="Cine + Series", Universal TV
 #EXTVLCOPT:http-user-agent=Android
 hhttps://el4live2.boldmss.com/UNIVERSAL/UNIVERSAL_EL4.isml/manifest
@@ -3027,7 +3027,7 @@ https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
-#EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", Multicinema
+#EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", MC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
