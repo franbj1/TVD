@@ -656,13 +656,13 @@ TV Bolivia
 #EXTVLCOPT:http-user-agent=Android
 https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6b16601734349eab878d52d00f583ab:03f5b7fbc1cbfb5d612dc3b735dfb184
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e6b16601734349eab878d52d00f583ab:03f5b7fbc1cbfb5d612dc3b735dfb184
 #EXTINF:-1 tvg-id="BOLIVISION.bo" tvg-logo="https://i.ibb.co/VYbn0v4D/Picsart-26-03-27-15-51-52-410.webp" group-title="TV Bolivia", Bolivisión TV
-#EXTVLCOPT:http-user-agent=Android"
+#EXTVLCOPT:http-user-agent=Android
 https://el4live2.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest
 
-#EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/bMr2n6Gf/Picsart-26-03-27-15-42-30-884.webp" group-title="TV Bolivia", Unitel
+#EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/q38wmbw4/Picsart-26-04-20-09-03-14-397.webp" group-title="TV Bolivia", Unitel
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
 #EXTINF:-1 tvg-id="Red Uno.bo" tvg-logo="https://i.ibb.co/WpcBk6s6/1774633793238.webp" group-title="TV Bolivia", Red Uno
