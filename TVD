@@ -650,7 +650,7 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 TV Bolivia
 
-#EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/bMr2n6Gf/Picsart-26-03-27-15-42-30-884.webp" group-title="TV Bolivia", Unitel
+#EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/bMr2n6Gf/Picsart-26-03-27-15-42-30-884.webp" group-title="TV Bolivia", 🪩Unitel
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
 #EXTINF:-1 tvg-id="Red Uno.bo" tvg-logo="https://i.ibb.co/WpcBk6s6/1774633793238.webp" group-title="TV Bolivia", Red Uno
@@ -659,13 +659,13 @@ https://live.eu-north-1b.cf.dmcdn.net/sec2(TKXoPTa5aqfSviJsO1H5nTG3cBvfLSsYpXdH-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
 #EXTINF:-1 tvg-id="Bolivia.bo" tvg-logo="https://i.ibb.co/fzc2HypH/Bolivia-TV2026.webp" group-title="TV Bolivia", Bolivia TV
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://el4live2.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6b16601734349eab878d52d00f583ab:03f5b7fbc1cbfb5d612dc3b735dfb184
 #EXTINF:-1 tvg-id="BOLIVISION.bo" tvg-logo="https://i.ibb.co/VYbn0v4D/Picsart-26-03-27-15-51-52-410.webp" group-title="TV Bolivia", Bolivisión TV
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://el4live2.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
