@@ -71,7 +71,7 @@ https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2602082488691fc3758469b
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMkV0RGC/1775731043847.webp" group-title="Nacional", Unife TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fds61NJ9/Picsart-26-04-20-23-10-55-517.webp" group-title="Nacional", Unife TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
