@@ -28,18 +28,19 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 ttp://107.152.39.199:8030/hls/canal23.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=024bb38ecf7831a54d6ff8eb9d9c5e6a:031599eff8092a9a9428363fb4356d53
+#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="Nacional", Telefe Internacional
+#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/TELEFE-HD/default.mpd
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://el4live1.boldmss.com/C13/C13_EL4.isml/manifest
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc0abcc84ec380cfc192b96d32abad23&key%5B%5D=9b7825385b89ff82d01909a4ae404877
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="Nacional", Telefe Satelital
-#EXTVLCOPT:http-user-agent=Android
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5bd469f8bf268d5d148c3971c7c23fca&key%5B%5D=9af98080d22846fdf2988b8ba9ec4add
