@@ -81,6 +81,10 @@ https://broker.cdn.rcs.net.ar/mnp/cn23/output.mpd
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
+#EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/qYJ9vMbb/Picsart-26-04-21-18-08-16-559.webp" group-title="Nacional", Latina TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/manifest
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
@@ -276,10 +280,6 @@ https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/manifest
-
-#EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/b5W3XzXw/1759612447854.webp" group-title="Nacional", Latina TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/manifest
 
 #EXTINF:-1 tvg-id="popular" tvg-logo="https://i.postimg.cc/PqK5Lpw0/Picsart-26-03-07-05-14-47-924.png" group-title="Nacional", La Popu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
