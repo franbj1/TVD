@@ -2087,7 +2087,7 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/unpcb7o0f5/out/v1/a9
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b5950b52758a34ea1f5f71a908d916eb&key%5B%5D=b490f71561a1f661e795b1939a552d82
-#EXTINF:-1 tvg-id="AXN VOS.es" tvg-logo="https://i.ibb.co/5W6W70WZ/Picsart-26-04-17-03-51-34-171.webp" group-title="TV España", AMC Living
+#EXTINF:-1 Amc Selekt.es tvg-logo="https://i.ibb.co/5W6W70WZ/Picsart-26-04-17-03-51-34-171.webp" group-title="TV España", AMC Living
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/bjvcxfu6f5/out/v1/a78d5d0687d34ddd9c7c77926685c760/cenc.mpd
 
