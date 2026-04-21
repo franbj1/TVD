@@ -4303,6 +4303,6 @@ Adultos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
-#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://i.ibb.co/yn9WFYTD/Playboy-Pink-Logo-Vector-svg.webp" group-title="Adultos", Playboy TV (18+)
+#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://i.ibb.co/XrxCHpDY/Picsart-26-04-21-05-09-16-283.webp" group-title="Adultos", Playboy TV (18+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://webclient.antinaplayplus.com.ar/
