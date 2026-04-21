@@ -3376,15 +3376,15 @@ https://1224-tbx.vrioott.com/tlc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HGTV.DGO.json
-#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/Kj5mZKHP/Picsart-26-04-05-14-44-40-937.webp" group-title="Cultura", ▲HGTV
+#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://i.ibb.co/Kj5mZKHP/Picsart-26-04-05-14-44-40-937.webp" group-title="Cultura", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1144-tbx.vrioott.com/hgtvlat/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6f85d8282bb6fe2db8f34299d5742f02&key%5B%5D=28d49f409d718ecad8f82f477d3beb77
 #EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://i.ibb.co/Dgj10TTb/Logo-Lifetime-2020-svg.webp" group-title="Cultura", Lifetime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime.playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://el4live1.boldmss.com/LIFETIME/LIFETIME_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
@@ -3425,8 +3425,8 @@ https://joy.nx-pc.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
 #EXTINF:-1 tvg-id="History HD.uy" tvg-logo="https://i.ibb.co/mCR9ZzyD/Picsart-26-04-04-16-44-26-533.webp" group-title="Cultura", History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://latan.stonetv.com.br/history/tracks-v1a1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://el4live1.boldmss.com/HISTORY/HISTORY_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HISTORY2.DGO.json
