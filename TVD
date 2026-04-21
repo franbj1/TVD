@@ -1322,7 +1322,7 @@ https://cdn-live.mundogo.cl/chvcontigo/chvcontigo.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/8rcvvqk7sol0nfkbqmxos/mega-mundogo.json?rlkey=j2s6y0b40h8zb0g4fqsfiflo9&st=lecr68xp&dl=0
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.ibb.co/j9XJkCK9/Picsart-26-01-27-21-10-07-132.webp" group-title="TV Chile", Mega
-https://cdn-live.mundogo.cl/megahd/megahd.mpd
+http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/mloccckzoasgc7w33sz84/mega2-mundogo.json?rlkey=f9gq5klep5kpihtc4xu2haj0c&st=ockk27am&dl=0
