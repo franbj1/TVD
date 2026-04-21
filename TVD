@@ -28,13 +28,6 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
 ttp://107.152.39.199:8030/hls/canal23.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=024bb38ecf7831a54d6ff8eb9d9c5e6a:031599eff8092a9a9428363fb4356d53
-#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.ibb.co/6RhCVxkS/Picsart-25-07-25-19-12-27-116.png" group-title="Nacional", Telefe Internacional
-#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://nog-live1-ott.izzigo.tv/11/out/u/dash/TELEFE-HD/default.mpd
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
-
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
@@ -48,6 +41,17 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1d7d1609477d0b0d51a5b7d1539e65eb&key%5B%5D=90b61b3fa577eab7b53ef6f1caeb82bf
+#EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/kVN5KV6w/Picsart-26-03-30-09-17-16-870.webp" group-title="Nacional", Bravo TV
+#EXTVLCOPT:http-user-agent="Android
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2602082488691fc3758469b
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
+
 #EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/jkmfqg69/Picsart-26-04-20-22-48-15-364.webp" group-title="Nacional", Tec TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
@@ -59,12 +63,6 @@ https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Android
 https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1d7d1609477d0b0d51a5b7d1539e65eb&key%5B%5D=90b61b3fa577eab7b53ef6f1caeb82bf
-#EXTINF:-1 tvg-id="BRVO.ar" tvg-logo="https://i.ibb.co/kVN5KV6w/Picsart-26-03-30-09-17-16-870.webp" group-title="Nacional", Bravo TV
-#EXTVLCOPT:http-user-agent="Android
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2602082488691fc3758469b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fds61NJ9/Picsart-26-04-20-23-10-55-517.webp" group-title="Nacional", Unife TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -82,11 +80,6 @@ https://broker.cdn.rcs.net.ar/mnp/cn23/output.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
-#EXTVLCOPT:http-user-agent="Android
-https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
@@ -158,33 +151,33 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1894229072ccac2d0f6a101d618d039d&key%5B%5D=9a7ea848df202bf22ac51bda4482a4c2
-#EXTINF:-1 tvg-id="CNLE.ar" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="Nacional", Canal E
+#EXTINF:-1 tvg-id="CANAL E.ar" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="Nacional", Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9666b195171442afd4551a8de01291a6&key%5B%5D=1c0061df9b4b098e40355167e97cfbf0
 #EXTINF:-1 tvg-id="DIPUTADOS TV ARG" tvg-logo="https://i.ibb.co/1GP5w3sy/Picsart-25-11-16-19-03-22-897.webp" group-title="Nacional", DTV
-https://edge-mix01-res.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ca50103f3285421e8be7da8c0c0e7a54&key%5B%5D=3608e92a6feddf228c1f035ebb764426
 #EXTINF:-1 tvg-id="Senado.ar" tvg-logo="https://i.ibb.co/C3TmY7Sm/1767889392439.webp" group-title="Nacional", Senado TV
-https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=695d07988114f7fec31f8f27a6d67c32&key%5B%5D=8e4fbb96cff6a31c88f81565b199a13a
-#EXTINF:-1 tvg-id="199#KZO" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="Nacional", KZO Entertaiment
-https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd
+#EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="Nacional", KZO Entertaiment
+https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=719aa3a5e270c7f69eba374ed80d7986&key%5B%5D=97ac59118cf4cf242e2c31e87cd38e1e
 #EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
-https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0e1327b5b1f4dfe767aec622c9ef64ce&key%5B%5D=60c64a922af0121bf73261c825e33f18
 #EXTINF:-1 tvg-id="MIX TV" tvg-logo="https://i.ibb.co/5XnLGvW4/large-Mix-TV-2025-png-4dd90f7650b5e1345b680bef6e6cb0c5.png" group-title="Nacional", Mix TV
-https://edge-mix01-res.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczODAzNjk4Iiwic2lwIjoiMzguMTY1LjIzMy40NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvX05vdGljaWFzXzRLL1NBX0xpdmVfZGFzaF93aWRldmluZS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhjMjdlODViMDJmZjdjNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDg2LDg4XX0=.5X6QXkw9E25wJd12rNwNRNlhXATZP3XAnd2wFxqEA1C1nlvE-vANd8HaHKgNDJSlqMrKoOC2uHTiVV780EStWg==/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd
+https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
