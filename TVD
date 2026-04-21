@@ -4296,8 +4296,12 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6a981b8e-342c-4e98-a987-a55c14ca067b.png?raw=true" group-title="Mundo", 3/24
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
+Adultos(18)
+
+#EXTINF:-1 group-logo="https://i.ibb.co/4g7B5fky/Picsart-26-04-21-04-30-41-713.webp"
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
-#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://i.ibb.co/yn9WFYTD/Playboy-Pink-Logo-Vector-svg.webp", group-title="Adultos" Playboy TV (18+)
+#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://i.ibb.co/yn9WFYTD/Playboy-Pink-Logo-Vector-svg.webp" group-title="Adultos", Playboy TV (18+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 https://cdn.sensa.com/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://webclient.antinaplayplus.com.ar/
