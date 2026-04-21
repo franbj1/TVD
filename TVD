@@ -2195,9 +2195,7 @@ https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r3/__c/Boing_HD_B/__op/dash-wv/__f/m
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/Disney_Junior_HD/__op/dash-wv/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="Pequeradio TV.es" tvg-logo="https://i.supaimg.com/8a47edbb-20d9-4306-bf8e-61bb2d5e2ba5.png?raw=true" group-title="TV España", Peque TV
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="Ten.es" tvg-logo="https://i.supaimg.com/8a47edbb-20d9-4306-bf8e-61bb2d5e2ba5.png?raw=true" group-title="TV España", Peque TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8Add commentMore actions
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
