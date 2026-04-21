@@ -749,7 +749,7 @@ https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 http://107.152.39.199:8030/hls/canal15.m3u8
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/99szNZgW/1776798196038.webp" group-title="TV Colombia", Canal Uno
-http://liketv.pro:80/User1626/28TM4MEU66/02.m3u8
+http://107.152.39.199:8030/hls/canal2.m3u8
 
 #EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", TR3CE
 http://107.152.39.199:8030/hls/canal12.m3u8
