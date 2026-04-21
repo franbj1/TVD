@@ -1716,7 +1716,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_cenc/Canal1
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
-#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/PZRBFTyw/Picsart-25-12-26-14-34-01-011.webp" group-title="TV Uruguay", Teledoce
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/spX1Krvq/Picsart-26-04-21-09-52-16-871.webp" group-title="TV Uruguay", Teledoce
 https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_cenc/Canal12URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
