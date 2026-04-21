@@ -102,7 +102,7 @@ https://bvclive2.boldmss.com/TELEMAX/TELEMAX.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b1d643b42908bda2927137cf3747e1a&key=9ccd9052a9a28c05096996e82c080eb3
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/800/542/0/0/98997452071605.png" group-title="Nacional", CINE AR
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.ibb.co/3yPC2cMb/Picsart-26-04-21-16-36-55-735.webp" group-title="Nacional", CINE AR
 https://broker.cdn.rcs.net.ar/mnp/cinear/output.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
