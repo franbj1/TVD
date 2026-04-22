@@ -636,29 +636,29 @@ https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-id="Red Uno.bo" tvg-logo="https://i.ibb.co/WpcBk6s6/1774633793238.webp" group-title="TV Bolivia", Red Uno
 https://live.eu-north-1b.cf.dmcdn.net/sec2(TKXoPTa5aqfSviJsO1H5nTG3cBvfLSsYpXdH-fqF1y_HyttNm794379oiLuvVohb3SMeZGDNlRooZUEOPpux3vSmgVdIU_g-6Gg8ak0taqJpXPPcoP-quOA9U50rUx1Y)/dm/3/x9n2qyk/s/live-720.m3u8#cell=lcf-eu-north-1b
 
+#EXTINF:-1 tvg-id="0957" tvg-name="PAT • Bolivia"  tvg-logo="https://i.ibb.co/nMtRN5rh/Picsart-26-03-09-01-34-18-440.webp" group-title="TV Bolivia", Pat TV
+https://www.redpat.tv:8000/play/12/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.ibb.co/tpPg27qL/RTPbolivia2021.webp" group-title="TV Bolivia", RTP
+#EXTINF:-1 tvg-id="0958" tvg-name="RTP • Bolivia" tvg-logo="https://i.ibb.co/tpPg27qL/RTPbolivia2021.webp" group-title="TV Bolivia", RTP
 https://rtp.noxun.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Gigavision.bo" tvg-logo="https://i.ibb.co/cSzKpmpL/Picsart-26-04-20-07-58-59-326.webp" group-title="TV Bolivia", Gigavisión
+#EXTINF:-1 tvg-id="0960" tvg-name="F10 • Bolivia"  tvg-logo="https://i.ibb.co/5XLKNLSV/Picsart-26-03-27-13-32-40-271.webp" group-title="TV Bolivia", F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-id="0961" tvg-name="Gigavisión • Bolivia"  tvg-logo="https://i.ibb.co/cSzKpmpL/Picsart-26-04-20-07-58-59-326.webp" group-title="TV Bolivia", Gigavisión
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
 https://master.tucableip.com/univalletv/video.m3u8
 
-#EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/5XLKNLSV/Picsart-26-03-27-13-32-40-271.webp" group-title="TV Bolivia", F10
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-
-#EXTINF:-1 tvg-id="Cadena.bo" tvg-logo="https://i.ibb.co/wNKW58pR/1774627131369.webp" group-title="TV Bolivia", Cadena
+#EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.ibb.co/wNKW58pR/1774627131369.webp" group-title="TV Bolivia", Cadena A
 https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Red Advir.bo" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Bolivia", Rede Advenir https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
 
-#EXTINF:-1 tvg-id="PAT.bo" tvg-logo="https://i.ibb.co/nMtRN5rh/Picsart-26-03-09-01-34-18-440.webp" group-title="TV Bolivia", Pat TV
-https://www.redpat.tv:8000/play/12/index.m3u8
-
-#EXTINF:-1 tvg-id="TVU.py" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
+#EXTINF:-1 tvg-id="TVU.bo" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
 https://live.enhdtv.com:8081/8190/index.m3u8
 
 TV Colombia
