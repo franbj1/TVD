@@ -236,19 +236,8 @@ https://cdn.pontiscloud.com/output/SMT6/BTVD/output.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="EVENTOS HD.ar" tvg-logo="https://i.ibb.co/hJpRHYSb/Picsart-25-11-16-20-43-14-788.webp" group-title="Nacional", Gen TV
-https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Five TV
 https://panel.host-live.com:19360/8118/8118.m3u8
-
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/svkNt2zC/Picsart-25-11-04-17-43-41-786.webp" group-title="Nacional", Neo TV Digital
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/RpBx1DNJ/Picsart-26-01-08-18-19-07-464.webp" group-title="Nacional", Señal Urbana +
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
@@ -268,37 +257,6 @@ https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https:/
 #EXTINF:-1 tvg-id="Futurock.ar" tvg-logo="https://i.ibb.co/fd0016YY/Picsart-25-11-09-03-51-31-097.webp" group-title="Nacional", Futu Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Futurock/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/8LN4NGpz/Picsart-26-03-07-04-05-18-965.webp" group-title="Nacional", Vale 97.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-
-#EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/q3Sh0DLM/Picsart-25-11-04-17-11-44-504.webp" group-title="Nacional", Music Top
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest
-
-#EXTINF:-1 tvg-id="Tierra Mía TV.ar" tvg-logo="https://i.ibb.co/DD2WcVZX/1755475466173.webp" group-title="Nacional", Tierra Mia TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/manifest
-
-#EXTINF:-1 tvg-id="popular" tvg-logo="https://i.postimg.cc/PqK5Lpw0/Picsart-26-03-07-05-14-47-924.png" group-title="Nacional", La Popu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
-
-#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://i.ibb.co/R4659vcp/Picsart-26-03-07-05-05-06-595.webp" group-title="Nacional", Cosquin Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-
-#EXTINF:-1 tvg-id="Cadena3" tvg-logo="https://i.postimg.cc/g2XVHpDV/logo2-cadena-3.png" group-title="Nacional", Cadena 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
 #EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/cS0dHxjH/Picsart-25-08-22-14-32-37-223.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
 https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
@@ -3477,7 +3435,7 @@ https://joy.nx-pc.edge-apps.net/hls/l4b0l-njg9j-4ic97-4c15b.m3u8
 #EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music Top
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Vmlatino.cr" tvg-logo="https://i.supaimg.com/206c9c19-1f5c-4992-864f-b22f6e3f9c27.png" group-title="Música", VM Latino
 #EXTVLCOPT:network-caching=1000
@@ -3494,7 +3452,7 @@ https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
 #EXTINF:-1 tvg-id="Tierra Mia TV.ar" tvg-logo="https://i.ibb.co/yFZSZKVL/1763845886680.webp" group-title="Música", Tierra Mía
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36",
-http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="MTV Live.us" tvg-logo="https://i.ibb.co/ZRYHm9f6/Picsart-26-03-28-02-47-11-930.webp" group-title="Música", MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
