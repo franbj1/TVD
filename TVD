@@ -100,7 +100,7 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?|referer=h
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Android
-https://bvclive2.boldmss.com/TELEMAX/TELEMAX.isml/manifest
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b1d643b42908bda2927137cf3747e1a&key=9ccd9052a9a28c05096996e82c080eb3
@@ -156,7 +156,7 @@ https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e32aaa4b67430b3b51be1efce5a74ac5&key%5B%5D=ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="Nacional", Canal 26
 #EXTVLCOPT:http-user-agent="Android
-https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5299f96f873aa0f0e47edc4e15784717&key%5B%5D=9d53176b0969492f2d93f1867be1dce1
@@ -185,9 +185,11 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_wl/Canal_90.mpd
 https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_wl/KZO.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=719aa3a5e270c7f69eba374ed80d7986&key%5B%5D=97ac59118cf4cf242e2c31e87cd38e1e
-#EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
-https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_wl/Metro.mpd
+#EXTVLCOPT:almacenamiento en caché de red=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0e1327b5b1f4dfe767aec622c9ef64ce&key%5B%5D=60c64a922af0121bf73261c825e33f18
@@ -223,13 +225,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
 #EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
 https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7xNMRPMw/Picsart-25-07-06-13-09-54-823.png" group-title="Nacional", Metro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxhX1scn/Picsart-26-03-06-16-34-05-762.webp" group-title="Nacional", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
