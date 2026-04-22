@@ -2392,15 +2392,15 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports 1
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
 https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", D Sports +
+#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", D Sports +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
