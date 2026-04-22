@@ -424,7 +424,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_cenc/Tel
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec52ca8f4d229ae6aae86b6835256ed:506afbd8be37e388f5d3ceb7992069d4
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/v6hdbS96/Picsart-25-12-18-18-24-03-780.webp" group-title="Nacional", Canal 7 SDE
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/DHpd8XTd/1776825148108.webp" group-title="Nacional", Canal 7 SDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://chromecast.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_cenc/Canal7_SDE.mpd
 
