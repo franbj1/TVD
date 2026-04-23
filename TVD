@@ -2816,7 +2816,7 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a47bfb9e246f3b8405c1225fae73da9e&key%5B%5D=a4865fb8742b4541f64ac37370e902a6
 #EXTINF:-1 tvg-id="0317" tvg-name="Plim Plim TV" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2831,6 +2831,16 @@ https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_2A_wl/Kidoo.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
+#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/TxhQ2Pgd/Picsart-26-04-16-13-11-27-111.webp" group-title="Infantil", Clan
+https://aca-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
+#EXTINF:-1 tvg-id="0330" tvg-name="Edye TV" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
+https://aca-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
 #EXTINF:-1 tvg-id="0312" tvg-name="Pakapaka" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
@@ -2842,11 +2852,6 @@ https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 #EXTINF:-1 tvg-id="0308" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
-#EXTINF:-1 tvg-id="0330" tvg-name="Edye TV" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
-https://aca-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6c9b3103cd519fcad556e84f918998cd&keyid%5B%5D=391ad12844fdb7c127e2c7ba23582b3b
@@ -2861,11 +2866,6 @@ https://1234-tbx.vrioott.com/adultswim/manifest.mpd
 
 #EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/YSVxfF5j/Picsart-26-02-28-02-09-27-892.png" group-title="Infantil", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
-#EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/B5QsG4Gh/Clan-2026-svg.webp" group-title="Infantil", Clan
-https://aca-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
