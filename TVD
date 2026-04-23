@@ -2780,17 +2780,17 @@ https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2f70f543b9effe70bff3f97542ff6ff5&key%5B%5D=6a7e17712027287a68adda6e1df4716a
-#EXTINF:-1 tvg-id="Dreamworks.uy" tvg-logo="https://i.ibb.co/DfPjZmxV/Picsart-25-11-23-02-02-43-934.webp" group-title="Infantil", DreamWorks TV
+#EXTINF:-1 tvg-id="0309" tvg-name="DreamWorks TV" tvg-logo="https://i.ibb.co/1fWqN8VP/Picsart-26-04-23-01-56-07-909.webp" group-title="Infantil", DreamWorks TV
 #EXTVLCOPT:http-user-agent=Android
 https://el4live1.boldmss.com/DREAMWORKS/DREAMWORKS_EL4.isml/manifest
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/NICKELODEON.DGO.json
 #EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://i.ibb.co/BHMw5CQm/Nickelodeon-Splat-2023-Sin-Fondo.webp" group-title="Infantil", Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://1175-tbx.vrioott.com/nickelodeon/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/NICKJR.DGO.json
 #EXTINF:-1 tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png" group-title="Infantil", Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -2798,8 +2798,8 @@ https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=320e1cb23cf15aa8f41a9edd52baa655&key%5B%5D=63c5e57ae2a2bc7dab3c67cac1a6c956
-#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
-https://zap-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
+#EXTINF:-1 tvg-id="0310" tvg-name="BabyFirst TV" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
+https://nog-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/BABYTV.DGO.json
@@ -2809,22 +2809,19 @@ https://1024-tbx.vrioott.com/babytv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=39673983f4ba22f0f80c0934ce0424c8&key%5B%5D=cd9f3498cb63cc72d1317b14a67ab93c
-#EXTINF:-1 tvg-id="CANAL INFANTIL" tvg-logo="https://i.supaimg.com/c32a05bc-0f6a-433f-bca6-d6dc7ba5f30a.webp" group-title="Infantil", Canal Infantil
+#EXTINF:-1 tvg-id="0315" tvg-name="Canal Infantil" tvg-logo="https://i.ibb.co/vxWKdYs2/Picsart-26-04-23-01-53-34-540.webp" group-title="Infantil", Canal Infantil
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 
-#EXTINF:-1 tvg-id="el reino infantil" tvg-logo="https://i.ibb.co/cSBQ3HRK/Contenedor-Logo-ERI-Nube-White-1.webp" group-title="Infantil", El Reino Infantil
-https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a47bfb9e246f3b8405c1225fae73da9e&key%5B%5D=a4865fb8742b4541f64ac37370e902a6
-#EXTINF:-1 tvg-id="PLIM.ar" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
+#EXTINF:-1 tvg-id="0317" tvg-name="Plim Plim TV" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dcd89337a501ab929c01a039774089dc&key%5B%5D=e96cc7be9139a8d581b3f5eebebfc10d
-#EXTINF:-1 tvg-id="KidOO" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
+#EXTINF:-1 tvg-id="0321" tvg-name="Kidoo" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_2A_wl/Kidoo.mpd
 
@@ -2836,24 +2833,24 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
+#EXTINF:-1 tvg-id="0312" tvg-name="Pakapaka" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
-#EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
+#EXTINF:-1 tvg-id="0308" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
-#EXTINF:-1 tvg-id="EDYE TV.mx" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
+#EXTINF:-1 tvg-id="0330" tvg-name="Edye TV" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
 https://aca-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6c9b3103cd519fcad556e84f918998cd&keyid%5B%5D=391ad12844fdb7c127e2c7ba23582b3b
-#EXTINF:-1 tvg-id="USA.uy" tvg-logo="https://i.ibb.co/FkVcP4qX/Bit-Me-Carumbia-2025.webp" group-title="Infantil", Bitme
+#EXTINF:-1 tvg-id="0318" tvg-name="BitMe" tvg-logo="https://i.ibb.co/FkVcP4qX/Bit-Me-Carumbia-2025.webp" group-title="Infantil", Bitme
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
