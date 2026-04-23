@@ -3418,7 +3418,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A_wl/Vorterix.mp
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" tvg-logo="https://i.ibb.co/pr5HtSww/Picsart-25-11-04-14-16-42-433.webp" group-title="Música", CM Canal de la Música
 #EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/i7gnj-ipp8m-bc68e-ad3hd.m3u8
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/b9d3b003-b954-4e8f-b9a6-1cec72b0a305.png" group-title="Música", HTV Música
 #KODIPROP:inputstream.adaptive.license_type=clearkey
