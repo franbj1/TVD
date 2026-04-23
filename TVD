@@ -3420,26 +3420,23 @@ https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A_wl/Vorterix.mp
 #EXTVLCOPT:http-user-agent=Android
 https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/b9d3b003-b954-4e8f-b9a6-1cec72b0a305.png" group-title="Música", HTV Música
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
+#EXTINF:-1 tvg-id="0504" tvg-name="HTV" tvg-logo="https://i.supaimg.com/b9d3b003-b954-4e8f-b9a6-1cec72b0a305.png" group-title="Música", HTV Música
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/l4b0l-njg9j-4ic97-4c15b.m3u8
 
-#EXTINF:-1 tvg-id="Musictop.ar" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music Top
+#EXTINF:-1 tvg-id="0543" tvg-name="Music TOP" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music TOP
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest
 
-#EXTINF:-1 tvg-id="Tierra Mia TV.ar" tvg-logo="https://i.ibb.co/yFZSZKVL/1763845886680.webp" group-title="Música", Tierra Mía
+#EXTINF:-1 tvg-id="0542" tvg-name="TierraMia" tvg-logo="https://i.ibb.co/yFZSZKVL/1763845886680.webp" group-title="Música", Tierra Mia  TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36",
 https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/manifest
 
-#EXTINF:-1 tvg-id="Vmlatino.cr" tvg-logo="https://i.supaimg.com/206c9c19-1f5c-4992-864f-b22f6e3f9c27.png" group-title="Música", VM Latino
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="0535" tvg-name="VM Latino" tvg-logo="https://i.supaimg.com/206c9c19-1f5c-4992-864f-b22f6e3f9c27.png" group-title="Música", VM Latino
+#EXTVLCOPT:http-user-agent=Default
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?|referer=https://www.vmlatino.com/en-vivo
 
 #EXTINF:-1 tvg-id="Tropicalia.py" tvg-logo="https://i.ibb.co/nqQvTzrp/Picsart-26-04-18-14-04-37-901.webp" group-title="Música", Tropicalia
 #EXTVLCOPT:http-user-agent=Android
