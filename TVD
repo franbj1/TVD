@@ -2426,11 +2426,32 @@ https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
 https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
+
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+https://el4live2.boldmss.com/TYC_BAK/TYC_BAK_EL4.isml/manifest
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.ibb.co/rKSbMFnc/Picsart-25-10-21-18-59-02-687.webp" group-title="Deportes", DeporTV
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9a70c294ea75346b991a61c55ff1d8f:7012eb6cd752998ee5cfbe68517491f5
@@ -2496,25 +2517,6 @@ https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=be43a68903a920561dc14daf19229d97&keyid%5B%5D=bad94ad091751a8adf0369f80ca83d17
 #EXTINF:-1 tvg-id="Claro Sports 2.pe" tvg-logo="https://i.ibb.co/k6x1D349/Picsart-25-11-07-20-10-40-849.webp" group-title="Deportes", Claro Sports 2
 https://d14vi32khctxqc.cloudfront.net/live/0734bfb5-ca28-44a2-a241-00a95582e92d/live.isml/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c1a9538-96eb-4001-8f58-24e241d8f722.png" group-title="Deportes", TyC Sports SD
-https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/800/542/0/0/28233186072861.png?raw=true" group-title="Deportes", TyC Sports HD
-#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A_wl/TyCSport.mpd
-
-
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/h1CjxqwT/Picsart-25-09-01-06-15-06-130.webp" group-title="Deportes", TyC Sports Internacional
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A_wl/TyC_Internacional.mpd
 
 #EXTINF:-1 tvg-id="Bein Sports" tvg-logo="https://i.ibb.co/NgmVDLTN/6595-1491352332.webp" group-title="Deportes", Bein Sports XTRA Ñ
 #EXTVLCOPT:http-user-agent=Android
