@@ -1662,28 +1662,43 @@ TV Uruguay
 #EXTINF:-1 group-logo="https://i.ibb.co/S4nC6fXB/Picsart-26-01-11-04-28-20-714.webp"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
+#KODIPROP:inputstream.adaptive.license_key=88928eece082402b99598ae4ecc08be6:d03c32df212148b40eecb445222e1288
 #EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4
+https://mcgo3.boldmss.com/CANAL_4/CANAL_4_MC.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff44d9aca7fe481da98900d1f79cb345:bca3a993208129b9bd4eed159d8cdfb2
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/pBnQRn5m/1776808271991.webp" group-title="TV Uruguay", Canal 10
+https://mcgo3.boldmss.com/SAETA_HD/SAETA_HD_MC.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e36b18dc45c4d83868da659f5354938:297464517e9c7f055e12095e6ac2b07b
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/spX1Krvq/Picsart-26-04-21-09-52-16-871.webp" group-title="TV Uruguay", Teledoce
+https://mcgo3.boldmss.com/TELEDOCE_HD/TELEDOCE_HD_MC.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
+#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 FLOW
 https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_cenc/Canal4_URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dd34782d754f8fcb1e8b38da9ffad0b:6fb97467c0f0ea13f86d41a70e029c51
-#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/pBnQRn5m/1776808271991.webp" group-title="TV Uruguay", Canal 10
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/pBnQRn5m/1776808271991.webp" group-title="TV Uruguay", Canal 10 FLOW
 https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_cenc/Canal10_URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
-#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/spX1Krvq/Picsart-26-04-21-09-52-16-871.webp" group-title="TV Uruguay", Teledoce
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/spX1Krvq/Picsart-26-04-21-09-52-16-871.webp" group-title="TV Uruguay", Teledoce FLOW
 https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_cenc/Canal12URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
-#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5
+#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 FLOW
 https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_cenc/TV_Nacional_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad
+#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad FLOW
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_cenc/Teve_Ciudad.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1715,7 +1730,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_cenc/Eventos_2_UY
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c926dba1fe354d529601ee6e38fe0a4b&key=41c5da6d1608e6377ff86c0ded7d042a
 #EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal 21
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
-https://mcgo3.boldmss.com/CANAL_21/CANAL_21_MC.isml/manifest
+https://mcgo3.boldmss.com/CANAL_21_HD/CANAL_21_HD_MC.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Florida Televisora Color HD.uy" tvg-logo="https://i.ibb.co/Q3VVPF9W/Picsart-26-02-04-04-34-03-266.webp" group-title="TV Uruguay", TV Florida
 https://hostingservicios.info/hls/tv-florida.m3u8
@@ -1752,12 +1767,12 @@ https://stream.vivotv.uy/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0fbc166dff13d88110711c481ed3a843&keyid%5B%5D=a7c46c55c7c649b9845e70a3c8ea52ad
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/tTNHVGkV/Picsart-26-02-01-03-17-18-956.webp" group-title="TV Uruguay", ESPN
-https://mcgo2.boldmss.com/ESPN/ESPN_MC.isml/dash/ESPN_MC.mpd
+https://mcgo3.boldmss.com/ESPN_HD/ESPN_HD_MC.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=4e64f9c1fd2875639db92b196f24d891&keyid%5B%5D=36489d6546144b29989e021008a950a5
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/jPsCtm6m/Picsart-26-02-01-03-29-10-621.webp" group-title="TV Uruguay", ESPN 2
-https://mcgo2.boldmss.com/ESPN_2/ESPN_2_MC.isml/dash/ESPN_2_MC.mpd
+https://mcgo3.boldmss.com/ESPN_2/ESPN_2_MC.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=29fc38baf3a54e6857c36aa5d409766a&keyid%5B%5D=e835e1826123484597aa98bf6ee66df5
