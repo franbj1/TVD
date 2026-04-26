@@ -1686,6 +1686,16 @@ https://mcgo3.boldmss.com/SAETA_HD/SAETA_HD_MC.isml/manifest.mpd
 https://mcgo3.boldmss.com/TELEDOCE_HD/TELEDOCE_HD_MC.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=deb8f98c76cb2314c26488adc84de3a0&keyid%5B%5D=5d73cf2e179d5a11885a551f3bd2f956
+#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5
+https://1222-tbx.vrioott.com/canal5/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=de7a1cb5d92e2ea76f796788439150f8&keyid%5B%5D=e70fdcdc640e5bfa8e479c5ea0187326
+#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad
+https://1237-tbx.vrioott.com/tvciudad/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
 #EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 FLOW
 https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_cenc/Canal4_URU.mpd
@@ -1697,7 +1707,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_cenc/Canal1
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
-#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/spX1Krvq/Picsart-26-04-21-09-52-16-871.webp" group-title="TV Uruguay", Teledoce FLOW
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/vvkkBJKX/Picsart-26-04-26-19-43-47-541.webp" group-title="TV Uruguay", Teledoce FLOW
 https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_cenc/Canal12URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1709,16 +1719,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_cenc/TV_
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
 #EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad FLOW
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_cenc/Teve_Ciudad.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=deb8f98c76cb2314c26488adc84de3a0&keyid%5B%5D=5d73cf2e179d5a11885a551f3bd2f956
-#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5
-https://1222-tbx.vrioott.com/canal5/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=de7a1cb5d92e2ea76f796788439150f8&keyid%5B%5D=e70fdcdc640e5bfa8e479c5ea0187326
-#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad
-https://1237-tbx.vrioott.com/tvciudad/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
