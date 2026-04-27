@@ -34,6 +34,7 @@ ttp://107.152.39.199:8030/hls/canal23.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe AR
+#EXTVLCOPT:http-user-agent="Android
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
