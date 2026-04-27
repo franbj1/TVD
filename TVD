@@ -3066,6 +3066,7 @@ https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd?|referer=https://w
 #KODIPROP:inputstream.adaptive.license_key=https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzcyMjc5NTksInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.p0A8pkmaAKSCmPcPDhU2LJ2rxktu-IDxtA9bSVQp8gdRMuuT8Yxw6pFWNeYzTt4t3IhiY74BPo4dhI-4vNUIBMpWcMvCIji4x3AJtWC2Zpo5Ft8TQKcsYS5lJHSSUZ4KeJxhCXCZSJXffO1SstIULymOK_o0OYxf9CeBxzlz5IZhlkjZhD_BkubnMD94A0EsPGpSTbKAdzPUQld6GoJXwbq6IO_Pz-p84F3AMnQGykYAZWzwT8Z9bnXrAht1w0R1NufbH_ZttvUb1pwbbi6UiPWU9jVpj8lTY-o_3xnEHNNEhI-gbQthqT0TaKw36sE5qsXeN3sXJXpETolYRLdOMQ
 #EXTINF:-1 tvg-id="Tropicalia.py" tvg-logo="https://i.postimg.cc/y8h26QsD/j6e798mbhr-EE-logo-(1).png" group-title="Cine + Series", Europa Europa
 #EXTVLCOPT:http-user-agent=Android
+https://el4live1.boldmss.com/EUROPA_EUROPA/EUROPA_EUROPA_EL4.isml/manifest
 https://broker.cdn.rcs.net.ar/mnp/europa/output.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
