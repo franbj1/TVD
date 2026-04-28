@@ -2136,6 +2136,36 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mag6zvyved/out/v1/86
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/djatr7o8sq/out/v1/b9ae77d15eaa4bf199e531a759470dc5/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=fc243b64966d05458f20195bd1f892db&keyid%5B%5D=101ae4e5db4f48b1ab2e3e7e51f2b879
+#EXTINF:-1 tvg-id="Be Mad.es" tvg-logo="https://i.ibb.co/WWMrpQRw/Be-Mad-2022-Logo-svg.webp" group-title="TV España", Be Mad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cache07.zapitv.com/live/eds_c2/bemad_hd/dash_live_ez/bemad_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=90854705154fd5b33b430bbe1aa2a78f&keyid%5B%5D=04bbdbd6a74f290646a50057733fb992
+#EXTINF:-1 tvg-id="TCM.es" tvg-logo="https://i.ibb.co/YTK5x6Dg/Picsart-26-04-28-09-09-24-504.webp" group-title="TV España", TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/TCM_HD_A/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=765adb29aef6255ea44533b3babbe2e3&keyid%5B%5D=719b1a9aa5004db9af1ed19172410823
+#EXTINF:-1 tvg-id="TNT.es" tvg-logo="https://i.ibb.co/zqSnkmw/Picsart-26-04-28-09-12-40-205.webp" group-title="TV España", Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cache07.zapitv.com/live/eds_c2/tnt/dash_live_ez/tnt.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=121ded2124286b941a371a5c679d09ac&keyid%5B%5D=592a9470ca8ebed314efe2493bba2ca3
+#EXTINF:-1 tvg-id="EscapaTV.es" tvg-logo="https://i.ibb.co/SHkN0SN/Picsart-26-04-28-09-28-01-701.webp" group-title="TV España", Escapa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Escapa_TV_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=904610849c2c93e238e98ecc1fd34323&key%5B%5D=fcaa6515a3d5db63f186eeead8968948
+#EXTINF:-1 tvg-id="National Geographic.es" tvg-logo="https://i.ibb.co/67n9Nv5t/image-73396-converted-To-Png.webp" group-title="TV España", Selekt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/SELEKT_CABLE_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5dbf8f994f1fa5dd5519382c7ddf3f8d&key%5B%5D=bed54cb448c909d31c79478deaa60616
 #EXTINF:-1 tvg-id="Somos.es" tvg-logo="https://i.ibb.co/fYw1kvx1/Picsart-26-04-14-20-21-32-281.webp" group-title="TV España", Somos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
