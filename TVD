@@ -2184,6 +2184,42 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/esiotal5zq/out/v1/c0
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/vj617waw17/out/v1/64aea7701f014f1693af57e3ac7b3689/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=63de85cf715c4f1172d94ca23ab56977&key%5B%5D=c9e85be7ef107f49f70cecc39b5e1e78
+#EXTINF:-1 tvg-id="Canal Cocina.es" tvg-logo="https://i.ibb.co/jkL60HGy/LOGO-COCINA.webp" group-title="TV España", Canal Cocina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/ulduhfsvym/out/v1/62ffe76fbf4a40ada482df60d46edab1/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=fce85fb781be366e25c295ad6b1b2cd9&keyid%5B%5D=a2601d112eb04eeb908176e0a0579b25
+#EXTINF:-1 tvg-id="VEO7.es" tvg-logo="https://i.ibb.co/0V2n9qNR/Nuevo-Logo-de-VEO-7-en-Septiembre-2025-svg.webp" group-title="TV España", VEO7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cache07.zapitv.com/live/eds_c2/gol_tv/dash_live_ez/gol_tv.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=34470939de7cee65b2ed233302f9a27b&keyid%5B%5D=98bf90e780114590239c3eb5cf7f31af
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.ibb.co/mFrhHtGb/Picsart-26-04-28-17-43-10-537.webp" group-title="TV España", Divinity
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Divinity_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=d53c30a2172b6826cdd90aa0f420c573&keyid%5B%5D=b78575eba60b7f9198677ac9d48d0650
+#EXTINF:-1 tvg-id="FDF.es" tvg-logo="https://i.ibb.co/gbzDgJcd/Factor-a-de-Ficci-n-svg.webp" group-title="TV España", FDF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/FDF_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6ecd14b91901983d229d034f2aec3bbd&keyid%5B%5D=0e3ee9e756605e7da5ac62c1ff9c0ed4
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://i.ibb.co/20k10fcr/Energy-2012.webp" group-title="TV España", Energy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Energy_HD/__op/dash-wv/__f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=4afbe5207cde65872d005b1daedcc9b4&keyid%5B%5D=72ca88134c2842b78aa171068b1c61f4
+#EXTINF:-1 tvg-id="TRECE.es" tvg-logo="https://i.ibb.co/zVFqknLb/Trece-svg.webp" group-title="TV España", Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cache1.zapitv.com/live/eds_c2/TRECETV/dash_live_ez/TRECETV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=271a02e1bc5decc30ac1eee7b1353b3d&key%5B%5D=3510f830b5873c9b3a4fa75c5c8e7b12
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.ibb.co/8gvL6X73/MEGA-svg.webp" group-title="TV España", MEGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
