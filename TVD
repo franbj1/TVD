@@ -2091,7 +2091,7 @@ https://cache07.zapitv.com/live/eds_c2/calle_13/dash_live_ez/calle_13.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f021533f180e1eac9983db85e4d99bd9&key%5B%5D=c8d8e7b3298b1f938d6a498acaa9365c
 #EXTINF:-1 tvg-id="Bon Dia TV.es" tvg-logo="https://i.ibb.co/5WgfcYCL/Picsart-26-04-17-04-08-30-949.webp" group-title="TV España", BOM Cine 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn03051.cdn.agiletv.net/__cl/cg:lv-p1/__c/BomCine_HD/__op/dash-wv/__f/manifest.mpd
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/BomCine_HD/__op/dash-wv/__f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=16257ff813b1dbeaf5573871f540ad70&keyid%5B%5D=a753e0a4a5084b61ba93ae058c38b1ba
@@ -2115,7 +2115,7 @@ https://cache4.zapitv.com/live/eds_c2/paramount_channel/dash_live_ez/paramount_c
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=13ff6a1cc570dc53f7ce42e70db1ad82&key%5B%5D=8d97281b0a59e66cc56f954cf738589c
 #EXTINF:-1 tvg-id="STAR Channel.es" tvg-logo="https://i.ibb.co/gb0KKnHz/image-70007-converted-To-Png.webp" group-title="TV España", Star Channel
 #EXTVLCOPT:http-user-agent=Android
-https://cdn03052.cdn.agiletv.net/__cl/cg:lv-p1/__c/FOX_HD/__op/dash-wv/__f/manifest.mpd
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/FOX_HD/__op/dash-wv/__f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=19273919b7442ea2b18da9b9763c1760&key%5B%5D=abcf1b55f552a2a0b5ee3256e4bcf4b1
@@ -2239,7 +2239,7 @@ https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/DMAX_HD/__op/dash-wv/__f
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=daee288c032bbca4dd7a8b89f5b24803&key%5B%5D=fc815a6fd284a33f6985d89fc0d7f1fa
-#EXTINF:-1 tvg-id="Discovery Channel.es" tvg-logo="https://i.ibb.co/fVqMJRV3/Picsart-26-04-15-16-19-02-540.webp" group-title="TV España", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel.es" tvg-logo="https://i.ibb.co/fVqMJRV3/Picsart-26-04-15-16-19-02-540.webp" group-title="TV España", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Discovery_HD/__op/dash-wv/__f/manifest.mpd
 
