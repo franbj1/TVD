@@ -2982,6 +2982,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1234-tbx.vrioott.com/adultswim/manifest.mpd
 
+#EXTINF:-1 tvg-id="0313" tvg-name="EnerGeek Retro" tvg-logo="https://i.ibb.co/PzJ4wfJ3/Picsart-26-04-30-19-44-30-220.webp" group-title="Infantil", EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+
 #EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/YSVxfF5j/Picsart-26-02-28-02-09-27-892.png" group-title="Infantil", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
