@@ -1406,7 +1406,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA TELE PERU.pe" tvg-logo="https://i.ibb.co/WvR9GL5J/Picsart-26-01-09-18-33-06-616.webp" group-title="TV Peru", La Tele
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://liketv.pro:80/User1626/28TM4MEU66/16.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/16.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -2518,7 +2518,7 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="DTSA.ar" tvg-logo="https://i.ibb.co/GQzyMvF8/Picsart-26-02-03-02-42-28-050.webp" group-title="Deportes", D Sports UY
-http://104.238.205.28:9090/278798_.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/133.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=fdc62b44394044f5929d40ef41f425a1&key%5B%5D=bc88342b7940f2f85dbe698cec2639c5
