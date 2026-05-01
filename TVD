@@ -3162,12 +3162,12 @@ http://liketv.pro:80/User1626/28TM4MEU66/37.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzcyMjc5NTksInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.p0A8pkmaAKSCmPcPDhU2LJ2rxktu-IDxtA9bSVQp8gdRMuuT8Yxw6pFWNeYzTt4t3IhiY74BPo4dhI-4vNUIBMpWcMvCIji4x3AJtWC2Zpo5Ft8TQKcsYS5lJHSSUZ4KeJxhCXCZSJXffO1SstIULymOK_o0OYxf9CeBxzlz5IZhlkjZhD_BkubnMD94A0EsPGpSTbKAdzPUQld6GoJXwbq6IO_Pz-p84F3AMnQGykYAZWzwT8Z9bnXrAht1w0R1NufbH_ZttvUb1pwbbi6UiPWU9jVpj8lTY-o_3xnEHNNEhI-gbQthqT0TaKw36sE5qsXeN3sXJXpETolYRLdOMQ
-#EXTINF:-1 tvg-id="Tropicalia.py" tvg-logo="https://i.postimg.cc/y8h26QsD/j6e798mbhr-EE-logo-(1).png" group-title="Cine + Series", Europa Europa
-#EXTVLCOPT:http-user-agent=Android
-https://el4live1.boldmss.com/EUROPA_EUROPA/EUROPA_EUROPA_EL4.isml/manifest
-https://broker.cdn.rcs.net.ar/mnp/europa/output.mpd
+#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=izzigo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
+#EXTINF:-1 tvg-id="Europa Europa.uy" tvg-logo="https://i.postimg.cc/y8h26QsD/j6e798mbhr-EE-logo-(1).png" group-title="Cine + Series", Europa Europa
+#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/EUROPA-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=736bef197ba5c73203add79c8e8d279a:7f037dc5835305f22a7206d79d4d5db2
