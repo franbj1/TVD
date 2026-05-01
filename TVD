@@ -138,7 +138,6 @@ ttps://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=3e6b5789d099cdb3e192486bea627a05&keyid%5B%5D=2f0c81461adf4520971cf45ee5036d91
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="Nacional", TN (Todo Noticias)
-https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd?|a
 https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
