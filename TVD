@@ -3536,7 +3536,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playl
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "OfoGg27A+B2N2bbgGjBw4w","kid": "6r4sIjUMJsfwrYSzSTLwjQ"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0286Ly7R/1772180627368.png" group-title="Música", Vorterix
+#EXTINF:-1 tvg-id="YOUTUBE.ar" tvg-logo="https://i.postimg.cc/0286Ly7R/1772180627368.png" group-title="Música", Vorterix
 https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3697,7 +3697,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccmv52Z2/Picsart-25-11-18-19-19-42-298.webp" group-title="Música", TDI Colombia
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://cdn.amelbasoluciones.co:8081/tdicolombia/index.m3u8?sense=true
+https://live.amelbatv.co:8081/tdicolombiatv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqcDrV94/Picsart-25-11-18-14-43-22-224.webp" group-title="Música", Venus Media
 #EXTVLCOPT:network-caching=1000
