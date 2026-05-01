@@ -888,7 +888,7 @@ https://aca-live1-ott.izzigo.tv/14/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ac71c079e88f068aad80e947bac1b494&keyid%5B%5D=2c73635de48c1033f60965175563af02
-#EXTINF:-1 tvg-id="Distrito Comedia.mx" tvg-logo="https://i.ibb.co/Xrv46wdW/Picsart-26-05-01-18-57-28-691.webp" group-title="Música", Distrito Comedia
+#EXTINF:-1 tvg-id="Distrito Comedia.mx" tvg-logo="https://i.ibb.co/Xrv46wdW/Picsart-26-05-01-18-57-28-691.webp" group-title="TV México", Distrito Comedia
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jainwiiq5g/out/v1/1094f5319566443cb6a9000810384a1a/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3392,6 +3392,31 @@ https://latan.stonetv.com.br/universal-reality/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALPREMIERE.DGO.json
 #EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/c45b84e6-621b-4c70-9e5a-9ef3c8398ff5.png" group-title="HBO + Universal", Universal Premiere ori
 https://latan.stonetv.com.br/universal-premiere/tracks-v1a1/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0295a763fca3851258af5901907bf0b1&keyid%5B%5D=be1597d0eb3b71cb21b8e8a55230874d
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://i.supaimg.com/b88c0fe0-fc5c-4256-8a8b-ea2298986e79.png?raw=true" group-title="HBO + Universal", Universal Cinema Oeste
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=062672eb7346a690feab6c84a8de9dce&keyid%5B%5D=9fd8daa507b4c58f414f1d007cf0eccf
+#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-logo="https://i.supaimg.com/d6fbcbe9-20de-4cde-8435-1d58dfce5b91.png"" group-title="HBO + Universal", Universal Comedy
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=b1c5b3c9a8ddc4badf5f49f8a989cf77&keyid%5B%5D=cfc6790cbc2bc791b05c4f8f8126f5b5
+#EXTINF:-1 tvg-id="Universal Crime.uy" tvg-logo="https://i.supaimg.com/b5a34bb5-eb66-454c-beac-fede3ec1cfbd.png" group-title="HBO + Universal", Universal Crime
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=081aab1fb4e8da70e21bb906e704e5d6&keyid%5B%5D=6824642c08bd3cdb6c08404a894287f9
+#EXTINF:-1 tvg-id="Universal Reality.uy" tvg-logo="https://i.supaimg.com/e16839d4-e02a-4714-8793-f0c461c2e2a2.png" group-title="HBO + Universal", Universal Reality
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ba3f1a0580b46e371a6b02ef2ab2304f&keyid%5B%5D=547c1e15b8e93f1077d34f77a7ab018f
+#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="https://i.supaimg.com/c45b84e6-621b-4c70-9e5a-9ef3c8398ff5.png" group-title="HBO + Universal", Universal Premiere Oeste
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd
 
 Cultura
 
