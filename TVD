@@ -142,6 +142,11 @@ https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd?|a
 https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2959bf95e218a7ec8a9ea434430b45e7&key%5B%5D=9727d27dc22ad3a63d94338f92b7a55a
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/qMpL29Dm/1777596041906.webp" group-title="Nacional", TN (4K)
+https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4eade7bbc39b25402acfa301bbad04a&key%5B%5D=a74d1df4235a74878327aa8d53ff283c
 #EXTINF:-1 tvg-id="LA NACION +.ar" tvg-logo="https://i.ibb.co/4g9hy1vL/Picsart-26-02-28-15-18-53-230.webp" group-title="Nacional", La Nación +
 #EXTVLCOPT:http-user-agent="Android
