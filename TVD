@@ -3559,6 +3559,10 @@ https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36",
 https://bvclive2.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/manifest
 
+#EXTINF:-1 tvg-id="billboard.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/800/542/0/0/12050400077728.png" group-title="Música", Billboard AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn.pontiscloud.com/output/SMT1/BLBH/playlist.m3u8?|referer=https://player.sensa.com.ar/
+
 #EXTINF:-1 tvg-id="0535" tvg-name="VM Latino" tvg-logo="https://i.supaimg.com/206c9c19-1f5c-4992-864f-b22f6e3f9c27.png" group-title="Música", VM Latino
 #EXTVLCOPT:http-user-agent=Default
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?|referer=https://www.vmlatino.com/en-vivo
@@ -3651,10 +3655,6 @@ http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_cenc/Flow_Music_2.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_cenc/Flow_Music_3.mpd
-
-#EXTINF:-1 tvg-id="billboard" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/800/542/0/0/12050400077728.png" group-title="Música", Billboard TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6723.73 Mobile Safari/537.36
-https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/
 
 #EXTINF:-1 tvg-id="popular" tvg-logo="https://i.ibb.co/k2Tj6S4g/logo-la-popu-1.webp" group-title="Música", La Popu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
