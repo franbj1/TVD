@@ -3935,7 +3935,7 @@ https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|r
 #EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png" group-title="Música", El Folklorico
 https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png" group-title="Música", Top TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kV1WgVhp/Top-TV-logo-svg-1.webp" group-title="Música", Top TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m55F6Sjk/Picsart-25-08-14-13-49-50-415.webp" group-title="Música", Trace Latina
