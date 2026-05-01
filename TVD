@@ -3660,7 +3660,7 @@ https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
 
-#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://i.ibb.co/R4659vcp/Picsart-26-03-07-05-05-06-595.webp" group-title="Música", Cosquin Rock
+#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://i.ibb.co/3m2NDZJH/Picsart-26-05-01-15-03-20-105.webp" group-title="Música", Cosquin Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
@@ -3697,7 +3697,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccmv52Z2/Picsart-25-11-18-19-19-42-298.webp" group-title="Música", TDI Colombia
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8?sense=true
+https://cdn.amelbasoluciones.co:8081/tdicolombia/index.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqcDrV94/Picsart-25-11-18-14-43-22-224.webp" group-title="Música", Venus Media
 #EXTVLCOPT:network-caching=1000
@@ -3716,16 +3716,6 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8?sense=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/TxQXMghw/Picsart-25-11-20-12-11-17-533.webp" group-title="Música", Radio Onda Digital
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
-
-#EXTINF:-1 tvg-id="STZ TV" tvg-logo="https://i.ibb.co/hFVPbc9H/logo-letras-stz-telebista-blanco-Yr-D9-Xep4-Wns5-VV25.png" group-title="Música", STZ TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/aa5f541d-da16-44e1-9e8e-2f6b3cb4f273.png?raw=true" group-title="Música", OneTV
 #EXTVLCOPT:network-caching=1000
