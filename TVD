@@ -376,19 +376,19 @@ https://cdn.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=40eb9a4d4c2d374123cdaa14325f9589&key%5B%5D=432059bce61664caffc06223a1c081e2
-#EXTINF:-1 tvg-id="Telefe Córdoba.ar" tvg-logo="https://i.ibb.co/FCDBpCK/Picsart-26-04-21-20-10-04-576.webp" group-title="Nacional", Telefe Córdoba
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe • Córdoba, Argentina" tvg-logo="https://i.ibb.co/FCDBpCK/Picsart-26-04-21-20-10-04-576.webp" group-title="Nacional", Telefe Córdoba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
-#EXTINF:-1 tvg-id="Telefe Rosario.ar" tvg-logo="https://i.ibb.co/Q3CgYzZV/Picsart-25-08-23-04-00-59-027.webp" group-title="Nacional", Telefe Rosario
+#EXTINF:-1 tvg-id="2909" tvg-name="Telefe • Rosario, Argentina" tvg-logo="https://i.ibb.co/Q3CgYzZV/Picsart-25-08-23-04-00-59-027.webp" group-title="Nacional", Telefe Rosario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/ARR2/TelefeRosarioH/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
-#EXTINF:-1 tvg-id="Telefe Santa Fe.ar" tvg-logo="https://i.ibb.co/Psy7f24f/Picsart-26-04-21-23-22-02-247.webp" group-title="Nacional", Telefe Santa Fé
+#EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.ibb.co/Psy7f24f/Picsart-26-04-21-23-22-02-247.webp" group-title="Nacional", Telefe Santa Fé
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/COR/TSFH/playlist.m3u8
 
@@ -399,7 +399,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_cenc/Tel
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec52ca8f4d229ae6aae86b6835256ed:506afbd8be37e388f5d3ceb7992069d4
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/DHpd8XTd/1776825148108.webp" group-title="Nacional", Canal 7 SDE
+#EXTINF:-1 tvg-id="0938" tvg-name="Canal 7 Santiago del Estero" tvg-logo="https://i.ibb.co/DHpd8XTd/1776825148108.webp" group-title="Nacional", Canal 7 SDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://chromecast.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_cenc/Canal7_SDE.mpd
 
@@ -407,7 +407,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_cenc/Canal7_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/SMT2/C8MPH/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 10 Córdoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Nacional", Canal 10 Córdoba
+#EXTINF:-1 tvg-id="0940" tvg-name="Canal 10 Córdoba • Argentina" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Nacional", Canal 10 Córdoba
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
