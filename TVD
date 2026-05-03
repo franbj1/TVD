@@ -2503,6 +2503,18 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="https://i.ibb.co/FkYfq5N5/Picsart-26-02-02-23-19-48-492.webp" group-title="Deportes", Fox Sports
+https://bvclive1.boldmss.com/FOX_SPORTS/FOX_SPORTS_BVC.isml/FOX_SPORTS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", Fox Sports 2
+https://bvclive1.boldmss.com/FOX_SPORTS_2/FOX_SPORTS_2_BVC.isml/FOX_SPORTS_2.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-logo="https://i.ibb.co/8nnVbppx/1770086314401.webp" group-title="Deportes", Fox Sports 3
+https://bvclive1.boldmss.com/FOX_SPORTS_3/FOX_SPORTS_3_BVC.isml/FOX_SPORTS_3.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
@@ -2518,24 +2530,6 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="DTSA.ar" tvg-logo="https://i.ibb.co/GQzyMvF8/Picsart-26-02-03-02-42-28-050.webp" group-title="Deportes", D Sports UY
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/133.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=fdc62b44394044f5929d40ef41f425a1&key%5B%5D=bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="https://i.ibb.co/FkYfq5N5/Picsart-26-02-02-23-19-48-492.webp" group-title="Deportes", Fox Sports
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=fb87b63bd6ea4005b66b41cdaca7ba9b&key%5B%5D=bb54f7132fb47d804723ec429ef65c81
-#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", Fox Sports 2
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d2c3554c2f9540849031439326cce8e9&key%5B%5D=f97391f9e36f6f33eed844ebaab72a8f
-#EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-logo="https://i.ibb.co/8nnVbppx/1770086314401.webp" group-title="Deportes", Fox Sports 3
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
