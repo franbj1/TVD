@@ -70,10 +70,13 @@ https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://trs.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/BKr1g7KM/Picsart-26-04-20-17-50-43-738.webp" group-title="Nacional", Construir TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Android
+https://bvclive1.boldmss.com/CONSTRUIR_TV/CONSTRUIR_TV_BVC.isml/CONSTRUIR_TV.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+
 https://trs.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fds61NJ9/Picsart-26-04-20-23-10-55-517.webp" group-title="Nacional", Unife TV
@@ -128,7 +131,7 @@ https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/4n9gbKs8/volver-ar.webp" group-title="Nacional", Volver
-https://bvclive1.boldmss.com/VOLVER/VOLVER_BVC.isml/VOLVER_mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://bvclive1.boldmss.com/VOLVER/VOLVER_BVC.isml/VOLVER.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 ttps://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
