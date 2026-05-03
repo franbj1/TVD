@@ -126,11 +126,9 @@ https://trs.cdn.rcs.net.ar/mnp/cinear/output.mpd
 https://el4live2.boldmss.com/MAGAZINE/MAGAZINE_EL4.isml/manifest
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=194e53184a424ce6989ad82c5f28fbc5&key%5B%5D=65d60c5cc4de031172be0a6a51edbdfe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/4n9gbKs8/volver-ar.webp" group-title="Nacional", Volver
-#EXTVLCOPT:http-user-agent="Android
-https://el4live2.boldmss.com/VOLVER/VOLVER_EL4.isml/manifest
+https://bvclive1.boldmss.com/VOLVER/VOLVER_BVC.isml/VOLVER_mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 ttps://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
