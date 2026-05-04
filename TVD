@@ -2489,16 +2489,25 @@ https://bvclive1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_BVC.isml/ESPN_PREMIUM.mpd
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/rfNYVNry/Picsart-25-10-16-13-35-58-979.webp?raw=true" group-title="Deportes", D Sports
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=68f96d618b0b956b008c445896a25a79&keyid%5B%5D=a7d11d37a1f7611ee88d4db880171f32
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/cXNzjStp/Picsart-26-05-03-21-16-51-147.webp" group-title="Deportes", DSports
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/9HfjSLsG/Picsart-25-10-18-19-08-42-139.webp" group-title="Deportes", D Sports 2
-https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ea07b87acdf2e45be824cde4a1cf3504&keyid%5B%5D=03f12d6a3dbfd3a6fa7dd7f6417e0c11
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/dTLY0GN/Picsart-26-05-03-21-21-08-857.webp" group-title="Deportes", DSports 2
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.ibb.co/gZNFN8C8/Picsart-25-10-16-13-40-32-695.webp" group-title="Deportes", D Sports +
-http://217.26.190.76:8888/play/a0jb/index.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ddfd7ca653d6f35543d8edb3c688e20f&keyid%5B%5D=83f81c4cc1443991543de4e22eea7586
+#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.ibb.co/7J6Yqfwx/Picsart-26-05-03-21-26-32-935.webp" group-title="Deportes", DSports +
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
