@@ -1895,7 +1895,7 @@ https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Caritas TV.py" tvg-logo="https://i.ibb.co/9m8dJxyc/Picsart-26-05-05-15-13-08-264.webp" group-title="TV Paraguay", Caritas TV
-https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+https://copacogen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HEi Network.py" tvg-logo="https://i.ibb.co/hFy19hBD/1768277194739.webp" group-title="TV Paraguay", HEI NOW
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
@@ -1913,7 +1913,7 @@ https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
-https://copacogen.desdeparaguay.net/nandutitv/nandutitv_py_alta/index.m3u8?admin=nacion
+https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV
 https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
