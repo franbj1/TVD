@@ -1896,6 +1896,9 @@ https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Gen TV.py" tvg-logo="https://i.ibb.co/0R6mfDXH/Picsart-26-01-12-23-21-51-440.webp" group-title="TV Paraguay", GEN TV
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion
 
+#EXTINF:-1 tvg-id="Caritas TV.py" tvg-logo="https://i.ibb.co/9m8dJxyc/Picsart-26-05-05-15-13-08-264.webp" group-title="TV Paraguay", Caritas TV
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HEi Network.py" tvg-logo="https://i.ibb.co/hFy19hBD/1768277194739.webp" group-title="TV Paraguay", HEI NOW
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
@@ -1959,13 +1962,10 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="Dismar TV.py" tvg-logo="https://i.ibb.co/3mGBMGJP/Picsart-26-01-21-03-00-31-417.webp" group-title="TV Paraguay", Dismar TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Caritas TV.py" tvg-logo="https://i.ibb.co/7qtCNHf/Picsart-26-01-14-13-42-03-071.webp" group-title="TV Paraguay", Caritas TV
-https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Go tv.py" tvg-logo="https://i.ibb.co/dwr0sL4J/Picsart-26-01-14-13-44-12-763.webp" group-title="TV Paraguay", GO TV
+#EXTINF:-1 tvg-id="Go tv.py" tvg-logo="https://i.ibb.co/dwr0sL4J/Picsart-26-01-14-13-44-12-763.webp" group-title="TV Paraguay", GO Radio TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/GvFnQZTx/1768407678180.webp" group-title="TV Paraguay", Suceso TV
+#EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/GvFnQZTx/1768407678180.webp" group-title="TV Paraguay", Suceso
 https://live.enhdtv.com:8081/8060/index.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV
@@ -1974,7 +1974,7 @@ https://live.enhdtv.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña
 https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", TV Ñandejara
+#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", Ñandejara TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU
