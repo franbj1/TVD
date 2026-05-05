@@ -2386,7 +2386,6 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
 https://bvclive1.boldmss.com/FOX_SPORTS/FOX_SPORTS_BVC.isml/FOX_SPORTS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
@@ -2400,18 +2399,19 @@ https://bvclive1.boldmss.com/FOX_SPORTS_3/FOX_SPORTS_3_BVC.isml/FOX_SPORTS_3.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
+#EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2
+#EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3
+#EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
+#EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
