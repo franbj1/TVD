@@ -1970,22 +1970,16 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/GvFnQZTx/1768407678180.webp" group-title="TV Paraguay", Suceso TV
 https://live.enhdtv.com:8081/8060/index.m3u8
 
-#EXTINF:-1 tvg-id="Trovador TV.py" tvg-logo="https://i.ibb.co/m55t4pB2/1775025536060.webp" group-title="TV Paraguay", Trovador TV
-https://live.enhdtv.com:8081/trovadortv/index.m3u8
-
-#EXTINF:-1 tvg-id="Pob.py" tvg-logo="https://i.ibb.co/8D8gmBQr/Picsart-26-01-18-16-57-20-325.webp" group-title="TV Paraguay", Pob TV
-https://live.enhdtv.com:8081/8062/index.m3u8
-
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV
-https://live.enhdtv.com:8081/8070/index.m3u8
+https://live.enhdtv.com:8081/8120/index.m3u8
 
-#EXTINF:-1 tvg-id="Wizz TV.py" tvg-logo="https://i.ibb.co/vxqDHYf2/1768706014459.webp" group-title="TV Paraguay", Wizz TV
+#EXTINF:-1 tvg-id="Wizzi TV.py" tvg-logo="https://i.ibb.co/vxqDHYf2/1768706014459.webp" group-title="TV Paraguay", Wizzi TV
 https://live.enhdtv.com:8081/8180/index.m3u8
 
-#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña
+#EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña
 https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/nMsksMCX/1770481777244.webp" group-title="TV Paraguay", Productiva TV
+#EXTINF:-1 tvg-id="Productiva.py" tvg-logo="https://i.ibb.co/nMsksMCX/1770481777244.webp" group-title="TV Paraguay", Productiva TV
 https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", TV Ñandejara
@@ -1995,7 +1989,7 @@ https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 https://live.enhdtv.com:8081/8054/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.ibb.co/qY52rqd1/1768957982576.webp" group-title="TV Paraguay", TV8 Visión
-https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.ibb.co/wFzPVSW6/Picsart-26-01-21-02-54-55-844.webp" group-title="TV Paraguay", Koa TV
 https://panel.host-live.com:19360/koatv/koatv.m3u8
