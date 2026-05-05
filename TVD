@@ -1829,14 +1829,14 @@ https://mcgo2.boldmss.com/FOX_SPORTS_2/FOX_SPORTS_2_MC.isml/dash/FOX_SPORTS_2_MC
 TV Paraguay
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9f61dcce871cc41aeb206d05028fc30a&key%5B%5D=9f6248194a3bf5e35b96b194e8624693
-#EXTINF:-1 tvg-id="SNT.py" tvg-logo=" https://i.ibb.co/4np6fWrz/Picsart-26-01-20-20-52-07-106.webp" group-title="TV Paraguay", SNT
-https://latan.stonetv.com.br/snt/tracks-v1a1/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5d2731cf8a59b73438ef59d88cd882bf&key%5B%5D=3f412fa6368b7db4903588de695377e1
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-logo="https://i.ibb.co/vCPHqGhr/Telefuturo-Logo2022.webp" group-title="TV Paraguay", Telefuturo
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9f61dcce871cc41aeb206d05028fc30a&key%5B%5D=9f6248194a3bf5e35b96b194e8624693
+#EXTINF:-1 tvg-id="SNT.py" tvg-logo=" https://i.ibb.co/4np6fWrz/Picsart-26-01-20-20-52-07-106.webp" group-title="TV Paraguay", SNT
+https://latan.stonetv.com.br/snt/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c6a481adf6a080ec09637d3f25989cf&key%5B%5D=036e343d636b821ab81838de387b62cb
@@ -1974,16 +1974,13 @@ https://live.enhdtv.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña
 https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Productiva.py" tvg-logo="https://i.ibb.co/nMsksMCX/1770481777244.webp" group-title="TV Paraguay", Productiva TV
-https://copacogen.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", TV Ñandejara
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU
 https://live.enhdtv.com:8081/8054/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.ibb.co/qY52rqd1/1768957982576.webp" group-title="TV Paraguay", TV8 Visión
+#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/tgYFvY8N/1777998794922.png" group-title="TV Paraguay", TV8 Visión
 https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.postimg.cc/J450NMY3/Picsart-26-05-05-13-21-55-018.png" group-title="TV Paraguay", KOA TV
