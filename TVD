@@ -1914,10 +1914,8 @@ https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvac
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
 https://copacogen.desdeparaguay.net/nandutitv/nandutitv_py_alta/index.m3u8?admin=nacion
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ccf01c0661ae65f273b79eeda0ec0f3e&keyid%5B%5D=bc47bd761413375f1b6e7333a51de41a
 #EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV
-https://cdn.cvattv.com.ar/live/c7eds/UnionTV/SA_Live_dash_enc_wl/UnionTV.mpd
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
 https://latan.stonetv.com.br/educanal/tracks-v1a1/playlist.m3u8
@@ -1973,17 +1971,14 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV
 https://live.enhdtv.com:8081/8120/index.m3u8
 
-#EXTINF:-1 tvg-id="Wizzi TV.py" tvg-logo="https://i.ibb.co/vxqDHYf2/1768706014459.webp" group-title="TV Paraguay", Wizzi TV
-https://live.enhdtv.com:8081/8180/index.m3u8
-
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña
 https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Productiva.py" tvg-logo="https://i.ibb.co/nMsksMCX/1770481777244.webp" group-title="TV Paraguay", Productiva TV
-https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8
+https://copacogen.desdeparaguay.net/productivatv/productivatv_alta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", TV Ñandejara
-https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU
 https://live.enhdtv.com:8081/8054/index.m3u8
@@ -1996,14 +1991,6 @@ https://panel.host-live.com:19360/koatv/koatv.m3u8
 
 #EXTINF:-1 tvg-id="Regional TV.py" tvg-logo="https://i.ibb.co/mCksQRWB/Picsart-26-01-21-03-56-17-196.webp" group-title="TV Paraguay", Regiónal TV
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0
-#EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.ibb.co/ZRr7CJSG/Picsart-26-01-21-15-43-21-423.webp" group-title="TV Paraguay", Tigo Sports
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
-
-#EXTINF:-1 tvg-id="Tigo Sports plus.py" tvg-logo="https://i.ibb.co/Kcs1DB8L/Picsart-26-01-21-15-46-29-332.webp" group-title="TV Paraguay", Tigo Sports +
-https://digital-tv.net/canales/PHPS/angel/vitaci9067.m3u8
 
 TV España
 
@@ -4310,14 +4297,3 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6a981b8e-342c-4e98-a987-a55c14ca067b.png?raw=true" group-title="Mundo", 3/24
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
-
-Adultos
-
-#EXTINF:-1 group-logo="https://i.ibb.co/4g7B5fky/Picsart-26-04-21-04-30-41-713.webp"
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
-#KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
-#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://i.ibb.co/XrxCHpDY/Picsart-26-04-21-05-09-16-283.webp" group-title="Adultos", Playboy TV (18+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://webclient.antinaplayplus.com.ar/
