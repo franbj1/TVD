@@ -2400,19 +2400,19 @@ https://bvclive1.boldmss.com/FOX_SPORTS_3/FOX_SPORTS_3_BVC.isml/FOX_SPORTS_3.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
-https://bvclive1.boldmss.com/ESPN/ESPN_BVC.isml/ESPN.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2
-https://bvclive1.boldmss.com/ESPN_2/ESPN_2_BVC.isml/ESPN_2.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3
-https://bvclive1.boldmss.com/ESPN_3/ESPN_3_BVC.isml/ESPN_3.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
-https://bvclive1.boldmss.com/ESPN_4/ESPN_4_BVC.isml/ESPN_4.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports Premium ⚽︎ᯓ
