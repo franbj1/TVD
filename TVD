@@ -1939,14 +1939,14 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
 
+#EXTINF:-1 tvg-id="Motor Sur.py" tvg-logo="https://i.ibb.co/xKFcqfg9/Picsart-26-05-06-12-36-16-356.webp" group-title="TV Paraguay", Motor Sur
+https://live.enhdtv.com:8081/8116/index.m3u8
+
 #EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.ibb.co/dwRx8DPL/1768361219571.webp" group-title="TV Paraguay", Republica TV
 https://copacogen.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Next.py" tvg-logo="https://i.ibb.co/zWsqMKdt/Picsart-26-05-05-00-36-44-618.webp" group-title="TV Paraguay", N (Next)
 https://live.enhdtv.com:8081/8178/index.m3u8
-
-#EXTINF:-1 tvg-id="Invasiva Media.py" tvg-logo="https://i.ibb.co/jvjs9BRQ/Picsart-26-02-07-13-40-37-898.webp" group-title="TV Paraguay", Invasiva Media
-https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/84KSHLj3/Picsart-26-02-07-16-05-23-704.webp" group-title="TV Paraguay", 4D Mas Noticias
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
@@ -1970,7 +1970,7 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 https://live.enhdtv.com:8081/8120/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña
-https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
+https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", Ñandejara TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
