@@ -1951,13 +1951,13 @@ https://live.enhdtv.com:8081/8178/index.m3u8
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bruno Masi.py" tvg-logo="https://i.ibb.co/Hf9wTh7r/1768407888738.webp" group-title="TV Paraguay", Bruno Masi TV
-https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+https://copacogen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.ibb.co/HLJBkv38/1768408290117.webp" group-title="TV Paraguay",Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
 #EXTINF:-1 tvg-id="Dismar TV.py" tvg-logo="https://i.ibb.co/3mGBMGJP/Picsart-26-01-21-03-00-31-417.webp" group-title="TV Paraguay", Dismar TV
-https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+https://copacogen.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Go tv.py" tvg-logo="https://i.ibb.co/dwr0sL4J/Picsart-26-01-14-13-44-12-763.webp" group-title="TV Paraguay", GO Radio TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
@@ -1968,7 +1968,7 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV
 https://live.enhdtv.com:8081/8120/index.m3u8
 
-#EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/svH7yfYr/Picsart-26-02-07-03-56-37-938.webp" group-title="TV Paraguay", TV Chaqueña
+#EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/0pw6S8HB/Picsart-26-05-06-13-36-32-153.webp" group-title="TV Paraguay", TV Chaqueña
 https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", Ñandejara TV
