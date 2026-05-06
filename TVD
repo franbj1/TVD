@@ -1863,7 +1863,7 @@ https://latan.stonetv.com.br/unicanal/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="America.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América
+#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24
@@ -1902,7 +1902,7 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="Venus Media.py" tvg-logo="https://i.ibb.co/xqcDrV94/Picsart-25-11-18-14-43-22-224.webp" group-title="TV Paraguay", Venus Media
 https://latan.stonetv.com.br/venus-media/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/4ZKXBRbk/logo-popu-tv-white.webp" group-title="TV Paraguay", Popu TV
+#EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/kss5nkqL/Picsart-26-05-06-16-57-31-665.webp" group-title="TV Paraguay", Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
