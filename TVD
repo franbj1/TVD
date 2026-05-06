@@ -132,10 +132,9 @@ ttps://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="Nacional", TN (Todo Noticias)
 https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/qMpL29Dm/1777596041906.webp" group-title="TV México", TN (4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key==2959bf95e218a7ec8a9ea434430b45e7:9727d27dc22ad3a63d94338f92b7a55a
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2959bf95e218a7ec8a9ea434430b45e7&key%5B%5D=9727d27dc22ad3a63d94338f92b7a55a
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/qMpL29Dm/1777596041906.webp" group-title="Nacional", TN (4K)
 https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
