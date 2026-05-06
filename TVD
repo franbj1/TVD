@@ -1902,7 +1902,7 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="Venus Media.py" tvg-logo="https://i.ibb.co/xqcDrV94/Picsart-25-11-18-14-43-22-224.webp" group-title="TV Paraguay", Venus Media
 https://latan.stonetv.com.br/venus-media/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/kss5nkqL/Picsart-26-05-06-16-57-31-665.webp" group-title="TV Paraguay", Popu TV
+#EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/XrZH1cQm/Picsart-26-05-06-17-07-58-543.webp" group-title="TV Paraguay", Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
@@ -1948,7 +1948,7 @@ https://copacogen.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
 https://live.enhdtv.com:8081/8178/index.m3u8
 
 #EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/84KSHLj3/Picsart-26-02-07-16-05-23-704.webp" group-title="TV Paraguay", 4D Mas Noticias
-https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+https://copacogen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bruno Masi.py" tvg-logo="https://i.ibb.co/Hf9wTh7r/1768407888738.webp" group-title="TV Paraguay", Bruno Masi TV
 https://copacogen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
