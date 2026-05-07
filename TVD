@@ -1900,6 +1900,10 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="Venus Media.py" tvg-logo="https://i.ibb.co/xqcDrV94/Picsart-25-11-18-14-43-22-224.webp" group-title="TV Paraguay", Venus Media
 https://latan.stonetv.com.br/venus-media/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tropicalia.py" tvg-logo="https://i.ibb.co/nqQvTzrp/Picsart-26-04-18-14-04-37-901.webp" group-title="TV Paraguay", Tropicalia
+#EXTVLCOPT:http-user-agent=Android
+https://latan.stonetv.com.br/tropicalia/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/XrZH1cQm/Picsart-26-05-06-17-07-58-543.webp" group-title="TV Paraguay", Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
@@ -3494,10 +3498,6 @@ https://cdn.pontiscloud.com/output/SMT1/BLBH/playlist.m3u8?|referer=https://play
 #EXTVLCOPT:http-user-agent=Android
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?|referer=https://www.vmlatino.com/en-vivo
 
-#EXTINF:-1 tvg-id="Tropicalia.py" tvg-logo="https://i.ibb.co/nqQvTzrp/Picsart-26-04-18-14-04-37-901.webp" group-title="Música", Tropicalia
-#EXTVLCOPT:http-user-agent=Android
-https://latan.stonetv.com.br/tropicalia/tracks-v1a1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Ritmo Universal" tvg-logo="https://i.ibb.co/HcnXRBb/Picsart-25-12-31-10-30-20-164.webp" group-title="Música", Ritmo Universal
 https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
 
@@ -3623,11 +3623,6 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://live.amelbatv.co:8081/tdicolombiatv/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xqcDrV94/Picsart-25-11-18-14-43-22-224.webp" group-title="Música", Venus Media
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://tigocloudgen.desdeparaguay.net/venusmedia/venusmedia/.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Mas Musica.tv" tvg-logo="https://i.ibb.co/v42gV6v3/1765925109008.webp" group-title="Música", Mass Música
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
