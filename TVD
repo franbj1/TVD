@@ -2267,23 +2267,19 @@ Novelas ᥫ᭡
 #EXTINF:-1 group-logo="https://i.postimg.cc/brTbrF3P/Picsart-26-03-07-22-35-48-457.png"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/PASIONES.DGO.json
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=58b6ac8e07d354b178255e03b9d0f819&keyid%5B%5D=52358519f886446d82834a803b36f796
 #EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://i.supaimg.com/25eacfe0-e6c1-4c5d-b6b2-1275e73fabdb.png" group-title="Novelas ᥫ᭡", Pasiones ᥫ᭡
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/pasiones.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://i.ibb.co/ymgNNWMs/Picsart-26-03-28-19-14-34-967.webp" group-title="Novelas ᥫ᭡", Todo Novelas, Más Pasiones ᥫ᭡
-https://448a93b8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9kb05vdmVsYXNfSExT/playlist.m3u8
+https://mega.z5cable.com/bpk-tv/pasiones_hd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
-#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas ᥫ᭡", Las Estrellas ☆
+#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas ᥫ᭡", Las Estrellas☆
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
-#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.supaimg.com/b9e5d546-4595-4d53-a400-b8a623390e24.png" group-title="Novelas ᥫ᭡", TLNovelas
-https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=957b4d11b52f9bf726f92e2b689a3d05&keyid%5B%5D=a7e1530b2a1173710ecc1a46b7456afc
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.ibb.co/99B4FRTr/Picsart-26-05-07-18-05-51-218.webp" group-title="Novelas ᥫ᭡", Tlnovelas
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tzgm3ypc9h/out/v1/df58cea12d064dd5b579f99d55c650b7/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/TNTNOVELAS.DGO.json
