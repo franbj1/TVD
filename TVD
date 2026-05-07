@@ -1866,7 +1866,7 @@ https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24
 https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://i.ibb.co/2YgVDkjB/Picsart-26-01-03-18-43-09-806.webp" group-title="TV Paraguay", Paraguay TV
+#EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://i.ibb.co/rRy5t2kV/Picsart-26-05-07-02-43-11-312.webp" group-title="TV Paraguay", Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
 #EXTINF:-1 tvg-id="ABC TV.py" tvg-logo="https://i.ibb.co/dJHybJq6/Picsart-26-01-12-21-19-02-912.webp" group-title="TV Paraguay", ABC TV
@@ -1903,7 +1903,7 @@ https://latan.stonetv.com.br/venus-media/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/XrZH1cQm/Picsart-26-05-06-17-07-58-543.webp" group-title="TV Paraguay", Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/g8W0tdV/1778125558436.webp" group-title="TV Paraguay", Aspen 102.7 PY
+#EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/g8W0tdV/1778125558436.webp" group-title="TV Paraguay", Aspen 102.7 (Pura Música)
 https://copacogen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
 
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
