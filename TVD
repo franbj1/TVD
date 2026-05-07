@@ -1975,13 +1975,10 @@ https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", Ñandejara TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ru.py" tvg-logo="https://i.ibb.co/6RDw9jcL/Picsart-26-01-18-00-33-27-977.webp" group-title="TV Paraguay", RU
-https://live.enhdtv.com:8081/8054/index.m3u8
-
 #EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/tgYFvY8N/1777998794922.png" group-title="TV Paraguay", TV8 Visión
 https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.postimg.cc/J450NMY3/Picsart-26-05-05-13-21-55-018.png" group-title="TV Paraguay", KOA TV
+#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.postimg.cc/J450NMY3/Picsart-26-05-05-13-21-55-018.png" group-title="TV Paraguay", Koa Radio TV
 https://panel.host-live.com:19360/koatv/koatv.m3u8
 
 #EXTINF:-1 tvg-id="Regional TV.py" tvg-logo="https://i.ibb.co/mCksQRWB/Picsart-26-01-21-03-56-17-196.webp" group-title="TV Paraguay", Regiónal TV
