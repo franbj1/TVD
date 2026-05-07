@@ -2303,7 +2303,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ds9ertnhrl/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f22c4752daec59a584b950d7daf538dc&key%5B%5D=a4b71cc67dd9d305b367c5a488e32c7e
-#EXTINF:-1 tvg-id="CORAZON.mx" tvg-logo="https://i.ibb.co/KzVGMSdL/Picsart-26-03-28-18-34-17-740.webp" group-title="Novelas ᥫ᭡", Azteca Corazón
+#EXTINF:-1 tvg-id="CORAZON.mx" tvg-logo="https://i.ibb.co/KzVGMSdL/Picsart-26-03-28-18-34-17-740.webp" group-title="Novelas ᥫ᭡", Corazón
 https://1022-tbx.vrioott.com/aztecacorazon/manifest.mpd
 
 #EXTINF:-1 tvg-id="corazon" tvg-logo="https://i.ibb.co/rKhYHxsC/Picsart-26-03-28-18-44-33-610.webp" group-title="Novelas ᥫ᭡", Az Corazón Play
@@ -2314,13 +2314,13 @@ https://amg01412-xiaomiasia-frecuencianovelas-xiaomi-hnlgr.amagi.tv/playlist/amg
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a7bdeafe3ea058be002a746db787c490&key%5B%5D=73b0e65b968257daaae461c865f28177
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Novelas ᥫ᭡", TV Globo
+#EXTINF:-1 tvg-id="0906" tvg-id="TV Globo • Brasil" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Novelas ᥫ᭡", TV Globo
 https://aca-live4-ott.izzigo.tv/8/out/u/dash/TV-GLOBO-SD-H265/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/q84cig5mxosr9k8rioqd0/antena-3-mundogo.json?rlkey=mmxa6jul6eko1w5kmpw0b3m8n&st=4yz0bw6k&dl=0
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Novelas ᥫ᭡", Antena 3
-https://cdn-live.mundogo.cl/antena3/antena3.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=db756dc1c4664130a98db4888917ad57&keyid%5B%5D=5cd52220e5fd9380fe30207e36585a1c
+#EXTINF:-1 tvg-id="0856" tvg-id="Antena 3 Internacional" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Novelas ᥫ᭡", Antena 3
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ANTENA-3-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=658e573246a856d880a877b69d1ad715&key%5B%5D=e95e4f1399649d0ed0fad935168cd975
@@ -2331,6 +2331,14 @@ https://1021-tbx.vrioott.com/aztecaclic/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e356ecaae6cf
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Azteca Internacional
 https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6c01435ed4e839996f40f8ee08965324&key%5B%5D=74eb7b54510e463ea51dccff80a53f3e
+#EXTINF:-1 tvg-id="0928" tvg-id="Azteca Uno • México" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Azteca Uno
+https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-UNO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="0857" tvg-id="Canal Claro" tvg-logo="https://i.ibb.co/PGwXZS7n/Picsart-26-01-19-02-54-27-895.webp" group-title="Novelas ᥫ᭡", Canal Claro
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
