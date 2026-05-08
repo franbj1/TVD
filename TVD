@@ -1916,6 +1916,12 @@ https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/7dW0LJDq/descarga.webp" group-title="TV Paraguay", Estación 40
 https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
+#EXTINF:-1 tvg-id="Red Digital.py" tvg-logo="https://i.ibb.co/ds1Cb5sk/1778205470759.webp" group-title="TV Paraguay", Red Digital
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+
+#EXTINF:-1 tvg-id="Lengua de Señas TV.py" tvg-logo="https://i.ibb.co/VYhJRsYf/1778206411338.webp" group-title="TV Paraguay", Lengua de Señas TV
+https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
 https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/chunklist.m3u8
 
