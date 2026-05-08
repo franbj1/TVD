@@ -2395,6 +2395,12 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=96578d7c374ae808ff811c4f236d0ca9&keyid%5B%5D=44e5bf3f27004e2ba35263ad9277f2c1
+#EXTINF:-1 tvg-id="TDP.es" tvg-logo="https://i.ibb.co/RkBjL1SW/TDP-2026-svg.webp" group-title="Deportes", (Final) 23/05 Champions Femenino FC Barcelona vs OL Lyonnes
+https://cache07.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_hd.mpd
+
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
 https://bvclive1.boldmss.com/FOX_SPORTS/FOX_SPORTS_BVC.isml/FOX_SPORTS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
