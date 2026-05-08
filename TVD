@@ -2398,7 +2398,7 @@ Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=96578d7c374ae808ff811c4f236d0ca9&keyid%5B%5D=44e5bf3f27004e2ba35263ad9277f2c1
-#EXTINF:-1 tvg-id="TDP.es" tvg-logo="https://i.ibb.co/RkBjL1SW/TDP-2026-svg.webp" group-title="Deportes", (Final) 23/05 Champions Femenino FC Barcelona vs OL Lyonnes
+#EXTINF:-1 tvg-id="TDP.es" tvg-logo="https://i.ibb.co/XkFQg70k/images-14.webp" group-title="Deportes", (Final) 23/05 Champions Femenino FC Barcelona vs OL Lyonnes
 https://cache07.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_hd.mpd
 
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
@@ -2460,7 +2460,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=68f96d618b0b956b008c445896a25a79&keyid%5B%5D=a7d11d37a1f7611ee88d4db880171f32
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/ZRzPXw74/barcelonarealmadrid-25-DZ1416983-MG87519608.webp" group-title="Deportes", Real Madrid vs FC Barcelona DOM. 16/05 x Dsports
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/ZRzPXw74/barcelonarealmadrid-25-DZ1416983-MG87519608.webp" group-title="Deportes", FC Barcelona - Real Madrid /DOM. 16/05 15:00hs x DSports
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
