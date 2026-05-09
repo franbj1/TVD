@@ -2431,7 +2431,7 @@ https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports Premium ⚽︎ᯓ
-https://bvclive1.boldmss.com/TNT_SPORTS/TNT_SPORTS_BVC.isml/TNT_SPORTS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://1233-aws.akamaized.net/1233_TNT_SPORTS_ARG_DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4player.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
