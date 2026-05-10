@@ -1614,6 +1614,15 @@ https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 #EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="TV Peru", Retro Cine TV
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Wvqrpmft/Picsart-26-05-10-12-19-55-758.webp" group-title="TV Peru", AXN
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.pe" tvg-logo="https://i.ibb.co/fdMLyfMs/Picsart-26-05-10-12-56-42-998.webp" group-title="TV Peru", Cinecanal
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinecanal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.pe" tvg-logo="https://i.ibb.co/jk38rtNr/Picsart-26-05-10-12-54-56-902.webp" group-title="TV Peru", Cinemax
+https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/cinemax.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="TV Peru", Sony Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
