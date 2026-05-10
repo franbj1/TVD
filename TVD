@@ -4,20 +4,17 @@ Televisión Nacional
 
 #EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qM71G6Wk/Picsart-26-04-26-12-36-44-224.webp" group-title="Nacional", Los Simpsons 24/7
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp" group-title="Nacional", Televisión Pública
-https://bvclive1.boldmss.com/TV_PUBLICA/TV_PUBLICA_BVC.isml/TV_PUBLICA.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://router.cdn.rcs.net.ar/mnp/ssc4ln4movbqlr1qczb00000005dktih/output.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
-https://bvclive1.boldmss.com/AMERICA/AMERICA_BVC.isml/AMERICA.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/Q7Jz7S4R/Picsart-26-04-20-15-55-48-068.webp" group-title="Nacional", El Nueve
-https://bvclive1.boldmss.com/CANAL_9_BS_AS/CANAL_9_BS_AS_BVC.isml/CANAL_9_BS_AS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
