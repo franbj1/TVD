@@ -1598,7 +1598,7 @@ https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkFw42gR/Picsart-25-10-26-14-11-11-791.webp" group-title="TV Peru", Cinerama
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
+https://live.cineramatvbo.com/hls/stream.m3u8?cachebust=5b992f
 
 #EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="TV Peru", WOW Movies
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
@@ -1626,7 +1626,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinecanal.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/cinemax.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="TV Peru", Sony Channel
+#EXTINF:-1 tvg-id="Sony.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="TV Peru", Sony Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
 
