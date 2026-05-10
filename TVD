@@ -52,9 +52,6 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
-#EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Nacional", Energeek Fan
-https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
-
 #EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/jkmfqg69/Picsart-26-04-20-22-48-15-364.webp" group-title="Nacional", Tec TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
@@ -2882,6 +2879,9 @@ https://1234-tbx.vrioott.com/adultswim/manifest.mpd
 
 #EXTINF:-1 tvg-id="0313" tvg-name="EnerGeek Retro" tvg-logo="https://i.ibb.co/PzJ4wfJ3/Picsart-26-04-30-19-44-30-220.webp" group-title="Infantil", EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+
+#EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
+https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/YSVxfF5j/Picsart-26-02-28-02-09-27-892.png" group-title="Infantil", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
