@@ -1630,7 +1630,7 @@ https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/cinemax.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STARCHANNEL.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="TV Peru", Star Channel
+#EXTINF:-1 tvg-id="Star Channel.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="TV Peru", Star Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
@@ -1868,7 +1868,7 @@ https://copacogen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Venus Media.py" tvg-logo="https://i.ibb.co/xqcDrV94/Picsart-25-11-18-14-43-22-224.webp" group-title="TV Paraguay", Venus Media
-https://latan.stonetv.com.br/venus-media/tracks-v1a1/playlist.m3u8
+https://coacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tropicalia.py" tvg-logo="https://i.ibb.co/nqQvTzrp/Picsart-26-04-18-14-04-37-901.webp" group-title="TV Paraguay", Tropicalia
 #EXTVLCOPT:http-user-agent=Android
