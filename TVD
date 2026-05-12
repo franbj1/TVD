@@ -1917,6 +1917,15 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
 
+#EXTINF:-1 tvg-id="La Costa.py" tvg-logo="https://i.ibb.co/JjcjbmRG/Picsart-26-05-12-19-16-46-197.webp" group-title="TV Paraguay", La Costa TV
+https://copacogen.desdeparaguay.net/lacostatv/lacostatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/mF5fytNb/1778616456265.webp" group-title="TV Paraguay", Uga TV
+https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/fzr6vHvy/Picsart-26-05-12-19-05-07-371.webp" group-title="TV Paraguay", RS TV
+https://copacogen.desdeparaguay.net/sagradostv/sagradostv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Motor Sur.py" tvg-logo="https://i.ibb.co/xKFcqfg9/Picsart-26-05-06-12-36-16-356.webp" group-title="TV Paraguay", Motor Sur
 https://live.enhdtv.com:8081/8116/index.m3u8
 
