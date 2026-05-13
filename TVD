@@ -1817,7 +1817,7 @@ https://latan.stonetv.com.br/surtv/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=63a3729cfd60f24f7e1266bee5eca02c&key%5B%5D=cb9ed028af40654e1aa43934ee58db58
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Paraguay", Unicanal
-https://latan.stonetv.com.br/unicanal/tracks-v1a1/playlist.m3u8
+https://rds3.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV
 https://www.desde-paraguay.com/mega.m3u8
