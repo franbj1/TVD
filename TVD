@@ -1820,7 +1820,7 @@ https://latan.stonetv.com.br/surtv/tracks-v1a1/playlist.m3u8
 https://latan.stonetv.com.br/unicanal/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV
-https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+https://www.desde-paraguay.com/mega.m3u8
 
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
