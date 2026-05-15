@@ -24,7 +24,6 @@ ttp://107.152.39.199:8030/hls/canal23.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://el4live1.boldmss.com/C13/C13_EL4.isml/manifest
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,7 +54,7 @@ https://router.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Android
-https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fds61NJ9/Picsart-26-04-20-23-10-55-517.webp" group-title="Nacional", Unife TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -67,7 +66,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/mnp/cn23/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/cn23/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
