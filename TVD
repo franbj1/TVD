@@ -1869,7 +1869,7 @@ https://latan.stonetv.com.br/tropicalia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/XrZH1cQm/Picsart-26-05-06-17-07-58-543.webp" group-title="TV Paraguay", Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-id="FMAS.ar" tvg-logo="https://i.ibb.co/g8W0tdV/1778125558436.webp" group-title="TV Paraguay", Aspen 102.7 (Pura Música)
+#EXTINF:-1 tvg-id="FMAS.py" tvg-logo="https://i.ibb.co/g8W0tdV/1778125558436.webp" group-title="TV Paraguay", Aspen 102.7 (Pura Música)
 https://copacogen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
 
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
@@ -1881,7 +1881,7 @@ https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvac
 #EXTINF:-1 tvg-id="Rock and pop.py" tvg-logo="https://i.ibb.co/8g3MBv1m/Picsart-26-05-11-01-33-49-536.webp" group-title="TV Paraguay", Rock & PoP⚡TV
 https://copacogen.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rock and pop.py" tvg-logo="https://i.ibb.co/XfFV9CkJ/Picsart-26-05-11-00-41-39-555.webp" group-title="TV Paraguay", Monumental TV
+#EXTINF:-1 tvg-id="Monumental TV.py" tvg-logo="https://i.ibb.co/DPS5dCDr/Picsart-26-05-15-10-24-41-706.webp" group-title="TV Paraguay", Monumental TV
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Red Digital.py" tvg-logo="https://i.ibb.co/ds1Cb5sk/1778205470759.webp" group-title="TV Paraguay", Red Digital
@@ -1952,9 +1952,6 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/GvFnQZTx/1768407678180.webp" group-title="TV Paraguay", Suceso
 https://live.enhdtv.com:8081/8060/index.m3u8
-
-#EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/8D9PTRjS/Picsart-26-01-18-00-36-18-678.webp" group-title="TV Paraguay", Mi TV
-https://live.enhdtv.com:8081/8120/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/0pw6S8HB/Picsart-26-05-06-13-36-32-153.webp" group-title="TV Paraguay", TV Chaqueña
 https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
