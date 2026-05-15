@@ -1881,11 +1881,11 @@ https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvac
 #EXTINF:-1 tvg-id="Rock and pop.py" tvg-logo="https://i.ibb.co/8g3MBv1m/Picsart-26-05-11-01-33-49-536.webp" group-title="TV Paraguay", Rock & PoP⚡TV
 https://copacogen.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Monumental TV.py" tvg-logo="https://i.ibb.co/DPS5dCDr/Picsart-26-05-15-10-24-41-706.webp" group-title="TV Paraguay", Monumental TV
-https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
-
 #EXTINF:-1 tvg-id="Red Digital.py" tvg-logo="https://i.ibb.co/ds1Cb5sk/1778205470759.webp" group-title="TV Paraguay", Red Digital
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+
+#EXTINF:-1 tvg-id="Monumental TV.py" tvg-logo="https://i.ibb.co/DPS5dCDr/Picsart-26-05-15-10-24-41-706.webp" group-title="TV Paraguay", Monumental TV
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Lengua de Señas TV.py" tvg-logo="https://i.ibb.co/VYhJRsYf/1778206411338.webp" group-title="TV Paraguay", Lengua de Señas TV
 https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/playlist.m3u8
@@ -1918,12 +1918,12 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
 
 #EXTINF:-1 tvg-id="La Costa.py" tvg-logo="https://i.ibb.co/JjcjbmRG/Picsart-26-05-12-19-16-46-197.webp" group-title="TV Paraguay", La Costa TV
-https://copacogen.desdeparaguay.net/lacostatv/lacostatv/playlist.m3u8
+https://rds3.desdeparaguay.net/lacostatv/lacostatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/mF5fytNb/1778616456265.webp" group-title="TV Paraguay", Uga TV
 https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/fzr6vHvy/Picsart-26-05-12-19-05-07-371.webp" group-title="TV Paraguay", RS TV
+#EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/fVq7DYD5/Picsart-26-05-15-10-31-54-099.webp" group-title="TV Paraguay", RS TV
 https://copacogen.desdeparaguay.net/sagradostv/sagradostv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Motor Sur.py" tvg-logo="https://i.ibb.co/xKFcqfg9/Picsart-26-05-06-12-36-16-356.webp" group-title="TV Paraguay", Motor Sur
