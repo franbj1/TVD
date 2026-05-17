@@ -5,23 +5,22 @@ Televisión Nacional
 #EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/TBfDhgTV/1752363418038.webp" group-title="Nacional", Televisión Pública
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
 #EXTVLCOPT:http-user-agent=Android
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/Q7Jz7S4R/Picsart-26-04-20-15-55-48-068.webp" group-title="Nacional", El Nueve
-https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=0b967f0ba9b543b8dac8ab9814b7970e&keyid%5B%5D=41b893e8a7af43e9943e7d54a02c4e60
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
 https://cdn.cvattv.com.ar/out/v1/Telefe_Tend/SA_Live_dash_cenc/TELEFE.mpd?|a
-ttp://107.152.39.199:8030/hls/canal23.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e7b05c7a737b7f0a5d571b91deaa2697&key%5B%5D=4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
@@ -75,7 +74,7 @@ https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/qYJ9vMbb/Picsart-26-04-21-18-08-16-559.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://bvclive2.boldmss.com/LATINA_TV/LATINA_TV.isml/manifest
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="RADIO VALE.ar" tvg-logo="https://i.ibb.co/Ndy2tG0x/Picsart-26-04-22-14-01-12-804.webp" group-title="Nacional", Vale 97.5
@@ -98,7 +97,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b1d643b42908bda2927137cf3747e1a&key=9ccd9052a9a28c05096996e82c080eb3
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.ibb.co/3yPC2cMb/Picsart-26-04-21-16-36-55-735.webp" group-title="Nacional", CINE AR
 https://router.cdn.rcs.net.ar/mnp/cinear/output.mpd
-
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4f1235069d34c22cb73d9b78bae15587&key%5B%5D=55e068ff6b152e34c66dc639b38e8692
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/7xDXDyPH/Picsart-26-03-17-17-24-14-852.webp" group-title="Nacional", Ciudad Magazine
