@@ -213,6 +213,18 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
 https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
 
+#EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-logo="https://i.ibb.co/ynNRCH5k/Picsart-26-05-19-13-32-13-800.webp" group-title="Nacional", El Tres TV Rosario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.pontiscloud.com/output/ARR2/C3RH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EL SEIS TV.ar" tvg-logo="https://i.ibb.co/7J4fzFqx/Picsart-26-05-19-13-35-28-478.webp" group-title="Nacional", El Seis TV Bariloche
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.pontiscloud.com/output/SMT4/BC6H/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 9 Bahia Blanca.ar" tvg-logo="https://i.ibb.co/mrTZR20M/Picsart-26-05-19-13-40-10-580.webp" group-title="Nacional", El Nueve TV Bahia Blanca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.pontiscloud.com/output/SMT3/C9BBH/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxhX1scn/Picsart-26-03-06-16-34-05-762.webp" group-title="Nacional", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/SMT6/BTVD/output.mpd
