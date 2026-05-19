@@ -163,9 +163,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_wl/Canal_90.mpd
 #EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="Nacional", KZO Entertaiment
 https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_wl/KZO.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd
@@ -175,28 +172,17 @@ https://cdn.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd
 #EXTINF:-1 tvg-id="MIX TV" tvg-logo="https://i.ibb.co/5XnLGvW4/large-Mix-TV-2025-png-4dd90f7650b5e1345b680bef6e6cb0c5.png" group-title="Nacional", Mix TV
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_wl/MixTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
-#EXTINF:-1 tvg-id="EVENTOS HD.ar" tvg-logo="https://i.ibb.co/rKmXm0zR/Picsart-25-09-17-00-45-17-661.webp" group-title="Nacional", Vorterix
-https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_wl/Vorterix.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
 #EXTINF:-1 tvg-id="CANAL DE LA CIUDAD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Nacional", Canal de la Ciudad
-https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_wl/Canal_de_la_ciudad.mpd
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=cd3cbf606602e6ec433ecac804898b79&keyid=9efda9142e194613fe8c3cad87f83cc0
 #EXTINF:-1 tvg-id="Canal (á).ar" tvg-logo="https://i.ibb.co/7tNHGBHK/1766385190770.webp" group-title="Nacional", Canal (Á)
-https://mplus.pontiscloud.com/live/eds/CanalA/live_dash_cld/CanalA.mpd
+#EXTVLCOPT:http-user-agent="Android
+https://cdn702.epa.edge-access.net/hls/k0eh2-j12j2-35nn-1dmde.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24ecaed20225a367ad8fde9b6e826cd6&key=14dbfc007a3f5648d2c30075f037a830
 #EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="https://i.ibb.co/99fRsfpV/Picsart-25-07-23-19-31-31-838.webp" group-title="Nacional", La Rural
-https://mplus.pontiscloud.com/live/eds/CanalRural/live_dash_cld/CanalRural.mpd
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/465a1-enb61-ad17j-55bp2.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
 #EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Nacional", Argentinísima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
