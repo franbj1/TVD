@@ -147,19 +147,19 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9666b195171442afd4551a8de01291a6&key%5B%5D=1c0061df9b4b098e40355167e97cfbf0
+#KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
 #EXTINF:-1 tvg-id="DIPUTADOS TV ARG" tvg-logo="https://i.ibb.co/1GP5w3sy/Picsart-25-11-16-19-03-22-897.webp" group-title="Nacional", DTV
-https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_wl/Diputados_TV.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Diputados_TV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ca50103f3285421e8be7da8c0c0e7a54&key%5B%5D=3608e92a6feddf228c1f035ebb764426
+#KODIPROP:inputstream.adaptive.license_key=ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426
 #EXTINF:-1 tvg-id="Senado.ar" tvg-logo="https://i.ibb.co/C3TmY7Sm/1767889392439.webp" group-title="Nacional", Senado TV
-https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_wl/Canal_90.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Canal_90/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_90.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=695d07988114f7fec31f8f27a6d67c32&key%5B%5D=8e4fbb96cff6a31c88f81565b199a13a
+#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
 #EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="Nacional", KZO Entertaiment
-https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_wl/KZO.mpd
+https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
