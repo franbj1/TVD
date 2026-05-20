@@ -1776,7 +1776,7 @@ https://www.desde-paraguay.com/pro.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
 #EXTINF:-1 tvg-id="5 Dias.py" tvg-logo="https://i.ibb.co/cSwk1d7Z/Picsart-26-05-06-17-12-55-012.webp" group-title="TV Paraguay", 5 Días
-https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_wl/5_Dias_PY.mpd
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/5_Dias_PY.mpd
 
 #EXTINF:-1 tvg-id="NPY.py" tvg-logo="https://i.ibb.co/DZbBPdD/1768252798566.webp" group-title="TV Paraguay", NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
@@ -1812,7 +1812,7 @@ https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/7dW0LJDq/descarga.webp" group-title="TV Paraguay", Estación 40
 https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-id="Rock and pop.py" tvg-logo="https://i.ibb.co/8g3MBv1m/Picsart-26-05-11-01-33-49-536.webp" group-title="TV Paraguay", Rock & PoP⚡TV
+#EXTINF:-1 tvg-id="Rock and pop.py" tvg-logo="https://i.ibb.co/8g3MBv1m/Picsart-26-05-11-01-33-49-536.webp" group-title="TV Paraguay", Rock & Pop TV
 https://copacogen.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Red Digital.py" tvg-logo="https://i.ibb.co/ds1Cb5sk/1778205470759.webp" group-title="TV Paraguay", Red Digital
