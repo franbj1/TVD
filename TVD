@@ -173,6 +173,7 @@ https://cdn.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_wl/MixTV.mpd
 
 #EXTINF:-1 tvg-id="CANAL DE LA CIUDAD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Nacional", Canal de la Ciudad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal (á).ar" tvg-logo="https://i.ibb.co/7tNHGBHK/1766385190770.webp" group-title="Nacional", Canal (Á)
@@ -183,7 +184,8 @@ https://cdn702.epa.edge-access.net/hls/k0eh2-j12j2-35nn-1dmde.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/465a1-enb61-ad17j-55bp2.m3u8
 
-#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Nacional", Argentinísima
+#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://i.ibb.co/93zvCwbc/Picsart-26-05-19-21-54-42-995.webp" group-title="Nacional", Argentinísima Satelital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -218,13 +220,8 @@ https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="CDLC.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
-#EXTINF:-1 tvg-id="ARGENTINISIMA.ar" tvg-logo="https://i.ibb.co/sJCcpWxm/Picsart-25-09-16-01-34-29-488.webp" group-title="Nacional", Argentinisima Satelital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
