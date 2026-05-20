@@ -87,18 +87,14 @@ https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?|referer=https://la100.cienradios.com/hd/
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Android
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b1d643b42908bda2927137cf3747e1a&key=9ccd9052a9a28c05096996e82c080eb3
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.ibb.co/3yPC2cMb/Picsart-26-04-21-16-36-55-735.webp" group-title="Nacional", CINE AR
-https://router.cdn.rcs.net.ar/mnp/cinear/output.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4f1235069d34c22cb73d9b78bae15587&key%5B%5D=55e068ff6b152e34c66dc639b38e8692
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
+
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/7xDXDyPH/Picsart-26-03-17-17-24-14-852.webp" group-title="Nacional", Ciudad Magazine
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
