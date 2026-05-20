@@ -9,7 +9,7 @@ Televisión Nacional
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
 #EXTVLCOPT:http-user-agent=Android
-#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
+#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/Q7Jz7S4R/Picsart-26-04-20-15-55-48-068.webp" group-title="Nacional", El Nueve
@@ -130,6 +130,10 @@ https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
 https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd?|a
 
+#EXTINF:-1 tvg-id="ARGENTINA 12.ar" tvg-logo="https://i.ibb.co/FkgrNRLC/1765116462550.webp" group-title="Nacional", Argentina 12
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
+
 #EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="Nacional", Crónica
 #EXTVLCOPT:http-user-agent="Android
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
@@ -137,10 +141,6 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="Nacional", Canal 26
 #EXTVLCOPT:http-user-agent="Android
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FkgrNRLC/1765116462550.webp" group-title="Nacional", Argentina 12
-#EXTVLCOPT:http-user-agent="Android
-https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 #EXTINF:-1 tvg-id="0963" tvg-name="Canal E • Argentina" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="Nacional", Canal E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -161,7 +161,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_90/sa_hls_full_e_95AEFABF606F67368D62
 #EXTINF:-1 tvg-id="KZO.ar" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="Nacional", KZO Entertaiment
 https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
+#EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd
 
@@ -3523,11 +3523,6 @@ https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://5ff3d9babae13.streamlock.net/ttedvzwrvn/ttedvzwrvn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hei Now.py" tvg-logo="https://i.supaimg.com/08309e19-a99f-4694-85d4-1aafbbc6e15a.png" group-title="Música", HEI NOW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
-https://chromecast.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_wl/HEI_NOW.mpd?
-
 #EXTINF:-1 tvg-id="TOP LATINO.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", Top Latino
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
@@ -3845,12 +3840,6 @@ https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=h
 #EXTINF:-1 tvg-id="EWTN.ar" tvg-logo="https://i.ibb.co/8DxcwCm5/Picsart-26-04-11-05-42-49-216.webp" group-title="Religión", EWTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=a2e37ff5b2db573844e12d36d57698fc&keyid%5B%5D=ee00973325dc44a7a40584e9303968ca
-#EXTINF:-1 tvg-id="Esne" tvg-logo="https://i.ibb.co/s9dLQQ82/Picsart-26-04-14-09-44-25-127.webp" group-title="Religión", ES🌿NE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/esne/default/index.mpd
 
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Dayst☆r Español
 https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
