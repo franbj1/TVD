@@ -3392,18 +3392,20 @@ Música
 
 #EXTINF:-1 group-logo="https://i.ibb.co/5XN3KbjT/Picsart-26-01-16-12-13-35-317.webp"
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 #EXTINF:-1 tvg-id="Quiero.ar" tvg-logo="https://i.ibb.co/TD2tqG0f/1751651714072.webp" group-title="Música", Quiero Música TV
-#EXTVLCOPT:http-user-agent=Android
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Quiero_HD.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" tvg-logo="https://i.ibb.co/pr5HtSww/Picsart-25-11-04-14-16-42-433.webp" group-title="Música", CM Canal de la Música
-https://bvclive1.boldmss.com/CM/CM_BVC.isml/CM.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://cdn.cvattv.com.ar/live/c6eds/CM/sa_hls_full_e_95AEFABF606F67368D62A486/CM.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 #EXTINF:-1 tvg-id="0504" tvg-name="HTV" tvg-logo="https://i.ibb.co/8DS5bPQk/Picsart-26-05-03-15-05-17-581.webp" group-title="Música", HTV Música
-https://bvclive1.boldmss.com/HTV/HTV_BVC.isml/HTV.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/HTV.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0543" tvg-name="Music TOP" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music TOP
