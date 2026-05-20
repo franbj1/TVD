@@ -1742,7 +1742,7 @@ https://latan.stonetv.com.br/snt/tracks-v1a1/playlist.m3u8
 https://copacogen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/STKrQs7/image-74317-converted-To-Png.webp" group-title="TV Paraguay", Trece
-https://latan.stonetv.com.br/trece/tracks-v1a1/playlist.m3u8
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/sa_hls_full_e_95AEFABF606F67368D62A486/RPC_C4.m3u8
 
 #EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://i.ibb.co/xK5jj85F/Picsart-26-01-21-22-16-53-353.webp" group-title="TV Paraguay", Paravisión
 https://latan.stonetv.com.br/paravision/tracks-v1a1/playlist.m3u8
@@ -1850,9 +1850,6 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
-
-#EXTINF:-1 tvg-id="La Costa.py" tvg-logo="https://i.ibb.co/JjcjbmRG/Picsart-26-05-12-19-16-46-197.webp" group-title="TV Paraguay", La Costa TV
-https://rds3.desdeparaguay.net/lacostatv/lacostatv_py_alta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/mF5fytNb/1778616456265.webp" group-title="TV Paraguay", Uga TV
 https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
