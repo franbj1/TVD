@@ -1806,7 +1806,7 @@ https://latan.stonetv.com.br/tropicalia/tracks-v1a1/playlist.m3u8
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="FMAS.py" tvg-logo="https://i.ibb.co/g8W0tdV/1778125558436.webp" group-title="TV Paraguay", Aspen 102.7 (Pura Música)
-https://rds3.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
+https://copacogen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90504a460fe6f9f07abe7ec72cdf4c829cdfbbb0bb0a87ddd88e09&exp=1771435006
 
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
@@ -1817,8 +1817,26 @@ https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvac
 #EXTINF:-1 tvg-id="Rock and pop.py" tvg-logo="https://i.ibb.co/8g3MBv1m/Picsart-26-05-11-01-33-49-536.webp" group-title="TV Paraguay", Rock & Pop TV
 https://copacogen.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.ibb.co/dwRx8DPL/1768361219571.webp" group-title="TV Paraguay", Republica TV
+https://copacogen.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bruno Masi.py" tvg-logo="https://i.ibb.co/Hf9wTh7r/1768407888738.webp" group-title="TV Paraguay", Bruno Masi TV
+https://copacogen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Red Digital.py" tvg-logo="https://i.ibb.co/ds1Cb5sk/1778205470759.webp" group-title="TV Paraguay", Red Digital
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+
+#EXTINF:-1 tvg-id="Dismar TV.py" tvg-logo="https://i.ibb.co/3mGBMGJP/Picsart-26-01-21-03-00-31-417.webp" group-title="TV Paraguay", Dismar TV
+https://copacogen.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Go tv.py" tvg-logo="https://i.ibb.co/PG9RZPx2/Picsart-26-05-17-02-17-50-059.webp" group-title="TV Paraguay", GO Radio TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/mF5fytNb/1778616456265.webp" group-title="TV Paraguay", Uga TV
+https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.postimg.cc/J450NMY3/Picsart-26-05-05-13-21-55-018.png" group-title="TV Paraguay", Koa Radio TV
+https://panel.host-live.com:19360/koatv/koatv.m3u8
 
 #EXTINF:-1 tvg-id="Monumental TV.py" tvg-logo="https://i.ibb.co/DPS5dCDr/Picsart-26-05-15-10-24-41-706.webp" group-title="TV Paraguay", Monumental TV
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
@@ -1853,8 +1871,8 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
 
-#EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/mF5fytNb/1778616456265.webp" group-title="TV Paraguay", Uga TV
-https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Next.py" tvg-logo="https://i.ibb.co/zWsqMKdt/Picsart-26-05-05-00-36-44-618.webp" group-title="TV Paraguay", N (Next)
+https://live.enhdtv.com:8081/8178/index.m3u8
 
 #EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/fVq7DYD5/Picsart-26-05-15-10-31-54-099.webp" group-title="TV Paraguay", RS TV
 https://copacogen.desdeparaguay.net/sagradostv/sagradostv/playlist.m3u8
@@ -1862,28 +1880,13 @@ https://copacogen.desdeparaguay.net/sagradostv/sagradostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Motor Sur.py" tvg-logo="https://i.ibb.co/xKFcqfg9/Picsart-26-05-06-12-36-16-356.webp" group-title="TV Paraguay", Motor Sur
 https://live.enhdtv.com:8081/8116/index.m3u8
 
-#EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.ibb.co/dwRx8DPL/1768361219571.webp" group-title="TV Paraguay", Republica TV
-https://copacogen.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Next.py" tvg-logo="https://i.ibb.co/zWsqMKdt/Picsart-26-05-05-00-36-44-618.webp" group-title="TV Paraguay", N (Next)
-https://live.enhdtv.com:8081/8178/index.m3u8
-
 #EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/84KSHLj3/Picsart-26-02-07-16-05-23-704.webp" group-title="TV Paraguay", 4D Mas Noticias
 https://copacogen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bruno Masi.py" tvg-logo="https://i.ibb.co/Hf9wTh7r/1768407888738.webp" group-title="TV Paraguay", Bruno Masi TV
-https://copacogen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.ibb.co/HLJBkv38/1768408290117.webp" group-title="TV Paraguay",Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF:-1 tvg-id="Dismar TV.py" tvg-logo="https://i.ibb.co/3mGBMGJP/Picsart-26-01-21-03-00-31-417.webp" group-title="TV Paraguay", Dismar TV
-https://copacogen.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Go tv.py" tvg-logo="https://i.ibb.co/PG9RZPx2/Picsart-26-05-17-02-17-50-059.webp" group-title="TV Paraguay", GO Radio TV
-https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/GvFnQZTx/1768407678180.webp" group-title="TV Paraguay", Suceso
+#EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/ch76Vgph/Picsart-26-05-21-03-46-33-177.webp" group-title="TV Paraguay", Suceso
 https://live.enhdtv.com:8081/8060/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/0pw6S8HB/Picsart-26-05-06-13-36-32-153.webp" group-title="TV Paraguay", TV Chaqueña
@@ -1892,11 +1895,8 @@ https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", Ñandejara TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/tgYFvY8N/1777998794922.png" group-title="TV Paraguay", TV8 Visión
+#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/tgYFvY8N/1777998794922.png" group-title="TV Paraguay", Visión TV
 https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.postimg.cc/J450NMY3/Picsart-26-05-05-13-21-55-018.png" group-title="TV Paraguay", Koa Radio TV
-https://panel.host-live.com:19360/koatv/koatv.m3u8
 
 #EXTINF:-1 tvg-id="Regional TV.py" tvg-logo="https://i.ibb.co/mCksQRWB/Picsart-26-01-21-03-56-17-196.webp" group-title="TV Paraguay", Regiónal TV
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
