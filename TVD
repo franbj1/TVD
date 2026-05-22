@@ -1737,7 +1737,7 @@ https://latan.stonetv.com.br/snt/tracks-v1a1/playlist.m3u8
 https://copacogen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/STKrQs7/image-74317-converted-To-Png.webp" group-title="TV Paraguay", Trece
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/sa_hls_full_e_95AEFABF606F67368D62A486/RPC_C4.m3u8
+https://latan.stonetv.com.br/trece/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://i.ibb.co/xK5jj85F/Picsart-26-01-21-22-16-53-353.webp" group-title="TV Paraguay", Paravisión
 https://latan.stonetv.com.br/paravision/tracks-v1a1/playlist.m3u8
@@ -1846,7 +1846,7 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telequince.py" tvg-logo="https://i.ibb.co/1JdbwmCH/Picsart-26-05-05-00-26-50-137.webp" group-title="TV Paraguay", Telequince
+#EXTINF:-1 tvg-id="Telequince.py" tvg-logo="https://i.ibb.co/TqktkXn0/Picsart-26-05-22-17-30-23-920.webp" group-title="TV Paraguay", Telequince
 https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
 
 #EXTINF:-1 tvg-id="Cad TV.py" tvg-logo="https://i.ibb.co/24Jv8FG/Picsart-26-05-05-00-31-56-877.webp" group-title="TV Paraguay", CAD TV
