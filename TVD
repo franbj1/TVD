@@ -1739,7 +1739,7 @@ https://copacogen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tv
 #EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/STKrQs7/image-74317-converted-To-Png.webp" group-title="TV Paraguay", Trece
 https://latan.stonetv.com.br/trece/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Paravision.py" tvg-logo="https://i.ibb.co/xK5jj85F/Picsart-26-01-21-22-16-53-353.webp" group-title="TV Paraguay", Paravisión
+#EXTINF:-1 tvg-id="Paravisión.py" tvg-logo="https://i.ibb.co/xK5jj85F/Picsart-26-01-21-22-16-53-353.webp" group-title="TV Paraguay", Paravisión
 https://latan.stonetv.com.br/paravision/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sur TV.py" tvg-logo="https://i.ibb.co/0p2nJFLY/Sur-TV-Itap-a-logo-2022.webp" group-title="TV Paraguay", Sur TV
@@ -1751,10 +1751,10 @@ https://rds3.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV
 https://www.desde-paraguay.com/mega.m3u8
 
-#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América
+#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América PY
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24
+#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
 https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://i.ibb.co/rRy5t2kV/Picsart-26-05-07-02-43-11-312.webp" group-title="TV Paraguay", Paraguay TV
