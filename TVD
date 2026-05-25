@@ -2827,8 +2827,8 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="0309" tvg-name="Magic Kids TV" tvg-logo="https://i.ibb.co/4nddbXDq/Magic-Kids-1998-3-D.webp" group-title="Infantil", Magic Kids TV
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
-#EXTINF:-1 tvg-id="0309" tvg-name="Laika TV" tvg-logo="https://i.ibb.co/Xfv7CFpY/Picsart-26-05-23-00-07-56-979.webp" group-title="Infantil", Laika TV de Prueba
-https://183.bozztv.com/giatv/giatv-laikatvla/laikatvla/chunks.m3u8
+#EXTINF:-1 tvg-id="0309" tvg-name="Laika TV" tvg-logo="https://i.ibb.co/Xfv7CFpY/Picsart-26-05-23-00-07-56-979.webp" group-title="Infantil", Laika Ch
+https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
