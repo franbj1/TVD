@@ -2824,8 +2824,10 @@ https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/YSVxfF5j/Picsart-26-02-28-02-09-27-892.png" group-title="Infantil", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0309" tvg-name="Magic Kids TV" tvg-logo="https://i.ibb.co/4nddbXDq/Magic-Kids-1998-3-D.webp" group-title="Infantil", Magic Kids TV
-https://proyectomagic.b-cdn.net/live/stream_480p.m3u8
+#KODIPROP:inputstream.adaptive.license_referer=https://proyectomagickids.com.ar/
+https://proyectomagic.b-cdn.net/live/stream_480p.m3u8?|referer=https://proyectomagickids.com.ar/
 
 #EXTINF:-1 tvg-id="0309" tvg-name="Laika TV" tvg-logo="https://i.ibb.co/Xfv7CFpY/Picsart-26-05-23-00-07-56-979.webp" group-title="Infantil", Laika Ch
 https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
