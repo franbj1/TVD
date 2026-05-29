@@ -3687,6 +3687,9 @@ https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Power Dance" tvg-logo="https://i.ibb.co/BStZ7nK/Picsart-26-05-29-08-45-11-110.webp" group-title="Música", Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Power Dance" tvg-logo="https://i.ibb.co/xKpm5GCh/1780087138800.webp" group-title="Música", one FM 99.1
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mkFN99f/Picsart-25-11-19-18-00-24-127.webp" group-title="Música", CMC Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
