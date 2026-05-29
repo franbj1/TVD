@@ -3547,6 +3547,12 @@ https://live.amelbatv.co:8081/tdicolombiatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Mas Musica.tv" tvg-logo="https://i.ibb.co/v42gV6v3/1765925109008.webp" group-title="Música", Mass Música
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Urbano TV" tvg-logo="https://i.ibb.co/d0vkCXjf/1780049872921.webp" group-title="Música", Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Urban Mix" tvg-logo="https://i.ibb.co/r2gCPQTn/1780050106705.webp" group-title="Música", Urban Mix
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxJ767Y2/Picsart-25-11-18-18-19-34-366.webp" group-title="Música", Activa TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
