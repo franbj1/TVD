@@ -3875,9 +3875,6 @@ https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", CBN Español
 https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Hope Channel
-https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
 #EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.ibb.co/sJgtG6yK/Picsart-25-08-17-02-13-43-260.webp" group-title="Religión", Radio María
@@ -3930,8 +3927,11 @@ https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDyFrwj0/Picsart-26-05-29-02-13-02-123.webp" group-title="Religión", Esperanza TV
 https://jstre.am/live/jsl:umb9869epxt.m3u8
 
-#EXTINF:-1 tvg-id="Hope Channel.ar" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel
+#EXTINF:-1 tvg-id="Hope Channel" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
+
+#EXTINF:-1 tvg-id="Hope Channel" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel Internacional
+https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 
 #EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
