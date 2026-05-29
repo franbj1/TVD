@@ -3924,11 +3924,14 @@ https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklis
 #EXTINF:-1 tvg-id="Mision Vida TV" tvg-logo="https://i.ibb.co/dw4YGJPN/Picsart-26-02-16-13-45-21-382.webp" group-title="Religión", Misión Vida TV
 https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8f857ZQ/Picsart-25-08-16-15-30-46-601.webp" group-title="Religión", Nuevo Tiempo
-https://stream.live.novotempo.com/tv/tvnuevotiempo.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LWjY5tL/Picsart-26-05-29-02-09-33-085.webp" group-title="Religión", Nuevo Tiempo
+https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sd2fsRbs/Picsart-25-11-24-02-19-59-162.webp" group-title="Religión", Esperanza TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDyFrwj0/Picsart-26-05-29-02-13-02-123.webp" group-title="Religión", Esperanza TV
 https://jstre.am/live/jsl:umb9869epxt.m3u8
+
+#EXTINF:-1 tvg-id="Hope Channel.ar" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel
+https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
 
 #EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
