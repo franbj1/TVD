@@ -3840,15 +3840,43 @@ https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
-#EXTINF:-1 tvg-id="EWTN.ar" tvg-logo="https://i.ibb.co/8DxcwCm5/Picsart-26-04-11-05-42-49-216.webp" group-title="Religión", EWTN
+#EXTINF:-1 tvg-id="EWTN.ar" tvg-logo="https://i.ibb.co/8DxcwCm5/Picsart-26-04-11-05-42-49-216.webp" group-title="Religión", EWTN Latam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-id="EWTN asia" tvg-logo="https://i.ibb.co/JjQ48w1d/Picsart-26-05-29-00-26-33-153.webp" group-title="Religión", EWTN España
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN asia" tvg-logo="https://i.ibb.co/JjQ48w1d/Picsart-26-05-29-00-26-33-153.webp" group-title="Religión", EWTN Asia
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN asia" tvg-logo="https://i.ibb.co/JjQ48w1d/Picsart-26-05-29-00-26-33-153.webp" group-title="Religión", EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN asia" tvg-logo="https://i.ibb.co/JjQ48w1d/Picsart-26-05-29-00-26-33-153.webp" group-title="Religión", EWTN Alemania
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN asia" tvg-logo="https://i.ibb.co/JjQ48w1d/Picsart-26-05-29-00-26-33-153.webp" group-title="Religión", EWTN Polonia
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Dayst☆r Español
 https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Dayst☆r English
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID
-https://dmuabtojs7ukn.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/Televid/out/v1/a5bab151f56e431b920e0f2d8d935a5a/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://liveingesta360.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", La Voz de Maria
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+
+#EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", CBN Español
+https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Hope Channel
+https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
