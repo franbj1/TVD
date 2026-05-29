@@ -42,7 +42,7 @@ https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://trs.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/BKr1g7KM/Picsart-26-04-20-17-50-43-738.webp" group-title="Nacional", Construir TV
@@ -137,7 +137,7 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="Nacional", Canal 26
-#EXTVLCOPT:http-user-agent="Android
+#EXTVLCOPT:http-user-agent="default
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="0963" tvg-name="Canal E • Argentina" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="Nacional", Canal E
@@ -558,13 +558,13 @@ TV Bolivia
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
 #EXTINF:-1 tvg-id="Bolivia.bo" tvg-logo="https://i.ibb.co/MyD8qwP5/1776689167710.webp" group-title="TV Bolivia", Bolivia TV
 #EXTVLCOPT:http-user-agent=Android
-https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest
+https://el4live2.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e6b16601734349eab878d52d00f583ab:03f5b7fbc1cbfb5d612dc3b735dfb184
 #EXTINF:-1 tvg-id="BOLIVISION.bo" tvg-logo="https://i.ibb.co/VYbn0v4D/Picsart-26-03-27-15-51-52-410.webp" group-title="TV Bolivia", Bolivisión TV
 #EXTVLCOPT:http-user-agent=Android
-https://el4live2.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest
+https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="https://i.ibb.co/q38wmbw4/Picsart-26-04-20-09-03-14-397.webp" group-title="TV Bolivia", Unitel
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
@@ -2301,17 +2301,17 @@ Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?key=1ab45030c16086ccd5e942c478836926&keyid=a5f7d1ed0c244ecfb2d7d85a1d78c7c8
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
-https://bvclive1.boldmss.com/FOX_SPORTS/FOX_SPORTS_BVC.isml/FOX_SPORTS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://bvclive2.boldmss.com/FOX_SPORTS/FOX_SPORTS_BVC.isml/FOX_SPORTS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?key=0ac6ad6ca5dd20f204e79f7fc6d744c3&keyid=6ae10ae5ce614113bab224f38f24e81f
 #EXTINF:-1 tvg-id="FOX Sports 2.uy" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", FOX Sports 2
-https://bvclive1.boldmss.com/FOX_SPORTS_2/FOX_SPORTS_2_BVC.isml/FOX_SPORTS_2.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://bvclive2.boldmss.com/FOX_SPORTS_2/FOX_SPORTS_2_BVC.isml/FOX_SPORTS_2.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?key=745b11ae7e764ad46b058548e4dfe234&keyid=690723060cb04c34932a5a3d8ef23d86
 #EXTINF:-1 tvg-id="FOX Sports 3.uy" tvg-logo="https://i.ibb.co/8nnVbppx/1770086314401.webp" group-title="Deportes", FOX Sports 3
-https://bvclive1.boldmss.com/FOX_SPORTS_3/FOX_SPORTS_3_BVC.isml/FOX_SPORTS_3.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://bvclive2.boldmss.com/FOX_SPORTS_3/FOX_SPORTS_3_BVC.isml/FOX_SPORTS_3.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
@@ -2396,7 +2396,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=68f96d618b0b956b008c445896a25a79&keyid%5B%5D=a7d11d37a1f7611ee88d4db880171f32
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/cXNzjStp/Picsart-26-05-03-21-16-51-147.webp" group-title="Deportes", DSports
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/cXNzjStp/Picsart-26-05-03-21-16-51-147.webp" group-title="Deportes", DSports Chile
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
@@ -2876,7 +2876,6 @@ https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 #KODIPROP:inputstream.adaptive.license_key=eed9a193b3c6167b823030d788d771a4:d21daeba7e513d9f3ba714deeddd0630
 #EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" group-title="Cine + Series", Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://localhost.apppelis.es/solplay/158.mpd
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2906,13 +2905,13 @@ https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
 #EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Android
-https://el4live2.boldmss.com/SONY/SONY_EL4.isml/manifest
+https://el4live1.boldmss.com/SONY/SONY_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
 #EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://i.ibb.co/1JB4mHF3/msf-43097-converted-To-Png.webp" group-title="Cine + Series", Sony Movies
 #EXTVLCOPT:http-user-agent=Android
-https://el4live2.boldmss.com/SONY_MOVIES/SONY_MOVIES_EL4.isml/manifest
+https://el4live1.boldmss.com/SONY_MOVIES/SONY_MOVIES_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
