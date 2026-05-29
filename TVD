@@ -1651,32 +1651,32 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
 #EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4 FLOW
-https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_cenc/Canal4_URU.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dd34782d754f8fcb1e8b38da9ffad0b:6fb97467c0f0ea13f86d41a70e029c51
 #EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.ibb.co/pBnQRn5m/1776808271991.webp" group-title="TV Uruguay", Canal 10 FLOW
-https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_cenc/Canal10_URU.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_wl/Canal10_URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 #EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/vvkkBJKX/Picsart-26-04-26-19-43-47-541.webp" group-title="TV Uruguay", Teledoce FLOW
-https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_cenc/Canal12URU.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_wl/Canal12URU.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
 #EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5 FLOW
-https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_cenc/TV_Nacional_Uy.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_wl/TV_Nacional_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
 #EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.ibb.co/8gky2FzS/Picsart-25-12-26-21-48-07-957.webp" group-title="TV Uruguay", TV Ciudad FLOW
-https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_cenc/Teve_Ciudad.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_wl/Teve_Ciudad.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
 #EXTINF:-1 tvg-id="UCL.pe" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal UCL FLOW
-https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_cenc/Canal_U.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_wl/Canal_U.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=81ac405be6ccf3dfdd220baee48e49e1&keyid%5B%5D=d7063d20931b5b14864536d4cffd2033
@@ -1686,7 +1686,7 @@ https://1275-tbx.vrioott.com/cardinaltv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
 #EXTINF:-1 tvg-id="Canal 4 Paysandú.uy" tvg-logo="https://i.ibb.co/SwjMP126/1770389025970.webp" group-title="TV Uruguay", Canal 4 Paysandú
-https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_cenc/Eventos_2_UY.mpd
+https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_wl/Eventos_2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
@@ -1716,7 +1716,7 @@ http://xcm.budtv-ultra.com:9090/278802_.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
 #EXTINF:-1 tvg-id="Charrua HD.uy" tvg-logo="https://i.ibb.co/FqmvzYqk/1766804574514.webp" group-title="TV Uruguay", Charrúa TV
-https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_cenc/Eventos_HD_Uy.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_wl/Eventos_HD_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
@@ -3681,6 +3681,12 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="Power Love" tvg-logo="https://i.ibb.co/pBddcTyk/Picsart-26-05-29-08-46-46-932.webp" group-title="Música", Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Power Dance" tvg-logo="https://i.ibb.co/BStZ7nK/Picsart-26-05-29-08-45-11-110.webp" group-title="Música", Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mkFN99f/Picsart-25-11-19-18-00-24-127.webp" group-title="Música", CMC Channel
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
