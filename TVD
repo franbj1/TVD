@@ -3724,6 +3724,9 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kV1WgVhp/Top-TV-logo-svg-1.webp" group-title="Música", Top TV
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Power Love" tvg-logo="https://i.ibb.co/pBddcTyk/Picsart-26-05-29-08-46-46-932.webp" group-title="Música", Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
@@ -3754,7 +3757,7 @@ https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/bad34493-e512-4554-8063-3dc7a9f4c361.png" group-title="Música", Spektra TV
 https://cloudvideo.servers10.com:8081/8026/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twkmdyzD/23-new-logo.webp" group-title="Música", Mas23
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twkmdyzD/23-new-logo.webp" group-title="Música", +23
 https://movil.ejeserver.com/live/mas23tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8n0VrhbR/1755442043156.webp" group-title="Música", 88 Stereo
@@ -3768,6 +3771,26 @@ https://cloudvideo.servers10.com:8081/8036/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/39731600-31d6-4dcb-9115-391eb8d0fd7b.png" group-title="Música", Hit FM
 https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m55F6Sjk/Picsart-25-08-14-13-49-50-415.webp" group-title="Música", Trace Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8?ads.dpname=distrotv&ads.rnd=lcsk&ads.env_i=1042dfce-1878-484a-ab13-2913c8488054&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=594&ads.height=334&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=1xDW39YSbgi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCYXhsyb/Picsart-25-08-14-13-50-15-865.webp" group-title="Música", Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8?ads.dpname=distrotv&ads.rnd=lcsk&ads.env_i=1042dfce-1878-484a-ab13-2913c8488054&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=594&ads.height=334&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=1xDW39YSbgi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRy3kpT8/Picsart-25-08-14-13-29-57-118.webp" group-title="Música", Trace UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://amg01131-tracetv-amg01131c5-plex-us-4388.playouts.now.amagi.tv/playlist.m3u8?ads.dpname=distrotv&ads.rnd=lcsk&ads.env_i=1042dfce-1878-484a-ab13-2913c8488054&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=594&ads.height=334&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=1xDW39YSbgi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgS6s4xv/20260530-034444.webp" group-title="Música", Trace Caribbean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://channels.trace.plus/Traceprod/CARIBBEAN_ld/index.m3u8?ads.dpname=distrotv&ads.rnd=lcsk&ads.env_i=1042dfce-1878-484a-ab13-2913c8488054&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=594&ads.height=334&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=1xDW39YSbgi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7WFXT3/20260530-034204.webp" group-title="Música", Trace Africa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://channels.trace.plus/Traceprod/AFRICA_FR_sd/index.m3u8?ads.dpname=distrotv&ads.rnd=lcsk&ads.env_i=1042dfce-1878-484a-ab13-2913c8488054&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=594&ads.height=334&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=1xDW39YSbgi
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/a17f15fa-f77f-4e09-bfc9-563d37e479ef.png" group-title="Música", Stingray Music
 https://lotus.stingray.com/manifest/ose-155ads-montreal/webapp/master.m3u8
