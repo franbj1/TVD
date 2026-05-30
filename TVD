@@ -3446,7 +3446,7 @@ https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?|referer=https://playe
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
-#EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://i.ibb.co/bgS6s4xv/20260530-034444.webp" group-title="Música", El Folklorico
+#EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://i.ibb.co/272NgK2n/Picsart-26-05-30-04-13-46-788.webp" group-title="Música", El Folklorico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream.t5satelital.blog/hls/elfolkloricoweb.m3u8
 https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
@@ -3454,9 +3454,6 @@ https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://
 #EXTINF:-1 tvg-id="MTV Live.us" tvg-logo="https://i.ibb.co/ZRYHm9f6/Picsart-26-03-28-02-47-11-930.webp" group-title="Música", MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="0532" tvg-name="MTV Classic" tvg-logo="https://i.ibb.co/VpM1tQKF/Picsart-25-11-19-16-56-04-786.webp" group-title="Música", MTV Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="Música", Total Music
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
