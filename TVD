@@ -3421,11 +3421,11 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0543" tvg-name="Music TOP" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music TOP
-https://bvclive1.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://bvclive1.boldmss.com/MUSICTOPS/MUSICTOPS.isml/MUSICTOPS/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0542" tvg-name="TierraMia" tvg-logo="https://i.ibb.co/yFZSZKVL/1763845886680.webp" group-title="Música", Tierra Mia  TV
-https://bvclive1.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/TIERRAMIATV.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://bvclive1.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/TIERRAMIATV/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #EXTINF:-1 tvg-id="billboard.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/800/542/0/0/12050400077728.png" group-title="Música", Billboard AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -3802,53 +3802,11 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.ibb.co/GNdLHWf/Picsart-25-11-21-05-05-04-881.webp" group-title="Música", Pop World
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53dcb05ef1f0bbd2093b0c2fe8e55a5e:d2fb9a4f8244a9af19893be032c43d3f
-#EXTINF:-1 group-title="Música" ch-number="500" tvg-id="Allegro HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3602/CH_LOGO/800/542/0/0/14066743073439.png", Allegro
-https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
-#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA ROMANTICA" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/800/542/0/0/15712909076760.png", Mi Música Romantica
-https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
-#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA REGGAETON" tvg-logo="https://i.ibb.co/8H7q54p/Picsart-25-08-18-00-40-53-623.webp", Mi Música Reggaeton
-https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
-#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA HITS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/800/542/0/0/82379535077403.png", Mi Música Hits
-https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
-#EXTINF:-1 group-title="Música" tvg-id="MI MUSICA K-POP" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/800/542/0/0/50713419076833.png", Mi Música K-Pop
-https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-id="DISTROTV1#FreeTV.Hits.distro" tvg-name="FreeTV Hits" tvg-logo="https://i.supaimg.com/90a2676e-60f5-4eb9-b498-162df52dfe0a.png" group-title="Música", Free TV Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16322
 
 #EXTINF:-1 tvg-id="DISTROTV1#FreeTV.Banda.distro" tvg-name="FreeTV Banda" tvg-logo="https://i.supaimg.com/33f539de-4ebd-4b2a-8d6e-afefe58ccd48.png" group-title="Música", Free TV Banda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16334
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
-#EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png" group-title="Música", El Folklorico
-https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kV1WgVhp/Top-TV-logo-svg-1.webp" group-title="Música", Top TV
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m55F6Sjk/Picsart-25-08-14-13-49-50-415.webp" group-title="Música", Trace Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCYXhsyb/Picsart-25-08-14-13-50-15-865.webp" group-title="Música", Trace Urban
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRy3kpT8/Picsart-25-08-14-13-29-57-118.webp" group-title="Música", Trace UK
-https://d3b13j525hja2q.cloudfront.net/23073/Uk/encrypted.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrjthCcq/photo-2.webp" group-title="Música", XITE Rock X Metal US
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8 
