@@ -1831,8 +1831,8 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio UGA.py" tvg-logo="https://i.ibb.co/mF5fytNb/1778616456265.webp" group-title="TV Paraguay", Uga TV
 https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.postimg.cc/J450NMY3/Picsart-26-05-05-13-21-55-018.png" group-title="TV Paraguay", Koa Radio TV
-https://panel.host-live.com:19360/koatv/koatv.m3u8
+#EXTINF:-1 tvg-id="Koa TV.py" tvg-logo="https://i.postimg.cc/wv4BjGBD/Picsart-26-05-31-01-57-29-797.png" group-title="TV Paraguay", Koa Radio TV
+https://tv.koaradio.net/abr/480p/index.m3u8?v=1780203136462
 
 #EXTINF:-1 tvg-id="Monumental TV.py" tvg-logo="https://i.ibb.co/DPS5dCDr/Picsart-26-05-15-10-24-41-706.webp" group-title="TV Paraguay", Monumental TV
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
@@ -1890,9 +1890,6 @@ https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/tgYFvY8N/1777998794922.png" group-title="TV Paraguay", Visión TV
 https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Regional TV.py" tvg-logo="https://i.ibb.co/mCksQRWB/Picsart-26-01-21-03-56-17-196.webp" group-title="TV Paraguay", Regiónal TV
-https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 
 TV España
 
