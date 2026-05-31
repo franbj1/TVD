@@ -19,7 +19,7 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cezocji8902gp5d8ov000000041tr31g/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/cezocji8902gp5d8ov000000041tr31g/output.mpd
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
@@ -3415,11 +3415,11 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0543" tvg-name="Music TOP" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music TOP
-https://bvclive1.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0542" tvg-name="TierraMia" tvg-logo="https://i.ibb.co/yFZSZKVL/1763845886680.webp" group-title="Música", Tierra Mia  TV
-https://bvclive1.boldmss.com/TIERRAMIATV/TIERRAMIATV.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://stream-gtlc.telecentro.net.ar/hls/tierramiatvhls/main.m3u8
 
 #EXTINF:-1 tvg-id="billboard.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/800/542/0/0/12050400077728.png" group-title="Música", Billboard AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
