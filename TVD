@@ -1876,9 +1876,6 @@ https://copacogen.desdeparaguay.net/sagradostv/sagradostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Motor Sur.py" tvg-logo="https://i.ibb.co/xKFcqfg9/Picsart-26-05-06-12-36-16-356.webp" group-title="TV Paraguay", Motor Sur
 https://live.enhdtv.com:8081/8116/index.m3u8
 
-#EXTINF:-1 tvg-id="D Mas Noticias.py" tvg-logo="https://i.ibb.co/84KSHLj3/Picsart-26-02-07-16-05-23-704.webp" group-title="TV Paraguay", 4D Mas Noticias
-https://copacogen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.ibb.co/HLJBkv38/1768408290117.webp" group-title="TV Paraguay",Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
