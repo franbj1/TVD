@@ -83,7 +83,7 @@ https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?|referer=https://la100.cienradios.com/hd/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6sDQTKF/Picsart-25-08-12-03-41-05-403.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMwwyyLr/Picsart-26-06-01-15-52-07-355.webp" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
@@ -102,7 +102,6 @@ https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/4n9gbKs8/volver-ar.webp" group-title="Nacional", Volver
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
-ttps://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="Nacional", TN (Todo Noticias)
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
@@ -126,7 +125,8 @@ https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&keyid%5B%5D=8fefbdadc7844e46952fb0320c77692d
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
-https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd?|a
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 
 #EXTINF:-1 tvg-id="ARGENTINA 12.ar" tvg-logo="https://i.ibb.co/FkgrNRLC/1765116462550.webp" group-title="Nacional", Argentina 12
 #EXTVLCOPT:http-user-agent="Android
