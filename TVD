@@ -791,7 +791,7 @@ TV México
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=642772ebf1832f1f2fa58cb7e8fcfd05&keyid%5B%5D=ce8f86d2f0d1638574237ada8ac2e82a
-#EXTINF:-1 tvg-id="AZTECA 7.mx" https://i.ibb.co/xSCdHv2R/Picsart-25-11-07-16-08-09-052.webp" tvg-logo="https://i.ibb.co/kVL7W7PG/1778117233842.webp" group-title="TV México", Azteca 7
+#EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/xSCdHv2R/Picsart-25-11-07-16-08-09-052.webp" group-title="TV México", Azteca 7
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
 
@@ -2421,17 +2421,17 @@ https://cdn.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_cenc/DSports_1.mpd
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/n8tVmxc1/Picsart-26-05-29-19-39-02-829.webp" group-title="Deportes", DSports 2 flow
 https://cdn.cvattv.com.ar/live/c3eds/DSports_2/SA_Live_dash_cenc/DSports_2.mpd
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webpp" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 https://bvclive2.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/manifest
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mzx58s6/Picsart-25-09-01-06-22-59-405.webp" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
 
