@@ -2292,6 +2292,61 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=45bbd582f220f438f896450d8306a3f2&key%5B%5D=582c6ba7f64bbc0f2d91c6b0c265760c
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/sprjF6cf/Picsart-26-06-01-18-48-36-197.webp" group-title="Deportes", DSports
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=68f96d618b0b956b008c445896a25a79&keyid%5B%5D=a7d11d37a1f7611ee88d4db880171f32
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/sprjF6cf/Picsart-26-06-01-18-48-36-197.webp" group-title="Deportes", DSports Chile
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ea07b87acdf2e45be824cde4a1cf3504&keyid%5B%5D=03f12d6a3dbfd3a6fa7dd7f6417e0c11
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/8gbSRqCY/Picsart-26-06-02-01-19-32-455.webp" group-title="Deportes", DSports 2
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ddfd7ca653d6f35543d8edb3c688e20f&keyid%5B%5D=83f81c4cc1443991543de4e22eea7586
+#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.ibb.co/5WqrXhzc/Picsart-26-06-02-01-25-17-574.webp" group-title="Deportes", DSports +
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=4db80473af2ed318c41d879f2822203e:d30f94e60344adf0f4b242a5952575ad
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/Y7y501z4/Picsart-26-05-29-19-41-34-349.webp" group-title="Deportes", DSports flow
+https://cdn.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_widevine/DSports_1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=
+0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/n8tVmxc1/Picsart-26-05-29-19-39-02-829.webp" group-title="Deportes", DSports 2 flow
+https://cdn.cvattv.com.ar/live/c3eds/DSports_2/SA_Live_dash_widevine/DSports_2.mpd
+
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
+http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webpp" group-title="Deportes", TyC Sports
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
+https://bvclive2.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/manifest
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=1ab45030c16086ccd5e942c478836926&keyid=a5f7d1ed0c244ecfb2d7d85a1d78c7c8
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
@@ -2379,61 +2434,6 @@ https://bvclive1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_BVC.isml/ESPN_PREMIUM.mpd
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/kVHv4Jw2/ESPN-Premium-blanco.webp" group-title="Deportes", ESPN Premium ARG
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=45bbd582f220f438f896450d8306a3f2&key%5B%5D=582c6ba7f64bbc0f2d91c6b0c265760c
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/sprjF6cf/Picsart-26-06-01-18-48-36-197.webp" group-title="Deportes", DSports 1
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=68f96d618b0b956b008c445896a25a79&keyid%5B%5D=a7d11d37a1f7611ee88d4db880171f32
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/sprjF6cf/Picsart-26-06-01-18-48-36-197.webp" group-title="Deportes", DSports Chile
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ea07b87acdf2e45be824cde4a1cf3504&keyid%5B%5D=03f12d6a3dbfd3a6fa7dd7f6417e0c11
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/8gbSRqCY/Picsart-26-06-02-01-19-32-455.webp" group-title="Deportes", DSports 2
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ddfd7ca653d6f35543d8edb3c688e20f&keyid%5B%5D=83f81c4cc1443991543de4e22eea7586
-#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.ibb.co/7J6Yqfwx/Picsart-26-05-03-21-26-32-935.webp" group-title="Deportes", DSports +
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=4db80473af2ed318c41d879f2822203e:d30f94e60344adf0f4b242a5952575ad
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/Y7y501z4/Picsart-26-05-29-19-41-34-349.webp" group-title="Deportes", DSports flow
-https://cdn.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_widevine/DSports_1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=
-0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/n8tVmxc1/Picsart-26-05-29-19-39-02-829.webp" group-title="Deportes", DSports 2 flow
-https://cdn.cvattv.com.ar/live/c3eds/DSports_2/SA_Live_dash_widevine/DSports_2.mpd
-
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
-http://181.13.252.102:8000/play/a02s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webpp" group-title="Deportes", TyC Sports
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
-
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
-https://bvclive2.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/manifest
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJ5j0whh/Picsart-26-05-11-14-35-37-428.webp" group-title="Deportes", TyC Sports ғᴀɴ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
