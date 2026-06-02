@@ -2347,6 +2347,10 @@ https://bvclive2.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/manifest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/JRPxzbTy/Picsart-26-06-02-01-53-54-731.webp" group-title="Deportes", Telefe es Mundial 2026 🔵⚪🔵
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=1ab45030c16086ccd5e942c478836926&keyid=a5f7d1ed0c244ecfb2d7d85a1d78c7c8
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
