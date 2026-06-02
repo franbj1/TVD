@@ -2354,7 +2354,7 @@ https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=642772ebf1832f1f2fa58cb7e8fcfd05&keyid%5B%5D=ce8f86d2f0d1638574237ada8ac2e82a
-#EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/hxp5GsCL/Picsart-26-06-02-19-35-33-724.webp" group-title="TV México", Azteca 7 Mundial
+#EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/hxp5GsCL/Picsart-26-06-02-19-35-33-724.webp" group-title="Deportes", Azteca 7 Mundial 2026
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
 
