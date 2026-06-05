@@ -2363,6 +2363,19 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
 
+#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/fYysJfqL/Am-rica-Deportes-2016.webp" group-title="Deportes", América Deportes Mundial 2026
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/Dgs7wDFx/Gol-Caracol-svg.webp" group-title="Deportes", Gol Deportes Mundial 2026/ Se activara desde el 11 de junio
+#EXTVLCOPT:http-user-agent=Android
+https://val06.ride.com.ar/tvmia/1an11/playlist.m3u8
+htps://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://i.ibb.co/tTB1NLjB/image-80102-converted-To-Png.webp" group-title="Deportes", Chilevision Mundial 2026/ el canal se activara desde el 11 de junio
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+htts://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=1ab45030c16086ccd5e942c478836926&keyid=a5f7d1ed0c244ecfb2d7d85a1d78c7c8
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
@@ -2534,87 +2547,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="Bein Sports XTRA" tvg-logo="https://i.ibb.co/Vp3sSbT1/1776468390104.webp" group-title="Deportes", Bein Sports XTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Deportes.mx" tvg-name="" tvg-logo="https://i.ibb.co/4RQFpPNy/Picsart-25-10-13-07-22-30-930.webp" group-title="Deportes", ESPN Deportes
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-
-#EXTINF:-1 tvg-id="Combate Brasil" tvg-logo="https://i.ibb.co/kgMLk8zG/Picsart-25-10-21-18-50-48-728.webp" group-title="Deportes", Combate BR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://latan.stonetv.com.br/combate/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Classics.es" tvg-logo="https://i.ibb.co/cct1076t/Picsart-25-11-22-11-58-10-564.webp" group-title="Deportes", Gol Classics
-https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
-
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.ibb.co/wZqzSXc2/Tve-teledeporte.webp" group-title="Deportes", Teledeportes
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-#EXTINF:-1 tvg-id="TyC Sports 2.ar" tvg-logo="https://i.supaimg.com/ac2fd27e-6464-480c-b00f-dafcfe93b774.png?raw=true" group-title="Deportes" ch-number="4" type="channel", Flow Sports
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/fcb73bb5-bd00-4e50-a2b7-6f281a851f99.png" group-title="Deportes" ch-number="5" type="channel", Flow Sports 2 
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
-https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes", ESPN 2
-https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld_C/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
- 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
-https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld_C/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0RSdtjbG/1280px-ESPN-5-logo-svg.png" group-title="Deportes", ESPN 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hnsgPT1/2560px-ESPN-6-logo-svg.png" group-title="Deportes", ESPN 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="Deportes", ESPN 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/ESPN7/SA_Live_dash_enc/ESPN7.mpd
-
-#EXTINF:-1 tvg-id="FOX Sports.mx" tvg-logo="https://i.ibb.co/chn80k38/Picsart-25-10-19-21-56-06-250.webp" group-title="Deportes", Fox Sports MX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-
-#EXTINF:-1 tvg-id="FOX Sports 2.mx" tvg-logo="https://i.ibb.co/23pwdZND/Picsart-25-10-19-23-46-32-841.webp" group-title="Deportes", Fox Sports 2 MX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-
-#EXTINF:-1 tvg-id="FOX Sports 3.mx" tvg-logo="https://i.ibb.co/ZR7J3c4S/Picsart-25-10-19-23-44-49-538.webp" group-title="Deportes", Fox Sports 3 MX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 #EXTINF:-1 tvg-id="FOX Sports Premium.mx" tvg-logo="https://i.ibb.co/gLPfbCn6/Picsart-25-10-20-00-11-52-191.webp" group-title="Deportes", Fox Sports Premium MX
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
