@@ -1761,6 +1761,12 @@ https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
 https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5bd469f8bf268d5d148c3971c7c23fca&key%5B%5D=9af98080d22846fdf2988b8ba9ec4add
+#EXTINF:-1 tvg-id="El Trece Internacional.cl" tvg-logo="https://i.ibb.co/08VhhYb/Picsart-26-04-10-04-15-23-871.webp" group-title="TV Paraguay", El Trece Internacional
+#EXTVLCOPT:http-user-agent="Android
+https://latan.stonetv.com.br/eltrece/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://i.ibb.co/rRy5t2kV/Picsart-26-05-07-02-43-11-312.webp" group-title="TV Paraguay", Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
