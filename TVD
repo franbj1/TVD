@@ -19,8 +19,8 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.ibb.co/yjRpvY5/1766424542874.webp" group-title="Nacional", Telefe
-https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/cezocji8902gp5d8ov000000041tr31g/output.mpd
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.ibb.co/RkQ8r11Y/Picsart-25-08-03-03-38-50-406.webp" group-title="Nacional", El Trece
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
