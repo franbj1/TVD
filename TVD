@@ -2348,7 +2348,7 @@ http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
-https://bvclive2.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/manifest
+https://latan.stonetv.com.br/tyc-sports/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
