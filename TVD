@@ -2775,7 +2775,7 @@ https://el4live1.boldmss.com/SONY/SONY_EL4.isml/manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
 #EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://i.ibb.co/1JB4mHF3/msf-43097-converted-To-Png.webp" group-title="Cine + Series", Sony Movies
 #EXTVLCOPT:http-user-agent=Android
-https://el4live1.boldmss.com/SONY_MOVIES/SONY_MOVIES_EL4.isml/manifest
+http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/56.m3u8
 
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
