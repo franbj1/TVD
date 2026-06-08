@@ -2299,6 +2299,15 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/DDQFWrhs/Picsart-26-06-08-16-48-49-239.webp" group-title="Deportes", #MundialXTelefe 🔵⚪🔵
+#EXTVLCOPT:http-user-agent=Android
+https://val01.ride.com.ar/tvmia/1an11/playlist.m3u8
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+
+#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/Nd9VcKLF/Picsart-26-06-03-15-27-06-938.webp" group-title="Deportes", Televisión Pública Argentina 🇦🇷
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=45bbd582f220f438f896450d8306a3f2&key%5B%5D=582c6ba7f64bbc0f2d91c6b0c265760c
@@ -2353,15 +2362,6 @@ https://latan.stonetv.com.br/tyc-sports/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/Xx3rXPnR/Picsart-26-06-03-15-24-39-582.webp" group-title="Deportes", #MundialXTelefe 🔵⚪🔵
-#EXTVLCOPT:http-user-agent=Android
-https://val01.ride.com.ar/tvmia/1an11/playlist.m3u8
-https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
-
-#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/Nd9VcKLF/Picsart-26-06-03-15-27-06-938.webp" group-title="Deportes", Televisión Pública Argentina
-#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=642772ebf1832f1f2fa58cb7e8fcfd05&keyid%5B%5D=ce8f86d2f0d1638574237ada8ac2e82a
