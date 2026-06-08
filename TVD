@@ -602,16 +602,16 @@ TV Colombia
 
 #EXTINF:-1 group-logo="https://i.ibb.co/LddkRrTd/Picsart-26-01-23-17-47-31-849.webp"
 
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=f9152f20917b401a89d05c188ab49a99&keyid=2d883dc648556ccb6b9071ac7ef99eeb
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/5xxVjzJJ/Picsart-26-01-29-12-49-35-106.webp" group-title="TV Colombia", Caracol Televisión
-http://107.152.39.199:8030/hls/canal10.m3u8
+http://libretv.ddnsfree.com/TVPLive/Play/4
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6687308c9c969315c7ec77f6a9c46afb&keyid%5B%5D=b605a3b3ae2ee3d49e92c1f6424b5ba9
 #EXTINF:-1 tvg-id="Caracol Int.co" tvg-logo="https://i.ibb.co/Df6nY7Pr/Picsart-26-02-19-03-57-13-554.webp" group-title="TV Colombia", Caracol Internacional
 #EXTVLCOPT:http-user-agent="AgileTV/2.49.0 (Linux;Android 15) ExoPlayerLib/2.17.1
-https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=b47a19dbad3c4fc3a2b51ef8fadba715&keyid=7b044b595a2b90179a1dbce08bd3b098
@@ -619,7 +619,7 @@ https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/
 https://d2ltl67q3l75ps.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/ahora/out/v1/285068e6a16642d28f2b8856bb6337de/index.mpd
 
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN
-http://107.152.39.199:8030/hls/canal9.m3u8
+http://libretv.ddnsfree.com/TVPLive/Play/1
 
 #EXTINF:-1 tvg-id="RCN Noticias.co" tvg-logo="https://i.ibb.co/p6N0X82c/Picsart-26-01-29-13-34-13-542.webp" group-title="TV Colombia", RCN Noticias
 https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
@@ -637,10 +637,10 @@ https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 http://107.152.39.199:8030/hls/canal15.m3u8
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/99szNZgW/1776798196038.webp" group-title="TV Colombia", Canal Uno
-http://107.152.39.199:8030/hls/canal2.m3u8
+http://libretv.ddnsfree.com/TVPLive/Play/7
 
 #EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", TR3CE
-http://107.152.39.199:8030/hls/canal12.m3u8
+http://libretv.ddnsfree.com/TVPLive/Play/9
 
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GfQLGL3j/Picsart-26-03-30-20-04-59-765.webp" group-title="TV Colombia", Capital
 http://107.152.39.199:8030/hls/canal8.m3u8
