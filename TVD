@@ -621,7 +621,7 @@ https://d2ltl67q3l75ps.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN
 http://libretv.ddnsfree.com/TVPLive/Play/1
 
-#EXTINF:-1 tvg-id="RCN Noticias.co" tvg-logo="https://i.ibb.co/p6N0X82c/Picsart-26-01-29-13-34-13-542.webp" group-title="TV Colombia", RCN Noticias
+#EXTINF:-1 tvg-id="RCN HD.co" tvg-logo="https://i.ibb.co/p6N0X82c/Picsart-26-01-29-13-34-13-542.webp" group-title="TV Colombia", RCN Noticias
 https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.supaimg.com/229f4d3f-8be3-416a-b851-44676528c4a8.png" group-title="TV Colombia", RCN Más
@@ -637,25 +637,28 @@ https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 http://107.152.39.199:8030/hls/canal15.m3u8
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/99szNZgW/1776798196038.webp" group-title="TV Colombia", Canal Uno
-http://libretv.ddnsfree.com/TVPLive/Play/7
+http://libretv.ddnsfree.com/TVPLive/Play/8
 
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", TR3CE
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", 13
 http://libretv.ddnsfree.com/TVPLive/Play/9
 
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GfQLGL3j/Picsart-26-03-30-20-04-59-765.webp" group-title="TV Colombia", Capital
-http://107.152.39.199:8030/hls/canal8.m3u8
+http://libretv.ddnsfree.com/TVPLive/Play/7
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
-http://107.152.39.199:8030/hls/canal6.m3u8
+http://libretv.ddnsfree.com/TVPLive/Play/11
 
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Tiempo Television.co" tvg-logo="https://i.ibb.co/m5Xw5dyK/NUEVO-LOGO-DE-EL-TIEMPO-HD.webp" group-title="TV Colombia", El Tiempo TV
+#EXTINF:-1 tvg-id="El Tiempo TelevisiÃ³n.co" tvg-logo="https://i.ibb.co/m5Xw5dyK/NUEVO-LOGO-DE-EL-TIEMPO-HD.webp" group-title="TV Colombia", El Tiempo TV
 https://val03.ride.com.ar/tvmia/bn12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia
+#EXTINF:-1 tvg-id="SeÃ±al Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.ibb.co/VcXBPt0X/Picsart-26-06-08-17-18-29-742.webp" group-title="TV Colombia", Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.ibb.co/N6FWJv99/Picsart-26-01-23-22-59-07-822.webp" group-title="TV Colombia", Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
