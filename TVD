@@ -2355,14 +2355,14 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/Dgs7wDFx/Gol-Caracol-svg.webp" group-title="Deportes", Gol Deportes Mundial 2026/ Se activara desde el 11 de junio
+#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/Dgs7wDFx/Gol-Caracol-svg.webp" group-title="Deportes", Gol Deportes Mundial 2026/ Se activara desde el 11 de junio
 #EXTVLCOPT:http-user-agent=Android
+http://libretv.ddnsfree.com/TVPLive/Play/4
 https://val06.ride.com.ar/tvmia/1an11/playlist.m3u8
 htps://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://i.ibb.co/tTB1NLjB/image-80102-converted-To-Png.webp" group-title="Deportes", Chilevision Mundial 2026/ el canal se activara desde el 11 de junio
-#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://g2.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="Deportes", RCN Deportes
+http://libretv.ddnsfree.com/TVPLive/Play/1
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c618d32c56cdc6cad8330eb98507ca3f&keyid%5B%5D=96b67fa09140329a89b7a1ead134eda3
