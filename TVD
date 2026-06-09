@@ -2344,6 +2344,10 @@ https://latan.stonetv.com.br/tyc-sports/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgHCZrys/Picsart-26-06-09-01-47-54-319.webp" group-title="Deportes", TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?|referer=https://play.tycsports.com/
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=642772ebf1832f1f2fa58cb7e8fcfd05&keyid%5B%5D=ce8f86d2f0d1638574237ada8ac2e82a
 #EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/hxp5GsCL/Picsart-26-06-02-19-35-33-724.webp" group-title="Deportes", Azteca 7 Mundial 2026
