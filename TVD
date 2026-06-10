@@ -2356,6 +2356,10 @@ htps://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/Hp3SVJxD/1781063317101.webp" group-title="Deportes", RCN Futbol
 http://libretv.ddnsfree.com/TVPLive/Play/1
 
+#EXTINF:-1 tvg-logo="https://joy.nx-pc.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8" group-title="Deportes", Cablevideo Eventos
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=c618d32c56cdc6cad8330eb98507ca3f&keyid%5B%5D=96b67fa09140329a89b7a1ead134eda3
 #EXTINF:-1 tvg-id="UNIVERSO" tvg-logo="https://i.ibb.co/3mGL29zZ/Picsart-26-06-09-09-58-16-537.webp" tps://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo Este
