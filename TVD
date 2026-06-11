@@ -2246,14 +2246,22 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.postimg.cc/pry6yQzN/1781114827138.png" group-title="Deportes", #MundialXTelefe 🔵⚪🔵
 #EXTVLCOPT:http-user-agent=Android
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/zfm5990800000004oqretwgmwezmcjhs/output.mpd
 https://val01.ride.com.ar/tvmia/1an11/playlist.m3u8
 https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/3VS8tZq/1781045546740.webp" group-title="Deportes", Televisión Pública Argentina 🇦🇷
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
+#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/3VS8tZq/1781045546740.webp" group-title="Deportes", TVP TV fuego
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/wp0h8b243lar3vxt5sdgp00000005aac/output.mpd
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/3VS8tZq/1781045546740.webp" group-title="Deportes", TVP DVR
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
