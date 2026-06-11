@@ -2246,6 +2246,11 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0b773a5fcc763d52bad98824f33c69aa&key%5B%5D=dfe56f9c478cc8f43c1a1d0ef90d3728
+#EXTINF:-1 tvg-id="Telemundo Internacional.uy" tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Deportes", Telemundo Deportes
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wkaq)/master.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.postimg.cc/pry6yQzN/1781114827138.png" group-title="Deportes", #MundialXTelefe 🔵⚪🔵
@@ -3983,7 +3988,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_cenc/Telemundo_HD
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0b773a5fcc763d52bad98824f33c69aa&key%5B%5D=dfe56f9c478cc8f43c1a1d0ef90d3728
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="Telemundo Internacional.uy" tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Mundo", Telemundo Puerto Rico
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wkaq)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
