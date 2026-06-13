@@ -2588,7 +2588,7 @@ https://nog-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/BABYTV.DGO.json
-#EXTINF:-1 group-title="Infantil" ch-number="200" tvg-id="Baby TV.uy" tvg-logo="https://i.supaimg.com/57d81e23-0140-4156-b4a2-996e721fc679.webp", Baby TV
+#EXTINF:-1 tvg-id="Baby TV.uy" tvg-logo="https://i.supaimg.com/57d81e23-0140-4156-b4a2-996e721fc679.webp" group-title="Infantil", Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1024-tbx.vrioott.com/babytv/manifest.mpd
 
@@ -2603,6 +2603,12 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTINF:-1 tvg-id="0317" tvg-name="Plim Plim TV" tvg-logo="https://i.ibb.co/gbZbx6kD/1771377551119.webp" group-title="Infantil", Plim plim TV
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
+#EXTINF:-1 tvg-id="0312" tvg-name="Pakapaka" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
+#EXTVLCOPT:http-user-agent="android
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dcd89337a501ab929c01a039774089dc&key%5B%5D=e96cc7be9139a8d581b3f5eebebfc10d
@@ -2633,12 +2639,6 @@ https://aca-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
 https://aca-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
-#EXTINF:-1 tvg-id="0312" tvg-name="Pakapaka" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
-#EXTVLCOPT:http-user-agent="android
-https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6c9b3103cd519fcad556e84f918998cd&keyid%5B%5D=391ad12844fdb7c127e2c7ba23582b3b
 #EXTINF:-1 tvg-id="0318" tvg-name="BitMe" tvg-logo="https://i.ibb.co/FkVcP4qX/Bit-Me-Carumbia-2025.webp" group-title="Infantil", Bitme
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
@@ -2655,7 +2655,7 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek202
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-id="0309" tvg-name="Laika TV" tvg-logo="https://i.ibb.co/Xfv7CFpY/Picsart-26-05-23-00-07-56-979.webp" group-title="Infantil", Laika Channel
+#EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/PJBcTZ0S/Picsart-26-06-13-03-50-58-541.png" group-title="Infantil", Laika Magic
 https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
