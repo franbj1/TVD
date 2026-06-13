@@ -2563,6 +2563,12 @@ https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=070660c4a07ab644fba62dab07306d43&key%5B%5D=6786eb56337a318fce0b7f9cccf96478
+#EXTINF:-1 tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png" group-title="Infantil", ZooMoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2f70f543b9effe70bff3f97542ff6ff5&key%5B%5D=6a7e17712027287a68adda6e1df4716a
 #EXTINF:-1 tvg-id="0309" tvg-name="DreamWorks TV" tvg-logo="https://i.ibb.co/1fWqN8VP/Picsart-26-04-23-01-56-07-909.webp" group-title="Infantil", DreamWorks TV
@@ -2622,12 +2628,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=070660c4a07ab644fba62dab07306d43&key%5B%5D=6786eb56337a318fce0b7f9cccf96478
-#EXTINF:-1 tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png" group-title="Infantil", ZooMoo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
 #EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/TxhQ2Pgd/Picsart-26-04-16-13-11-27-111.webp" group-title="Infantil", Clan
@@ -2642,12 +2642,6 @@ https://aca-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6c9b3103cd519fcad556e84f918998cd&keyid%5B%5D=391ad12844fdb7c127e2c7ba23582b3b
 #EXTINF:-1 tvg-id="0318" tvg-name="BitMe" tvg-logo="https://i.ibb.co/FkVcP4qX/Bit-Me-Carumbia-2025.webp" group-title="Infantil", Bitme
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ADULTSWIM.DGO.json
-#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Infantil", [Adult Swim]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://1234-tbx.vrioott.com/adultswim/manifest.mpd
 
 #EXTINF:-1 tvg-id="0313" tvg-name="EnerGeek Retro" tvg-logo="https://i.ibb.co/PzJ4wfJ3/Picsart-26-04-30-19-44-30-220.webp" group-title="Infantil", EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
@@ -2769,8 +2763,8 @@ https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
 #EXTINF:-1 tvg-id="TCM SD.uy" tvg-logo="https://i.ibb.co/Y7mmdNRF/1771575995411.webp" group-title="Cine + Series", TCM
-#EXTVLCOPT:http-user-agent="Android
-https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8?|https://cablevideo.com.ar/veo.php
+#EXTVLCOPT:http-user-agent="Chrome
+https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
@@ -2783,6 +2777,12 @@ https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.postimg.cc/MT05z3h1/Picsart-26-03-21-17-06-53-262.png" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ADULTSWIM.DGO.json
+#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Cine + Series", Adult Swim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://1234-tbx.vrioott.com/adultswim/manifest.mpd
 
 #EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", MC
 #EXTVLCOPT:network-caching=1000
