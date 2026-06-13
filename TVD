@@ -2340,8 +2340,7 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?|referer=https://
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/fYysJfqL/Am-rica-Deportes-2016.webp" group-title="Deportes", América Deportes Mundial 2026
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
+http://38.224.231.47:8000/play/a00f/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/Dgs7wDFx/Gol-Caracol-svg.webp" group-title="Deportes", Gol Deportes Mundial 2026
 #EXTVLCOPT:http-user-agent=Android
