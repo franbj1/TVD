@@ -2349,6 +2349,18 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycspo
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?|referer=https://play.tycsports.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d106ae78b0893da2e4393ece99420baa&keyid=fd86dde0ae3e14ff51c8fc8f248a50db
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.postimg.cc/SNqP0DgV/Picsart-26-06-13-17-17-47-458.png" group-title="Deportes", La 1 TVE
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=96578d7c374ae808ff811c4f236d0ca9&keyid=44e5bf3f27004e2ba35263ad9277f2c1
+#EXTINF:-1 tvg-id="Teledeportes.es" tvg-logo="https://i.postimg.cc/YSwG8LpV/Picsart-26-06-13-17-24-28-337.png" group-title="Deportes", Teledeportes Mundial 2026
+https://cache07.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=642772ebf1832f1f2fa58cb7e8fcfd05&keyid%5B%5D=ce8f86d2f0d1638574237ada8ac2e82a
 #EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/hxp5GsCL/Picsart-26-06-02-19-35-33-724.webp" group-title="Deportes", Azteca 7 Mundial 2026
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
