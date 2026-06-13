@@ -2535,8 +2535,8 @@ Infantil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/CARTOONNETWORK.DGO.json
 #EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.supaimg.com/9b9d033b-1451-4b38-80e1-5d9df773155e.png?raw=true" group-title="Infantil", Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CartoonNetwork.mpd
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
 https://1037-tbx.vrioott.com/cartoonnetwork/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2549,28 +2549,24 @@ https://1026-tbx.vrioott.com/cartoonitola/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4d8b3220ac30e5c8148d4bcc225efa5a&key%5B%5D=eb6918dfe117fc405396a9c3986a0450
 #EXTINF:-1 tvg-id="Discovery Kids.ar" tvg-logo="https://i.ibb.co/wHtbFpy/1176px-Discovery-Kids-2021-2-D-Gradient-svg.png" group-title="Infantil", Discovery Kids
 #EXTVLCOPT:http-user-agent=Android
-https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_Kids.mpd
-https://el4live1.boldmss.com/DKIDS/DKIDS_EL4.isml/manifest
+https://el4live1.boldmss.com/DKIDS/DKIDS_EL4.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=70d91b14935a3599f02e5dab71ef21dc&key%5B%5D=803e9152e9daf717b772399a97802076
 #EXTINF:-1 tvg-id="Disney Channel HD.uy" tvg-logo="https://i.supaimg.com/3c250db6-a786-4b0b-8956-2266282c4113.png?raw=true" group-title="Infantil", Disney Channel
-#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyChannelHD.mpd
+#EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=18654944953b25a8b6392722a83db653&key%5B%5D=40bf6a9f05bbf0e06715ed5707f0edd2
 #EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-logo="https://i.supaimg.com/9c1ec0c0-3a16-49f2-ab5e-cf431d78d114.png?raw=true" group-title="Infantil", Disney Jr.
 #EXTVLCOPT:http-user-agent=Android
-https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DisneyJr.mpd
 https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2f70f543b9effe70bff3f97542ff6ff5&key%5B%5D=6a7e17712027287a68adda6e1df4716a
 #EXTINF:-1 tvg-id="0309" tvg-name="DreamWorks TV" tvg-logo="https://i.ibb.co/1fWqN8VP/Picsart-26-04-23-01-56-07-909.webp" group-title="Infantil", DreamWorks TV
 #EXTVLCOPT:http-user-agent=Android
-https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Dreamworks.mpd
 https://el4live1.boldmss.com/DREAMWORKS/DREAMWORKS_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2612,7 +2608,7 @@ https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dcd89337a501ab929c01a039774089dc&key%5B%5D=e96cc7be9139a8d581b3f5eebebfc10d
 #EXTINF:-1 tvg-id="0321" tvg-name="Kidoo" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_2A_wl/Kidoo.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=070660c4a07ab644fba62dab07306d43&key%5B%5D=6786eb56337a318fce0b7f9cccf96478
@@ -2659,15 +2655,7 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek202
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/YSVxfF5j/Picsart-26-02-28-02-09-27-892.png" group-title="Infantil", Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="0309" tvg-name="Magic Kids TV" tvg-logo="https://i.ibb.co/4nddbXDq/Magic-Kids-1998-3-D.webp" group-title="Infantil", Magic Kids TV
-#KODIPROP:inputstream.adaptive.license_referer=https://proyectomagickids.com.ar/
-https://proyectomagic.b-cdn.net/live/stream_480p.m3u8?|referer=https://proyectomagickids.com.ar/
-
-#EXTINF:-1 tvg-id="0309" tvg-name="Laika TV" tvg-logo="https://i.ibb.co/Xfv7CFpY/Picsart-26-05-23-00-07-56-979.webp" group-title="Infantil", Laika Ch
+#EXTINF:-1 tvg-id="0309" tvg-name="Laika TV" tvg-logo="https://i.ibb.co/Xfv7CFpY/Picsart-26-05-23-00-07-56-979.webp" group-title="Infantil", Laika Channel
 https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
