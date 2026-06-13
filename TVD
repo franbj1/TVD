@@ -2611,6 +2611,12 @@ https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
+#EXTINF:-1 tvg-id="0308" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=070660c4a07ab644fba62dab07306d43&key%5B%5D=6786eb56337a318fce0b7f9cccf96478
 #EXTINF:-1 tvg-id="ZooMoo.ar" tvg-logo="https://i.supaimg.com/7bfb08e8-6e93-4920-a135-f959ef96df90.png" group-title="Infantil", ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -2631,12 +2637,6 @@ https://aca-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 #EXTINF:-1 tvg-id="0312" tvg-name="Pakapaka" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
-#EXTINF:-1 tvg-id="0308" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/rRZgTYJW/Picsart-25-11-23-02-12-03-675.webp" group-title="Infantil", Tooncast
-#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
-https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6c9b3103cd519fcad556e84f918998cd&keyid%5B%5D=391ad12844fdb7c127e2c7ba23582b3b
