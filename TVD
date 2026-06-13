@@ -3225,7 +3225,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/sa_hls_full_e_95AEFABF606F67368D6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" tvg-logo="https://i.ibb.co/pr5HtSww/Picsart-25-11-04-14-16-42-433.webp" group-title="Música", CM Canal de la Música
-https://cdn.cvattv.com.ar/live/c6eds/CM/sa_hls_full_e_95AEFABF606F67368D62A486/CM.m3u8
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
@@ -3335,35 +3335,6 @@ https://nog-live4-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=2cf2398fa903f300962a0771512a93f1:f345e1b35c357fa7137e7325059d95b1
 #EXTINF:-1 tvg-id="Tele Ritmo.mx" tvg-logo="https://i.ibb.co/99gkcKMM/Teleritmo-2023.webp" group-title="Música", Tele Ritmo
 https://nog-live4-ott.izzigo.tv/11/out/u/dash/TELERITMO-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music  (605)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"inrpltEtjV1WN9EET44Itw","kid":"sqrkSnQUS+iyEY4g0UErqw"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://portal.app.flow.com.ar/
-#EXTVLCOPT:http-user-agent="FireFox"
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_cenc/Flow_Music_XP.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music (606)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2KgpE42XC0XoZ8lzOjGy8A","kid":"80zXcJ8JPSPU2wCRB9loYg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_cenc/Flow_Music_1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music (607)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LX49XTH2hpD9h3oRH4To4w","kid":"WWtZlYCzmuLzxBP36uNpAg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_cenc/Flow_Music_2.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk7KMKD4/Picsart-25-08-18-01-34-00-914.webp" group-title="Música", Flow Music (608)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_cenc/Flow_Music_3.mpd
 
 #EXTINF:-1 tvg-id="popular" tvg-logo="https://i.ibb.co/k2Tj6S4g/logo-la-popu-1.webp" group-title="Música", La Popu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
