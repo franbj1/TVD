@@ -2401,43 +2401,41 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2722647f77b44824c432a3c4555830a2&key%5B%5D=1734befb82f4b438bd84195f6c212e7b
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.postimg.cc/pTFsSYQr/TUDN-Logo-svg-(1).png" group-title="Deportes", TUDN
-https://zap-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d1a163914db8ffad2c3e94f979896a0d&key%5B%5D=9728800a3959aafdd5b0bcfbf3768811
-#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://i.ibb.co/hFW8xDRC/FOX-Deportes-logo.webp" group-title="Deportes", Fox Deportes
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+https://nog-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=1ab45030c16086ccd5e942c478836926&keyid=a5f7d1ed0c244ecfb2d7d85a1d78c7c8
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
-https://ushuaia-vision.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/a00000051gf3shbt38aw9jj01yqlyvzh/output.mpd
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
+https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=0ac6ad6ca5dd20f204e79f7fc6d744c3&keyid=6ae10ae5ce614113bab224f38f24e81f
 #EXTINF:-1 tvg-id="FOX Sports 2.uy" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", FOX Sports 2
-https://ushuaia-vision.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/whq00000275x8ol6uzpdl14b9mhb6loc/output.mpd
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
+https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=745b11ae7e764ad46b058548e4dfe234&keyid=690723060cb04c34932a5a3d8ef23d86
 #EXTINF:-1 tvg-id="FOX Sports 3.uy" tvg-logo="https://i.ibb.co/8nnVbppx/1770086314401.webp" group-title="Deportes", FOX Sports 3
-https://ushuaia-vision.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/hz6t5c9mz68wy00000276ouv9qqhfwbr/output.mpd
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
+https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
-#EXTVLCOPT:http-user-agent=android
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2
-#EXTVLCOPT:http-user-agent=android
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
  
 #EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3
-#EXTVLCOPT:http-user-agent=android
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
-#EXTVLCOPT:http-user-agent=android
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
