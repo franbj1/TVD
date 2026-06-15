@@ -2069,7 +2069,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.postimg.cc/pry6yQzN/1781114827138.png" group-title="Deportes", #MundialXTelefe 🔵⚪🔵
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/gtmjhr2bj9t8aictmgid00000004peup/output.mpd
+http://45.188.229.33:8000/play/a1cl/index.m3u8
 https://val01.ride.com.ar/tvmia/1an11/playlist.m3u8
 https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
@@ -2150,18 +2150,13 @@ https://ablklrzaaaaaaaamjkudxoh6taw35.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/7J6Yqfwx/Picsart-26-05-03-21-26-32-935.webp" group-title="Deportes", DSports + Bia
 https://ablklrzaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=45bbd582f220f438f896450d8306a3f2&key%5B%5D=582c6ba7f64bbc0f2d91c6b0c265760c
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.postimg.cc/W1TSFCM1/Picsart-26-06-13-15-10-06-510.png" group-title="Deportes", DSports 1 DVR
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/266ae-ppn41-oaifc-pglii.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ea07b87acdf2e45be824cde4a1cf3504&keyid%5B%5D=03f12d6a3dbfd3a6fa7dd7f6417e0c11
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)17e0c11
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/dTLY0GN/Picsart-26-05-03-21-21-08-857.webp" group-title="Deportes", DSports 2 DVR
-#EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
