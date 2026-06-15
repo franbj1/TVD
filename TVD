@@ -1651,16 +1651,13 @@ https://live.enhdtv.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.ibb.co/HLJBkv38/1768408290117.webp" group-title="TV Paraguay",Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF:-1 tvg-id="Suceso TV.py" tvg-logo="https://i.ibb.co/ch76Vgph/Picsart-26-05-21-03-46-33-177.webp" group-title="TV Paraguay", Suceso
-https://live.enhdtv.com:8081/8060/index.m3u8
-
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/0pw6S8HB/Picsart-26-05-06-13-36-32-153.webp" group-title="TV Paraguay", TV Chaqueña
 https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña" tvg-logo="https://i.ibb.co/fdTRFJrF/Picsart-26-02-07-15-12-16-328.webp" group-title="TV Paraguay", Ñandejara TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/tgYFvY8N/1777998794922.png" group-title="TV Paraguay", Visión TV
+#EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/XYKpYPYH/Picsart-26-06-15-03-39-53-986.png" group-title="TV Paraguay", Visión TV
 https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
 TV España
