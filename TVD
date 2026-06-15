@@ -3095,7 +3095,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0543" tvg-name="Music TOP" tvg-logo="https://i.ibb.co/cMkvRVs/Picsart-25-11-08-14-19-13-371.webp" group-title="Música", Music TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0542" tvg-name="TierraMia" tvg-logo="https://i.ibb.co/yFZSZKVL/1763845886680.webp" group-title="Música", Tierra Mia  TV
