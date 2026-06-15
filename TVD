@@ -2533,16 +2533,16 @@ https://1007-tbx.vrioott.com/amcla/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1161-tbx.vrioott.com/maschic/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
 #EXTINF:-1 tvg-id="Cinecanal HD.uy" tvg-logo="https://i.ibb.co/21nxnvkj/Picsart-25-10-27-20-46-59-125.webp" group-title="Cine + Series", Cinecanal
-#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine + Series", Cinemax
-#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2551,10 +2551,10 @@ https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 #EXTVLCOPT:http-user-agent=Sky+/11.5.1(18)_prd skymas ahh (Linux;Android 16) AndroidXMedia3/1.0.2
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/COMEDY-CENTRAL-HD/default.mpd
 
+#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
 #EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://i.postimg.cc/bY0mLMrQ/Picsart-26-03-20-09-00-53-395.png" group-title="Cine + Series", DHE
-#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
 #EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", MP
