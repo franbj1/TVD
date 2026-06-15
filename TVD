@@ -352,18 +352,6 @@ https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/manifest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://router.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd?http-referrer=https://tv.onpower.com.ar
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLcpL06g/1764978814965.webp" group-title="Nacional", Canal 13 SJ
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/ixp-sanjuan/dash/c13/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7J8Byp/Picsart-25-12-07-11-43-06-345.webp" group-title="Nacional", Canal 4
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/hub/canal4/dash/live.mpd
-
 #EXTINF:-1 tvg-id="CANAL 9 TELEVIDA.ar" tvg-logo="https://i.ibb.co/S4z8Ggc0/Picsart-25-08-01-03-33-48-843.png" group-title="Nacional", Televida
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
@@ -398,29 +386,12 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99C25mCq/Picsart-25-12-05-20-57-54-624.webp" group-title="Nacional", Xama
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/hub/xama/xama.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDxQfjct/Picsart-25-12-05-11-16-20-781.webp" group-title="Nacional", AM1020
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/onpower/dash/am1020/index.mpd
 
 #EXTINF:-1 tvg-id="Canal 7 de Jujuy.ar" tvg-logo="https://i.ibb.co/sv5D5ctq/1765376391101.webp" group-title="Nacional", Canal 7 Jujuy
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGwyMNwp/1765382165242.webp" group-title="Nacional", Canal 7 Salta
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
 #EXTINF:-1 tvg-id="EL SIETE.ar" tvg-logo="https://i.ibb.co/Q362pCLt/1765376203268.webp" group-title="Nacional", El Siete Mendoza
 https://g3.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/playlist.m3u8?sense=true
@@ -440,120 +411,13 @@ https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc99kfNL/1765377671158.webp" group-title="Nacional", Chacra TV
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f9261beee045d06c325c380b9275e15:89976f64ccde3509e15e38c9196a529f
-#EXTINF:-1 tvg-id="MULTIVISIÓN FEDERAL.ar" tvg-logo="https://i.ibb.co/3YjJMDkK/1765382078216.webp" group-title="Nacional", Multivisión
-https://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
-#EXTINF:-1 tvg-id="132#Telediario Televisión" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/800/542/0/0/93452015074309.png" group-title="Nacional", Telediario Televisión
-https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8PJShr2/San-Luis-Logo-2023.webp" group-title="Nacional", San Luis +
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Cinco TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://panel.host-live.com:19360/8118/8118.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mF654r3T/Picsart-25-08-10-23-34-49-702.webp" group-title="Nacional", Cinco TV Tigre
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/0c228956-0a6b-433e-a07f-e2d9a75eb945.png?raw=true" group-title="Nacional", Canal Diez Junín TDA
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://g4.vxral-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Aire.ar" tvg-logo="https://i.ibb.co/zTN3NZQm/20251211-124751.webp" group-title="Nacional", Aire De Santa Fé
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 Jujuy.ar" tvg-logo="https://i.ibb.co/pjxhc84K/Picsart-25-12-11-00-53-04-406.webp" group-title="Nacional", Canal 13 Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-#EXTINF:-1 tvg-id="Cable Imagen.ar" tvg-logo="https://i.ibb.co/6R3r1HWv/1765424697620.webp" group-title="Nacional", Cable Imagen Arg
-https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Once La Costa.ar" tvg-logo="https://i.ibb.co/hx2kk0sx/1765424776522.webp" group-title="Nacional", Once La Costa
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-#EXTINF:-1 tvg-id="Aire.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="Nacional", Cel TV
-http://190.103.192.6:8080/hls/mystreamkey.m3u8
-
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feb8083bdef2.13054359.png" group-title="Nacional", Canal 2 MDP
-https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://yt3.googleusercontent.com/JeqwFtrWVXOXE4cxLND1Ulnhk64c5Ow33B7q5iigVv-pYDmlBjS3al0CRtVsAC1jFplX2EO5aQ=s900-ck-c0x00ffffff-no-r" group-title="Nacional", Canal 2 Posadas
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png" group-title="Nacional", Canal 2 Usuahia
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68feb82e445458.35615699.png" group-title="Nacional", Canal 3 Pinamar
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://i.postimg.cc/8PMm8fbR/IMG-20250520-WA0024.jpg" group-title="Nacional", TVP Pampeana
-https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4esquelchubut.png" group-title="Nacional", Canal 4 Esquel
-https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal13 Jujuy.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="Nacional", Canal 4 Misiones
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6c12d3c7-e995-473a-8a2c-03e97281b56c.png?raw=true" group-title="Nacional", Canal 5 Multimedios
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/1f3e4d06-4e39-41e4-bdba-3c97b7ac9d68.png?raw=true " group-title="Nacional", CELT TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-http://190.103.192.6:8080/hls/mystreamkey.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/66912773-1c16-4e58-bff8-2c85d228e672.png?raw=true" group-title="Nacional", Eco TV Tandil
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnWcZC2w/logo-Pwr-HD-small.webp" group-title="Nacional", Power TV Pinamar
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="Nacional", Canal 79 Mar Del Plata SUR
-https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="Nacional", Canal 79 Santa Clara Del Mar SUR
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="Nacional", Canal 79 La Costa SUR
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="Nacional", Canal 79 Puan SUR
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://streamconex.com:19360/puan/puan.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHMG5ZjH/Picsart-25-12-11-10-11-31-914.webp" group-title="Nacional", Canal 79 Villa Maza SUR
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
 
