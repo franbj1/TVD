@@ -2077,11 +2077,6 @@ https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
-#EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/3VS8tZq/1781045546740.webp" group-title="Deportes", TVP TV fuego
-https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/wp0h8b243lar3vxt5sdgp00000005aac/output.mpd
-
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/3VS8tZq/1781045546740.webp" group-title="Deportes", TVP DVR
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
@@ -2194,6 +2189,12 @@ https://cache07.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_h
 #EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/hxp5GsCL/Picsart-26-06-02-19-35-33-724.webp" group-title="Deportes", Azteca 7 Mundial 2026
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Fox.ar" tvg-logo="https://i.postimg.cc/ZKhnF24k/FOX-Logo.jpg" group-title="Deportes", FOX
+http://103.111.40.244:9999/play/a05s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="canal 4.nc" tvg-logo="https://i.postimg.cc/W3B3yfZp/Canal-4-TCS.png" group-title="Deportes", Canal 4 TCS
+http://200.59.191.177:8000/play/a00q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/fYysJfqL/Am-rica-Deportes-2016.webp" group-title="Deportes", América Deportes Mundial 2026
 http://38.224.231.47:8000/play/a00f/index.m3u8?hls
