@@ -1507,7 +1507,7 @@ https://latan.stonetv.com.br/snt/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.ibb.co/SFgZy9Y/Ltlcolor.webp" group-title="TV Paraguay", La Tele
 https://copacogen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/STKrQs7/image-74317-converted-To-Png.webp" group-title="TV Paraguay", Trece
+#EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.postimg.cc/85wggHtr/Picsart-26-06-16-20-50-56-258.png" group-title="TV Paraguay", Trece
 http://45.170.130.224:8000/play/a02m/index.m3u8
 https://latan.stonetv.com.br/trece/tracks-v1a1/playlist.m3u8
 
