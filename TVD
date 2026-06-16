@@ -2496,7 +2496,13 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek202
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/PJBcTZ0S/Picsart-26-06-13-03-50-58-541.png" group-title="Infantil", Laika Magic
+#EXTINF:-1 tvg-id="Magictv" tvg-logo="https://i.postimg.cc/52MDNcLb/Picsart-26-06-16-03-24-49-915.png" group-title="Infantil", MagïcTV
+https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/fyyDKG5q/Picsart-26-06-16-03-31-10-925.png" group-title="Infantil", Retro Magïco
+https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/PJBcTZ0S/Picsart-26-06-13-03-50-58-541.png" group-title="Infantil", Laika Magico
 https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
