@@ -1583,7 +1583,7 @@ https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Rock and pop.py" tvg-logo="https://i.ibb.co/8g3MBv1m/Picsart-26-05-11-01-33-49-536.webp" group-title="TV Paraguay", Rock & Pop TV
-https://copacogen.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8
+https://copacogen.desdeparaguay.net/rockandpoptv/rockandpoptv_py_alta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.ibb.co/dwRx8DPL/1768361219571.webp" group-title="TV Paraguay", Republica TV
 https://copacogen.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
