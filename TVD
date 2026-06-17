@@ -2068,6 +2068,12 @@ Deportes
 #EXTINF:-1 tvg-id="Telemundo Internacional.uy" tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Deportes", Telemundo Deportes
 https://paz-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/TELEMUNDO-ARIZONA-USA-TCS-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=20093db6455160fffed4c394def3193d&keyid=1f68713028d439ec03be07f56c1d6213
+#EXTINF:-1 tvg-id="Telemundo Internacional.uy" tvg-logo="https://i.postimg.cc/mDWJzT3s/Picsart-26-06-17-20-50-20-555.png" group-title="Deportes", FOX (4K)
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.postimg.cc/pry6yQzN/1781114827138.png" group-title="Deportes", #MundialXTelefe 🔵⚪🔵
@@ -2148,12 +2154,13 @@ https://ablklrzaaaaaaaamjkudxoh6taw35.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 https://ablklrzaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.postimg.cc/W1TSFCM1/Picsart-26-06-13-15-10-06-510.png" group-title="Deportes", DSports 1 DVR
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.postimg.cc/W1TSFCM1/Picsart-26-06-13-15-10-06-510.png" group-title="Deportes", DSports 1 DVR Cablevideo
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/266ae-ppn41-oaifc-pglii.m3u8
 
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)17e0c11
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/dTLY0GN/Picsart-26-05-03-21-21-08-857.webp" group-title="Deportes", DSports 2 DVR
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/dTLY0GN/Picsart-26-05-03-21-21-08-857.webp" group-title="Deportes", DSports 2 DVR Cablevideo
+#EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
@@ -2267,41 +2274,6 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?key=b3e4e74ae2080b137e68bbd0ef8a7e05&keyid=cb004fb100bd92f23793562891e3236b
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="Deportes", ESPN
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?keyid=a81ee4a694fecd6aa8a682e5024b313c&key=6d15568e1dab59e7202ae12e71505185
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png" group-title="Deportes", ESPN 2
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?keyid=8a60d7889ff126ee1895335e92254f8e&key=de1b0ce19fa804a1c473eb8ef2d5cf6d
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png" group-title="Deportes", ESPN 3
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?keyid=54a2c11085c315ed6ff85c340a86095d&key=5f0d10cf4a5c7e22e286b7e8cb4e79f4
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-4@3x.png" group-title="Deportes", ESPN 4
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?keyid=4e126297fc7af35c736bdffe98eecaaa&key=fdb0091cf67d9c596dbfb07cf6f4c8f5
-#EXTINF:-1 tvg-id="ESPN 5.ar" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-5@3x.png" group-title="Deportes", ESPN 5
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?keyid=f5836382452cdca1e1c8bf8b9a713534&key=7d261930c3309ed2b06d2abb34a64410
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-6@3x.png"  group-title="Deportes", ESPN 6
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=https://tonykshop.lat/license.php?keyid=98ea1e32227adcd3618baac2bbf36814&key=72a03a09d33e412f14a9bfa4ef24b542
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KjXO02I.png" group-title="Deportes", ESPN 7
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports Premium ⚽︎ᯓ
