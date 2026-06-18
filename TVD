@@ -2091,8 +2091,11 @@ https://cors-proxy.cooks.fyi:/live-oneapp-prd-news.akamaized.net/Content/CMAF_OL
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=59caf6a8acb148785de028994efd69f7&keyid=cc5eaf2dacee49c6b6b3299bfd7a3c55
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=2e90ead40f078eaa97149a23f22fc4d4&keyid=9eedb5acbf32419fa7a249f88ba2e7ad
+#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/Dgs7wDFx/Gol-Caracol-svg.webp" group-title="Deportes", GOL Caracol
+https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690d21fb30af150e58f11c/997205b0fbcf449aaaaca7ab65faf255/d97743de3620a865848fff7a9de14dda1bf2409d/session/ef102742-4a88-48b0-a13c-3b8de681215a/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=7ZVFVX5mLZKH8cr5rOSu4p7DXXKAyxdfbtkMg9yQAZdu2xxYY1IaQSzUQH5AavXOouhQtOpHJdX&uid=9xy9UgKtqlLmGZKKSbllxib7eK3z8jIx&sid=yDUDpLqPZ8CDehidylfYURCOV6zZrDrq&pid=X8WUQeNNRV79HJYvjC26oHk8yoVSPcr9&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://i.postimg.cc/pry6yQzN/1781114827138.png" group-title="Deportes", #MundialXTelefe 🔵⚪🔵
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 https://val01.ride.com.ar/tvmia/1an11/playlist.m3u8
@@ -2198,16 +2201,20 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycspo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?|referer=https://play.tycsports.com/
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ5j0whh/Picsart-26-05-11-14-35-37-428.webp" group-title="Deportes", TyC Sports ғᴀɴ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18a85327-6b17-4d41-8c2f-41ff8511c1dd/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8?|referer=https://play.tycsports.com/
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d106ae78b0893da2e4393ece99420baa&keyid=fd86dde0ae3e14ff51c8fc8f248a50db
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.postimg.cc/SNqP0DgV/Picsart-26-06-13-17-17-47-458.png" group-title="Deportes", La 1 TVE
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.postimg.cc/SNqP0DgV/Picsart-26-06-13-17-17-47-458.png" group-title="Deportes", La 1 España
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=96578d7c374ae808ff811c4f236d0ca9&keyid=44e5bf3f27004e2ba35263ad9277f2c1
-#EXTINF:-1 tvg-id="Teledeportes.es" tvg-logo="https://i.postimg.cc/YSwG8LpV/Picsart-26-06-13-17-24-28-337.png" group-title="Deportes", Teledeportes Mundial 2026
+#EXTINF:-1 tvg-id="Teledeportes.es" tvg-logo="https://i.postimg.cc/YSwG8LpV/Picsart-26-06-13-17-24-28-337.png" group-title="Deportes", TDP España
 https://cache07.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2224,11 +2231,6 @@ http://200.59.191.177:8000/play/a00q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/fYysJfqL/Am-rica-Deportes-2016.webp" group-title="Deportes", América Deportes Mundial 2026
 http://38.224.231.47:8000/play/a00f/index.m3u8?hls
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=2e90ead40f078eaa97149a23f22fc4d4&keyid=9eedb5acbf32419fa7a249f88ba2e7ad
-#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/Dgs7wDFx/Gol-Caracol-svg.webp" group-title="Deportes", GOL Caracol
-https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690d21fb30af150e58f11c/997205b0fbcf449aaaaca7ab65faf255/d97743de3620a865848fff7a9de14dda1bf2409d/session/ef102742-4a88-48b0-a13c-3b8de681215a/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=7ZVFVX5mLZKH8cr5rOSu4p7DXXKAyxdfbtkMg9yQAZdu2xxYY1IaQSzUQH5AavXOouhQtOpHJdX&uid=9xy9UgKtqlLmGZKKSbllxib7eK3z8jIx&sid=yDUDpLqPZ8CDehidylfYURCOV6zZrDrq&pid=X8WUQeNNRV79HJYvjC26oHk8yoVSPcr9&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
 
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/Hp3SVJxD/1781063317101.webp" group-title="Deportes", RCN Futbol
 http://cablelibretv.freeddns.org/PlaySiloh/index/3
@@ -2290,10 +2292,6 @@ https://bvclive1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_BVC.isml/ESPN_PREMIUM.mpd
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/kVHv4Jw2/ESPN-Premium-blanco.webp" group-title="Deportes", ESPN Premium ARG
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ5j0whh/Picsart-26-05-11-14-35-37-428.webp" group-title="Deportes", TyC Sports ғᴀɴ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18a85327-6b17-4d41-8c2f-41ff8511c1dd/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8?|referer=https://play.tycsports.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
