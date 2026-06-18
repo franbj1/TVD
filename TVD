@@ -2194,12 +2194,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/
 https://cache07.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_ez/teledeporte_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=642772ebf1832f1f2fa58cb7e8fcfd05&keyid%5B%5D=ce8f86d2f0d1638574237ada8ac2e82a
-#EXTINF:-1 tvg-id="AZTECA 7.mx" tvg-logo="https://i.ibb.co/hxp5GsCL/Picsart-26-06-02-19-35-33-724.webp" group-title="Deportes", Azteca 7 Mundial 2026
-#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?keyid=2cde091f1e4675c82d65498bd6ba0e65&key=29f2aeb97a908466177c56fc28fe083f
 #EXTINF:-1 tvg-id="Azteca 7.mx" tvg-logo="https://i.ibb.co/xSCdHv2R/Picsart-25-11-07-16-08-09-052.webp" group-title="Deportes", Azteca 7
 #EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
