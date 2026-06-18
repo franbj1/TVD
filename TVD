@@ -2272,26 +2272,28 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports Premium ⚽︎ᯓ
-https://el4live2.boldmss.com/TNTS/TNTS_EL4.isml/manifest
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4player.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/dJtTyzyV/Picsart-26-04-18-19-38-13-853.webp" group-title="Deportes", TNT Sports ARG
-#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://bvclive1.boldmss.com/TNT_SPORTS/TNT_SPORTS_BVC.isml/TNT_SPORTS.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+https://bvclive2.boldmss.com/TNT_SPORTS/TNT_SPORTS.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium ⚽︎ᯓ
-https://bvclive1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_BVC.isml/ESPN_PREMIUM.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4player.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://i.ibb.co/kVHv4Jw2/ESPN-Premium-blanco.webp" group-title="Deportes", ESPN Premium ARG
-#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+https://bvclive2.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_BVC.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
