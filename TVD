@@ -3523,9 +3523,10 @@ https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Dayst☆r English
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=a48c482d8bbbf8752422d1147bba0a4f&keyid=26bddb17151a47c0a1d7c0951ef979bc
 #EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://liveingesta360.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+https://d2cse06nex8rlj.cloudfront.net/live-stream-dai/698a2b858ce046e68628214c/1b525181f9a54936856a70e023f0f7fb/d97743de3620a865848fff7a9de14dda1bf2409d/session/80a7d856-1b63-4e4e-9d23-fbccbb7af967/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=MME99cWj9w9x7i5looJIvwi8lhdms5VlPpMmTwAntXCSHGYbeGDzOJIB2g8xritUVzI8hJBIhzg&uid=9xy9UgKtqlLmGZKKSbllxib7eK3z8jIx&sid=yDUDpLqPZ8CDehidylfYURCOV6zZrDrq&pid=z6RLtfPKL48WYVatcX3A1z3UZtNzdmbo&c=6a30895531fae90002313f02&ref=ditu.caracoltv.com&ext_pb=0&es=d2cse06nex8rlj.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
 
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", La Voz de Maria
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
