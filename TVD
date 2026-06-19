@@ -3524,11 +3524,8 @@ https://d2cse06nex8rlj.cloudfront.net/live-stream-dai/698a2b858ce046e68628214c/1
 #EXTINF:-1 tvg-id="La voz de Maria" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/6fa3e437-a1c7-42da-9983-7ab73b6221c1.png" group-title="Religión", La Voz de Maria
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
-#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.ibb.co/sJgtG6yK/Picsart-25-08-17-02-13-43-260.webp" group-title="Religión", Radio María
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.postimg.cc/Mp28zxvj/Picsart-26-06-19-18-02-06-979.png" group-title="Religión", Radio Maria
+https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w252510782_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PG4HBrGQ/1763961218305.webp" group-title="Religión", ABN
 https://s3.abntelevision.com/avivamientoabr/stream/playlist.m3u8
