@@ -1548,10 +1548,16 @@ https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:-1 tvg-id="TV Camara.py" tvg-logo="https://i.ibb.co/b5HqHn3t/1768252588129.webp" group-title="TV Paraguay", TV Cámara
 https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América PY
+#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América INT
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 PY
+#EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://i.postimg.cc/VNm3dJ71/Picsart-26-06-19-13-56-27-603.png" group-title="TV Paraguay", El Nueve INT
+https://latan.stonetv.com.br/elnueve/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe INT
+https://latan.stonetv.com.br/telefe/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 INT
 https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
