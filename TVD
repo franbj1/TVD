@@ -2184,20 +2184,20 @@ https://joy.nx-pc.edge-apps.net/hls/266ae-ppn41-oaifc-pglii.m3u8
 https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
-http://180.13.252.102:8000/play/a02s/index.m3u8?hls
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187371.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports.py" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webpp" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.uy" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webpp" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.uy" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 https://latan.stonetv.com.br/tyc-sports/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kJ317M7/Picsart-26-06-18-23-33-48-015.png" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.uy" tvg-logo="https://i.postimg.cc/8kJ317M7/Picsart-26-06-18-23-33-48-015.png" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8?|referer=https://play.tycsports.com/
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kJ317M7/Picsart-26-06-18-23-33-48-015.png" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports.uy" tvg-logo="https://i.postimg.cc/8kJ317M7/Picsart-26-06-18-23-33-48-015.png" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?|referer=https://play.tycsports.com/
 
