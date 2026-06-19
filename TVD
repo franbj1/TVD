@@ -3593,6 +3593,9 @@ https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.supaimg.com/5f38a7e8-aa01-42a8-95bc-9da75e9fb1aa.png?raw=true" group-title="Religión", Logos TV
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Mana.ar" tvg-logo="https://i.postimg.cc/yYgky4tc/Picsart-26-06-19-03-25-01-142.png" group-title="Religión", TV Maná AR
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Solidaria TV" tvg-logo="https://i.ibb.co/rBbhGm6/Picsart-25-08-12-05-19-17-363.webp" group-title="Religión", Solidaria TV Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
