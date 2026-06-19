@@ -2220,7 +2220,7 @@ https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d106ae78b0893da2e4393ece99420baa&keyid=fd86dde0ae3e14ff51c8fc8f248a50db
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.postimg.cc/SNqP0DgV/Picsart-26-06-13-17-17-47-458.png" group-title="Deportes", La 1 España
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.postimg.cc/SNqP0DgV/Picsart-26-06-13-17-17-47-458.png" group-title="Deportes", La 1 de TVE
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3494,7 +3494,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
-#EXTINF:-1 tvg-id="Canal Luz.ar" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="Religión", Canal Luz
+#EXTINF:-1 tvg-id="Canal Luz.ar" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="Religión", Canal LUZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
@@ -3530,7 +3530,10 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/84bc4915-c456-413b-8f00-7c85981ba9af.png" group-title="Religión", CBN Español
 https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN2 Latino⛧
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PG4HBrGQ/1763961218305.webp" group-title="Religión", ABN
+https://s3.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABN2" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN Latino⛧
 https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 
 #EXTINF:-1 tvg-id="Conexion Educativa.ar" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino🕊️
@@ -3587,9 +3590,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dBGq0NC/Picsart-25-11-24-02-59-05-210.webp" group-title="Religión", Cristiana TV
 https://cloudvideo.servers10.com:8081/8152/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PG4HBrGQ/1763961218305.webp" group-title="Religión", ABN
-https://s3.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
