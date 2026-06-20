@@ -3521,8 +3521,14 @@ https://cdn.jwplayer.com/live/broadcast/Q2Yar6Fo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hG9m2V58/1781919112909.png" group-title="Religión", Cristiana TV
 https://cloudvideo.servers10.com:8081/8152/index.m3u8
 
+#EXTINF:-1 tvg-id="Aleluya TV" tvg-logo="https://i.postimg.cc/9frLNgh5/Picsart-26-06-19-23-27-23-219.png" group-title="Religión", Aleluya TV 🕊️
+https://streamunoapp.com:3408/live/aleluyatvlive.m3u8
+
 #EXTINF:-1 tvg-id="TV Mana.ar" tvg-logo="https://i.postimg.cc/yYgky4tc/Picsart-26-06-19-03-25-01-142.png" group-title="Religión", TV Maná
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.supaimg.com/5f38a7e8-aa01-42a8-95bc-9da75e9fb1aa.png?raw=true" group-title="Religión", Logos TV
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=a48c482d8bbbf8752422d1147bba0a4f&keyid=26bddb17151a47c0a1d7c0951ef979bc
@@ -3543,9 +3549,6 @@ https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 
 #EXTINF:-1 tvg-id="TBN España" tvg-logo="https://i.postimg.cc/vZz5GY3r/Picsart-26-06-19-17-36-44-949.png" group-title="Religión", ♕ TBN España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-
-#EXTINF:-1 tvg-id="Aleluya TV" tvg-logo="https://i.postimg.cc/9frLNgh5/Picsart-26-06-19-23-27-23-219.png" group-title="Religión", Aleluya TV 🕊️
-https://streamunoapp.com:3408/live/aleluyatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Conexion Educativa.ar" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino 🕊️
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
@@ -3598,9 +3601,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
-
-#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.supaimg.com/5f38a7e8-aa01-42a8-95bc-9da75e9fb1aa.png?raw=true" group-title="Religión", Logos TV
-https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Solidaria TV" tvg-logo="https://i.ibb.co/rBbhGm6/Picsart-25-08-12-05-19-17-363.webp" group-title="Religión", Solidaria TV Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
