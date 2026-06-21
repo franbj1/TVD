@@ -2230,7 +2230,7 @@ https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d106ae78b0893da2e4393ece99420baa&keyid=fd86dde0ae3e14ff51c8fc8f248a50db
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.postimg.cc/SNqP0DgV/Picsart-26-06-13-17-17-47-458.png" group-title="Deportes", La 1 de TVE
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a3a03564dbf41f0e0b52&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=16&AV_CLIENT_SECTION=RTVE_la1&content_channel_name=LA1&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
