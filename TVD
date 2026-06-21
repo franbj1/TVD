@@ -2038,12 +2038,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6649
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HOLATV.DGO.json
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HOLATV.DGO.json?
 #EXTINF:-1 tvg-id="Hola TV.uy" tvg-logo="https://i.ibb.co/SwRMS6gM/HOLA-TVlogo.webp" group-title="Novelas ᥫ᭡", Hola TV
 https://1149-tbx.vrioott.com/holatv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/MTV.DGO.json
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/c52l9aagdddlqx23uhe3f/MTV.DGO.json?
 #EXTINF:-1 tvg-id="MTV.uy" tvg-logo="https://i.ibb.co/dwRCJNkp/Picsart-26-03-28-20-26-15-684.webp" group-title="Novelas ᥫ᭡", MTV Reality
 https://1165-tbx.vrioott.com/mtvls/manifest.mpd
 
@@ -2495,8 +2495,8 @@ https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/fyyDKG5q/Picsart-26-06-16-03-31-10-925.png" group-title="Infantil", Retro Magïco
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/PJBcTZ0S/Picsart-26-06-13-03-50-58-541.png" group-title="Infantil", Laika Magico
-https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Laika Channel" tvg-logo="https://i.postimg.cc/brKwH6k3/Picsart-26-06-21-01-09-28-030.png" group-title="Infantil", Laika Channel
+https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/gFb8SCV5/1770570628411.webp" group-title="Infantil", Duck TV
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
@@ -2637,7 +2637,6 @@ https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/USANETWORK.DGO.json
 #EXTINF:-1 tvg-id="USA.uy" tvg-logo="https://i.ibb.co/JXRQK48/Picsart-26-02-20-12-39-19-030.webp" group-title="Cine + Series", USA Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1211-tbx.vrioott.com/usala/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
