@@ -2058,12 +2058,8 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="Somos Novelas" tvg-logo="https://i.postimg.cc/N0wYs8jS/somos-novelas.png" group-title="Novelas ᥫ᭡", Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
-#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
 #EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="Novelas ᥫ᭡", Ve Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 Deportes
 
