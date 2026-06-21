@@ -2388,6 +2388,21 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/65ldy4ejuu/out/v1/69
 #EXTINF:-1 tvg-id="NBA.mx" tvg-logo="https://i.postimg.cc/25sjHgf8/image-1000006989-converted-To-Png.png" group-title="Deportes",  NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?keyid=59f50679c9e60963bd0cb6640992aaaa&key=8685817c4d31f322e08940feeae2855a
+#EXTINF:-1 tvg-id="T2 Live Tennis" tvg-logo="https://i.ibb.co/m8rwcJy/T2-live-tennis.png" group-title="Deportes", T2 Live Tennis
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=48e4ba4ad6c2a60d2bda5d71a0050844&keyid=0b59ce06de74ed84f2eda5e81dadba13
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Deportes", Tennis Channel
+https://amg01444-tennischannelth-tennischde-samsungat-p3jwq.amagi.tv/playlist/amg01444-tennischannelth-tennischde-samsungat/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=08d55a8f5fc93a9375f9b0cb2e1739ca&keyid=12413e2c2855cfc59ce0fe6b20cc71ca
+#EXTINF:-1 tvg-id="Tenis Channel US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Deportes", Tennis Channel (US)
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
 Infantil
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/zvsn9Rd4/Picsart-26-03-07-23-23-50-756.png"
