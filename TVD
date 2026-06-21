@@ -2486,7 +2486,10 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek202
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-id="Magictv" tvg-logo="https://i.postimg.cc/52MDNcLb/Picsart-26-06-16-03-24-49-915.png" group-title="Infantil", MagïcTV
+#EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://i.postimg.cc/85RJ5gvS/Picsart-26-06-21-00-39-31-291.png" group-title="Infantil", Magïc Kids
+https://kali.vdopanel.com:3909/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Magictv" tvg-logo="https://i.postimg.cc/52MDNcLb/Picsart-26-06-16-03-24-49-915.png" group-title="Infantil", Magïc TV
 https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 
 #EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/fyyDKG5q/Picsart-26-06-16-03-31-10-925.png" group-title="Infantil", Retro Magïco
