@@ -3646,13 +3646,13 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
-#EXTINF:-1 tvg-id="Solidaria TV" tvg-logo="https://i.ibb.co/rBbhGm6/Picsart-25-08-12-05-19-17-363.webp" group-title="Religión", Solidaria TV Argentina
+#EXTINF:-1 tvg-id="Solidaria TV.ar" tvg-logo="https://i.postimg.cc/XqRbVPpK/Picsart-26-06-21-21-44-37-450.png" group-title="Religión", Solidaria TV Argentina
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-#EXTINF:-1 tvg-id="Solidaria TV.bo" tvg-logo="https://i.ibb.co/rfyx7VXq/Picsart-25-11-24-03-16-10-162.webp" group-title="Religión", Solidaria TV Bolivia
+#EXTINF:-1 tvg-id="Solidaria TV.bo" tvg-logo="https://i.postimg.cc/dtRssqmg/Picsart-26-06-21-21-47-54-741.png" group-title="Religión", Solidaria TV Bolivia
 https://canadaremar2.todostreaming.es/live/bolivia-stream.m3u8
 
-#EXTINF:-1 tvg-id="Solidaria TV.es" tvg-logo="https://i.ibb.co/bM3K13zp/Picsart-25-11-26-04-25-16-105.webp" group-title="Religión", Solidaria TV España
+#EXTINF:-1 tvg-id="Solidaria TV.es" tvg-logo="https://i.postimg.cc/dtRssqmg/Picsart-26-06-21-21-47-54-741.png" group-title="Religión", Solidaria TV España
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 Mundo
