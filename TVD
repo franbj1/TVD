@@ -3579,6 +3579,12 @@ https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID
 https://d2cse06nex8rlj.cloudfront.net/live-stream-dai/698a2b858ce046e68628214c/1b525181f9a54936856a70e023f0f7fb/d97743de3620a865848fff7a9de14dda1bf2409d/session/80a7d856-1b63-4e4e-9d23-fbccbb7af967/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=MME99cWj9w9x7i5looJIvwi8lhdms5VlPpMmTwAntXCSHGYbeGDzOJIB2g8xritUVzI8hJBIhzg&uid=9xy9UgKtqlLmGZKKSbllxib7eK3z8jIx&sid=yDUDpLqPZ8CDehidylfYURCOV6zZrDrq&pid=z6RLtfPKL48WYVatcX3A1z3UZtNzdmbo&c=6a30895531fae90002313f02&ref=ditu.caracoltv.com&ext_pb=0&es=d2cse06nex8rlj.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
 
+#EXTINF:-1 tvg-id="Televida" tvg-logo="https://i.postimg.cc/8PdZ3fdn/Picsart-26-06-22-13-48-16-112.png" group-title="Religión", Televida
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosanna Vision" tvg-logo="https://i.postimg.cc/Bb98f65C/Picsart-26-06-22-13-37-40-764.png" group-title="Religión", Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
+
 #EXTINF:-1 tvg-id="La voz de Maria" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/6fa3e437-a1c7-42da-9983-7ab73b6221c1.png" group-title="Religión", La Voz de Maria
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
