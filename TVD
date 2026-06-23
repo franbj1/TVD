@@ -163,7 +163,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/ARR2/C3RH/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EL SEIS TV.ar" tvg-logo="https://i.ibb.co/7J4fzFqx/Picsart-26-05-19-13-35-28-478.webp" group-title="Nacional", El Seis TV Bariloche
+#EXTINF:-1 tvg-id="El Seis Tv.ar" tvg-logo="https://i.ibb.co/7J4fzFqx/Picsart-26-05-19-13-35-28-478.webp" group-title="Nacional", El Seis TV Bariloche
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/SMT4/BC6H/playlist.m3u8
 
