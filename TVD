@@ -3536,11 +3536,8 @@ Religión
 #EXTINF:-1 tvg-id="Canal Orbe 21.ar" tvg-logo="https://i.ibb.co/Jjyg03gJ/Picsart-26-04-11-05-14-59-454.webp" group-title="Religión", Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
-#EXTINF:-1 tvg-id="Canal Luz.ar" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="Religión", Canal LUZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="Canal Luz.ar" tvg-logo="https://i.ibb.co/Kj2SLRYX/Picsart-25-11-23-12-54-51-467.webp" group-title="Religión", Canal LUZ+
+https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Dayst☆r Español
 https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
