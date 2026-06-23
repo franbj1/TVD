@@ -157,13 +157,13 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
 #EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
-https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_cenc/Somos_Norte.mpd
 
 #EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-logo="https://i.ibb.co/ynNRCH5k/Picsart-26-05-19-13-32-13-800.webp" group-title="Nacional", El Tres TV Rosario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/ARR2/C3RH/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Seis Tv.ar" tvg-logo="https://i.ibb.co/7J4fzFqx/Picsart-26-05-19-13-35-28-478.webp" group-title="Nacional", El Seis TV Bariloche
+#EXTINF:-1 tvg-id="ElSeisTV.ar" tvg-logo="https://i.ibb.co/7J4fzFqx/Picsart-26-05-19-13-35-28-478.webp" group-title="Nacional", El Seis TV Bariloche
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/SMT4/BC6H/playlist.m3u8
 
