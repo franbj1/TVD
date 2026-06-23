@@ -26,6 +26,11 @@ http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/telefe_1080.m3u8
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
+https://1096-tbx.vrioott.com/encuentro/manifest.mpd
+
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true" group-title="Nacional", NET TV
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
@@ -39,35 +44,11 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
-#EXTINF:-1 tvg-id="TECtv.ar" tvg-logo="https://i.ibb.co/jkmfqg69/Picsart-26-04-20-22-48-15-364.webp" group-title="Nacional", Tec TV
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Construir TV.ar" tvg-logo="https://i.ibb.co/BKr1g7KM/Picsart-26-04-20-17-50-43-738.webp" group-title="Nacional", Construir TV
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Android
-https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fds61NJ9/Picsart-26-04-20-23-10-55-517.webp" group-title="Nacional", Unife TV
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
-
-#EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.ibb.co/DD9Rvn7S/Picsart-26-04-20-22-36-33-504.webp" group-title="Nacional", CN23
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/mnp/cn23/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
-https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #EXTINF:-1 tvg-id="1011.ar" tvg-logo="https://i.ibb.co/qYJ9vMbb/Picsart-26-04-21-18-08-16-559.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
