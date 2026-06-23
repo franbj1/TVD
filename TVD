@@ -3503,6 +3503,7 @@ Religión
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/.m3u8
 
 #EXTINF:-1 tvg-id="Canal Luz.ar" tvg-logo="https://i.postimg.cc/5t3JvHdY/Picsart-26-06-22-22-25-39-264.png" group-title="Religión", Canal LUZ+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Daystar.ar" tvg-logo="https://i.ibb.co/4Zhj6QX7/Picsart-26-04-12-08-23-46-835.webp" group-title="Religión", Dayst☆r Español
