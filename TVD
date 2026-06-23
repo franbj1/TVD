@@ -2675,11 +2675,8 @@ https://latan.stonetv.com.br/cine-hispano/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/cine-premium/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
-#EXTINF:-1 tvg-id="MORBIDO TV" tvg-logo="https://i.ibb.co/Kpd14Lfy/Picsart-25-11-28-02-26-26-523.webp" group-title="Cine + Series", BloomTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-http://liketv.pro:80/User1626/28TM4MEU66/37.m3u8
+#EXTINF:-1 tvg-id="Laika Channel" tvg-logo="https://i.postimg.cc/gk9ktk8Q/1782229602808.png" group-title="Cine + Series", MX Prime
+http://190.102.247.126:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="EUROCHANNEL" tvg-logo="https://i.ibb.co/Wp3xqqCy/EURO-LOGO-FINALE.webp" group-title="Cine + Series", Euro Channel
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
