@@ -3736,6 +3736,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mp
 #EXTINF:-1 tvg-id="RAI Italia HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/800/542/0/0/668028540729.png" group-title="Mundo", RAI Italia
 https://1184-tbx.vrioott.com/rai/manifest.mpd
 
+#EXTINF:-1 tvg-id="Das erste" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/fdc71342-720d-4974-af13-861a6f0aeafe.png" group-title="Mundo", Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
@@ -3839,11 +3842,6 @@ https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd?|referer=https://playe
 https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5746dc57cb1c26d5267d116d3f49d871:d1dc3a3a13fc3981c08a0376706b2e61
-#EXTINF:-1 group-title="Mundo" ch-number="625" tvg-id="UCL.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/800/542/0/0/62763250072541.png", UCL
-https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e356ecaae6cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Mundo", Azteca Internacional
 https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
@@ -3868,12 +3866,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/9cb1c2b7-c1a2-4a74-a497-826f81951949.png?raw=true" group-title="Mundo", Antena 3 Internacional
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
-https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/ecc126a6-c3d1-429e-a701-8286d335536e.png?raw=true" group-title="Mundo", 24 Horas EspaÃƒÆ’Ã‚Â±a
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ecc126a6-c3d1-429e-a701-8286d335536e.png?raw=true" group-title="Mundo", 24 Horas Español
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/614db67c-c7ba-452b-bace-ce7be5a6f3bf.png?raw=true" group-title="Mundo", Galicia TV
