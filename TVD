@@ -44,7 +44,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
-#EXTINF:-1 tvg-id="EventosHd.ar" tvg-logo="https://i.ibb.co/qYJ9vMbb/Picsart-26-04-21-18-08-16-559.webp" group-title="Nacional", Latina TV
+#EXTINF:-1 tvg-id="Eventos Hd.ar" tvg-logo="https://i.ibb.co/qYJ9vMbb/Picsart-26-04-21-18-08-16-559.webp" group-title="Nacional", Latina TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
@@ -119,11 +119,11 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_
 #EXTVLCOPT:http-user-agent="default
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="0963" tvg-name="Canal E • Argentina" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="Nacional", Canal E
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="0963" tvg-name="Canal E • Argentina" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="Nacional", Perfil TV
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://i.supaimg.com/674166fb-9ce3-45d3-990c-aa058ec634d7.png?raw=true" group-title="Nacional", TeleSUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Nacional", France 24 Español
@@ -132,11 +132,6 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="Nacional", Metro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/ARR3/sensaeventosD/output.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0e1327b5b1f4dfe767aec622c9ef64ce&key%5B%5D=60c64a922af0121bf73261c825e33f18
-#EXTINF:-1 tvg-id="MIX TV" tvg-logo="https://i.ibb.co/5XnLGvW4/large-Mix-TV-2025-png-4dd90f7650b5e1345b680bef6e6cb0c5.png" group-title="Nacional", Mix TV
-https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_wl/MixTV.mpd
 
 #EXTINF:-1 tvg-id="CANAL DE LA CIUDAD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Nacional", Canal de la Ciudad
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
