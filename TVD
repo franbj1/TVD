@@ -48,18 +48,15 @@ https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="YouTube.ar" tvg-logo="https://i.ibb.co/Ndy2tG0x/Picsart-26-04-22-14-01-12-804.webp" group-title="Nacional", Vale 97.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=https://la100.cienradios.com/hd/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.ibb.co/kscbH3Q8/Picsart-25-09-22-11-07-58-974.webp" group-title="Nacional", (LA 100) 99.9 y vos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?|referer=https://la100.cienradios.com/hd/
+#EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.postimg.cc/2jVMwDHn/Picsart-26-06-24-00-26-12-171.png" group-title="Nacional", (LA 100) 99.9 y vos
+#EXTVLCOPT:http-referrer=https://la100.cienradios.com/hd/
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTH97nB3/Picsart-26-06-23-22-46-08-411.png" group-title="Nacional", Aspen 102.3 Pura Música Las 24 Horas.
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTH97nB3/Picsart-26-06-23-22-46-08-411.png" group-title="Nacional", ASPEN 102.3 Pura Música Las 24 Horas.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tvmia.com/
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
