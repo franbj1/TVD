@@ -1982,7 +1982,8 @@ Deportes
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=4f50e6f011e60ca01ee561f27187e78f&keyid=1efe4add8fdf327c5f8d2a1c195e5c71
-#EXTINF:-1 tvg-id="Telemundo Internacional.uy" tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Deportes", Telemundo Deportes
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.supaimg.com/d063a104-77ab-4345-9b1d-b7f02d373bf3.png?raw=true" group-title="Deportes", Telemundo Deportes
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 https://paz-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/TELEMUNDO-ARIZONA-USA-TCS-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
