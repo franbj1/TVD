@@ -40,26 +40,9 @@ https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="CARTV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
+#EXTINF:-1 tvg-id="CARAS TV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
-
-#EXTINF:-1 tvg-id="Eventos Hd.ar" tvg-logo="https://i.ibb.co/qYJ9vMbb/Picsart-26-04-21-18-08-16-559.webp" group-title="Nacional", Latina TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-
-#EXTINF:-1 tvg-id="YouTube.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/447dbc94-3fee-4f16-87f8-2857337bf1e7.png" group-title="Nacional", Vale 97.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
-
-#EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.postimg.cc/2jVMwDHn/Picsart-26-06-24-00-26-12-171.png" group-title="Nacional", (LA 100) 99.9 y vos
-#EXTVLCOPT:http-referrer=https://la100.cienradios.com/hd/
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTH97nB3/Picsart-26-06-23-22-46-08-411.png" group-title="Nacional", ASPEN 102.3 Pura Música Las 24 Horas.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tvmia.com/
-https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Android
@@ -148,10 +131,22 @@ https://joy.nx-pc.edge-apps.net/hls/465a1-enb61-ad17j-55bp2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
-#EXTINF:-1 tvg-id="SOMOS AMBA.ar" tvg-logo="https://i.ibb.co/dw0KHvq7/Picsart-25-12-20-22-31-11-867.webp" group-title="Nacional", Somos Amba
-https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_cenc/Somos_Norte.mpd
+#EXTINF:-1 tvg-id="Eventos Hd.ar" tvg-logo="https://i.ibb.co/qYJ9vMbb/Picsart-26-04-21-18-08-16-559.webp" group-title="Nacional", Latina TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+
+#EXTINF:-1 tvg-id="YouTube.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/447dbc94-3fee-4f16-87f8-2857337bf1e7.png" group-title="Nacional", Vale 97.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
+
+#EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.postimg.cc/2jVMwDHn/Picsart-26-06-24-00-26-12-171.png" group-title="Nacional", (LA 100) 99.9 y vos
+#EXTVLCOPT:http-referrer=https://la100.cienradios.com/hd/
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTH97nB3/Picsart-26-06-23-22-46-08-411.png" group-title="Nacional", ASPEN 102.3 Pura Música Las 24 Horas.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tvmia.com/
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 3 ROSARIO.ar" tvg-logo="https://i.ibb.co/ynNRCH5k/Picsart-26-05-19-13-32-13-800.webp" group-title="Nacional", El Tres TV Rosario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -169,19 +164,8 @@ https://cdn.pontiscloud.com/output/SMT3/C9BBH/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/SMT6/BTVD/output.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:almacenamiento en caché de red=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k63kR5vq/Picsart-25-08-01-17-12-25-273.webp" group-title="Nacional", Five TV
-https://panel.host-live.com:19360/8118/8118.m3u8
-
 #EXTINF:-1 tvg-id="Señal Urbana.ar" tvg-logo="https://i.ibb.co/RpBx1DNJ/Picsart-26-01-08-18-19-07-464.webp" group-title="Nacional", Señal Urbana +
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="CDLC.ar" tvg-logo="https://i.ibb.co/h180zV5d/Picsart-25-12-21-11-52-44-864.webp" group-title="Nacional", Canal de la Ciudad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://g4.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
@@ -198,6 +182,7 @@ https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc_wl/CH_9_R
 #KODIPROP:inputstream.adaptive.license_key=dd573858f3414066b9292ef6397a5c3c:593eb5f7facce4240ff7a5f26afd47e0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VRRG7vD/1765494526725.webp" group-title="Nacional", Canal 9 Litoral
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/3c4ab187-86ec-43cf-951c-f40668c92c18.png?raw=true" group-title="Nacional", Canal 10 Tucumán
@@ -218,31 +203,6 @@ https://cdn.pontiscloud.com/output/SMT6/C10MPH/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9c996a1465acddc9c3f7a2dd9b86aa88:a2b63e48c99bebb52bfcdb1830efdd3e
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/738e041e-9fe7-45ef-b328-1c4c52c1d9cf.png?raw=true" group-title="Nacional", Canal 12 Misiones
 https://chromecast.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_C/CH_12_Posadas.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="Nacional", Canal 11 Salta
-https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc_C/Telefe_Salta.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/f54fe162-d102-4e32-a65b-ae796de311fa.png" group-title="Nacional", El Doce Córdoba
-https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_cenc/Canal_12_CBA.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee837d0ec414d95a51b0c7a57d49d307:883fd72dc9b72db33d7b4f8dc0eb0016
-#EXTINF:-1 tvg-id="13 Max TV.ar" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="Nacional", 13 Max Corrientes
-https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_cenc/CH_13_Corrientes.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd=&keys81c204c443987d7b176587d626a124a0
-#EXTINF:-1 tvg-id="Canal C.ar" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="Nacional", Canal C
-https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_cenc/Canal_C.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a15243320c0a79defa8814252e3e8c07:0659db05632c0061c126db7a12582499
-#EXTINF:-1 tvg-id="Canal 7 BAHIA BLANCA.ar" tvg-logo="https://i.supaimg.com/b00477d1-abd4-4a39-a6f1-70e66dd805fa.png" group-title="Nacional", Canal 7 Bahía Blanca
-https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_cenc/Canal7_Bahia_Blanca.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
@@ -297,11 +257,6 @@ https://cdn.pontiscloud.com/output/SMT2/C8MPH/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
-#EXTINF:-1 tvg-id="eldoce tvg-name="Canal 12.ar" tvg-logo="https://livepic.xyz/img9372/png/eldoce.png" group-title="Nacional", El Doce Córdoba TDA
-https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZvc7pwf/Picsart-25-07-26-02-19-28-462.webp" group-title="Nacional", Canal Nueve Bahía Blanca
 https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/manifest
