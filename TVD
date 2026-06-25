@@ -210,7 +210,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc_C/CH_
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_cenc/Canal10_CBA_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZcXKZFN/Picsart-25-07-31-16-46-20-585.webp" group-title="Nacional", Canal 7 Bahía Blanca
-https://bvclive1.boldmss.com/CANAL_7/CANAL_7.isml/CANAL_7.mpd
+https://bvclive2.boldmss.com/CANAL_7/CANAL_7.isml/CANAL_7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
@@ -265,7 +265,7 @@ https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/manifest
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://router.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd?http-referrer=https://tv.onpower.com.ar
+https://broker.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd?http-referrer=https://tv.onpower.com.ar
 
 #EXTINF:-1 tvg-id="CANAL 9 TELEVIDA.ar" tvg-logo="https://i.ibb.co/S4z8Ggc0/Picsart-25-08-01-03-33-48-843.png" group-title="Nacional", Televida
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
@@ -284,7 +284,7 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal 7 de Jujuy.ar" tvg-logo="https://i.ibb.co/sv5D5ctq/1765376391101.webp" group-title="Nacional", Canal 7 Jujuy
+#EXTINF:-1 tvg-id="Canal 7 Jujuy.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/1d039124-0a0b-4297-9101-e512c29426b0.png" group-title="Nacional", Canal 7 Jujuy
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
