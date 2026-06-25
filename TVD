@@ -48,7 +48,7 @@ https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
-#EXTINF:-1 tvg-id="YouTube.ar" tvg-logo="https://i.ibb.co/Ndy2tG0x/Picsart-26-04-22-14-01-12-804.webp" group-title="Nacional", Vale 97.5
+#EXTINF:-1 tvg-id="YouTube.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/447dbc94-3fee-4f16-87f8-2857337bf1e7.png" group-title="Nacional", Vale 97.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
 
