@@ -3517,6 +3517,9 @@ https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksSkt9ch/Picsart-25-11-23-13-18-29-655.webp" group-title="Religión", Shalom World
 https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Adoram TV" tvg-logo="https://i.postimg.cc/ZYxrVh8r/Picsart-26-06-26-15-50-11-987.png" group-title="Religión", Adoram
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Gvn0qMK/1763959685343.webp" group-title="Religión", ÉL TV
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 
@@ -3528,9 +3531,6 @@ https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Telefamilia" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/282ee445-e34f-4551-9e60-2d0f9cc17d6b.png" group-title="Religión", Telefamilia
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Adoram TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/1a58f690-ecb4-4b4d-90b1-a5fc4709949f.png" group-title="Religión", Adoram
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Luz divina TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/68b6c53e-419d-4d82-bdf6-4815db1e641e.png" group-title="Religión", Luz Divina TV
 https://video.udwn.net:19360/luzdivinatv/luzdivinatv.m3u8
