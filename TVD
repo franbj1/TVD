@@ -3529,6 +3529,18 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 #EXTINF:-1 tvg-id="Family TV" tvg-logo="https://i.postimg.cc/t4mXsG95/Picsart-26-06-22-22-19-24-501.png" group-title="Religión", Family TV
 https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Telefamilia" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/282ee445-e34f-4551-9e60-2d0f9cc17d6b.png" group-title="Religión", Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Adoram TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/1a58f690-ecb4-4b4d-90b1-a5fc4709949f.png" group-title="Religión", Adoram
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Luz divina TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/68b6c53e-419d-4d82-bdf6-4815db1e641e.png" group-title="Religión", Luz Divina TV
+https://video.udwn.net:19360/luzdivinatv/luzdivinatv.m3u8
+
+#EXTINF:-1 tvg-id="Luz Naciente TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/443a98a0-0c38-46de-b4ca-1ce4857437ef.png" group-title="Religión", Luz Naciente TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/68f9ecca-98b8-4a9a-89c1-d08ee046a03a.png" group-title="Religión", TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
