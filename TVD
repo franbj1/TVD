@@ -304,9 +304,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://g4.vxral-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/playlist.m3u8?sense=true
 
-
-
-
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
 
 TV Bolivia
@@ -3546,6 +3543,9 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzjsXvp9/Picsart-25-11-24-02-27-25-767.webp" group-title="Religión", Cristo visión ✞
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/269a5a7f-61fe-4ca5-9e2e-abbe14805d73.png" group-title="Religión", Canal 30 Bethel
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 
 #EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.ibb.co/VYRsqstw/Picsart-26-02-19-04-27-44-878.webp" group-title="Religión", Dios TV
 https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
