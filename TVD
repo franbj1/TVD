@@ -3505,20 +3505,20 @@ https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w252510782_DVR.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PG4HBrGQ/1763961218305.webp" group-title="Religión", ABN
 https://s3.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Adoram TV" tvg-logo="https://i.postimg.cc/ZYxrVh8r/Picsart-26-06-26-15-50-11-987.png" group-title="Religión", Adoram
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefamilia" tvg-logo="https://i.postimg.cc/Y0TkQPC7/Picsart-26-06-26-15-56-20-907.png" group-title="Religión", Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="3ABN Latino" tvg-logo="https://i.ibb.co/v4jnsFC8/Picsart-25-11-23-13-11-27-768.webp" group-title="Religión", 3ABN Latino⛧
 https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 
 #EXTINF:-1 tvg-id="TBN España" tvg-logo="https://i.postimg.cc/vZz5GY3r/Picsart-26-06-19-17-36-44-949.png" group-title="Religión", ♕ TBN España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
-#EXTINF:-1 tvg-id="Conexion Educativa.ar" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino 🕊️
-https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksSkt9ch/Picsart-25-11-23-13-18-29-655.webp" group-title="Religión", Shalom World
 https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Adoram TV" tvg-logo="https://i.postimg.cc/ZYxrVh8r/Picsart-26-06-26-15-50-11-987.png" group-title="Religión", Adoram
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Gvn0qMK/1763959685343.webp" group-title="Religión", ÉL TV
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
@@ -3529,11 +3529,11 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 #EXTINF:-1 tvg-id="Family TV" tvg-logo="https://i.postimg.cc/t4mXsG95/Picsart-26-06-22-22-19-24-501.png" group-title="Religión", Family TV
 https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Telefamilia" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/282ee445-e34f-4551-9e60-2d0f9cc17d6b.png" group-title="Religión", Telefamilia
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Luz divina TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/68b6c53e-419d-4d82-bdf6-4815db1e641e.png" group-title="Religión", Luz Divina TV
 https://video.udwn.net:19360/luzdivinatv/luzdivinatv.m3u8
+
+#EXTINF:-1 tvg-id="Conexion Educativa.ar" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino 🕊️
+https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 
 #EXTINF:-1 tvg-id="Luz Naciente TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/443a98a0-0c38-46de-b4ca-1ce4857437ef.png" group-title="Religión", Luz Naciente TV
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
