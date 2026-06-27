@@ -3550,12 +3550,15 @@ https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.ibb.co/VYRsqstw/Picsart-26-02-19-04-27-44-878.webp" group-title="Religión", Dios TV
 https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xq5fsqZp/Picsart-25-11-24-04-06-07-762.webp" group-title="Religión", Alma Visión
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq5fsqZp/Picsart-25-11-24-04-06-07-762.webp" group-title="Religión", Almavision
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cdccfdc52ff8ba3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
 https://live-us.streann.tech/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ5ODU1MTMsInJpZCI6IjU2ZmFjNmZhZTRiMDVkYjViM2I3Y2Q1YSIsImtleSI6ImtleTEiLCJjaWQiOiI1Y2JhMjk3YzJjZGNjZmRjNTJmZjhiYTMifQ.EtsCrgMeaHvMzSjG6ga_T4__Gt-SgKrYqeQehk_Dcjw
+
+#EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-id="Faro de Santidad" tvg-logo="https://i.ibb.co/xKN70QYg/Picsart-26-02-16-13-54-15-605.webp" group-title="Religión", Faro de Santidad
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklist_w1155712607.m3u8
@@ -3571,12 +3574,6 @@ https://jstre.am/live/jsl:umb9869epxt.m3u8
 
 #EXTINF:-1 tvg-id="Hope Channel" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
-
-#EXTINF:-1 tvg-id="Hope Channel" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel Internacional
-https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
-
-#EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
