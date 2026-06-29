@@ -3310,7 +3310,7 @@ Religión
 
 #EXTINF:-1 group-logo="https://i.ibb.co/KcBT8Qz5/Picsart-25-10-26-19-27-16-818.webp"
 
-#EXTINF:-1 tvg-id="Canal Orbe 21.ar" tvg-logo="https://i.ibb.co/Jjyg03gJ/Picsart-26-04-11-05-14-59-454.webp" group-title="Religión", Orbe 21
+#EXTINF:-1 tvg-id="Canal Orbe 21.ar" tvg-logo="https://i.postimg.cc/s2fQpySz/Picsart-26-06-29-17-09-18-421.png" group-title="Religión", Orbe 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/.m3u8
 
@@ -3466,12 +3466,15 @@ https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
 #EXTINF:-1 tvg-id="Solidaria TV.ar" tvg-logo="https://i.postimg.cc/XqRbVPpK/Picsart-26-06-21-21-44-37-450.png" group-title="Religión", Solidaria TV Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 #EXTINF:-1 tvg-id="Solidaria TV.bo" tvg-logo="https://i.postimg.cc/dtRssqmg/Picsart-26-06-21-21-47-54-741.png" group-title="Religión", Solidaria TV Bolivia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://canadaremar2.todostreaming.es/live/bolivia-stream.m3u8
 
 #EXTINF:-1 tvg-id="Solidaria TV.es" tvg-logo="https://i.postimg.cc/dtRssqmg/Picsart-26-06-21-21-47-54-741.png" group-title="Religión", Solidaria TV España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 Mundo
