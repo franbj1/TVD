@@ -3363,7 +3363,7 @@ https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.ibb.co/mCjXJBFq/Picsart-26-02-16-14-30-19-779.webp" group-title="Religión", Tele VID
 https://d2cse06nex8rlj.cloudfront.net/live-stream-dai/698a2b858ce046e68628214c/1b525181f9a54936856a70e023f0f7fb/d97743de3620a865848fff7a9de14dda1bf2409d/session/80a7d856-1b63-4e4e-9d23-fbccbb7af967/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=MME99cWj9w9x7i5looJIvwi8lhdms5VlPpMmTwAntXCSHGYbeGDzOJIB2g8xritUVzI8hJBIhzg&uid=9xy9UgKtqlLmGZKKSbllxib7eK3z8jIx&sid=yDUDpLqPZ8CDehidylfYURCOV6zZrDrq&pid=z6RLtfPKL48WYVatcX3A1z3UZtNzdmbo&c=6a30895531fae90002313f02&ref=ditu.caracoltv.com&ext_pb=0&es=d2cse06nex8rlj.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
 
-#EXTINF:-1 tvg-id="Televida" tvg-logo="https://i.postimg.cc/8PdZ3fdn/Picsart-26-06-22-13-48-16-112.png" group-title="Religión", Televida
+#EXTINF:-1 tvg-id="Televida" tvg-logo="https://i.postimg.cc/9FSm17S5/Picsart-26-06-29-19-18-06-300.png" group-title="Religión", Televida
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
@@ -3372,9 +3372,11 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 
 #EXTINF:-1 tvg-id="La voz de Maria" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/6fa3e437-a1c7-42da-9983-7ab73b6221c1.png" group-title="Religión", La Voz de Maria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
 #EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://i.postimg.cc/Mp28zxvj/Picsart-26-06-19-18-02-06-979.png" group-title="Religión", Radio Maria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w252510782_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PG4HBrGQ/1763961218305.webp" group-title="Religión", ABN
@@ -3432,7 +3434,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
 #EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/269a5a7f-61fe-4ca5-9e2e-abbe14805d73.png" group-title="Religión", Canal 30 Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 
-#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.postimg.cc/ZKSWVfcy/Picsart-26-06-29-13-25-38-719.png" group-title="Religión", D10S Teve TV
+#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.postimg.cc/ZKSWVfcy/Picsart-26-06-29-13-25-38-719.png" group-title="Religión", DTeve TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
 
@@ -3444,15 +3446,19 @@ https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
 https://live-us.streann.tech/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ5ODU1MTMsInJpZCI6IjU2ZmFjNmZhZTRiMDVkYjViM2I3Y2Q1YSIsImtleSI6ImtleTEiLCJjaWQiOiI1Y2JhMjk3YzJjZGNjZmRjNTJmZjhiYTMifQ.EtsCrgMeaHvMzSjG6ga_T4__Gt-SgKrYqeQehk_Dcjw
 
 #EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-id="Faro de Santidad" tvg-logo="https://i.ibb.co/xKN70QYg/Picsart-26-02-16-13-54-15-605.webp" group-title="Religión", Faro de Santidad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklist_w1155712607.m3u8
 
 #EXTINF:-1 tvg-id="Mision Vida TV" tvg-logo="https://i.ibb.co/dw4YGJPN/Picsart-26-02-16-13-45-21-382.webp" group-title="Religión", Misión Vida TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LWjY5tL/Picsart-26-05-29-02-09-33-085.webp" group-title="Religión", Nuevo Tiempo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDyFrwj0/Picsart-26-05-29-02-13-02-123.webp" group-title="Religión", Esperanza TV
