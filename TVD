@@ -3436,10 +3436,11 @@ https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/68f9ecca-98b8-4a9a-89c1-d08ee046a03a.png" group-title="Religión", TV 2000
-#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzjsXvp9/Picsart-25-11-24-02-27-25-767.webp" group-title="Religión", Cristo visión ✞
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
 
 #EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
@@ -3451,6 +3452,7 @@ https://live-us.streann.tech/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOi
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
 
 #EXTINF:-1 tvg-id="GNTV Latino" tvg-logo="https://i.postimg.cc/Mpy8nnv6/Picsart-26-06-30-11-24-36-269.png" group-title="Religión", GNTV Latino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://stream.eleden.com/livemastv/ngrp:livemastv_mobile/playstream.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/269a5a7f-61fe-4ca5-9e2e-abbe14805d73.png" group-title="Religión", Canal 30 Bethel
@@ -3468,6 +3470,7 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cd
 https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDyFrwj0/Picsart-26-05-29-02-13-02-123.webp" group-title="Religión", Esperanza TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://jstre.am/live/jsl:umb9869epxt.m3u8
 
 #EXTINF:-1 tvg-id="Hope Channel" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel
