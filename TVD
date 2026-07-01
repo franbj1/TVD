@@ -77,7 +77,7 @@ https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://i.ibb.co/qMpL29Dm/1777596041906.webp" group-title="Nacional", Todo Noticias (4K)
 https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
 
-#EXTINF:-1 tvg-id="LA NACION +.ar" tvg-logo="https://i.ibb.co/4g9hy1vL/Picsart-26-02-28-15-18-53-230.webp" group-title="Nacional", La Nación +
+#EXTINF:-1 tvg-id="LA NACION +.ar" tvg-logo="https://i.postimg.cc/Ghjcqqkh/Picsart-26-07-01-19-02-29-720.png" group-title="Nacional", La Nación +
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
