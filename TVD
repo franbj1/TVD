@@ -3412,6 +3412,9 @@ https://s3.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Frecuencia F" tvg-logo="https://i.postimg.cc/X7qNJ9Rr/Picsart-26-07-01-18-29-30-774.png" group-title="Religión", Frecuencia F
+https://tv.frecuenciaf.com/live/envivo.m3u8
+
 #EXTINF:-1 tvg-id="Telefamilia" tvg-logo="https://i.postimg.cc/Y0TkQPC7/Picsart-26-06-26-15-56-20-907.png" group-title="Religión", Telefamilia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
