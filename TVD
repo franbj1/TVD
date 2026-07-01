@@ -3377,6 +3377,13 @@ https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 
+#EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
+https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
+
+#EXTINF:-1 tvg-id="GNTV Latino" tvg-logo="https://i.postimg.cc/Mpy8nnv6/Picsart-26-06-30-11-24-36-269.png" group-title="Religión", GNTV Latino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://stream.eleden.com/livemastv/ngrp:livemastv_mobile/playstream.m3u8?DVR
+
 #EXTINF:-1 tvg-id="Rhema TV" tvg-logo="https://i.postimg.cc/W1Z7M5YG/Picsart-26-06-30-16-52-58-283.png" group-title="Religión", Rhema TV
 https://5e85d90130e77.streamlock.net/6006/ngrp:6006_all/playlist.m3u8
 
@@ -3454,16 +3461,9 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
 
-#EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
-https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
-
 #EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/.m3u8
-
-#EXTINF:-1 tvg-id="GNTV Latino" tvg-logo="https://i.postimg.cc/Mpy8nnv6/Picsart-26-06-30-11-24-36-269.png" group-title="Religión", GNTV Latino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://stream.eleden.com/livemastv/ngrp:livemastv_mobile/playstream.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/269a5a7f-61fe-4ca5-9e2e-abbe14805d73.png" group-title="Religión", Canal 30 Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
