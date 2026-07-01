@@ -3365,9 +3365,17 @@ https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.postimg.cc/ZKSWVfcy/Picsart-26-06-29-13-25-38-719.png" group-title="Religión", DTeve TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Mision Vida TV" tvg-logo="https://i.ibb.co/dw4YGJPN/Picsart-26-02-16-13-45-21-382.webp" group-title="Religión", Misión Vida TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hosanna Vision" tvg-logo="https://i.postimg.cc/Bb98f65C/Picsart-26-06-22-13-37-40-764.png" group-title="Religión", Hosanna Vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 
 #EXTINF:-1 tvg-id="Rhema TV" tvg-logo="https://i.postimg.cc/W1Z7M5YG/Picsart-26-06-30-16-52-58-283.png" group-title="Religión", Rhema TV
 https://5e85d90130e77.streamlock.net/6006/ngrp:6006_all/playlist.m3u8
@@ -3380,10 +3388,6 @@ https://d2cse06nex8rlj.cloudfront.net/live-stream-dai/698a2b858ce046e68628214c/1
 #EXTINF:-1 tvg-id="Televida" tvg-logo="https://i.postimg.cc/9FSm17S5/Picsart-26-06-29-19-18-06-300.png" group-title="Religión", Televida
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hosanna Vision" tvg-logo="https://i.postimg.cc/Bb98f65C/Picsart-26-06-22-13-37-40-764.png" group-title="Religión", Hosanna Vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 
 #EXTINF:-1 tvg-id="La voz de Maria" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/6fa3e437-a1c7-42da-9983-7ab73b6221c1.png" group-title="Religión", La Voz de Maria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
@@ -3452,7 +3456,6 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
 
 #EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
 https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
-https://live-us.streann.tech/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NTQ5ODU1MTMsInJpZCI6IjU2ZmFjNmZhZTRiMDVkYjViM2I3Y2Q1YSIsImtleSI6ImtleTEiLCJjaWQiOiI1Y2JhMjk3YzJjZGNjZmRjNTJmZjhiYTMifQ.EtsCrgMeaHvMzSjG6ga_T4__Gt-SgKrYqeQehk_Dcjw
 
 #EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
@@ -3464,10 +3467,6 @@ https://stream.eleden.com/livemastv/ngrp:livemastv_mobile/playstream.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/269a5a7f-61fe-4ca5-9e2e-abbe14805d73.png" group-title="Religión", Canal 30 Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-
-#EXTINF:-1 tvg-id="Dios Teve" tvg-logo="https://i.postimg.cc/ZKSWVfcy/Picsart-26-06-29-13-25-38-719.png" group-title="Religión", DTeve TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xq5fsqZp/Picsart-25-11-24-04-06-07-762.webp" group-title="Religión", Almavision
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cdccfdc52ff8ba3/playlist.m3u8
