@@ -3438,6 +3438,10 @@ https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 #EXTINF:-1 tvg-id="Luz Naciente TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/443a98a0-0c38-46de-b4ca-1ce4857437ef.png" group-title="Religión", Luz Naciente TV
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/68f9ecca-98b8-4a9a-89c1-d08ee046a03a.png" group-title="Religión", TV 2000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
@@ -3478,10 +3482,6 @@ https://jstre.am/live/jsl:umb9869epxt.m3u8
 
 #EXTINF:-1 tvg-id="Hope Channel" tvg-logo="https://i.ibb.co/ds1kr8NT/Picsart-26-05-29-01-57-30-940.webp" group-title="Religión", Hope Channel
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
 #EXTINF:-1 tvg-id="Solidaria TV.ar" tvg-logo="https://i.postimg.cc/XqRbVPpK/Picsart-26-06-21-21-44-37-450.png" group-title="Religión", Solidaria TV Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
