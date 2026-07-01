@@ -3378,7 +3378,7 @@ https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 
 #EXTINF:-1 tvg-id="ALIENTOVISION.ar" tvg-logo="https://i.ibb.co/7xwQ0HBt/Picsart-25-11-23-14-54-21-425.webp" group-title="Religión", Aliento Visión
-https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/.m3u8
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GNTV Latino" tvg-logo="https://i.postimg.cc/Mpy8nnv6/Picsart-26-06-30-11-24-36-269.png" group-title="Religión", GNTV Latino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
