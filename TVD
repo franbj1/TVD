@@ -1267,6 +1267,9 @@ https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.postimg.cc/jC0d0gRZ/Picsart-26-07-02-14-33-17-836.png" group-title="TV Uruguay", Canal 11
 https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.postimg.cc/tJcYks9V/Picsart-26-07-02-19-56-31-973.png" group-title="TV Uruguay", Canal Más ♱
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+
 #EXTINF:-1 group-logo="https://i.ibb.co/hQpQ500/Picsart-26-01-11-14-29-55-860.webp"
 
 TV Paraguay
