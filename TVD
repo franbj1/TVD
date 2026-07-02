@@ -1294,6 +1294,7 @@ http://24.152.42.29:8000/play/a0bs/index.3u8
 https://rds3.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Gen TV.py" tvg-logo="https://i.ibb.co/0R6mfDXH/Picsart-26-01-12-23-21-51-440.webp" group-title="TV Paraguay", GEN TV
+https://latan.stonetv.com.br/GEN/tracks-v1a1/playlist.m3u8
 http://24.152.42.29:8000/play/a02f/index.m3u8
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?k=8e5cf3e8bfa65f1b80e27ee07aa6396892c93c3ec10269303cf8b522a4218f82&exp=1781363970
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion
