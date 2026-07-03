@@ -1248,7 +1248,7 @@ https://1275-tbx.vrioott.com/cardinaltv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
-#EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal 21
+#EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal (21)
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
 https://mcgo3.boldmss.com/CANAL_21/CANAL_21_MC.isml/manifest.mpd
 
@@ -1261,13 +1261,13 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="TCC TV.uy" tvg-logo="https://i.postimg.cc/wMrKS0dH/Picsart-26-07-02-15-31-13-454.png" group-title="TV Uruguay", Vivo TV
 https://stream.vivotv.uy/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Canal Alma.uy" tvg-logo="https://i.postimg.cc/KYmMK5d5/Picsart-26-07-02-16-01-34-131.png" group-title="TV Uruguay", Canal Alma TV
+#EXTINF:-1 tvg-id="Canal Alma.uy" tvg-logo="https://i.postimg.cc/KYmMK5d5/Picsart-26-07-02-16-01-34-131.png" group-title="TV Uruguay", Alma TV
 https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.postimg.cc/jC0d0gRZ/Picsart-26-07-02-14-33-17-836.png" group-title="TV Uruguay", Canal 11
 https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.postimg.cc/tJcYks9V/Picsart-26-07-02-19-56-31-973.png" group-title="TV Uruguay", Canal Más ♱
+#EXTINF:-1 tvg-id="Canal 30 Bethel" tvg-logo="https://i.postimg.cc/tJcYks9V/Picsart-26-07-02-19-56-31-973.png" group-title="TV Uruguay", Canal MÁS ♱
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/hQpQ500/Picsart-26-01-11-14-29-55-860.webp"
@@ -1300,7 +1300,7 @@ https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="Paravisión.py" tvg-logo="https://i.ibb.co/xK5jj85F/Picsart-26-01-21-22-16-53-353.webp" group-title="TV Paraguay", Paravisión
 https://latan.stonetv.com.br/paravision/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sur TV.py" tvg-logo="https://i.ibb.co/0p2nJFLY/Sur-TV-Itap-a-logo-2022.webp" group-title="TV Paraguay", Sur TV
+#EXTINF:-1 tvg-id="Sur TV.py" tvg-logo="https://i.ibb.co/0p2nJFLY/Sur-TV-Itap-a-logo-2022.webp" group-title="TV Paraguay", SUR TV
 https://latan.stonetv.com.br/surtv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC TV.py" tvg-logo="https://i.ibb.co/dJHybJq6/Picsart-26-01-12-21-19-02-912.webp" group-title="TV Paraguay", ABC TV
@@ -1331,7 +1331,7 @@ https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 https://latan.stonetv.com.br/elnueve/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe INT
-https://latan.stonetv.com.br/telefe/tracks-v1a1/playlist.m3u8
+https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 INT
 https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
