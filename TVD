@@ -884,7 +884,7 @@ TV Peru
 
 #EXTINF:-1 group-logo="https://i.ibb.co/GQTycjFD/Picsart-26-01-09-18-44-01-052.webp"
 
-#EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jPm68jST/Picsart-25-09-24-02-59-39-600.webp" group-title="TV Peru", Latina
+#EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/B6yYD63q/Picsart-26-07-05-12-09-48-228.png" group-title="TV Peru", Latina
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 
