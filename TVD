@@ -888,7 +888,7 @@ TV Peru
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/67DyRNQ1/Picsart-26-03-04-20-43-10-981.webp" group-title="TV Peru", América TV
+#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.postimg.cc/Z5bPs9rq/Picsart-26-07-05-15-58-22-042.png" group-title="TV Peru", América TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
