@@ -940,7 +940,7 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/16.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel ✟
+#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel✟
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
 
@@ -1003,8 +1003,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Pe Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Peru Internacional
+http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
 #EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.ibb.co/6f8hzLR/Picsart-26-01-10-22-23-31-768.webp" group-title="TV Peru", Congreso TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
