@@ -920,6 +920,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Señal Peru.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d46be086-84a6-4734-aba1-1e4a88090d58.png" group-title="TV Peru", Señal PERÚ
+https://livestream.perucast.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
