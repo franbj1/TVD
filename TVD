@@ -900,7 +900,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/Pzhvd0L0/Picsart-26-03-04-16-40-43-356.webp" group-title="TV Peru", Global TV
+#EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.postimg.cc/6TxJhSz1/Picsart-26-07-06-15-21-37-776.png" group-title="TV Peru", Global TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
 
@@ -928,7 +928,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.ibb.co/Y77qCFbW/1768086830476.webp" group-title="TV Peru", Canal IPE
+#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.ibb.co/Y77qCFbW/1768086830476.webp" group-title="TV Peru", IPE
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 
@@ -938,7 +938,7 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/16.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/bnzVL22/Picsart-26-01-10-01-28-45-738.webp" group-title="TV Peru", BHTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bhtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel✟
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
