@@ -920,7 +920,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/L3XVGJZ/Logoexitosa.webp" group-title="TV Peru", Exitosa
+#EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
 
