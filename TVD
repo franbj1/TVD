@@ -892,7 +892,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/wrCwxNxh/Picsart-26-03-05-00-13-41-140.webp" group-title="TV Peru", Willax
+#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 
