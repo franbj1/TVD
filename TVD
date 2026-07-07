@@ -3353,6 +3353,7 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 
 #EXTINF:-1 tvg-id="TV Enlace" tvg-logo="https://i.ibb.co/bMsNDCG5/Picsart-25-08-11-14-06-37-457.webp" group-title="Religión", Enlace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist_dvr.m3u8
 https://cdn.jwplayer.com/live/broadcast/Q2Yar6Fo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hG9m2V58/1781919112909.png" group-title="Religión", Cristiana TV
