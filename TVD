@@ -963,6 +963,15 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pbo.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Unitel TV.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/7580cd32-c3e1-4a27-ad03-7c5a27ce6b62.png" group-title="TV Peru", Unitel TV
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Bendición TV.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/a49f3c36-272d-46d0-be94-36a17a280152.png" group-title="TV Peru", Bendición Channel
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="TV One.pe" tvg-logo="https://i.postimg.cc/d3gWx2JD/Picsart-26-07-06-23-44-19-059.png" group-title="TV Peru", TV one
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal B.pe" tvg-logo="https://i.ibb.co/5bQJtVj/Picsart-26-01-10-15-07-36-478.webp" group-title="TV Peru", Canal B
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
