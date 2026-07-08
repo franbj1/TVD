@@ -898,7 +898,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.postimg.cc/6Q9WFvcn/Picsart-26-07-05-18-33-56-866.png" group-title="TV Peru", ATV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ATV.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ATV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.postimg.cc/6TxJhSz1/Picsart-26-07-06-15-21-37-776.png" group-title="TV Peru", Global TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -921,6 +921,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Señal Peru.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d46be086-84a6-4734-aba1-1e4a88090d58.png" group-title="TV Peru", Señal PERÚ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa
@@ -961,15 +962,18 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.ibb.co/B5xDZLym/PBO.webp" group-title="TV Peru", PBO
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pbo.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/PBO.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unitel TV.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/7580cd32-c3e1-4a27-ad03-7c5a27ce6b62.png" group-title="TV Peru", Unitel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 tvg-id="Bendición TV.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/a49f3c36-272d-46d0-be94-36a17a280152.png" group-title="TV Peru", Bendición Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="TV One.pe" tvg-logo="https://i.postimg.cc/d3gWx2JD/Picsart-26-07-06-23-44-19-059.png" group-title="TV Peru", TV one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal B.pe" tvg-logo="https://i.ibb.co/5bQJtVj/Picsart-26-01-10-15-07-36-478.webp" group-title="TV Peru", Canal B
