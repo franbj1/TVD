@@ -980,7 +980,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mega TV.pe" tvg-logo="https://i.ibb.co/sd8WNf9y/Picsart-26-01-10-15-20-56-741.webp" group-title="TV Peru", Mega TV
+#EXTINF:-1 tvg-id="Mega TV.pe" tvg-logo="https://i.postimg.cc/wBpq4QTB/Picsart-26-07-08-13-50-48-935.png" group-title="TV Peru", Mega TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 
