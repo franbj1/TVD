@@ -49,7 +49,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
-#EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.pn?raw=true" group-title="Nacional", CN23
+#EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.postimg.cc/W3FyLNRm/file-00000000ef90720eab3f01b985887d58.png" group-title="Nacional", CN23
 https://apps.playme.com.ar/dash/CH_UNIFE/playlist.mpd
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
@@ -107,7 +107,6 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="Nacional", 26 Notícias
-#EXTVLCOPT:http-user-agent="default
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="0963" tvg-name="Canal E • Argentina" tvg-logo="https://i.ibb.co/bjBjZ5bD/4a1650-27ed1317a00f4f57920363e0f6cf2eb4-mv2.webp" group-title="Nacional", Canal E Perfil
