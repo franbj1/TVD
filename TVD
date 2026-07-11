@@ -2310,7 +2310,7 @@ https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dcd89337a501ab929c01a039774089dc&key%5B%5D=e96cc7be9139a8d581b3f5eebebfc10d
 #EXTINF:-1 tvg-id="0321" tvg-name="Kidoo" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc/Kidoo.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc_C/Kidoo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
@@ -2321,12 +2321,12 @@ https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8f89c842c0cb9bfadf0a3ab7046695:715b5a449ec3a9f66e4fe4f923073956
 #EXTINF:-1 tvg-id="Clan TVE.ar" tvg-logo="https://i.ibb.co/TxhQ2Pgd/Picsart-26-04-16-13-11-27-111.webp" group-title="Infantil", Clan
-https://aca-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/CLAN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
 #EXTINF:-1 tvg-id="0330" tvg-name="Edye TV" tvg-logo="https://i.ibb.co/G47Yvybw/Picsart-25-11-21-19-37-37-040.webp" group-title="Infantil", Edye TV
-https://aca-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=6c9b3103cd519fcad556e84f918998cd&keyid%5B%5D=391ad12844fdb7c127e2c7ba23582b3b
@@ -2337,7 +2337,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
+https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://i.postimg.cc/85RJ5gvS/Picsart-26-06-21-00-39-31-291.png" group-title="Infantil", Magïc Kids
 https://kali.vdopanel.com:3909/stream/play.m3u8
@@ -2352,9 +2352,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/f41cc2c1-0409-4b71-b91b-171ec269422c.png" group-title="Infantil", Duck TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/h1YCQvfp/Picsart-26-02-04-23-55-03-500.webp" group-title="Infantil", Duck TV Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
 Cine + Series
