@@ -36,8 +36,9 @@ https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true" group-title="Nacional", NET TV
+https://apps.playme.com.ar/dash/CH_NETTV/playlist.mpd
 #EXTVLCOPT:http-user-agent="Android
-https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
+htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
 #EXTINF:-1 tvg-id="0963" tvg-name="Bravo TV • Argentina" tvg-logo="https://i.ibb.co/kVN5KV6w/Picsart-26-03-30-09-17-16-870.webp" group-title="Nacional", Bravo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -47,6 +48,9 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1 tvg-id="CARAS TV.ar" tvg-logo="https://i.ibb.co/Fky0tHc6/large-Caras-TV-2024-png-5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Nacional", Caras TV
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
+
+#EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.pn?raw=true" group-title="Nacional", CN23
+https://apps.playme.com.ar/dash/CH_UNIFE/playlist.mpd
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Android
