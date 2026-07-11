@@ -52,6 +52,9 @@ https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 #EXTINF:-1 tvg-id="CN23.ar" tvg-logo="https://i.postimg.cc/W3FyLNRm/file-00000000ef90720eab3f01b985887d58.png" group-title="Nacional", CN23
 https://apps.playme.com.ar/dash/CH_UNIFE/playlist.mpd
 
+#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" tvg-logo="https://i.postimg.cc/0yq0tS1V/Picsart-26-07-11-14-38-02-817.png" group-title="Nacional", itel TV
+https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.ibb.co/YBy8JLdq/Picsart-25-07-23-19-58-54-470.webp" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Android
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
