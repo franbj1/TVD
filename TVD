@@ -2345,6 +2345,9 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=W3bEnerG33k2026
 
+#EXTINF:-1 tvg-id="0315" tvg-name="EnerGeek Radio" tvg-logo="https://i.postimg.cc/sxLQttLq/Picsart-26-07-11-15-17-41-443.png" group-title="Infantil", ☆⋆EneerGeek Radio⋆☆
+https://backend.energeek.cl/webtv/egradioweb/video.m3u8?token=W3bEnerG33k2026
+
 #EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://i.postimg.cc/85RJ5gvS/Picsart-26-06-21-00-39-31-291.png" group-title="Infantil", Magïc Kids
 https://kali.vdopanel.com:3140/stream/play.m3u8
 
