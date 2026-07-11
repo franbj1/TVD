@@ -2288,10 +2288,10 @@ https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
 #EXTINF:-1 tvg-id="0310" tvg-name="BabyFirst TV" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
 https://nog-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/BABYTV.DGO.json
 #EXTINF:-1 tvg-id="Baby TV.uy" tvg-logo="https://i.supaimg.com/57d81e23-0140-4156-b4a2-996e721fc679.webp" group-title="Infantil", Baby TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
 https://1024-tbx.vrioott.com/babytv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2365,7 +2365,7 @@ https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/h1YCQvfp/Picsart-26-02-04-23-55-03-500.webp" group-title="Infantil", Duck TV Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linus NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
 Cine + Series
