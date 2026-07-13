@@ -960,6 +960,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.ibb.co/qMFZk7YS/Picsart-26-03-12-17-36-53-048.webp" group-title="TV Peru", USMPTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://streamusmptv.ddns.net/live/stream.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/USMPTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FUEGOTV.pe" tvg-logo="https://i.ibb.co/jkTMf06t/Picsart-26-03-10-14-57-33-375.webp" group-title="TV Peru", Fuego TV
