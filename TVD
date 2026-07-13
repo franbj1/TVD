@@ -894,10 +894,12 @@ TV Peru
 
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/B6yYD63q/Picsart-26-07-05-12-09-48-228.png" group-title="TV Peru", Latina
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.postimg.cc/Z5bPs9rq/Picsart-26-07-05-15-58-22-042.png" group-title="TV Peru", América TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax
@@ -970,7 +972,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bonitatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.ibb.co/B5xDZLym/PBO.webp" group-title="TV Peru", PBO
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/PBO.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pbo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unitel TV.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/7580cd32-c3e1-4a27-ad03-7c5a27ce6b62.png" group-title="TV Peru", Unitel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
@@ -1105,6 +1107,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIERRO A FONDO.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fierrofondo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Filka.pe" tvg-logo="https://i.ibb.co/zK1bGw4/1770900938918.webp" group-title="TV Peru", Filka TV
