@@ -1000,6 +1000,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nativa.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nativa TV" tvg-logo="https://i.postimg.cc/WbBdzkPf/Picsart-26-07-13-14-34-58-704.png" group-title="TV Peru", Nativa TV
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
 #EXTINF:-1 tvg-id="TELELIMA.pe" tvg-logo="https://i.ibb.co/6cFFDSf9/Picsart-26-03-12-13-47-53-161.webp" group-title="TV Peru", Telelima
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
