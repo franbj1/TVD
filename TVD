@@ -1419,7 +1419,7 @@ https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/7dW0LJDq/descarga.webp" group-title="TV Paraguay", Estación 40
 https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.postimg.cc/SQrJNy6d/Picsart-26-07-14-13-33-41-256.png" group-title="TV Paraguay", Republica TV
+#EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.postimg.cc/qMHVYn6T/Picsart-26-07-14-13-41-22-361.png" group-title="TV Paraguay", Republica TV
 https://copacogen.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bruno Masi.py" tvg-logo="https://i.ibb.co/Hf9wTh7r/1768407888738.webp" group-title="TV Paraguay", Bruno Masi TV
