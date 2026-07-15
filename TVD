@@ -964,7 +964,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/usmptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FUEGOTV.pe" tvg-logo="https://i.ibb.co/jkTMf06t/Picsart-26-03-10-14-57-33-375.webp" group-title="TV Peru", Fuego TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fuegotv.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BONITA TV.pe" tvg-logo="https://i.ibb.co/0jQvBGRb/1768020666485.webp" group-title="TV Peru", Bonita TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
