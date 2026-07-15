@@ -1375,6 +1375,15 @@ https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:-1 tvg-id="TV Camara.py" tvg-logo="https://i.ibb.co/b5HqHn3t/1768252588129.webp" group-title="TV Paraguay", TV Cámara
 https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
+https://nanduti.b-cdn.net/nandutiam.m3u8
+
+#EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
+https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
+
 #EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América INT
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
@@ -1416,7 +1425,7 @@ https://copacogen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.ibb.co/7dW0LJDq/descarga.webp" group-title="TV Paraguay", Estación 40
+#EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.postimg.cc/cC2v8twx/Picsart-26-07-14-21-22-04-204.png" group-title="TV Paraguay", Estación 40
 https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Republica TV.py" tvg-logo="https://i.postimg.cc/yx1NgXkw/1784064930168.png" group-title="TV Paraguay", Republica TV
@@ -1442,15 +1451,6 @@ https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="Lengua de Señas TV.py" tvg-logo="https://i.ibb.co/VYhJRsYf/1778206411338.webp" group-title="TV Paraguay", Lengua de Señas
 https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
-https://nanduti.b-cdn.net/nandutiam.m3u8
-
-#EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV
-https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
-https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telequince.py" tvg-logo="https://i.ibb.co/TqktkXn0/Picsart-26-05-22-17-30-23-920.webp" group-title="TV Paraguay", Telequince
 https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
