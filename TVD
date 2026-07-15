@@ -1376,6 +1376,7 @@ https://www.desde-paraguay.com/pro.m3u8
 https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://nanduti.b-cdn.net/nandutiam.m3u8
 
 #EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV
