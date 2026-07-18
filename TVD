@@ -1224,8 +1224,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/studiouniversal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCM.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="TV Peru", TCM https://lilac01.pontiscloud.com/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
 #EXTINF:-1 group-title="TV Peru" tvg-id="TLNovelas.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png", TL Novelas
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
@@ -1249,20 +1247,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE PREMIUM HD.pe" tvg-logo="https://i.ibb.co/cSvVDBNf/Picsart-25-10-28-16-56-41-097.webp" group-title="TV Peru", Cine Premium
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="L1.pe" tvg-logo="https://i.ibb.co/BKwY11nT/Picsart-25-10-18-17-54-49-553.webp" group-title="TV Peru", L1
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-http://38.199.6.1:17001/play/a0cz/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/373fnhg7bz6nh5vdjhl8l/L1MAX.json?rlkey=q8ltucqsx9swtcsgolb8k5ai0&st=x9rqmayn&dl=0
-#EXTINF:-1 tvg-id="L1MAX.pe" tvg-logo="https://i.ibb.co/TM7PwkQ3/Picsart-25-10-18-17-43-30-370.webp" group-title="TV Peru", L1 Max
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://live-evg6.tv360.bitel.com.pe/manifest/L1MAX/master.mpd
-
-#EXTINF:-1 tvg-id="M DEPORTES.pe" group-title="TV Peru" tvg-logo="https://i.ibb.co/Xrgzb8Ls/Picsart-25-10-18-16-46-15-595.webp", Movistar Deportes
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-http://209.45.81.84:8000/play/a03q/index.m3u8
 
 TV Uruguay
 
