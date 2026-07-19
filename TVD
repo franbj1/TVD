@@ -159,7 +159,7 @@ https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEFE NEUQUEN.ar" tvg-logo="https://i.ibb.co/pjncNsRX/Picsart-25-09-23-10-58-34-222.webp?raw=true" group-title="Nacional", Canal 7 Neuquén
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/gcwhTNR/1762294123386.webp" group-title="Nacional", Gen TV
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.postimg.cc/T36wRRs3/Picsart-26-07-19-12-14-24-011.png" group-title="Nacional", Gen TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
