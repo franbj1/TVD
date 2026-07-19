@@ -154,29 +154,38 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTVLCOPT:http-referrer=https://www.tvmia.com/
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
+#EXTINF:-1 tvg-id="Canal 7 Jujuy.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/1d039124-0a0b-4297-9101-e512c29426b0.png" group-title="Nacional", Telefe JUJUY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+
+#EXTINF:-1 tvg-id="EL SIETE.ar" tvg-logo="https://i.ibb.co/Q362pCLt/1765376203268.webp" group-title="Nacional", El Siete Mendoza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g3.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DydW4JLc/Picsart-26-07-19-12-26-56-434.png" group-title="Nacional", Canal 9 Litoral
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/c1l19-dm128-aophc-jlo6n.m3u8
+
+#EXTINF:-1 tvg-id="Telefe Santa Fe.ar" tvg-logo="https://i.ibb.co/Psy7f24f/Picsart-26-04-21-23-22-02-247.webp" group-title="Nacional", Telefe Santa Fé
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+
 #EXTINF:-1 tvg-id="TELEFE NEUQUEN.ar" tvg-logo="https://i.ibb.co/pjncNsRX/Picsart-25-09-23-10-58-34-222.webp?raw=true" group-title="Nacional", Canal 7 Neuquén
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.postimg.cc/T36wRRs3/Picsart-26-07-19-12-14-24-011.png" group-title="Nacional", Gen TV
+#EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.postimg.cc/T36wRRs3/Picsart-26-07-19-12-14-24-011.png" group-title="Nacional", GEN TV
 #EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EVENTOS PARA TODOS.ar" tvg-logo="https://i.ibb.co/KzsB3zYq/Logo-Neo-Tv-1.webp" group-title="Nacional", NEO TV
-#EXTVLCOPT:almacenamiento en caché de red=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="Canal 7 Jujuy.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/1d039124-0a0b-4297-9101-e512c29426b0.png" group-title="Nacional", Canal SIETE JUJUY
-#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
-#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
-
-#EXTINF:-1 tvg-id="EL SIETE.ar" tvg-logo="https://i.ibb.co/Q362pCLt/1765376203268.webp" group-title="Nacional", El Siete Mendoza
-https://g3.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="RTS.ar" tvg-logo="https://i.postimg.cc/h4MWJKhD/1784475066516.png" group-title="Nacional", RTS
+#EXTVLCOPT:http-user-agent="Android
+https://joy.nx-pc.edge-apps.net/hls/8hdof-e4mmh-nbj00-biga5.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
 
