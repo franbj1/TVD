@@ -69,7 +69,7 @@ https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="Nacional", TN (Todo Noticias)
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://i.ibb.co/xKC3dfc3/Picsart-25-10-17-23-19-38-898.webp" group-title="Nacional", (TN) Todo Noticias
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
@@ -79,7 +79,7 @@ https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://i.ibb.co/qMpL29Dm/1777596041906.webp" group-title="Nacional", Todo Noticias (4K)
 https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
 
-#EXTINF:-1 tvg-id="LA NACION +.ar" tvg-logo="https://i.postimg.cc/Ghjcqqkh/Picsart-26-07-01-19-02-29-720.png" group-title="Nacional", La Nación +
+#EXTINF:-1 tvg-id="LA NACION +.ar" tvg-logo="https://i.postimg.cc/SNgq8z7P/Picsart-26-07-20-13-32-39-928.png" group-title="Nacional", (LN+) La Nación +
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
