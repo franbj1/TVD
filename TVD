@@ -88,13 +88,11 @@ https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8171ec5c2b04833cfc81cf2a7100753d&keyid%5B%5D=8fefbdadc7844e46952fb0320c77692d
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 
-#EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://i.ibb.co/FkgrNRLC/1765116462550.webp" group-title="Nacional", Argentina 12
+#EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://i.postimg.cc/TYRXcyg6/1784581521394.png" group-title="Nacional", ARI12
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
@@ -102,7 +100,9 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://i.ibb.co/pryYwDwS/2048px-Canal-26-logo-2022-svg.png" group-title="Nacional", 26 Notícias
+#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://i.postimg.cc/DyWSnYpb/Canal-26-logo-(2022)-svg.png" group-title="Nacional", 26 Notícias
+#EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
