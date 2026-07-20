@@ -2,7 +2,7 @@
 
 Televisión Nacional
 
-#EXTINF:-1 group-logo="https://i.ibb.co/qF0SQycM/Picsart-26-03-17-15-30-36-662.webp"
+#EXTINF:-1 group-logo="https://i.postimg.cc/RhQbhXD6/Picsart-26-07-20-00-07-13-069.png"
 
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.postimg.cc/4xQrLNfj/Picsart-26-07-19-22-51-57-222.png" group-title="Nacional", Televisión Pública
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
@@ -11,7 +11,7 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 #EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/Q7Jz7S4R/Picsart-26-04-20-15-55-48-068.webp" group-title="Nacional", El Nueve
+#EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/Q7Jz7S4R/Picsart-26-04-20-15-55-48-068.webp" group-title="Nacional", El nueve
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
