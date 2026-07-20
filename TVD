@@ -143,6 +143,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #EXTINF:-1 tvg-id="YouTube.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/447dbc94-3fee-4f16-87f8-2857337bf1e7.png" group-title="Nacional", Vale 97.5
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
 https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
 
