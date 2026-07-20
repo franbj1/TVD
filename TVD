@@ -5,7 +5,7 @@ Televisión Nacional
 #EXTINF:-1 group-logo="https://i.postimg.cc/RhQbhXD6/Picsart-26-07-20-00-07-13-069.png"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=https://oikoapp.xyz/selvanegra/results.php?key=86c61c4dd0abd13f5c115cbf2176673e&keyid=0259a1760a8b123dedc1b9f008463e61
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=86c61c4dd0abd13f5c115cbf2176673e&keyid=0259a1760a8b123dedc1b9f008463e61
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.postimg.cc/4xQrLNfj/Picsart-26-07-19-22-51-57-222.png" group-title="Nacional", Televisión Pública
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(tvpublica_arg)/variant.mpd
 
