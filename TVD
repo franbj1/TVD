@@ -83,7 +83,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevi
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="Nacional", A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/yx10LX7t/Picsart-26-07-20-17-53-24-389.png" group-title="Nacional", A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
