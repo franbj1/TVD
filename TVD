@@ -145,7 +145,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-id="YouTube.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/447dbc94-3fee-4f16-87f8-2857337bf1e7.png" group-title="Nacional", Vale 97.5
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
-https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
+https://cdn.sensa.com.ar/output/SMT4/R1D/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RADIO LA100.ar" tvg-logo="https://i.postimg.cc/2jVMwDHn/Picsart-26-06-24-00-26-12-171.png" group-title="Nacional", (LA 100) 99.9 y vos
 #EXTVLCOPT:http-referrer=https://la100.cienradios.com/hd/
