@@ -1300,6 +1300,9 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVS HD.py" tvg-logo="https://i.postimg.cc/3w0n7j4j/Picsart-26-07-21-13-57-18-110.png" group-title="TV Paraguay", TVS
+https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8
+
 #EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América INT
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
