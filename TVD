@@ -18,7 +18,7 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=b28bf4d4eec81cb96e6ca9a0c022dcd5&keyid=675cb5adcd788bdee4af50518b041626
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/bYFYggC9/Picsart-26-07-19-23-08-25-226.png" group-title="Nacional", Telefe
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(telefe_arg)/variant.mpd
 
 #EXTVLCOPT:http-user-agent="Android
