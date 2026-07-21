@@ -1284,7 +1284,11 @@ https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://i.ibb.co/rRy5t2kV/Picsart-26-05-07-02-43-11-312.webp" group-title="TV Paraguay", Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
-#EXTINF:-1 tvg-id="Canal PRO.py" tvg-logo="https://i.ibb.co/8Dmty2NP/Picsart-26-01-03-20-58-55-988.webp" group-title="TV Paraguay", Canal PRO
+#EXTINF:-1 tvg-id="TVS HD.py" tvg-logo="https://i.postimg.cc/3w0n7j4j/Picsart-26-07-21-13-57-18-110.png" group-title="TV Paraguay", TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HTV.py" tvg-logo="https://i.ibb.co/8Dmty2NP/Picsart-26-01-03-20-58-55-988.webp" group-title="TV Paraguay", Canal PRO
 https://www.desde-paraguay.com/pro.m3u8
 
 #EXTINF:-1 tvg-id="TV Camara.py" tvg-logo="https://i.ibb.co/b5HqHn3t/1768252588129.webp" group-title="TV Paraguay", TV Cámara
@@ -1300,10 +1304,7 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVS HD.py" tvg-logo="https://i.postimg.cc/3w0n7j4j/Picsart-26-07-21-13-57-18-110.png" group-title="TV Paraguay", TVS
-https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América INT
+#EXTINF:-1 tvg-id="AMÃ‰RICA TELEVISION.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América INT
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://i.postimg.cc/VNm3dJ71/Picsart-26-06-19-13-56-27-603.png" group-title="TV Paraguay", El Nueve INT
