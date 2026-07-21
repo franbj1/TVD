@@ -1247,7 +1247,6 @@ https://latan.stonetv.com.br/snt/tracks-v1a1/playlist.m3u8
 https://copacogen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.postimg.cc/85wggHtr/Picsart-26-06-16-20-50-56-258.png" group-title="TV Paraguay", Trece
-http://45.170.130.224:8000/play/a02m/index.m3u8
 https://latan.stonetv.com.br/trece/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Paraguay", Unicanal
@@ -1256,7 +1255,6 @@ https://rds3.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="Gen TV.py" tvg-logo="https://i.ibb.co/0R6mfDXH/Picsart-26-01-12-23-21-51-440.webp" group-title="TV Paraguay", GEN TV
 https://latan.stonetv.com.br/GEN/tracks-v1a1/playlist.m3u8
-http://24.152.42.29:8000/play/a02f/index.m3u8
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?k=8e5cf3e8bfa65f1b80e27ee07aa6396892c93c3ec10269303cf8b522a4218f82&exp=1781363970
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion
 
