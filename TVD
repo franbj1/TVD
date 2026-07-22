@@ -2155,23 +2155,22 @@ Infantil
 #EXTINF:-1 group-logo="https://i.postimg.cc/zvsn9Rd4/Picsart-26-03-07-23-23-50-756.png"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/CARTOONNETWORK.DGO.json
+#KODIPROP:inputstream.adaptive.license_key=0a8e88e5b5b3eef72f2cb4aae4462f47:8cf6200e54c309754ed4e99cab5874f6
 #EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.supaimg.com/9b9d033b-1451-4b38-80e1-5d9df773155e.png?raw=true" group-title="Infantil", Cartoon Network
 #EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
-https://1037-tbx.vrioott.com/cartoonnetwork/manifest.mpd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/CARTOONITO.DGO.json
+#KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
 #EXTINF:-1 tvg-id="Cartoonito HD.uy" tvg-logo="https://i.ibb.co/jZwhPXx8/Cartoonito-logo-2021-alternate.webp" group-title="Infantil", Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://1026-tbx.vrioott.com/cartoonitola/manifest.mpd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4d8b3220ac30e5c8148d4bcc225efa5a&key%5B%5D=eb6918dfe117fc405396a9c3986a0450
+#KODIPROP:inputstream.adaptive.license_key=a57ec54090c0b450f2e2ef90de4013f9:a49da89c878182c99b9d2e9282d5aa3a
 #EXTINF:-1 tvg-id="Discovery Kids.ar" tvg-logo="https://i.ibb.co/wHtbFpy/1176px-Discovery-Kids-2021-2-D-Gradient-svg.png" group-title="Infantil", Discovery Kids
 #EXTVLCOPT:http-user-agent=Android
-https://el4live1.boldmss.com/DKIDS/DKIDS_EL4.isml/manifest.mpd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(discoverykids)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=70d91b14935a3599f02e5dab71ef21dc&key%5B%5D=803e9152e9daf717b772399a97802076
@@ -2198,21 +2197,19 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://el4live1.boldmss.com/DREAMWORKS/DREAMWORKS_EL4.isml/manifest
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/NICKELODEON.DGO.json
+#KODIPROP:inputstream.adaptive.license_key=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
 #EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://i.ibb.co/BHMw5CQm/Nickelodeon-Splat-2023-Sin-Fondo.webp" group-title="Infantil", Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://1175-tbx.vrioott.com/nickelodeon/manifest.mpd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/NICKJR.DGO.json
+#KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
 #EXTINF:-1 tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png" group-title="Infantil", Nick Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://1173-tbx.vrioott.com/nickjrla/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; https://dish-arg.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=320e1cb23cf15aa8f41a9edd52baa655&key%5B%5D=63c5e57ae2a2bc7dab3c67cac1a6c956
+#KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
 #EXTINF:-1 tvg-id="0310" tvg-name="BabyFirst TV" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
-https://nog-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d56a12851e)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/BABYTV.DGO.json
 #EXTINF:-1 tvg-id="Baby TV.uy" tvg-logo="https://i.supaimg.com/57d81e23-0140-4156-b4a2-996e721fc679.webp" group-title="Infantil", Baby TV
