@@ -2207,7 +2207,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.m
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
+#KODIPROP:inputstream.adaptive.license_key=82d882f3aada7d99b71695d0cb418538:ce445596de9e7a97f62515559cd67bdb
 #EXTINF:-1 tvg-id="0310" tvg-name="BabyFirst TV" tvg-logo="https://i.ibb.co/5J9Xdjg/Picsart-25-11-21-20-00-31-462.webp" group-title="Infantil", BabyFirst
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d56a12851e)/manifest.mpd
 
