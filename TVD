@@ -2204,7 +2204,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
 #EXTINF:-1 tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png" group-title="Infantil", Nick Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; https://dish-arg.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
@@ -2234,12 +2234,6 @@ https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 #EXTINF:-1 tvg-id="0312" tvg-name="Pakapaka" tvg-logo="https://i.supaimg.com/4671ec28-0b91-44ea-b3ec-6e8d253a81cf.png?raw-true" group-title="Infantil", Paka Paka
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dcd89337a501ab929c01a039774089dc&key%5B%5D=e96cc7be9139a8d581b3f5eebebfc10d
-#EXTINF:-1 tvg-id="0321" tvg-name="Kidoo" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="Infantil", Kidoo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_cenc_C/Kidoo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
@@ -2279,9 +2273,6 @@ https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 
 #EXTINF:-1 tvg-id="0309" tvg-name="Laika Magica" tvg-logo="https://i.postimg.cc/fyyDKG5q/Picsart-26-06-16-03-31-10-925.png" group-title="Infantil", Retro Magïco
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Laika Channel" tvg-logo="https://i.postimg.cc/brKwH6k3/Picsart-26-06-21-01-09-28-030.png" group-title="Infantil", Laika Channel
-https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/f41cc2c1-0409-4b71-b91b-171ec269422c.png" group-title="Infantil", Duck TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
