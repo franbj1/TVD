@@ -1837,6 +1837,26 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 https://bvclive2.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_BVC.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=895fe3b51a531a69afcef8eb1417aed5&keyid=8113ca483fed6872a8db8c1e32b48cb2
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_arg)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=279d9fb593bf5b8a4b4350171f6139fa&keyid=fd71a595f5b61225be82193536bd891b
+#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn2_arg)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=87e203fb99dded387fd481126e7c5178&keyid=56cffe75198fa81600c625883f10ede1
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn3_arg)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=572883af19d1589aec3d40af47dfd179&keyid=50d56945c41f3c8fc0154c414aa2f842
+#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn4_arg)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=c618d32c56cdc6cad8330eb98507ca3f&keyid=96b67fa09140329a89b7a1ead134eda3
 #EXTINF:-1 tvg-id="UNIVERSO" tvg-logo="https://i.postimg.cc/3Jf0hPw1/Picsart-26-06-18-19-35-24-871.png" tps://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo Este
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
