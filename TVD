@@ -1207,6 +1207,10 @@ https://mcgo3.boldmss.com/CANAL_5/CANAL_5_MC.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.postimg.cc/qqBryNpZ/Picsart-26-07-02-16-08-21-962.png" group-title="TV Uruguay", TV Ciudad
 https://mcgo3.boldmss.com/TVCIUDAD_HD/TVCIUDAD_HD_MC.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="UCL.pe" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", UCL Televisión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
 #EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal (21)
@@ -1219,10 +1223,6 @@ https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u
 #EXTINF:-1 tvg-id="Florida Televisora Color HD.uy" tvg-logo="https://i.postimg.cc/SQZsNdxM/1783012663087.png" group-title="TV Uruguay", TV Florida
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hostingservicios.info/hls/tv-florida.m3u8
-
-#EXTINF:-1 tvg-id="UCL.pe" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", Canal U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-id="TCC TV.uy" tvg-logo="https://i.postimg.cc/wMrKS0dH/Picsart-26-07-02-15-31-13-454.png" group-title="TV Uruguay", Vivo TV
 https://stream.vivotv.uy/hls/stream.m3u8
