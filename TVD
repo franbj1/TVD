@@ -1810,6 +1810,7 @@ Deportes
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=de0cb81e4146240f61281db5bf0d0ade&keyid=f7d41f94c41a5943cd836a52a59b7ebc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.bvcplayer.com
@@ -1819,6 +1820,7 @@ https://bvclive2.boldmss.com/TNT_SPORTS/TNT_SPORTS.isml/manifest?token=JNHV9QGG2
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=bbccac68c01477eed726fb1c11d54560:c29b4e05389dc0493aa29d0debbe5a76
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(espnpr_arg)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4player.com
