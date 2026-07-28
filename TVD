@@ -1852,6 +1852,21 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn3_arg)/manifest.mpd
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn4_arg)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d17fdbc7f72e68adf298b71d935864ba&keyid=ce5f0570b7f89e2efe19c7bf3c77dae7
+#EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.postimg.cc/HkBqqjhY/Picsart-26-07-28-17-07-26-136.png" group-title="Deportes", FOX Sports
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=3014cf17de69d8f916a83cbf6b4aec94&keyid=922eaebf57397ebf2656cbf71ae4775f
+#EXTINF:-1 tvg-id="FOX Sports 2.uy" tvg-logo="https://i.postimg.cc/RCpnZTJ6/Picsart-26-07-28-17-11-28-758.png" group-title="Deportes", FOX Sports 2
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports2_arg)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d7c1e6b0d11ba5051096bb34779c6efb&keyid=ee0ff8714c8f96a448eae5c9b796c889
+#EXTINF:-1 tvg-id="FOX Sports 3.uy" tvg-logo="https://i.postimg.cc/LXYhqc1Y/Picsart-26-07-28-17-13-36-246.png" group-title="Deportes", FOX Sports 3
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports3_arg)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=c618d32c56cdc6cad8330eb98507ca3f&keyid=96b67fa09140329a89b7a1ead134eda3
 #EXTINF:-1 tvg-id="UNIVERSO" tvg-logo="https://i.postimg.cc/3Jf0hPw1/Picsart-26-06-18-19-35-24-871.png" tps://i.ibb.co/WW8Ljdkx/Picsart-25-10-18-21-31-54-056.webp" group-title="Deportes", Universo Este
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/133.0.0.0 Safari/537.36
