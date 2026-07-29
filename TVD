@@ -1154,6 +1154,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="universal.pe" tvg-logo="https://i.postimg.cc/d1kQmbt1/Picsart-26-07-29-16-22-44-515.png" group-title="TV Peru", Universal
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universal/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png" group-title="TV Peru", Studio Universal
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/studiouniversal/playlist.m3u8
