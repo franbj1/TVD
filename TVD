@@ -982,7 +982,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.postimg.cc/FKyqr251/Picsart-26-07-08-14-09-20-937.png" group-title="TV Peru", JN19 Televisión
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/jn19/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/jn19.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/Sw7V8zX4/Picsart-26-03-04-14-45-29-280.webp" group-title="TV Peru", Sol TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
@@ -993,14 +993,14 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
 #EXTINF:-1 tvg-id="0852" tvg-name="FMH Movies" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies.
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/FMH_Movies.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0853" tvg-name="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/20.m3u8
 
 #EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/FMH_Kids.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-kids.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Anima Kids.pe" tvg-logo="https://i.ibb.co/4RmMzpk7/1770646894837.webp" group-title="TV Peru", Anima Kids
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
