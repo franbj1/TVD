@@ -1153,10 +1153,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universal/playlist.m3u8
 #EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png" group-title="TV Peru", Studio Universal
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/studiouniversal/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Peru" tvg-id="TLNovelas.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png", TL Novelas
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://i.postimg.cc/gkQLQtRX/Tnt-tv-romania.png" group-title="TV Peru", TNT
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1169,6 +1165,22 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://i.ibb.co/Q7mNmdv8/Picsart-25-10-28-14-13-16-179.webp" group-title="TV Peru", Golden
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLNovelas.pe" tvg-logo="https://i.postimg.cc/rFRpM9d7/Picsart-26-07-31-12-21-10-904.png" group-title="TV Peru", TL Novelas
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Novelas.pe" tvg-logo="https://i.postimg.cc/mrzjSJhn/TNT-Novelas-2025.webp" group-title="TV Peru", TNT Novelas
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tntnovelas.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series.pe" tvg-logo="https://i.postimg.cc/SR5HgCkW/TNT-Series-2025-svg.png" group-title="TV Peru", TNT Series
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntseries.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.pe" tvg-logo="https://i.postimg.cc/ncF1WCCT/2085348.png" group-title="TV Peru", Pasiones
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/pasiones/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINE FAMILIAR.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/800/542/0/0/38183247075481.png" group-title="TV Peru", Cine Familiar
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
