@@ -999,7 +999,7 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/20.m3u8
 
 #EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-kids.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Anima Kids.pe" tvg-logo="https://i.ibb.co/4RmMzpk7/1770646894837.webp" group-title="TV Peru", Anima Kids
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
