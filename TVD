@@ -2427,37 +2427,11 @@ HBO + Universal
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L8Qpvn7Y/Nuevo-proyecto-5-8594A15.png"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://i.supaimg.com/a79c6c90-de9a-478d-8a82-184fe96cf4bc.png?raw=true" group-title="HBO + Universal", HBO
-http://147.78.1.28/xview/hbo_west_hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBO2.DGO.json
-#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://i.supaimg.com/b0de5144-8b1e-45e2-bf13-845e62363759.png?raw=true" group-title="HBO + Universal", HBO 2 https://1137-tbx.vrioott.com/hbo2la/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=325fea0b25600fd26bfd497a03a52599&keyid=af3d986f5d7f4bd3b672822514f400a3
-#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.supaimg.com/a72bbd7d-f657-43f0-8bec-e8046efd100d.png?raw=true" group-title="HBO + Universal", HBO Plus http://147.78.1.28/xview/hbo_plus_hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=325fea0b25600fd26bfd497a03a52599&keyid=af3d986f5d7f4bd3b672822514f400a3
-#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://i.supaimg.com/b9ca9d5f-b651-4d35-bdb6-be60d4cd78ab.png?raw=true" group-title="HBO + Universal", HBO Family http://147.78.1.28/xview/hbo_family_hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
-#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://i.supaimg.com/357f70bb-98db-4dde-be39-ef3e117e41ad.png?raw=true" group-title="HBO + Universal", HBO Mundi http://147.78.1.28/xview/hbo_mundi_hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://i.supaimg.com/e313afb8-f818-415a-8474-1f30948c14f5.png?raw=true" group-title="HBO + Universal", HBO Signature http://147.78.1.28/xview/hbo_signature_hd.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://i.supaimg.com/45163b90-d354-4245-bc80-6c6e352a81c1.png?raw=true" group-title="HBO + Universal", HBO Pop http://147.78.1.28/xview/hbo_pop_hd.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://i.supaimg.com/fe9b6d39-bb48-4f99-a0cb-b0cdedc6201e.png?raw=true" group-title="HBO + Universal", HBO Xtreme http://147.78.1.28/xview/hbo_xtreme_hd.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8cdb36741f8a5e44076eebd33ac9d42d&keyid%5B%5D=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="HBO + Universal", HBO mega
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
+#EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="HBO + Universal", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/hbo_west_hd/default/index.mpd
+http://147.78.1.28/xview/hbo_west_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HBO2.DGO.json
@@ -2466,40 +2440,40 @@ https://mega.z5cable.com/bpk-tv/hbo_west_hd/default/index.mpd
 https://1137-tbx.vrioott.com/hbo2la/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=325fea0b25600fd26bfd497a03a52599&keyid%5B%5D=af3d986f5d7f4bd3b672822514f400a3
-#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.ibb.co/LXr6XqL3/Picsart-25-08-07-10-23-54-566.webp" group-title="HBO + Universal", HBO Plus mega
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=325fea0b25600fd26bfd497a03a52599&keyid=af3d986f5d7f4bd3b672822514f400a3
+#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://i.ibb.co/LXr6XqL3/Picsart-25-08-07-10-23-54-566.webp" group-title="HBO + Universal", HBO Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/hbo_plus_hd/default/index.mpd
+http://147.78.1.28/xview/hbo_plus_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=325fea0b25600fd26bfd497a03a52599&keyid%5B%5D=af3d986f5d7f4bd3b672822514f400a3
-#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="HBO + Universal", HBO Family mega
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=325fea0b25600fd26bfd497a03a52599&keyid=af3d986f5d7f4bd3b672822514f400a3
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="HBO + Universal", HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/hbo_family_hd/default/index.mpd
+http://147.78.1.28/xview/hbo_family_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8cdb36741f8a5e44076eebd33ac9d42d&keyid%5B%5D=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="HBO + Universal", HBO Mundi mega
+#KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
+#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="HBO + Universal", HBO Mundi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/hbo_mundi_hd/default/index.mpd
+http://147.78.1.28/xview/hbo_mundi_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8cdb36741f8a5e44076eebd33ac9d42d&keyid%5B%5D=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://i.ibb.co/0jy8QdWH/Picsart-25-08-07-10-49-29-418.webp" group-title="HBO + Universal", HBO Pop mega
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
+#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://i.ibb.co/0jy8QdWH/Picsart-25-08-07-10-49-29-418.webp" group-title="HBO + Universal", HBO Pop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/hbo_pop_hd/default/index.mpd
+http://147.78.1.28/xview/hbo_pop_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8cdb36741f8a5e44076eebd33ac9d42d&keyid%5B%5D=55d247f1e7c045c8b81b913a3d338de6
-#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" group-title="HBO + Universal", HBO Signature mega
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
+#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" group-title="HBO + Universal", HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/hbo_signature_hd/default/index.mpd
+http://147.78.1.28/xview/hbo_signature_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8cdb36741f8a5e44076eebd33ac9d42d&keyid%5B%5D=55d247f1e7c045c8b81b913a3d338de6
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=8cdb36741f8a5e44076eebd33ac9d42d&keyid=55d247f1e7c045c8b81b913a3d338de6
 #EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png" group-title="HBO + Universal", HBO Xtreme mega
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://mega.z5cable.com/bpk-tv/hbo_xtreme_hd/default/index.mpd
+http://147.78.1.28/xview/hbo_xtreme_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/UNIVERSALCINEMA.DGO.json
