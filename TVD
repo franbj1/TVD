@@ -816,12 +816,10 @@ TV Peru
 
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.postimg.cc/B6yYD63q/Picsart-26-07-05-12-09-48-228.png" group-title="TV Peru", Latina
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.postimg.cc/Z5bPs9rq/Picsart-26-07-05-15-58-22-042.png" group-title="TV Peru", América TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax
