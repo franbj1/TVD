@@ -1398,7 +1398,7 @@ https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV
-https://copacogen.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
 
 #EXTINF:-1 tvg-id="Next.py" tvg-logo="https://i.ibb.co/zWsqMKdt/Picsart-26-05-05-00-36-44-618.webp" group-title="TV Paraguay", N (Next)
 https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8
