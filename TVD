@@ -51,6 +51,9 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 
+#EXTINF:-1 tvg-id="TLNovelas.pe" tvg-logo="https://i.postimg.cc/8cscK1Pz/Picsart-26-08-06-07-46-54-733.png" group-title="Nacional", One TV SJ
+https://videostream.shockmedia.com.ar/hls/ontvsj/ontvsj.m3u8
+
 #EXTINF:-1 tvg-id="0963" tvg-name="Bravo TV • Argentina" tvg-logo="https://i.postimg.cc/vH2NsYbN/Picsart-26-08-03-03-28-44-173.png" group-title="Nacional", Rock & Pop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
