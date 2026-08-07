@@ -1106,6 +1106,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinecanal.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/cinemax.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Classic.pe" tvg-logo="https://i.postimg.cc/VLt8nH57/Picsart-26-08-07-16-15-40-804.png" group-title="TV Peru", Classic+
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/classic.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Clover.pe" tvg-logo="https://i.postimg.cc/76SN53LL/Picsart-26-07-28-23-20-15-663.png" group-title="TV Peru", Clover Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/usa.stream/playlist.m3u8
