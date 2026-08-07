@@ -871,6 +871,17 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/16.m3u8
 
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Peru Internacional
+http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.postimg.cc/28t1N3xK/Picsart-26-07-08-01-34-21-571.png" group-title="TV Peru", BHTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
@@ -946,17 +957,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cosmotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Peru Internacional
-http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
 #EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/qqQyqFND/1783585288206.png" group-title="TV Peru", Nacional TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1071,19 +1071,19 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telecentro.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="TV Peru", Coco TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://mlb.essastream.com:8081/canalcocotv/index.m3u8
 
 #EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="TV Peru", Crom TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="TV Peru", Net Channel
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
-#EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="TV Peru", WOW Movies
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Nexxo TV" tvg-logo="https://i.ibb.co/W4hgzW1h/1764397326517.webp" group-title="TV Peru", Nexxo TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/5WY3ydKK/Picsart-25-11-29-03-16-56-757.webp" group-title="TV Peru", Retro TV
@@ -1091,6 +1091,7 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="TV Peru", Retro Cine TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Wvqrpmft/Picsart-26-05-10-12-19-55-758.webp" group-title="TV Peru", AXN
@@ -1108,6 +1109,10 @@ https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Clover.pe" tvg-logo="https://i.postimg.cc/76SN53LL/Picsart-26-07-28-23-20-15-663.png" group-title="TV Peru", Clover Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/usa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="TV Peru", WOW Movies
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony.pe" tvg-logo="https://i.postimg.cc/B6kRFCpZ/Picsart-26-07-29-19-16-46-910.png" group-title="TV Peru", Sony Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
