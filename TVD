@@ -835,6 +835,14 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.postimg.cc/wvmWW8zn/Picsart-26-08-06-22-59-24-225.png" group-title="TV Peru", ATV Sur
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.postimg.cc/Z5LyWgJx/Picsart-26-08-07-05-38-29-920.png" group-title="TV Peru", ATV +
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.postimg.cc/6TxJhSz1/Picsart-26-07-06-15-21-37-776.png" group-title="TV Peru", Global TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
@@ -846,18 +854,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.postimg.cc/wvmWW8zn/Picsart-26-08-06-22-59-24-225.png" group-title="TV Peru", ATV Sur
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/WZzkdgs/Picsart-25-12-29-23-08-54-647.webp" group-title="TV Peru", ATV +
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Señal Peru.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d46be086-84a6-4734-aba1-1e4a88090d58.png" group-title="TV Peru", Señal PERÚ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -985,6 +981,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/jn19.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/Sw7V8zX4/Picsart-26-03-04-14-45-29-280.webp" group-title="TV Peru", Sol TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Señal Peru.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d46be086-84a6-4734-aba1-1e4a88090d58.png" group-title="TV Peru", Señal PERÚ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="CNC.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/c7455d75-3cb2-4b1c-a977-d606b9b04789.png" group-title="TV Peru", CNC TV
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
