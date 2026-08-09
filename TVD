@@ -3159,10 +3159,6 @@ https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Daystar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/b5434642-4bee-4390-a9b6-7ce271940854.png" group-title="Religión", Dayst☆r English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://live-mcl.cdn01.net/web/48vy43564/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
 #EXTINF:-1 tvg-id="EWTN.ar" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/47b40df8-6ad8-452b-a4f0-5b7f94fc3465.png" group-title="Religión", EWTN Latam
@@ -3194,7 +3190,7 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.postimg.cc/wM5LKV7F/Picsart-26-06-20-17-56-16-558.png" group-title="Religión", Logos TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+https://streamer2.streamhost.org/salive/logosH/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Faro de Santidad" tvg-logo="https://i.ibb.co/xKN70QYg/Picsart-26-02-16-13-54-15-605.webp" group-title="Religión", Faro de Santidad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
