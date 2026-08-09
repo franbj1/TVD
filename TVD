@@ -865,7 +865,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA TELE PERU.pe" tvg-logo="https://i.ibb.co/WvR9GL5J/Picsart-26-01-09-18-33-06-616.webp" group-title="TV Peru", La Tele
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/16.m3u8
+http://190.93.224.42/LA-TELE/index.m3u8
 
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
