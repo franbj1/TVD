@@ -878,7 +878,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Peru Internacional
 http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
-#EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/qqQyqFND/1783585288206.png" group-title="TV Peru", Nacional TV
+#EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/L6FSrMQG/Picsart-26-08-11-15-38-49-993.png" group-title="TV Peru", Nacional TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nacionaltv_peru.stream/playlist.m3u8
 
@@ -970,7 +970,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.postimg.cc/FKyqr251/Picsart-26-07-08-14-09-20-937.png" group-title="TV Peru", JN19 Televisión
+#EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.postimg.cc/FKyqr251/Picsart-26-07-08-14-09-20-937.png" group-title="TV Peru", JN19 Telejuan
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/jn19.stream/playlist.m3u8
 
