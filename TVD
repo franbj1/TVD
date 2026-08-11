@@ -878,6 +878,18 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRbhVfLN/Picsart-26-03-11-02-40-02-002.webp" group-title="TV Peru", TV Peru Internacional
 http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 
+#EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/qqQyqFND/1783585288206.png" group-title="TV Peru", Nacional TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nacionaltv_peru.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.postimg.cc/X7bBjmDr/Picsart-26-08-11-15-21-19-498.png" group-title="TV Peru", Congreso TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/canalelcongreso.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JUSTICIA.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.postimg.cc/28t1N3xK/Picsart-26-07-08-01-34-21-571.png" group-title="TV Peru", BHTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
@@ -953,18 +965,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cosmotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/qqQyqFND/1783585288206.png" group-title="TV Peru", Nacional TV
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nacionaltv_peru.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.ibb.co/6f8hzLR/Picsart-26-01-10-22-23-31-768.webp" group-title="TV Peru", Congreso TV
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/canalelcongreso.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JUSTICIA.pe" tvg-logo="https://i.ibb.co/PGF7GVXX/Picsart-26-01-10-22-29-58-598.webp" group-title="TV Peru", Justicia TV
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/justicia.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.postimg.cc/mZccwJW5/Picsart-26-08-06-19-51-00-111.png" group-title="TV Peru", Conecta2 TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
