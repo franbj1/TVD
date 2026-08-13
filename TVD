@@ -934,7 +934,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mega TV Jaen.pe" tvg-logo="https://i.postimg.cc/FsPtrYh1/Picsart-26-08-13-02-06-03-036.png" group-title="TV Peru", Mega TV Jaen
+#EXTINF:-1 tvg-id="Mega TV Jaen.pe" tvg-logo="https://i.postimg.cc/xCNPK6ZM/Picsart-26-08-13-16-00-16-829.png" group-title="TV Peru", Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 #EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa
@@ -1014,7 +1014,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/anima_kids/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Peques TV.pe" tvg-logo="https://i.ibb.co/cXZZxPDg/1768942902878.webp" group-title="TV Peru", Peques TV
+#EXTINF:-1 tvg-id="Peques TV.pe" tvg-logo="https://i.ibb.co/cXZZxPDg/1768942902878.webp" group-title="TV Peru", Peque TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Pequetv/playlist.m3u8
 
