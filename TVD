@@ -934,6 +934,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mega TV Jaen.pe" tvg-logo="https://i.postimg.cc/FsPtrYh1/Picsart-26-08-13-02-06-03-036.png" group-title="TV Peru", Mega TV Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
 #EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
@@ -977,10 +980,7 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="CRTV.pe" tvg-logo="https://i.postimg.cc/FHDKQrB2/Picsart-26-08-13-01-57-27-366.png" group-title="TV Peru", CRTV
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="Mega TV Jaen.pe" tvg-logo="https://i.postimg.cc/FsPtrYh1/Picsart-26-08-13-02-06-03-036.png" group-title="TV Peru", Mega TV Jaen
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-
-#EXTINF:-1 tvg-id="Visión Sur TV.pe" tvg-logo="https://i.postimg.cc/VNnHCvc8/Picsart-26-08-13-02-09-55-511.png" group-title="TV Peru", Visión Sur Televisión
+#EXTINF:-1 tvg-id="Visión Sur TV.pe" tvg-logo="https://i.postimg.cc/d1Tr5H9r/Picsart-26-08-13-02-23-34-141.png" group-title="TV Peru", Visión Sur Televisión
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
