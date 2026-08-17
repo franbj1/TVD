@@ -2371,9 +2371,6 @@ https://latan.stonetv.com.br/cine-hispano/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/cine-premium/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Laika Channel" tvg-logo="https://i.postimg.cc/gk9ktk8Q/1782229602808.png" group-title="Cine + Series", MX Prime
-http://190.102.247.126:8000/play/a010/index.m3u8
-
 #EXTINF:-1 tvg-id="EUROCHANNEL" tvg-logo="https://i.ibb.co/Wp3xqqCy/EURO-LOGO-FINALE.webp" group-title="Cine + Series", Euro Channel
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2418,7 +2415,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ultra TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/760f5a03-7e02-4581-b9bd-9475072bfee2.jpg" group-title="Cine TV", Ultra TV
+#EXTINF:-1 tvg-id="Ultra TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/341ade12-7e1e-4e0b-a071-d7fa45f40c0d.png" group-title="Cine TV", Ultra TV
 https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 
 #EXTINF:-1 tvg-id="Urbana TV.pe" tvg-logo="https://i.postimg.cc/J0gVSndW/1786980930102.png" group-title="Cine TV", Urbana TV
