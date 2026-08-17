@@ -1220,6 +1220,9 @@ https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://hostingservicios.info/hls/tv-florida.m3u8
 
+#EXTINF:-1 tvg-id="Del este TV" tvg-logo="https://i.postimg.cc/8czFM3Bx/Picsart-26-08-17-17-41-53-935.png" group-title="TV Uruguay", Del Este TV
+https://183.bozztv.com/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/chunks.m3u8
+
 #EXTINF:-1 tvg-id="TCC TV.uy" tvg-logo="https://i.postimg.cc/wMrKS0dH/Picsart-26-07-02-15-31-13-454.png" group-title="TV Uruguay", Vivo TV
 https://stream.vivotv.uy/hls/stream.m3u8
 
