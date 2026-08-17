@@ -2436,6 +2436,8 @@ Cine TV
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d0Y8Yjzm/unnamed-(3).png"
 
+#EXTINF:-1 tvg-id="Urbana TV.pe" tvg-logo="https://i.postimg.cc/J0gVSndW/1786980930102.png" group-title="Cine TV", Urbana TV
+https://tv.sistemasandinos.org/urbanatv/index.m3u8
 
 
 HBO + Universal
