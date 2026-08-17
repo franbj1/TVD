@@ -1087,30 +1087,6 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telecentro.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="TV Peru", Coco TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://mlb.essastream.com:8081/canalcocotv/index.m3u8
-
-#EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="TV Peru", Crom TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://fox.hostlagarto.com:8081/cromtv/index.m3u8
-
-#EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="TV Peru", Net Channel
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://media.streambrothers.com:19360/8158/8158.m3u8
-
-#EXTINF:-1 tvg-id="Nexxo TV" tvg-logo="https://i.ibb.co/W4hgzW1h/1764397326517.webp" group-title="TV Peru", Nexxo TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-
-#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/5WY3ydKK/Picsart-25-11-29-03-16-56-757.webp" group-title="TV Peru", Retro TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="TV Peru", Retro Cine TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Wvqrpmft/Picsart-26-05-10-12-19-55-758.webp" group-title="TV Peru", AXN
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/playlist.m3u8
@@ -2439,6 +2415,29 @@ Cine TV
 #EXTINF:-1 tvg-id="Urbana TV.pe" tvg-logo="https://i.postimg.cc/J0gVSndW/1786980930102.png" group-title="Cine TV", Urbana TV
 https://tv.sistemasandinos.org/urbanatv/index.m3u8
 
+#EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Cine TV", Canal Coco TV
+##EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+https://mlb.essastream.com:8081/canalcocotv/index.m3u8
+
+#EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="Cine TV", Crom TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+https://fox.hostlagarto.com:8081/cromtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="Cine TV", NET Channel
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+https://media.streambrothers.com:19360/8158/8158.m3u8
+
+#EXTINF:-1 tvg-id="Nexxo TV" tvg-logo="https://i.ibb.co/W4hgzW1h/1764397326517.webp" group-title="Cine TV", Nexxo TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
+#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/5WY3ydKK/Picsart-25-11-29-03-16-56-757.webp" group-title="TV Peru", Retro TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="Cine TV", Retro Cine TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 HBO + Universal
 
