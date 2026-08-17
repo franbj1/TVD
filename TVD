@@ -2408,9 +2408,18 @@ Cine TV
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d0Y8Yjzm/unnamed-(3).png"
 
+#EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d2611ebf-0966-4fbb-bdae-fafbc2a62496.png" group-title="Cine TV", ENT Channel
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/744a4a00-556d-4d51-8738-bb47be4ea778.png" group-title="Cine TV", ENT Family
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="Cine TV", WOW Movies
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ultra TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/760f5a03-7e02-4581-b9bd-9475072bfee2.jpg" group-title="Cine TV", Ultra TV
+https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 
 #EXTINF:-1 tvg-id="Urbana TV.pe" tvg-logo="https://i.postimg.cc/J0gVSndW/1786980930102.png" group-title="Cine TV", Urbana TV
 https://tv.sistemasandinos.org/urbanatv/index.m3u8
