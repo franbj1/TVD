@@ -2448,6 +2448,12 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal A1" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/bdcae8c5-8a9b-4c8e-8292-1f52a7720849.png" group-title="Cine TV", Canal A1
+https://tv.canala1.com:8081/web/video.m3u8
+
+#EXTINF:-1 tvg-id="Altanto TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/ceed29fc-b2ce-4304-8818-805bb8c326a7.png" group-title="Cine TV", Altanto TV
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8?player_v=20260730-1
+
 HBO + Universal
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L8Qpvn7Y/Nuevo-proyecto-5-8594A15.png"
