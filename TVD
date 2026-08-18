@@ -204,11 +204,6 @@ http://libretv.ddnsfree.com/TVPLive/Play/11
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
-#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
-http://libretv.ddnsfree.com/TVPLive/Play/43
-
-#EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
@@ -242,8 +237,8 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 http://libretv.ddnsfree.com/TVPLive/Play/44
 
 #EXTINF:-1 tvg-id="TelecafÃ©.co" tvg-logo="https://i.postimg.cc/ZqK0W8WJ/Telecafe-2020.webp" group-title="TV Colombia", Telecafe
-#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR
 http://libretv.ddnsfree.com/TVPLive/Play/33
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
