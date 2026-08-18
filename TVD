@@ -2418,6 +2418,10 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Family TV" tvg-logo="https://i.postimg.cc/t4mXsG95/Picsart-26-06-22-22-19-24-501.png" group-title="Cine TV", Family TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://tv.webmedialive.com/familytv/live/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Ultra TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/341ade12-7e1e-4e0b-a071-d7fa45f40c0d.png" group-title="Cine TV", Ultra TV
 https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 
@@ -3310,6 +3314,9 @@ https://3abn.bozztv.com/3abn2/Lat_live/Lat_live.smil/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
+#EXTINF:-1 tvg-id="Cetelmon TV" tvg-logo="https://i.postimg.cc/5tJyv3vh/Picsart-26-08-17-23-31-54-030.png" group-title="Religión", Cetelmon TV
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksSkt9ch/Picsart-25-11-23-13-18-29-655.webp" group-title="Religión", Shalom World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
@@ -3323,10 +3330,6 @@ https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="Religión", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
-
-#EXTINF:-1 tvg-id="Family TV" tvg-logo="https://i.postimg.cc/t4mXsG95/Picsart-26-06-22-22-19-24-501.png" group-title="Religión", Family TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Luz divina TV" tvg-logo="https://i.postimg.cc/02Y8jP71/Picsart-26-06-29-13-09-46-954.png" group-title="Religión", LUZ Divina TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
