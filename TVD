@@ -185,7 +185,7 @@ http://107.152.39.199:8030/hls/canal15.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/8
 
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", Canal Tr3ce
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", Canal Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
@@ -219,10 +219,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.ibb.co/210Snk85/Picsart-26-01-23-17-33-56-352.webp" group-title="TV Colombia", NTN24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://val04.ride.com.ar/tvmia/bn04/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-logo="https://i.postimg.cc/GpbwdRMw/Logotipo-de-Telemedellin.png" group-title="TV Colombia", Telemedellin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8?DVR
@@ -232,13 +228,14 @@ https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.
 https://liveingesta318.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.ibb.co/N6FWJv99/Picsart-26-01-23-22-59-07-822.webp" group-title="TV Colombia", Telepacifico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
 http://libretv.ddnsfree.com/TVPLive/Play/41
 https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.ibb.co/ymvJM6qw/Picsart-26-06-08-20-03-04-448.webp" group-title="TV Colombia", Teleislas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.ibb.co/8g8JWqj4/Canal-Tele-Amiga-logo-svg.webp" group-title="TV Colombia", Teleamiga
