@@ -203,10 +203,15 @@ http://libretv.ddnsfree.com/TVPLive/Play/11
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+http://libretv.ddnsfree.com/TVPLive/Play/43
+
 #EXTINF:-1 tvg-id="El Tiempo TelevisiÃ³n.co" tvg-logo="https://i.ibb.co/m5Xw5dyK/NUEVO-LOGO-DE-EL-TIEMPO-HD.webp" group-title="TV Colombia", El Tiempo TV
 https://val03.ride.com.ar/tvmia/bn12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SeÃ±al Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia
+#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.ibb.co/VcXBPt0X/Picsart-26-06-08-17-18-29-742.webp" group-title="TV Colombia", Canal Institucional
@@ -231,6 +236,11 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/44
+
+#EXTINF:-1 tvg-id="TelecafÃ©.co" tvg-logo="https://i.postimg.cc/ZqK0W8WJ/Telecafe-2020.webp" group-title="TV Colombia", Telecafe
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+http://libretv.ddnsfree.com/TVPLive/Play/33
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
