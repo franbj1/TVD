@@ -208,6 +208,10 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/43
 
+#EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="El Tiempo TelevisiÃ³n.co" tvg-logo="https://i.ibb.co/m5Xw5dyK/NUEVO-LOGO-DE-EL-TIEMPO-HD.webp" group-title="TV Colombia", El Tiempo TV
 https://val03.ride.com.ar/tvmia/bn12/playlist.m3u8
 
