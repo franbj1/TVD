@@ -160,11 +160,6 @@ http://libretv.ddnsfree.com/TVPLive/Play/4
 #EXTVLCOPT:http-user-agent="AgileTV/2.49.0 (Linux;Android 15) ExoPlayerLib/2.17.1
 https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=b47a19dbad3c4fc3a2b51ef8fadba715&keyid=7b044b595a2b90179a1dbce08bd3b098
-#EXTINF:-1 tvg-id="Caracol Noticias" tvg-logo="https://i.ibb.co/TxLZJS9d/Picsart-26-01-29-13-27-48-097.webp" group-title="TV Colombia", Noticias Caracol
-https://d2ltl67q3l75ps.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/ahora/out/v1/285068e6a16642d28f2b8856bb6337de/index.mpd
-
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
@@ -201,6 +196,8 @@ http://libretv.ddnsfree.com/TVPLive/Play/9
 http://libretv.ddnsfree.com/TVPLive/Play/7
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/11
 
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", Cali TV
@@ -222,6 +219,8 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 https://val04.ride.com.ar/tvmia/bn04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.ibb.co/zTrVy4VP/1769223902170.webp" group-title="TV Colombia", Teleantioquia
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/41
 https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 
@@ -229,6 +228,8 @@ https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.ibb.co/8g8JWqj4/Canal-Tele-Amiga-logo-svg.webp" group-title="TV Colombia", Teleamiga
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/44
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -241,11 +242,10 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://i.ibb.co/GvTYbZqB/Picsart-25-11-09-16-44-39-656.webp" group-title="TV Colombia", Win Sports
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://i.ibb.co/K4tpyLS/Picsart-25-11-10-02-02-50-327.webp" group-title="TV Colombia", Win + Fútbol
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/44
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
 
 TV Ecuador
 
