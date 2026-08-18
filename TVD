@@ -176,7 +176,7 @@ http://107.152.39.199:8030/hls/canal15.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/8
 
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", Trece
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.postimg.cc/02BXFg4m/Picsart-26-08-18-19-48-28-801.png" group-title="TV Colombia", Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
