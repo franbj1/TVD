@@ -149,9 +149,9 @@ TV Colombia
 
 #EXTINF:-1 group-logo="https://i.ibb.co/LddkRrTd/Picsart-26-01-23-17-47-31-849.webp"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=f9152f20917b401a89d05c188ab49a99&keyid=2d883dc648556ccb6b9071ac7ef99eeb
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/5xxVjzJJ/Picsart-26-01-29-12-49-35-106.webp" group-title="TV Colombia", Caracol Televisión
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/4
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -185,7 +185,7 @@ http://107.152.39.199:8030/hls/canal15.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/8
 
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", Canal Trece
+#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
@@ -238,7 +238,7 @@ https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.ibb.co/8g8JWqj4/Canal-Tele-Amiga-logo-svg.webp" group-title="TV Colombia", Teleamiga
+#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.postimg.cc/gJ28KQ43/Picsart-26-08-18-18-07-32-608.png" group-title="TV Colombia", Teleamiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
 
