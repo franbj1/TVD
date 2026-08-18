@@ -167,6 +167,8 @@ https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/das
 https://d2ltl67q3l75ps.cloudfront.net/v1/dash/f4489bb8f722c0b62ee6ef7424a5804a17ae814a/ahora/out/v1/285068e6a16642d28f2b8856bb6337de/index.mpd
 
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/1
 
 #EXTINF:-1 tvg-id="RCN HD.co" tvg-logo="https://i.ibb.co/p6N0X82c/Picsart-26-01-29-13-34-13-542.webp" group-title="TV Colombia", RCN Noticias
@@ -185,12 +187,18 @@ https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 http://107.152.39.199:8030/hls/canal15.m3u8
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.ibb.co/99szNZgW/1776798196038.webp" group-title="TV Colombia", Canal Uno
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/8
 
 #EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.ibb.co/hJ3R6QLw/Canal-Trece-logo-svg-1.webp" group-title="TV Colombia", 13
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/9
 
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GfQLGL3j/Picsart-26-03-30-20-04-59-765.webp" group-title="TV Colombia", Capital
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/7
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
