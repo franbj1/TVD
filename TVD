@@ -209,7 +209,7 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.ibb.co/MxdJg0pX/Picsart-26-01-23-13-48-48-611.webp" group-title="TV Colombia", Señal Colombia
+#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.postimg.cc/QM1jL4tT/Picsart-26-08-19-12-21-41-382.png" group-title="TV Colombia", Señal Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
