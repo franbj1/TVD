@@ -232,7 +232,7 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 http://libretv.ddnsfree.com/TVPLive/Play/41
 https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.ibb.co/ymvJM6qw/Picsart-26-06-08-20-03-04-448.webp" group-title="TV Colombia", Teleislas
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.postimg.cc/cCyYPr4h/Picsart-26-08-19-20-27-37-421.png" group-title="TV Colombia", Teleislas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
