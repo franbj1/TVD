@@ -215,7 +215,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.ibb.co/zTrVy4VP/1769223902170.webp" group-title="TV Colombia", Teleantioquia
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.postimg.cc/CMGZLtfn/Picsart-26-08-18-23-51-19-798.png" group-title="TV Colombia", Teleantioquia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
 
