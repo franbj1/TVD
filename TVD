@@ -237,7 +237,7 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="TelecafÃ©.co" tvg-logo="https://i.postimg.cc/ydmtFJQG/Picsart-26-08-18-18-03-35-448.png" group-title="TV Colombia", Telecafe
+#EXTINF:-1 tvg-id="TelecafÃ©.co" tvg-logo="https://i.postimg.cc/8CMpXg1W/Picsart-26-08-18-23-02-57-681.png" group-title="TV Colombia", Telecafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR
 
