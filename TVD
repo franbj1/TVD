@@ -191,7 +191,7 @@ http://libretv.ddnsfree.com/TVPLive/Play/7
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/11
 
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.ibb.co/hR1xxsv1/1769698061809.webp" group-title="TV Colombia", Cali TV
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.postimg.cc/3R3Zd7NJ/Picsart-26-08-18-23-40-45-478.png" group-title="TV Colombia", Cali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
