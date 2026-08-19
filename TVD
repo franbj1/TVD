@@ -199,7 +199,7 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalTROPlus.co" tvg-logo="https://i.postimg.cc/Y2RxsHFq/TROPlus.webp" group-title="TV Colombia", Canal TRO +
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/PJ5N7ff6/Picsart-26-08-19-00-08-30-572.png" group-title="TV Colombia", Canal TRO +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 
