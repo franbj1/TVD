@@ -252,7 +252,7 @@ TV Ecuador
 
 #EXTINF:-1 group-logo="https://i.ibb.co/mC4cPTs4/Picsart-26-01-26-16-07-10-512.webp"
 
-#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.postimg.cc/fyDrfgs7/Picsart-26-08-19-18-30-32-277.png" group-title="TV Ecuador", Ecuavisa
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec;Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.postimg.cc/fyDrfgs7/Picsart-26-08-19-18-30-32-277.png" group-title="TV Ecuador", Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=r1us24762927144f01e1165d59c2c6e21b3091b609f4&ndvc=1
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.postimg.cc/rwKYjrBH/Picsart-26-08-19-18-27-27-312.png" group-title="TV Ecuador", Teleamazonas
