@@ -252,17 +252,20 @@ TV Ecuador
 
 #EXTINF:-1 group-logo="https://i.ibb.co/mC4cPTs4/Picsart-26-01-26-16-07-10-512.webp"
 
-#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.ibb.co/dwGG3B8D/Picsart-26-01-26-16-20-16-308.webp" group-title="TV Ecuador", Ecuavisa
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.postimg.cc/fyDrfgs7/Picsart-26-08-19-18-30-32-277.png" group-title="TV Ecuador", Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=r1us24762927144f01e1165d59c2c6e21b3091b609f4&ndvc=1
 
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.ibb.co/0p65b562/Picsart-26-03-25-02-12-34-717.webp" group-title="TV Ecuador", Teleamazonas
-http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/33.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.postimg.cc/rwKYjrBH/Picsart-26-08-19-18-27-27-312.png" group-title="TV Ecuador", Teleamazonas
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-logo="https://i.ibb.co/m5Mwrxz0/TC-Televisi-n-new-logo-2020.webp" group-title="TV Ecuador", TC Mi Canal
-http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/29.m3u8
+#EXTINF:-1 tvg-id="Canal TC Televisión" tvg-logo="https://i.postimg.cc/rsRKgg9m/Picsart-26-08-19-18-35-06-245.png" group-title="TV Ecuador", TC Televisión
+http://45.224.97.181:9999/TC/index.m3u8
 
 #EXTINF:-1 tvg-id="oromar" tvg-logo="https://i.ibb.co/9F8HS9g/1769727410877.webp" group-title="TV Ecuador", Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="oromar +" tvg-logo="https://i.postimg.cc/d3McG9Nq/Picsart-26-08-19-19-12-01-786.png" group-title="TV Ecuador", Oromar +
+https://stream.oromar.tv/hls/camriva/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Telerama (Ecuador).ec" tvg-logo="https://i.ibb.co/JwTCLxKS/Picsart-26-03-26-03-50-22-503.webp" group-title="TV Ecuador", Telerama
 https://play.once.net.ec/telerama/live.tv/538.m3u8
@@ -270,11 +273,11 @@ https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-1 tvg-id="Telemar.ec" tvg-logo="https://i.ibb.co/bgcjHcX1/Picsart-26-04-12-16-13-36-887.webp" group-title="TV Ecuador", Telemar
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS
-https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS (Geo Bloqueo VPN)
+https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://i.ibb.co/JFjWx3Bd/TVCEcuador2023.webp" group-title="TV Ecuador", TVC
-https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
+https://live.getcirca.run/3757947336/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/d4Qp9PbB/Picsart-26-03-25-02-37-33-524.webp" group-title="TV Ecuador", Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
@@ -286,7 +289,7 @@ https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/42.m3u8
 
 #EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/VcZDxgxg/Picsart-26-03-27-02-45-30-602.webp" group-title="TV Ecuador", Gamavisión
-http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/14.m3u8
+http://45.224.97.181:9999/Gamavision/index.m3u8
 
 #EXTINF:-1 tvg-id="Austral TV.ec" tvg-logo="https://i.ibb.co/b5fgRypZ/Picsart-26-03-26-03-37-03-882.webp" group-title="TV Ecuador", Austral TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
@@ -312,8 +315,21 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVPJ.ec" tvg-logo="https://i.ibb.co/jv7td9ZM/Picsart-26-01-29-18-55-45-916.webp" group-title="TV Ecuador", Radio TVPJ
 https://eu1.servers10.com:8081/8020/index.m3u8
 
-#EXTINF:-1 tvg-id="ECDF.ec" tvg-logo="https://i.ibb.co/QjXkbdpg/Picsart-26-04-26-11-02-28-076.webp" group-title="TV Ecuador", ECDF
-http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/23.m3u8
+#EXTINF:-1 tvg-id="Telecosta.ec" tvg-logo="https://i.imgur.com/1DqLy8H.png" group-title="TV Ecuador",Telecosta
+https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+
+#EXTINF:-1 tvg-id="Telesucesos.ec@SD" tvg-logo="https://i.imgur.com/D1BBTv8.png" group-title="TV Ecuador", Telesucesos
+#EXTVLCOPT:http-referrer=https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/play.html?name=UIO-HD
+https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
+
+#EXTINF:-1 tvg-id="TVCisne.ec@SD" tvg-logo="https://i.imgur.com/xIuFSnx.png" group-title="TV Ecuador", TV Cisne
+https://video2.lhdserver.es/tvcisne/live.m3u8
+
+#EXTINF:-1 tvg-id="TVColorCanal36.ec@SD" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="TV Ecuador", TV Color Canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:-1 tvg-id="TVLegislativa.ec@SD" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" group-title="TV Ecuador", TV Legislativa
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 
 TV México
 
