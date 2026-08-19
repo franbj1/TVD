@@ -236,7 +236,7 @@ https://val04.ride.com.ar/tvmia/bn20/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.postimg.cc/gJ28KQ43/Picsart-26-08-18-18-07-32-608.png" group-title="TV Colombia", Teleamiga
+#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.postimg.cc/Wz2ZqqK4/Picsart-26-08-19-12-30-17-107.png" group-title="TV Colombia", Teleamiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
 
