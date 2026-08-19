@@ -280,7 +280,7 @@ https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
 https://live.getcirca.run/3757947336/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.ibb.co/d4Qp9PbB/Picsart-26-03-25-02-37-33-524.webp" group-title="TV Ecuador", Ecuador TV
-https://samson.streamerr.co:8081/shogun/index.m3u8
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
 #EXTINF:-1 tvg-id="Educa TV.ec" tvg-logo="https://i.ibb.co/v48dP4DR/1774535800608.webp" group-title="TV Ecuador", Educa TV
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
