@@ -168,7 +168,7 @@ https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.postimg.cc/Pq2SWB1N/Picsart-26-08-18-20-02-50-138.png" group-title="TV Colombia", Cable Notícias
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.postimg.cc/DwV1Yssj/Picsart-26-08-19-01-34-34-421.png" group-title="TV Colombia", Cable Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
 
