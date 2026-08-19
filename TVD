@@ -181,7 +181,7 @@ http://libretv.ddnsfree.com/TVPLive/Play/8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.ibb.co/GfQLGL3j/Picsart-26-03-30-20-04-59-765.webp" group-title="TV Colombia", Capital
+#EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.postimg.cc/bvVHyvsf/Picsart-26-08-19-01-41-06-134.png" group-title="TV Colombia", Canal Capital
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/7
