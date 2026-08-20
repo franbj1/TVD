@@ -201,6 +201,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.postimg.cc/654QSmfX/Canal-Zoom2018.webp" group-title="TV Colombia", Zoom TV
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
 
+#EXTINF:-1 tvg-id="Rumba TV.co" tvg-logo="https://i.postimg.cc/7L3qRTpK/Picsart-26-08-20-15-14-35-460.png" group-title="TV Colombia", Rumba TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+http://45.162.193.35/RUMBATV/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
