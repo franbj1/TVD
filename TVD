@@ -205,7 +205,7 @@ https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/PJ5N7ff6/Picsart-26-08-19-00-08-30-572.png" group-title="TV Colombia", Canal TRO +
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/GmZf7jnG/Picsart-26-08-19-22-48-02-072.png" group-title="TV Colombia", Canal TRO +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 
@@ -243,6 +243,10 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.postimg.cc/j5GMqQsx/Picsart-26-08-18-03-12-16-245.png" group-title="TV Colombia", Telecaribe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.postimg.cc/j5GMqQsx/Picsart-26-08-18-03-12-16-245.png" group-title="TV Colombia", Telecaribe +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="0947" tvg-name="Telecafé • Colombia" tvg-logo="https://i.postimg.cc/8CMpXg1W/Picsart-26-08-18-23-02-57-681.png" group-title="TV Colombia", Telecafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
