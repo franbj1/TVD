@@ -199,7 +199,7 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 
-#EXTINF:-1 tvg-id="CosmovisiÃ³n.co" tvg-logo="https://i.postimg.cc/tCNW3bGL/Picsart-26-08-19-14-24-54-290.png" group-title="TV Colombia", Cosmovisión
+#EXTINF:-1 tvg-id="YOUTUBE.co" tvg-logo="https://i.postimg.cc/tCNW3bGL/Picsart-26-08-19-14-24-54-290.png" group-title="TV Colombia", Cosmovisión
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.postimg.cc/654QSmfX/Canal-Zoom2018.webp" group-title="TV Colombia", Zoom TV
