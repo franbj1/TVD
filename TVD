@@ -2453,6 +2453,10 @@ https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 #EXTINF:-1 tvg-id="Urbana TV.pe" tvg-logo="https://i.postimg.cc/J0gVSndW/1786980930102.png" group-title="Cine TV", Urbana TV
 https://tv.sistemasandinos.org/urbanatv/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal 7 de Costa Rica (Teletica).cr" tvg-logo="https://i.postimg.cc/Fst7vY5M/Picsart-26-08-19-23-12-17-028.png" group-title="Cine TV", Teletica 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+http://190.11.225.124:5000/live/teletica_sd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Cine TV", Canal Coco TV
 ##EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://mlb.essastream.com:8081/canalcocotv/index.m3u8
