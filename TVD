@@ -987,6 +987,10 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal A1.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/bdcae8c5-8a9b-4c8e-8292-1f52a7720849.png" group-title="TV Peru",  Antena A1
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/antenauno.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SUMAC TV.pe" tvg-logo="https://i.ibb.co/ccNrYDwP/Picsart-26-01-10-19-39-50-088.webp" group-title="TV Peru", Sumac TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
