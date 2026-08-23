@@ -154,11 +154,6 @@ TV Colombia
 
 #EXTINF:-1 group-logo="https://i.ibb.co/LddkRrTd/Picsart-26-01-23-17-47-31-849.webp"
 
-#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.ibb.co/5xxVjzJJ/Picsart-26-01-29-12-49-35-106.webp" group-title="TV Colombia", Caracol Televisión
-#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
-http://libretv.ddnsfree.com/TVPLive/Play/4
-
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN Televisión
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
@@ -169,6 +164,11 @@ http://libretv.ddnsfree.com/TVPLive/Play/1
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.postimg.cc/W1NMVndV/Picsart-26-08-21-00-46-42-303.png" group-title="TV Colombia", RCN Novelas
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
+
+#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.postimg.cc/mkCVXsVb/Picsart-26-08-23-14-55-52-625.png" group-title="TV Colombia", Caracol Televisión
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+http://libretv.ddnsfree.com/TVPLive/Play/44
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.postimg.cc/pXhpQzMX/Logo-Canal-1-Colombia-2026-svg.png" group-title="TV Colombia", Canal 1
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
