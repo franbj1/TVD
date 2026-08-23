@@ -2286,6 +2286,7 @@ https://latan.stonetv.com.br/axn/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/AMC.DGO.json
 #EXTINF:-1 tvg-id="AMC HD.uy" tvg-logo="https://i.ibb.co/60p1XKCj/Picsart-25-08-07-11-01-27-860.webp" group-title="Cine + Series", AMC
+http://45.134.141.161:2200/ARG/amc_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1007-tbx.vrioott.com/amcla/manifest.mpd
 
@@ -2310,6 +2311,7 @@ https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=5bfb374d644703550f0637532bca0491&keyid=2a61b7a7912064acc62a06a6ae22ac5c
 #EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" group-title="Cine + Series", Comedy Central
+
 #EXTVLCOPT:http-user-agent=Sky+/11.5.1(18)_prd skymas ahh (Linux;Android 16) AndroidXMedia3/1.0.2
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/COMEDY-CENTRAL-HD/default.mpd
 
@@ -2340,6 +2342,7 @@ https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
 #EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Android
+http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 https://latan.stonetv.com.br/sony/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
