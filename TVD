@@ -1260,7 +1260,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal (21)
 https://mcgo3.boldmss.com/CANAL_21/CANAL_21_MC.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canal 11.uy" tvg-logo="https://i.postimg.cc/Fs98C8dy/Picsart-26-07-03-12-51-16-348.png" group-title="TV Uruguay", Canal 11
+#EXTINF:-1 tvg-id="CanalOncePunta.uy" tvg-logo="https://i.postimg.cc/Fs98C8dy/Picsart-26-07-03-12-51-16-348.png" group-title="TV Uruguay", Canal 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u8
 
