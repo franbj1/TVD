@@ -161,7 +161,7 @@ http://libretv.ddnsfree.com/TVPLive/Play/1
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
-#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.postimg.cc/W1NMVndV/Picsart-26-08-21-00-46-42-303.png" group-title="TV Colombia", RCN Novelas
+#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.postimg.cc/cCYSfW44/Picsart-26-08-23-23-37-41-273.png" group-title="TV Colombia", RCN Novelas
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
