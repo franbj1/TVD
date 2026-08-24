@@ -154,7 +154,7 @@ TV Colombia
 
 #EXTINF:-1 group-logo="https://i.ibb.co/LddkRrTd/Picsart-26-01-23-17-47-31-849.webp"
 
-#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.ibb.co/gMH1w154/Picsart-26-01-29-11-44-53-450.webp" group-title="TV Colombia", RCN Televisión
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.postimg.cc/Qx9BnKVy/Picsart-26-08-23-23-48-55-161.png" group-title="TV Colombia", RCN Televisión
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/1
