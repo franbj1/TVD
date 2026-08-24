@@ -168,7 +168,7 @@ https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.postimg.cc/mkCVXsVb/Picsart-26-08-23-14-55-52-625.png" group-title="TV Colombia", Caracol Televisión
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
-http://libretv.ddnsfree.com/TVPLive/Play/44
+http://libretv.ddnsfree.com/TVPLive/Play/3
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.postimg.cc/pXhpQzMX/Logo-Canal-1-Colombia-2026-svg.png" group-title="TV Colombia", Canal 1
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
@@ -243,10 +243,6 @@ https://liveingesta318.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.postimg.cc/Wz2ZqqK4/Picsart-26-08-19-12-30-17-107.png" group-title="TV Colombia", Teleamiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="TeveColombia.co" tvg-logo="https://i.postimg.cc/3xzHs00s/Picsart-26-08-21-07-21-11-173.png" group-title="TV Colombia", Teve Colombia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.postimg.cc/YC1tXSs1/Picsart-26-08-18-18-29-04-649.png" group-title="TV Colombia", Telepacifico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
