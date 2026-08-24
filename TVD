@@ -184,7 +184,7 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DV
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/7
 
-#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.ibb.co/bgnMvK9k/Picsart-26-01-23-13-43-21-339.webp" group-title="TV Colombia", City TV
+#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.postimg.cc/YCLS85nY/Picsart-26-08-23-23-28-11-611.png" group-title="TV Colombia", City TV
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/11
@@ -232,13 +232,13 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-logo="https://i.postimg.cc/9XdGnJCW/Picsart-26-08-20-22-27-51-606.png" group-title="TV Colombia", Telemedellin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.postimg.cc/CMGZLtfn/Picsart-26-08-18-23-51-19-798.png" group-title="TV Colombia", Teleantioquia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-logo="https://i.postimg.cc/9XdGnJCW/Picsart-26-08-20-22-27-51-606.png" group-title="TV Colombia", Telemedellin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.postimg.cc/Wz2ZqqK4/Picsart-26-08-19-12-30-17-107.png" group-title="TV Colombia", Teleamiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
