@@ -219,6 +219,9 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 http://45.162.193.35/RUMBATV/index.m3u8
 
+#EXTINF:-1 tvg-id="Mi Gente TV.co" tvg-logo="https://i.postimg.cc/8zRcsF5P/Picsart-26-08-24-12-28-02-452.png" group-title="TV Colombia", Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
