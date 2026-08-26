@@ -207,13 +207,15 @@ http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 http://libretv.ddnsfree.com/TVPLive/Play/22
 
 #EXTINF:-1 tvg-id="YOUTUBE.co" tvg-logo="https://i.postimg.cc/tCNW3bGL/Picsart-26-08-19-14-24-54-290.png" group-title="TV Colombia", Cosmovisión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.postimg.cc/654QSmfX/Canal-Zoom2018.webp" group-title="TV Colombia", Zoom TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
 
 #EXTINF:-1 tvg-id="Red TV" tvg-logo="https://i.postimg.cc/VvmzbgHM/Picsart-26-08-22-03-07-12-821.png" group-title="TV Colombia", Red +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 #EXTINF:-1 tvg-id="Rumba TV.co" tvg-logo="https://i.postimg.cc/SRqdGHWb/Picsart-26-08-20-15-25-16-873.png" group-title="TV Colombia", Rumba TV
