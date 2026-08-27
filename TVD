@@ -147,6 +147,15 @@ https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Red Advir.bo" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Bolivia", Rede Advenir https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
 
+#EXTINF:-1 tvg-id="Sol TV.bo" tvg-logo="https://i.postimg.cc/tCNmktJ0/Picsart-26-08-27-14-00-50-062.png" group-title="TV Bolivia", Sol TV
+http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zuraca TV.bo" tvg-logo="https://i.postimg.cc/qvtyq49t/Picsart-26-08-27-14-05-21-368.png" group-title="TV Bolivia", Zuraca TV
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+
+#EXTINF:-1 tvg-id="TV Latina.bo" tvg-logo="https://i.postimg.cc/fbNyssZj/Picsart-26-08-27-14-07-51-225.png" group-title="TV Bolivia", TV Latina
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+
 #EXTINF:-1 tvg-id="TVU.bo" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
 https://live.enhdtv.com:8081/8190/index.m3u8
 
