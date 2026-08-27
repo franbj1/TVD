@@ -153,6 +153,15 @@ https://master.tucableip.com/ftvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Red Advir.bo" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Bolivia", Rede Advenir https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
 
+#EXTINF:-1 tvg-id="El Deber.bo" tvg-logo="https://i.postimg.cc/Sxf3QnPq/Picsart-26-08-27-17-15-55-464.png" group-title="TV Bolivia", El Deber TV
+https://master.tucableip.com/eldebertv/index.m3u8
+
+#EXTINF:-1 tvg-id="Delta.bo" tvg-logo="https://i.postimg.cc/vBg0nT0M/Picsart-26-08-27-17-18-31-925.png" group-title="TV Bolivia", Delta Bolivia
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="HUB ON.bo" tvg-logo="https://i.postimg.cc/pXFYJ3QQ/Picsart-26-08-27-17-57-10-029.png" group-title="TV Bolivia", HUB ON
+https://edge.enhdtv.com/8064/index.m3u8
+
 #EXTINF:-1 tvg-id="Sol TV.bo" tvg-logo="https://i.postimg.cc/tCNmktJ0/Picsart-26-08-27-14-00-50-062.png" group-title="TV Bolivia", Sol TV
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 
