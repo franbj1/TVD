@@ -8,14 +8,9 @@ Televisión Nacional
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
-#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América tt
-#EXTVLCOPT:http-user-agent=https://playcom.com.ar/
+#EXTINF:-1 tvg-id="América TV.ar" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://i.ibb.co/dwCf6Z2t/Picsart-25-07-22-20-08-07-476.webp?raw=true" group-title="Nacional", América
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
-
 ht://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/Q7Jz7S4R/Picsart-26-04-20-15-55-48-068.webp" group-title="Nacional", El Nueve
