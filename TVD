@@ -145,6 +145,12 @@ https://live.enhdtv.com:8081/8190/index.m3u8
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
 https://master.tucableip.com/univalletv/video.m3u8
 
+#EXTINF:-1 tvg-id="TDT Multimedia.bo" tvg-logo="https://i.postimg.cc/W3LzdzQS/Picsart-26-08-29-19-58-37-266.png" group-title="TV Bolivia", TDT Multimedia
+https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMITEL TV.bo" tvg-logo="https://i.postimg.cc/ZY63xtHf/Picsart-26-08-29-19-53-06-622.png" group-title="TV Bolivia", AMITEL TV
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Ceacom.bo" tvg-logo="https://i.postimg.cc/L6BzrvLq/Picsart-26-08-29-16-25-43-794.png" group-title="TV Bolivia", Ceacom
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 
