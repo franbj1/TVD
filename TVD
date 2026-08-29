@@ -136,7 +136,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="0961" tvg-name="Gigavisión • Bolivia"  tvg-logo="https://i.postimg.cc/nhTdx346/Picsart-26-08-29-14-51-59-908.png" group-title="TV Bolivia", Gigavisión
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
-#EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.ibb.co/wNKW58pR/1774627131369.webp" group-title="TV Bolivia", Cadena A
+#EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.postimg.cc/Bv5PRndR/Picsart-26-08-29-16-00-27-684.png" group-title="TV Bolivia", Cadena A
 https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
