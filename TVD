@@ -133,7 +133,7 @@ https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="0960" tvg-name="F10 • Bolivia"  tvg-logo="https://i.ibb.co/5XLKNLSV/Picsart-26-03-27-13-32-40-271.webp" group-title="TV Bolivia", F10
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-id="0961" tvg-name="Gigavisión • Bolivia"  tvg-logo="https://i.ibb.co/cSzKpmpL/Picsart-26-04-20-07-58-59-326.webp" group-title="TV Bolivia", Gigavisión
+#EXTINF:-1 tvg-id="0961" tvg-name="Gigavisión • Bolivia"  tvg-logo="https://i.postimg.cc/nhTdx346/Picsart-26-08-29-14-51-59-908.png" group-title="TV Bolivia", Gigavisión
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
