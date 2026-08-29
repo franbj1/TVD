@@ -124,7 +124,7 @@ https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-id="Red Uno.bo" tvg-logo="https://i.ibb.co/WpcBk6s6/1774633793238.webp" group-title="TV Bolivia", Red Uno
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 
-#EXTINF:-1 tvg-id="0957" tvg-name="PAT • Bolivia"  tvg-logo="https://i.ibb.co/nMtRN5rh/Picsart-26-03-09-01-34-18-440.webp" group-title="TV Bolivia", Pat TV
+#EXTINF:-1 tvg-id="0957" tvg-name="PAT • Bolivia"  tvg-logo="https://i.postimg.cc/cHKZwg1M/Picsart-26-08-29-15-07-52-708.png" group-title="TV Bolivia", Pat TV
 https://www.redpat.tv:8000/play/12/index.m3u8
 
 #EXTINF:-1 tvg-id="0958" tvg-name="RTP • Bolivia" tvg-logo="https://i.postimg.cc/pTc5CFtz/Picsart-26-08-29-14-34-59-032.png" group-title="TV Bolivia", RTP La Paz
@@ -136,11 +136,11 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="0961" tvg-name="Gigavisión • Bolivia"  tvg-logo="https://i.postimg.cc/nhTdx346/Picsart-26-08-29-14-51-59-908.png" group-title="TV Bolivia", Gigavisión
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
-#EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
-https://master.tucableip.com/univalletv/video.m3u8
-
 #EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.ibb.co/wNKW58pR/1774627131369.webp" group-title="TV Bolivia", Cadena A
 https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
+https://master.tucableip.com/univalletv/video.m3u8
 
 #EXTINF:-1 tvg-id="De Moda.bo" tvg-logo="https://i.postimg.cc/VNbYJLBy/Picsart-26-08-27-14-15-42-352.png" group-title="TV Bolivia", DMODA
 https://master.tucableip.com/dmoda/index.m3u8
