@@ -139,6 +139,9 @@ https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 #EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.postimg.cc/Bv5PRndR/Picsart-26-08-29-16-00-27-684.png" group-title="TV Bolivia", Cadena A
 https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVU.bo" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
+https://live.enhdtv.com:8081/8190/index.m3u8
+
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
 https://master.tucableip.com/univalletv/video.m3u8
 
@@ -171,8 +174,14 @@ https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 #EXTINF:-1 tvg-id="TV Latina.bo" tvg-logo="https://i.postimg.cc/fbNyssZj/Picsart-26-08-27-14-07-51-225.png" group-title="TV Bolivia", TV Latina
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 
-#EXTINF:-1 tvg-id="TVU.bo" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
-https://live.enhdtv.com:8081/8190/index.m3u8
+#EXTINF:-1 tvg-id="Fap TV.bo" tvg-logo="https://i.postimg.cc/c4XSpCTs/Picsart-26-08-29-19-35-15-723.png" group-title="TV Bolivia", FapTV
+https://edge.enhdtv.com/faptv/index.m3u8
+
+#EXTINF:-1 tvg-id="Coral TV.bo" tvg-logo="https://i.postimg.cc/zfRYHjNX/Picsart-26-08-29-19-31-57-088.png" group-title="TV Bolivia", Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Así Es TV.bo" tvg-logo="https://i.postimg.cc/vm5SdSMq/Picsart-26-08-29-19-40-44-774.png" group-title="TV Bolivia", Así es TV
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 
 TV Colombia
 
