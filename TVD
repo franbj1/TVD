@@ -145,6 +145,9 @@ https://live.enhdtv.com:8081/8190/index.m3u8
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
 https://master.tucableip.com/univalletv/video.m3u8
 
+#EXTINF:-1 tvg-id="El Deber.bo" tvg-logo="https://i.postimg.cc/2SnPJH5S/Picsart-26-08-30-11-12-13-604.png" group-title="TV Bolivia", El Deber TV
+https://master.tucableip.com/eldebertv/index.m3u8
+
 #EXTINF:-1 tvg-id="TDT Multimedia.bo" tvg-logo="https://i.postimg.cc/W3LzdzQS/Picsart-26-08-29-19-58-37-266.png" group-title="TV Bolivia", TDT Multimedia
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 
@@ -161,9 +164,6 @@ https://master.tucableip.com/dmoda/index.m3u8
 https://master.tucableip.com/ftvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Red Advir.bo" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Bolivia", Red advenir https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
-
-#EXTINF:-1 tvg-id="El Deber.bo" tvg-logo="https://i.postimg.cc/Sxf3QnPq/Picsart-26-08-27-17-15-55-464.png" group-title="TV Bolivia", El Deber TV
-https://master.tucableip.com/eldebertv/index.m3u8
 
 #EXTINF:-1 tvg-id="Delta.bo" tvg-logo="https://i.postimg.cc/vBg0nT0M/Picsart-26-08-27-17-18-31-925.png" group-title="TV Bolivia", Delta Bolivia
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
