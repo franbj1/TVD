@@ -142,7 +142,7 @@ https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU.bo" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
 https://live.enhdtv.com:8081/8190/index.m3u8
 
-#EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.ibb.co/JWNfJk9b/1776681779159.webp" group-title="TV Bolivia", Univalle TV
+#EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.postimg.cc/VNgLysNH/Picsart-26-08-30-11-21-04-341.png" group-title="TV Bolivia", Univalle TV
 https://master.tucableip.com/univalletv/video.m3u8
 
 #EXTINF:-1 tvg-id="El Deber.bo" tvg-logo="https://i.postimg.cc/2SnPJH5S/Picsart-26-08-30-11-12-13-604.png" group-title="TV Bolivia", El Deber TV
