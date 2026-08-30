@@ -122,18 +122,22 @@ https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest.mpd?token=J
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO.bo" tvg-logo="https://i.postimg.cc/QC9GPHFr/Picsart-26-08-29-17-46-13-942.png" group-title="TV Bolivia", Red Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 
 #EXTINF:-1 tvg-id="0957" tvg-name="PAT • Bolivia"  tvg-logo="https://i.postimg.cc/cHKZwg1M/Picsart-26-08-29-15-07-52-708.png" group-title="TV Bolivia", Pat TV
 https://www.redpat.tv:8000/play/12/index.m3u8
 
 #EXTINF:-1 tvg-id="0958" tvg-name="RTP • Bolivia" tvg-logo="https://i.postimg.cc/pTc5CFtz/Picsart-26-08-29-14-34-59-032.png" group-title="TV Bolivia", RTP La Paz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="0960" tvg-name="F10 • Bolivia"  tvg-logo="https://i.ibb.co/5XLKNLSV/Picsart-26-03-27-13-32-40-271.webp" group-title="TV Bolivia", F10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-id="0961" tvg-name="Gigavisión • Bolivia"  tvg-logo="https://i.postimg.cc/nhTdx346/Picsart-26-08-29-14-51-59-908.png" group-title="TV Bolivia", Gigavisión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
 #EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.postimg.cc/Bv5PRndR/Picsart-26-08-29-16-00-27-684.png" group-title="TV Bolivia", Cadena A
