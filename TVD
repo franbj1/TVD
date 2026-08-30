@@ -141,18 +141,27 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
 #EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.postimg.cc/Bv5PRndR/Picsart-26-08-29-16-00-27-684.png" group-title="TV Bolivia", Cadena A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVU.bo" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://live.enhdtv.com:8081/8190/index.m3u8
 
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.postimg.cc/VNgLysNH/Picsart-26-08-30-11-21-04-341.png" group-title="TV Bolivia", Univalle TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://master.tucableip.com/univalletv/video.m3u8
 
+#EXTINF:-1 tvg-id="De Moda.bo" tvg-logo="https://i.postimg.cc/P5grR0Vn/Picsart-26-08-30-18-37-14-121.png" group-title="TV Bolivia", DMODA Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://master.tucableip.com/dmoda/index.m3u8
+
 #EXTINF:-1 tvg-id="El Deber.bo" tvg-logo="https://i.postimg.cc/2SnPJH5S/Picsart-26-08-30-11-12-13-604.png" group-title="TV Bolivia", El Deber TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://master.tucableip.com/eldebertv/index.m3u8
 
 #EXTINF:-1 tvg-id="TDT Multimedia.bo" tvg-logo="https://i.postimg.cc/W3LzdzQS/Picsart-26-08-29-19-58-37-266.png" group-title="TV Bolivia", TDT Multimedia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMITEL TV.bo" tvg-logo="https://i.postimg.cc/ZY63xtHf/Picsart-26-08-29-19-53-06-622.png" group-title="TV Bolivia", AMITEL TV
@@ -160,9 +169,6 @@ https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Ceacom.bo" tvg-logo="https://i.postimg.cc/L6BzrvLq/Picsart-26-08-29-16-25-43-794.png" group-title="TV Bolivia", Ceacom
 https://eu1.servers10.com:8081/ceacom/index.m3u8
-
-#EXTINF:-1 tvg-id="De Moda.bo" tvg-logo="https://i.postimg.cc/VNbYJLBy/Picsart-26-08-27-14-15-42-352.png" group-title="TV Bolivia", DMODA
-https://master.tucableip.com/dmoda/index.m3u8
 
 #EXTINF:-1 tvg-id="FTV.bo" tvg-logo="https://i.postimg.cc/J4mL5CZJ/Picsart-26-08-27-17-02-30-230.png" group-title="TV Bolivia", FTV
 https://master.tucableip.com/ftvhd/index.m3u8
