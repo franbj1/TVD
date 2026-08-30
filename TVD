@@ -2308,11 +2308,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/
 https://cdn.energeek.cl/hls/energeekretro.m3u8
 
 #EXTINF:-1 tvg-id="0314" tvg-name="EnerGeek FAN" tvg-logo="https://i.ibb.co/YBDZdcsR/1777586984312.webp" group-title="Infantil", EnerGeek Fan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.energeek.cl/hls/energeekfan.m3u8
 
 #EXTINF:-1 tvg-id="0315" tvg-name="EnerGeek Radio" tvg-logo="https://i.postimg.cc/sxLQttLq/Picsart-26-07-11-15-17-41-443.png" group-title="Infantil", ☆⋆EneerGeek Radio⋆☆
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.energeek.cl/hls/energeekradio.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids" tvg-logo="https://i.postimg.cc/85RJ5gvS/Picsart-26-06-21-00-39-31-291.png" group-title="Infantil", Magïc Kids
@@ -2325,11 +2325,11 @@ https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/f41cc2c1-0409-4b71-b91b-171ec269422c.png" group-title="Infantil", Duck TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.es" tvg-logo="https://i.ibb.co/h1YCQvfp/Picsart-26-02-04-23-55-03-500.webp" group-title="Infantil", Duck TV Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linus NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
 Cine + Series
