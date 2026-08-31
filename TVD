@@ -215,8 +215,10 @@ http://libretv.ddnsfree.com/TVPLive/Play/1
 https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.postimg.cc/mkCVXsVb/Picsart-26-08-23-14-55-52-625.png" group-title="TV Colombia", Caracol Televisión
+https://hls.tvabierta.net/hls/caracol.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
+
 http://libretv.ddnsfree.com/TVPLive/Play/3
 
 #EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.postimg.cc/pXhpQzMX/Logo-Canal-1-Colombia-2026-svg.png" group-title="TV Colombia", Canal 1
@@ -229,8 +231,10 @@ http://libretv.ddnsfree.com/TVPLive/Play/8
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.postimg.cc/bvVHyvsf/Picsart-26-08-19-01-41-06-134.png" group-title="TV Colombia", Canal Capital
+https://hls.tvabierta.net/hls/canalcapital.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
+
 http://libretv.ddnsfree.com/TVPLive/Play/7
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.postimg.cc/YCLS85nY/Picsart-26-08-23-23-28-11-611.png" group-title="TV Colombia", City TV
