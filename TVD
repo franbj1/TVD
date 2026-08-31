@@ -125,6 +125,9 @@ https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 
+#EXTINF:-1 tvg-id="0956" tvg-name="ATB • Bolivia" tvg-logo="https://i.postimg.cc/MHJc9xm2/Picsart-26-08-31-10-16-33-418.png" group-title="TV Bolivia", ATB
+https://hls.tvabierta.net/hls/atb.m3u8
+
 #EXTINF:-1 tvg-id="0957" tvg-name="PAT • Bolivia"  tvg-logo="https://i.postimg.cc/cHKZwg1M/Picsart-26-08-29-15-07-52-708.png" group-title="TV Bolivia", Pat TV
 https://www.redpat.tv:8000/play/12/index.m3u8
 
