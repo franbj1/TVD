@@ -1315,8 +1315,8 @@ https://mcgo3.boldmss.com/CANAL_5/CANAL_5_MC.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-logo="https://i.postimg.cc/qqBryNpZ/Picsart-26-07-02-16-08-21-962.png" group-title="TV Uruguay", TV Ciudad
 https://mcgo3.boldmss.com/TVCIUDAD_HD/TVCIUDAD_HD_MC.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="UCL.pe" tvg-logo="https://i.ibb.co/hFGdZ8v1/Picsart-25-12-27-21-38-12-944.webp" group-title="TV Uruguay", UCL Televisión
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="UCL.pe" tvg-logo="https://i.postimg.cc/85ZSnBV0/Picsart-26-09-01-14-54-58-933.png" group-title="TV Uruguay", UCL Televisión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
