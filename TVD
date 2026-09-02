@@ -169,35 +169,52 @@ https://master.tucableip.com/eldebertv/index.m3u8
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMITEL TV.bo" tvg-logo="https://i.postimg.cc/ZY63xtHf/Picsart-26-08-29-19-53-06-622.png" group-title="TV Bolivia", AMITEL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Ceacom.bo" tvg-logo="https://i.postimg.cc/L6BzrvLq/Picsart-26-08-29-16-25-43-794.png" group-title="TV Bolivia", Ceacom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 
 #EXTINF:-1 tvg-id="FTV.bo" tvg-logo="https://i.postimg.cc/J4mL5CZJ/Picsart-26-08-27-17-02-30-230.png" group-title="TV Bolivia", FTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://master.tucableip.com/ftvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Red Advir.bo" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV Bolivia", Red advenir https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8
 
+#EXTINF:-1 tvg-id="Radio Mega TV"  tvg-logo="https://i.postimg.cc/q7gCsZJL/Picsart-26-09-02-00-04-57-854.png" group-title="TV Bolivia", Radio Mega TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTV RED"  tvg-logo="https://i.postimg.cc/9MWKgTkN/Picsart-26-09-02-00-12-23-338.png" group-title="TV Bolivia", CTV Red
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+
 #EXTINF:-1 tvg-id="Delta.bo" tvg-logo="https://i.postimg.cc/vBg0nT0M/Picsart-26-08-27-17-18-31-925.png" group-title="TV Bolivia", Delta Bolivia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="HUB ON.bo" tvg-logo="https://i.postimg.cc/pXFYJ3QQ/Picsart-26-08-27-17-57-10-029.png" group-title="TV Bolivia", HUB ON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://edge.enhdtv.com/8064/index.m3u8
 
 #EXTINF:-1 tvg-id="Sol TV.bo" tvg-logo="https://i.postimg.cc/tCNmktJ0/Picsart-26-08-27-14-00-50-062.png" group-title="TV Bolivia", Sol TV
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zuraca TV.bo" tvg-logo="https://i.postimg.cc/qvtyq49t/Picsart-26-08-27-14-05-21-368.png" group-title="TV Bolivia", Zuraca TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 
 #EXTINF:-1 tvg-id="TV Latina.bo" tvg-logo="https://i.postimg.cc/fbNyssZj/Picsart-26-08-27-14-07-51-225.png" group-title="TV Bolivia", TV Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 
 #EXTINF:-1 tvg-id="Fap TV.bo" tvg-logo="https://i.postimg.cc/c4XSpCTs/Picsart-26-08-29-19-35-15-723.png" group-title="TV Bolivia", FapTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://edge.enhdtv.com/faptv/index.m3u8
 
 #EXTINF:-1 tvg-id="Así Es TV.bo" tvg-logo="https://i.postimg.cc/vm5SdSMq/Picsart-26-08-29-19-40-44-774.png" group-title="TV Bolivia", Así es TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 
 TV Colombia
