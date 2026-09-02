@@ -113,6 +113,7 @@ TV Bolivia
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
 #EXTINF:-1 tvg-id="BOLIVIA TV.bo" tvg-logo="https://i.ibb.co/MyD8qwP5/1776689167710.webp" group-title="TV Bolivia", Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 #EXTVLCOPT:http-user-agent=Android
 https://el4live2.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
@@ -123,6 +124,7 @@ https://el4live2.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest.mpd?token=J
 https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
 #EXTINF:-1 tvg-id="UNITEL.bo" tvg-logo="https://i.ibb.co/q38wmbw4/Picsart-26-04-20-09-03-14-397.webp" group-title="TV Bolivia", Unitel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO.bo" tvg-logo="https://i.postimg.cc/QC9GPHFr/Picsart-26-08-29-17-46-13-942.png" group-title="TV Bolivia", Red Uno
@@ -138,15 +140,15 @@ https://hls.tvabierta.net/hls/atb.m3u8
 https://www.redpat.tv:8000/play/12/index.m3u8
 
 #EXTINF:-1 tvg-id="0958" tvg-name="RTP • Bolivia" tvg-logo="https://i.postimg.cc/pTc5CFtz/Picsart-26-08-29-14-34-59-032.png" group-title="TV Bolivia", RTP La Paz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://rtp.noxun.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="0960" tvg-name="F10 • Bolivia"  tvg-logo="https://i.ibb.co/5XLKNLSV/Picsart-26-03-27-13-32-40-271.webp" group-title="TV Bolivia", F10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-id="0961" tvg-name="Gigavisión • Bolivia"  tvg-logo="https://i.postimg.cc/nhTdx346/Picsart-26-08-29-14-51-59-908.png" group-title="TV Bolivia", Gigavisión
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
 
 #EXTINF:-1 tvg-id="0959" tvg-name="Cadena A • Bolivia" tvg-logo="https://i.postimg.cc/Bv5PRndR/Picsart-26-08-29-16-00-27-684.png" group-title="TV Bolivia", Cadena A
@@ -155,7 +157,7 @@ https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVU.bo" tvg-logo="https://i.ibb.co/67vjc3Gz/Picsart-26-01-18-00-16-37-688.webp" group-title="TV Bolivia", TVU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://live.enhdtv.com:8081/8190/index.m3u8
+https://edge.enhdtv.com/8026/index.m3u8
 
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.postimg.cc/VNgLysNH/Picsart-26-08-30-11-21-04-341.png" group-title="TV Bolivia", Univalle TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
