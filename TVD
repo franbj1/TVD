@@ -13,6 +13,9 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
 ht://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Nacional",America TV (1080p)21
+http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/Q7Jz7S4R/Picsart-26-04-20-15-55-48-068.webp" group-title="Nacional", El Nueve
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
