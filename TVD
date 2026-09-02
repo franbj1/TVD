@@ -2615,6 +2615,24 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="Los Simpsons TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/2b29d17b-6be2-4c60-9223-5f9d18242526.png" group-title="Cine TV", Los Simpsons (24/7)
 http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Stream Uno TV" tvg-logo="https://i.postimg.cc/NFsWjRsW/Picsart-26-09-02-07-11-31-561.png" group-title="Cine TV", Stream Uno TV
+https://streamunoapp.com:3201/live/streamunotvlive.m3u8
+
+#EXTINF:-1 tvg-id="Orbit TV" tvg-logo="https://i.postimg.cc/zvNRbX4N/Picsart-26-09-02-07-20-10-868.png" group-title="Cine TV", Orbit TV
+https://cnn.hostlagarto.com/orbittv/index.m3u8
+
+#EXTINF:-1 tvg-id="Cascara TV" tvg-logo="https://i.postimg.cc/5N761347/Picsart-26-09-02-07-21-22-912.png" group-title="Cine TV", Cascara TV
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="La Descarga TV" tvg-logo="https://i.postimg.cc/ZRHJHbCh/Picsart-26-09-02-07-23-03-740.png" group-title="Cine TV", La Descarga TV
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+
+#EXTINF:-1 tvg-id="AME47" tvg-logo="https://i.postimg.cc/zXZ1hHdK/Picsart-26-09-02-07-26-54-198.png" group-title="Cine TV", AME47
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WTV" tvg-logo="https://i.postimg.cc/HsykDCN2/Picsart-26-09-02-07-34-13-883.png" group-title="Cine TV", WTV
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
 HBO + Universal
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L8Qpvn7Y/Nuevo-proyecto-5-8594A15.png"
