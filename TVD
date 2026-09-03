@@ -297,11 +297,15 @@ https://ds.tvabierta.net/memfs/03707865-ae19-4654-9025-e910905d70bd.m3u8
 http://libretv.ddnsfree.com/TVPLive/Play/22
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.postimg.cc/654QSmfX/Canal-Zoom2018.webp" group-title="TV Colombia", Zoom TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
 
+#EXTINF:-1 tvg-id="Blu Radio.co" tvg-logo="https://i.postimg.cc/jSprSBnC/Blu-Radio2018.webp" group-title="TV Colombia", BLU Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+
 #EXTINF:-1 tvg-id="YOUTUBE.co" tvg-logo="https://i.postimg.cc/VvmzbgHM/Picsart-26-08-22-03-07-12-821.png" group-title="TV Colombia", Red +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 #EXTINF:-1 tvg-id="Rumba TV.co" tvg-logo="https://i.postimg.cc/SRqdGHWb/Picsart-26-08-20-15-25-16-873.png" group-title="TV Colombia", Rumba TV
@@ -309,6 +313,7 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 http://45.162.193.35/RUMBATV/index.m3u8
 
 #EXTINF:-1 tvg-id="Mi Gente TV.co" tvg-logo="https://i.postimg.cc/8zRcsF5P/Picsart-26-08-24-12-28-02-452.png" group-title="TV Colombia", Mi Gente TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
