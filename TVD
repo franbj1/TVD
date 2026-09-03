@@ -453,6 +453,13 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-id="TVLegislativa.ec@SD" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" group-title="TV Ecuador", TV Legislativa
 https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 
+TV Venezuela
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/43VJgXd5/Picsart-26-09-03-03-45-15-041.png"
+
+
+
+
 TV México
 
 #EXTINF:-1 group-logo="https://i.ibb.co/KpNwcXYD/Picsart-26-01-09-20-33-45-551.webp"
