@@ -463,9 +463,23 @@ https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
 #EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://i.postimg.cc/rsg2QmmV/image-1000023779-converted-To-Png.png" group-title="TV Venezuela", VTV
 https://hls.tvabierta.net/hls/vtv.m3u8
 
-#EXTINF:-1 tvg-id="TLT.ve" tvg-logo="https://i.postimg.cc/zXZ1hHdK/Picsart-26-09-02-07-26-54-198.png" group-title="TV Venezuela", Tele Tuya
+#EXTINF:-1 tvg-id="TLT.ve" tvg-logo="https://i.postimg.cc/05d5vntw/Picsart-26-09-03-11-41-59-237.png" group-title="TV Venezuela", Teletuya
 https://hls.tvabierta.net/hls/teletuya.m3u8
 
+#EXTINF:-1 tvg-id="TELEVEN.ve" tvg-logo="https://i.postimg.cc/Z5tsFktP/Picsart-26-09-03-13-14-20-306.png" group-title="TV Venezuela", Televen
+https://ds.tvabierta.net/memfs/1afd4436-1b0c-4c36-b003-7c6e1f2a791c.m3u8
+
+#EXTINF:-1 tvg-id="VALE TV.ve" tvg-logo="https://i.postimg.cc/WzSrDkv7/Picsart-26-09-03-13-19-49-615.png" group-title="TV Venezuela", Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBOVISION.ve" tvg-logo="https://i.postimg.cc/yNq2k4xB/Picsart-26-09-03-11-44-12-888.png" group-title="TV Venezuela", Globovisión
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL I.ve" tvg-logo="https://i.postimg.cc/CMq0MNm3/Canal-i-isologo-2026.png" group-title="TV Venezuela", Canal i
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Promar TV.py" tvg-logo="https://i.postimg.cc/5yJjSN3D/Promar-Television-(1).png" group-title="TV Venezuela", Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
 
 TV México
