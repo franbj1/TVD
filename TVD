@@ -475,6 +475,15 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-id="GLOBOVISION.ve" tvg-logo="https://i.postimg.cc/yNq2k4xB/Picsart-26-09-03-11-44-12-888.png" group-title="TV Venezuela", Globovisión
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.supaimg.com/674166fb-9ce3-45d3-990c-aa058ec634d7.png?raw=true" group-title="TV Venezuela", Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.supaimg.com/f716ecb0-8b3f-4df1-bee8-81562ecce380.png?raw=true" group-title="TV Venezuela", Telesur English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
+
+#EXTINF:-1 tvg-id="VEPACO TV.ve" tvg-logo="https://i.postimg.cc/7hbsZwvh/Picsart-26-09-03-13-42-22-257.png" group-title="TV Venezuela", Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
 #EXTINF:-1 tvg-id="CANAL I.ve" tvg-logo="https://i.postimg.cc/CMq0MNm3/Canal-i-isologo-2026.png" group-title="TV Venezuela", Canal i
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 
