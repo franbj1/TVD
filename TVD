@@ -1992,9 +1992,6 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="Somos Novelas" tvg-logo="https://i.postimg.cc/N0wYs8jS/somos-novelas.png" group-title="Novelas ᥫ᭡", Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VE PLUS TV" tvg-logo="https://i.supaimg.com/d3e568fe-27c5-4204-9646-e2c50368c197.png" group-title="Novelas ᥫ᭡", Ve Plus
-https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
 Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
