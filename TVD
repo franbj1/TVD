@@ -463,7 +463,7 @@ TV Venezuela
 #EXTINF:-1 tvg-id="VENEVISION.ve" tvg-logo="https://i.postimg.cc/BbDy8vWs/Picsart-26-09-03-03-49-37-730.png" group-title="TV Venezuela", Venevisión
 https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
 
-#EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://i.postimg.cc/rsg2QmmV/image-1000023779-converted-To-Png.png" group-title="TV Venezuela", VTV
+#EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://i.postimg.cc/rsg2QmmV/image-1000023779-converted-To-Png.png" group-title="TV Venezuela", Venezolana TV
 https://hls.tvabierta.net/hls/vtv.m3u8
 
 #EXTINF:-1 tvg-id="TLT.ve" tvg-logo="https://i.postimg.cc/05d5vntw/Picsart-26-09-03-11-41-59-237.png" group-title="TV Venezuela", Teletuya
@@ -484,16 +484,16 @@ https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="GLOBOVISION.ve" tvg-logo="https://i.postimg.cc/yNq2k4xB/Picsart-26-09-03-11-44-12-888.png" group-title="TV Venezuela", Globovisión
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VEPACO TV.ve" tvg-logo="https://i.postimg.cc/W4KL2RvP/Picsart-26-09-04-15-46-39-898.png" group-title="TV Venezuela", Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
 #EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.supaimg.com/674166fb-9ce3-45d3-990c-aa058ec634d7.png?raw=true" group-title="TV Venezuela", Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.supaimg.com/f716ecb0-8b3f-4df1-bee8-81562ecce380.png?raw=true" group-title="TV Venezuela", Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 
-#EXTINF:-1 tvg-id="VEPACO TV.ve" tvg-logo="https://i.postimg.cc/7hbsZwvh/Picsart-26-09-03-13-42-22-257.png" group-title="TV Venezuela", Vepaco TV
-https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-
-#EXTINF:-1 tvg-id="Promar TV.py" tvg-logo="https://i.postimg.cc/5yJjSN3D/Promar-Television-(1).png" group-title="TV Venezuela", Promar TV
+#EXTINF:-1 tvg-id="Promar TV.py" tvg-logo="https://i.postimg.cc/5yJjSN3D/Promar-Television-(1).png" group-title="TV Venezuela", Promar
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
 
