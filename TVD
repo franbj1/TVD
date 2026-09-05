@@ -454,9 +454,6 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-id="TVLegislativa.ec@SD" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" group-title="TV Ecuador", TV Legislativa
 https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="SHOWVEN TV.ve" tvg-logo="https://i.postimg.cc/rmkVtyM9/Picsart-26-09-03-15-07-30-031.png" group-title="TV Venezuela", Show Ven TV
-https://cdnbarinas.tvzamora.com/showven/index.m3u8
-
 TV Venezuela
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/43VJgXd5/Picsart-26-09-03-03-45-15-041.png"
@@ -488,7 +485,7 @@ https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="VEPACO TV.ve" tvg-logo="https://i.postimg.cc/W4KL2RvP/Picsart-26-09-04-15-46-39-898.png" group-title="TV Venezuela", Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
-#EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.supaimg.com/674166fb-9ce3-45d3-990c-aa058ec634d7.png?raw=true" group-title="TV Venezuela", Telesur
+#EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.postimg.cc/hv0Z40PX/Picsart-26-09-05-02-04-15-947.png" group-title="TV Venezuela", Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.supaimg.com/f716ecb0-8b3f-4df1-bee8-81562ecce380.png?raw=true" group-title="TV Venezuela", Telesur English
@@ -496,6 +493,9 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 
 #EXTINF:-1 tvg-id="Promar TV.py" tvg-logo="https://i.postimg.cc/g2Fx25Gq/Picsart-26-09-04-15-56-07-827.png group-title="TV Venezuela", Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SHOWVEN TV.ve" tvg-logo="https://i.postimg.cc/rmkVtyM9/Picsart-26-09-03-15-07-30-031.png" group-title="TV Venezuela", Show Ven
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
 
 
 TV México
