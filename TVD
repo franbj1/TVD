@@ -461,14 +461,14 @@ TV Venezuela
 #EXTINF:-1 tvg-id="VENEVISION.ve" tvg-logo="https://i.postimg.cc/HWb2C3VM/Picsart-26-09-05-01-43-21-033.png" group-title="TV Venezuela", Venevisión
 https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
 
-#EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://i.postimg.cc/rsg2QmmV/image-1000023779-converted-To-Png.png" group-title="TV Venezuela", Venezolana TV
-https://hls.tvabierta.net/hls/vtv.m3u8
+#EXTINF:-1 tvg-id="TELEVEN.ve" tvg-logo="https://i.postimg.cc/nLTjnjqP/Picsart-26-09-05-01-17-52-042.png" group-title="TV Venezuela", Televen
+https://ds.tvabierta.net/memfs/1afd4436-1b0c-4c36-b003-7c6e1f2a791c.m3u8
 
 #EXTINF:-1 tvg-id="TLT.ve" tvg-logo="https://i.postimg.cc/05d5vntw/Picsart-26-09-03-11-41-59-237.png" group-title="TV Venezuela", TLT Teletuya
 https://hls.tvabierta.net/hls/teletuya.m3u8
 
-#EXTINF:-1 tvg-id="TELEVEN.ve" tvg-logo="https://i.postimg.cc/nLTjnjqP/Picsart-26-09-05-01-17-52-042.png" group-title="TV Venezuela", Televen
-https://ds.tvabierta.net/memfs/1afd4436-1b0c-4c36-b003-7c6e1f2a791c.m3u8
+#EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://i.postimg.cc/rsg2QmmV/image-1000023779-converted-To-Png.png" group-title="TV Venezuela", Venezolana TV
+https://hls.tvabierta.net/hls/vtv.m3u8
 
 #EXTINF:-1 tvg-id="TVES.ve" tvg-logo="https://i.postimg.cc/QdqvsX9S/Picsart-26-09-05-13-00-47-538.png" group-title="TV Venezuela", TVES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -495,7 +495,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.postimg.cc/2jPn3WBk/Picsart-26-09-05-02-17-23-027.png" group-title="TV Venezuela", Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 
-#EXTINF:-1 tvg-id="Promar TV.py" tvg-logo="https://i.postimg.cc/g2Fx25Gq/Picsart-26-09-04-15-56-07-827.png group-title="TV Venezuela", Promar TV
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/g2Fx25Gq/Picsart-26-09-04-15-56-07-827.png group-title="TV Venezuela", Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SHOWVEN TV.ve" tvg-logo="https://i.postimg.cc/rmkVtyM9/Picsart-26-09-03-15-07-30-031.png" group-title="TV Venezuela", Show Ven
