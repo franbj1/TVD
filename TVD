@@ -470,10 +470,14 @@ https://hls.tvabierta.net/hls/teletuya.m3u8
 #EXTINF:-1 tvg-id="TELEVEN.ve" tvg-logo="https://i.postimg.cc/nLTjnjqP/Picsart-26-09-05-01-17-52-042.png" group-title="TV Venezuela", Televen
 https://ds.tvabierta.net/memfs/1afd4436-1b0c-4c36-b003-7c6e1f2a791c.m3u8
 
+#EXTINF:-1 tvg-id="TVES.ve" tvg-logo="https://i.postimg.cc/QdqvsX9S/Picsart-26-09-05-13-00-47-538.png" group-title="TV Venezuela", TVES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+
 #EXTINF:-1 tvg-id="VALE TV.ve" tvg-logo="https://i.postimg.cc/WzSrDkv7/Picsart-26-09-03-13-19-49-615.png" group-title="TV Venezuela", Vale TV
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 
-#EXTINF:-1 tvg-id=VENEVISION PLUS.ve" tvg-logo="https://i.postimg.cc/RZ90BmZz/Picsart-26-09-04-15-03-39-764.png" group-title="TV Venezuela", VE Plus
+#EXTINF:-1 tvg-id="VENEVISION PLUS.ve" tvg-logo="https://i.postimg.cc/RZ90BmZz/Picsart-26-09-04-15-03-39-764.png" group-title="TV Venezuela", VE Plus
 https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="CANAL I.ve" tvg-logo="https://i.postimg.cc/CMq0MNm3/Canal-i-isologo-2026.png" group-title="TV Venezuela", Canal i
