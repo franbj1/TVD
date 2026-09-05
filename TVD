@@ -488,7 +488,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.postimg.cc/hv0Z40PX/Picsart-26-09-05-02-04-15-947.png" group-title="TV Venezuela", Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.supaimg.com/f716ecb0-8b3f-4df1-bee8-81562ecce380.png?raw=true" group-title="TV Venezuela", Telesur English
+#EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.postimg.cc/2jPn3WBk/Picsart-26-09-05-02-17-23-027.png" group-title="TV Venezuela", Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 
 #EXTINF:-1 tvg-id="Promar TV.py" tvg-logo="https://i.postimg.cc/g2Fx25Gq/Picsart-26-09-04-15-56-07-827.png group-title="TV Venezuela", Promar TV
