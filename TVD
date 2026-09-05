@@ -482,7 +482,7 @@ https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="GLOBOVISION.ve" tvg-logo="https://i.postimg.cc/yNq2k4xB/Picsart-26-09-03-11-44-12-888.png" group-title="TV Venezuela", Globovisión
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VEPACO TV.ve" tvg-logo="https://i.postimg.cc/W4KL2RvP/Picsart-26-09-04-15-46-39-898.png" group-title="TV Venezuela", Vepaco TV
+#EXTINF:-1 tvg-id="VEPACO TV.ve" tvg-logo="https://i.postimg.cc/5NFNpxSP/Picsart-26-09-05-05-41-08-953.png" group-title="TV Venezuela", Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
 #EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://i.postimg.cc/hv0Z40PX/Picsart-26-09-05-02-04-15-947.png" group-title="TV Venezuela", Telesur
