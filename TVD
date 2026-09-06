@@ -28,7 +28,7 @@ http://200.91.32.158:8080/canal13hdvalle/index.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.ibb.co/84cRV93y/logo-alt.png?raw=true" group-title="Nacional", NET TV
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.postimg.cc/q74kj0gN/Picsart-26-09-06-19-37-22-721.png" group-title="Nacional", NET TV
 https://apps.playme.com.ar/dash/CH_NETTV/playlist.mpd
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
