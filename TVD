@@ -68,7 +68,7 @@ https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mundodeportes.online/pandatv/flow/keys.php?keyid=2959bf95e218a7ec8a9ea434430b45e7&key=9727d27dc22ad3a63d94338f92b7a55a
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://i.ibb.co/qMpL29Dm/1777596041906.webp" group-title="Nacional", Todo Notícias (4K)
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://i.postimg.cc/RZQdnr8z/Picsart-26-09-06-19-53-20-079.png" group-title="Nacional", Todo Notícias (4K)
 https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
 
 #EXTINF:-1 tvg-id="LA NACION +.ar" tvg-logo="https://i.postimg.cc/SNgq8z7P/Picsart-26-07-20-13-32-39-928.png" group-title="Nacional", La Nación + (LN+)
