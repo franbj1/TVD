@@ -56,7 +56,7 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ciudadmagazi
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.ibb.co/4n9gbKs8/volver-ar.webp" group-title="Nacional", Volver
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.postimg.cc/zBN0yttg/Picsart-26-09-06-19-43-59-968.png" group-title="Nacional", Volver
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-volver.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
