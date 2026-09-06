@@ -35,7 +35,7 @@ htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.postimg.cc/SR6dLwsr/Picsart-26-09-06-20-20-34-629.png" group-title="Nacional", Encuentro
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-encuentro.playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
