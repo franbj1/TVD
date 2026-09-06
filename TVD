@@ -18,8 +18,6 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playl
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=b28bf4d4eec81cb96e6ca9a0c022dcd5&keyid=675cb5adcd788bdee4af50518b041626
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
@@ -38,20 +36,17 @@ htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.ibb.co/Csv3Y69y/Picsart-25-08-27-21-30-05-000.webp" group-title="Nacional", Encuentro
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-encuentro.playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/HWKFC4z1/Picsart-26-07-20-13-50-38-289.png" group-title="Nacional", CARAS TV
-#EXTVLCOPT:http-user-agent="Android
-https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.postimg.cc/wvFmBNkx/Picsart-26-07-20-00-11-58-856.png" group-title="Nacional", Telemax
 #EXTVLCOPT:http-user-agent=Android
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.ibb.co/3yPC2cMb/Picsart-26-04-21-16-36-55-735.webp" group-title="Nacional", CINE AR
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-cinear.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 
@@ -81,6 +76,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevi
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/yx10LX7t/Picsart-26-07-20-17-53-24-389.png" group-title="Nacional", A24
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-a24.playlist.m3u8
 https://playcom.trapemn.tv:1935/transcoderip/america24.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true
@@ -92,7 +88,7 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 
 #EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://i.postimg.cc/7LWP38qz/Picsart-26-07-21-16-51-35-057.png" group-title="Nacional", ARI12
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-argentina12.playlist.m3u8
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ar12.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
