@@ -2016,41 +2016,29 @@ Deportes
 
 #EXTINF:-1 group-logo="https://i.ibb.co/PsKBnkk8/Picsart-26-02-03-03-36-44-644.webp"
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=de0cb81e4146240f61281db5bf0d0ade&keyid=f7d41f94c41a5943cd836a52a59b7ebc
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/variant.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.bvcplayer.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/dJtTyzyV/Picsart-26-04-18-19-38-13-853.webp" group-title="Deportes", TNT Sports AR
-https://bvclive2.boldmss.com/TNT_SPORTS/TNT_SPORTS.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
-
-#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=bbccac68c01477eed726fb1c11d54560:c29b4e05389dc0493aa29d0debbe5a76
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(espnpr_arg)/variant.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=b3e4e74ae2080b137e68bbd0ef8a7e05&keyid=cb004fb100bd92f23793562891e3236b
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN ARG
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=a81ee4a694fecd6aa8a682e5024b313c&key=6d15568e1dab59e7202ae12e71505185
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2 ARG
+#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2
 https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=8a60d7889ff126ee1895335e92254f8e&key=de1b0ce19fa804a1c473eb8ef2d5cf6d
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3 ARG
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3
 https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=54a2c11085c315ed6ff85c340a86095d&key=5f0d10cf4a5c7e22e286b7e8cb4e79f4
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4 ARG
+#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
 https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/manifest.mpd
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=bbccac68c01477eed726fb1c11d54560:c29b4e05389dc0493aa29d0debbe5a76
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espnpr_arg)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d17fdbc7f72e68adf298b71d935864ba&keyid=ce5f0570b7f89e2efe19c7bf3c77dae7
@@ -2101,6 +2089,17 @@ https://ablklrzaaaaaaaamjkudxoh6taw35.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/7J6Yqfwx/Picsart-26-05-03-21-26-32-935.webp" group-title="Deportes", DSports + Bia
 https://ablklrzaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.postimg.cc/T1TqD1rk/Picsart-26-02-26-00-36-15-316.png" group-title="Deportes", TNT Sports
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=de0cb81e4146240f61281db5bf0d0ade&keyid=f7d41f94c41a5943cd836a52a59b7ebc
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.bvcplayer.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.ibb.co/dJtTyzyV/Picsart-26-04-18-19-38-13-853.webp" group-title="Deportes", TNT Sports AR
+https://bvclive2.boldmss.com/TNT_SPORTS/TNT_SPORTS.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
+
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187371.m3u8
 
@@ -2114,34 +2113,6 @@ https://latan.stonetv.com.br/tyc-sports/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="TyC Sports.uy" tvg-logo="https://i.postimg.cc/8kJ317M7/Picsart-26-06-18-23-33-48-015.png" group-title="Deportes", TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?|referer=https://play.tycsports.com/
-
-#EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.ibb.co/4RdRH8tK/1777815133327.webp" group-title="Deportes", FOX Sports
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
-
-#EXTINF:-1 tvg-id="FOX Sports 2.uy" tvg-logo="https://i.ibb.co/zhTsDvJH/1770085599786.webp" group-title="Deportes", FOX Sports 2
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
-
-#EXTINF:-1 tvg-id="FOX Sports 3.uy" tvg-logo="https://i.ibb.co/8nnVbppx/1770086314401.webp" group-title="Deportes", FOX Sports 3
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
-
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/f79bv1h/Picsart-25-11-12-02-25-47-747.webp" group-title="Deportes", ESPN
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/R4zHLySW/Picsart-25-11-12-01-59-16-296.webp" group-title="Deportes", ESPN 2
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.ibb.co/FQfjQmF/Picsart-25-11-12-01-58-25-754.webp" group-title="Deportes", ESPN 3
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.ibb.co/HLM12DT2/Picsart-25-11-12-02-32-24-855.webp" group-title="Deportes", ESPN 4
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
