@@ -29,6 +29,7 @@ http://200.91.32.158:8080/canal13hdvalle/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.postimg.cc/q74kj0gN/Picsart-26-09-06-19-37-22-721.png" group-title="Nacional", NET TV
+#EXTVLCOPT:http-referrer=https://www.apps.playme.com.ar
 https://apps.playme.com.ar/dash/CH_NETTV/playlist.mpd
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
@@ -42,6 +43,7 @@ https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.postimg.cc/wvFmBNkx/Picsart-26-07-20-00-11-58-856.png" group-title="Nacional", Telemax
+#EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
 #EXTVLCOPT:http-user-agent=Android
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
@@ -50,12 +52,11 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-cinear.playl
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.ibb.co/7xDXDyPH/Picsart-26-03-17-17-24-14-852.webp" group-title="Nacional", Ciudad Magazine
+#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.postimg.cc/VsBD6GG7/Picsart-26-09-07-03-09-00-949.png" group-title="Nacional", Ciudad Magazine
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ciudadmagazine.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.postimg.cc/zBN0yttg/Picsart-26-09-06-19-43-59-968.png" group-title="Nacional", Volver
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-volver.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
@@ -98,7 +99,7 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-cronicatv.pl
 https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://i.postimg.cc/DyWSnYpb/Canal-26-logo-(2022)-svg.png" group-title="Nacional", 26 Notícias
-#EXTVLCOPttp-referrer=https://www.canal26.com/canal26-en-vivo/
+#EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
