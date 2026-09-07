@@ -19,11 +19,13 @@ http://200.91.32.158:8080/canal9hdvalle/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
+http://45.188.229.33:8000/play/a1cl/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
+http://45.188.229.33:8000/play/a1cm/index.m3u8
 http://200.91.32.158:8080/canal13hdvalle/index.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
