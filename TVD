@@ -2090,43 +2090,20 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=45bbd582f220f438f896450d8306a3f2&key%5B%5D=582c6ba7f64bbc0f2d91c6b0c265760c
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=278128004fe8c6ffb2cd2a0c154a241a&keyid=4f4c3a9912ea752e88f4497864a1bc8b
 #EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.postimg.cc/qBLLY516/Picsart-26-08-28-18-04-30-770.png" group-title="Deportes", DSports
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ea07b87acdf2e45be824cde4a1cf3504&keyid%5B%5D=03f12d6a3dbfd3a6fa7dd7f6417e0c11
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/8gbSRqCY/Picsart-26-06-02-01-19-32-455.webp" group-title="Deportes", DSports 2
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=c664b811a97edc555da47c1d22482542&keyid=0db71325e4256f5f16b348b3b1b7832a
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.postimg.cc/hGDVfzgm/dsports-2.png" group-title="Deportes", DSports 2
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ddfd7ca653d6f35543d8edb3c688e20f&keyid%5B%5D=83f81c4cc1443991543de4e22eea7586
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=3f8d519997196db76631dd4b427f53f6&keyid=da81f7165f73c884fc1dcf0bf3bd4bb5
 #EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.ibb.co/5WqrXhzc/Picsart-26-06-02-01-25-17-574.webp" group-title="Deportes", DSports +
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.ibb.co/Y7y501z4/Picsart-26-05-29-19-41-34-349.webp" group-title="Deportes", DSports AR
-https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/n8tVmxc1/Picsart-26-05-29-19-39-02-829.webp" group-title="Deportes", DSports 2 AR
-https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
-#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="https://i.ibb.co/bgzmGgFS/Picsart-26-06-08-22-29-00-925.webp" group-title="Deportes", DSports + AR
-https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -2145,16 +2122,6 @@ https://ablklrzaaaaaaaamjkudxoh6taw35.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=da81f7165f73c884fc1dcf0bf3bd4bb5:3f8d519997196db76631dd4b427f53f6
 #EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/7J6Yqfwx/Picsart-26-05-03-21-26-32-935.webp" group-title="Deportes", DSports + Bia
 https://ablklrzaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="https://i.postimg.cc/W1TSFCM1/Picsart-26-06-13-15-10-06-510.png" group-title="Deportes", DSports 1 DVR Cablevideo
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/266ae-ppn41-oaifc-pglii.m3u8
-
-#EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)17e0c11
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="https://i.ibb.co/dTLY0GN/Picsart-26-05-03-21-21-08-857.webp" group-title="Deportes", DSports 2 DVR Cablevideo
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/VYH4LzDS/Picsart-26-06-01-10-21-44-282.webp" group-title="Deportes", TyC Sports
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187371.m3u8
