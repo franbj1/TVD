@@ -91,6 +91,10 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 
+#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" tvg-logo="https://i.postimg.cc/pT2fL2CH/Picsart-26-09-11-10-59-52-510.png" group-title="Nacional", + Perfil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://i.postimg.cc/7LWP38qz/Picsart-26-07-21-16-51-35-057.png" group-title="Nacional", Argentina|12
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ar12.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
