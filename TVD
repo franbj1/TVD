@@ -36,12 +36,6 @@ https://canal11saltatv.unpocodeawita.workers.dev/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
-http://45.188.229.33:8000/play/a1cm/index.m3u8
-http://200.91.32.158:8080/canal13hdvalle/index.m3u8
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
-
 #EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://i.postimg.cc/q74kj0gN/Picsart-26-09-06-19-37-22-721.png" group-title="Nacional", NET TV
 #EXTVLCOPT:http-referrer=https://www.apps.playme.com.ar
 https://apps.playme.com.ar/dash/CH_NETTV/playlist.mpd
