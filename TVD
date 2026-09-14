@@ -3399,10 +3399,6 @@ https://streamunoapp.com:3408/live/aleluyatvlive.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.postimg.cc/wM5LKV7F/Picsart-26-06-20-17-56-16-558.png" group-title="Religión", Logos TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://streamer2.streamhost.org/salive/logosH/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Faro de Santidad" tvg-logo="https://i.ibb.co/xKN70QYg/Picsart-26-02-16-13-54-15-605.webp" group-title="Religión", Faro de Santidad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklist.m3u8
@@ -3475,6 +3471,7 @@ http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u
 https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio Vida" tvg-logo="https://i.postimg.cc/X7f3PFvh/Picsart-26-08-09-05-02-34-100.png" group-title="Religión", Radio Vida +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7L2XrHCz/Picsart-26-06-29-16-19-41-339.png" group-title="Religión", ÉL TV
@@ -3482,6 +3479,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV FAMILIA.ve" tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="Religión", TV Familia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 
 #EXTINF:-1 tvg-id="Luz divina TV" tvg-logo="https://i.postimg.cc/02Y8jP71/Picsart-26-06-29-13-09-46-954.png" group-title="Religión", LUZ Divina TV
@@ -3489,17 +3487,19 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 https://video.udwn.net:19360/luzdivinatv/luzdivinatv.m3u8
 
 #EXTINF:-1 tvg-id="Conexion Educativa.ar" tvg-logo="https://i.ibb.co/6cbzV335/Picsart-25-11-23-13-03-06-979.webp" group-title="Religión", Brightstar Latino 🕊️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 
 #EXTINF:-1 tvg-id="Luz Naciente TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/443a98a0-0c38-46de-b4ca-1ce4857437ef.png" group-title="Religión", Luz Naciente TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMw8JYJX/Picsart-25-11-24-02-49-10-509.webp" group-title="Religión", Catholic TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzjsXvp9/Picsart-25-11-24-02-27-25-767.webp" group-title="Religión", Cristo visión ✞
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Mariavision.cl" tvg-logo="https://i.ibb.co/W4KVvR4Z/1763964391295.webp" group-title="Religión", María Visión
