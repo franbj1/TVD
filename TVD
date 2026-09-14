@@ -3481,7 +3481,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="Religión", TV Familia
+#EXTINF:-1 tvg-id="TV FAMILIA.ve" tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="Religión", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 
 #EXTINF:-1 tvg-id="Luz divina TV" tvg-logo="https://i.postimg.cc/02Y8jP71/Picsart-26-06-29-13-09-46-954.png" group-title="Religión", LUZ Divina TV
