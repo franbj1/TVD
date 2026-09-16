@@ -1403,7 +1403,7 @@ TV Uruguay
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88928eece082402b99598ae4ecc08be6:d03c32df212148b40eecb445222e1288
-#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.ibb.co/b5X2zPLH/Picsart-25-12-26-19-23-44-110.webp" group-title="TV Uruguay", Canal 4
+#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-logo="https://i.postimg.cc/DfYDqWhs/Picsart-26-09-16-18-16-58-171.png" group-title="TV Uruguay", Canal 4
 https://mcgo3.boldmss.com/CANAL_4_HD/CANAL_4_HD_MC.isml/CANAL_4_HD_MC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
