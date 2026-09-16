@@ -1418,7 +1418,7 @@ https://mcgo3.boldmss.com/CANAL_12_HD/CANAL_12_HD_MC.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=218be4cb823d45aa99861cf532f83d7d:e50230ab33edf01dc89780b1e12323cb
-#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.ibb.co/twn9RSbY/Picsart-25-12-26-19-06-47-750.webp" group-title="TV Uruguay", Canal 5
+#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-logo="https://i.postimg.cc/FHSYVJJJ/Picsart-26-09-16-17-37-33-636.png" group-title="TV Uruguay", Canal 5
 https://mcgo3.boldmss.com/CANAL_5/CANAL_5_MC.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
