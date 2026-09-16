@@ -1413,7 +1413,7 @@ https://mcgo3.boldmss.com/CANAL_10_HD/CANAL_10_HD_MC.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e36b18dc45c4d83868da659f5354938:297464517e9c7f055e12095e6ac2b07b
-#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.ibb.co/spX1Krvq/Picsart-26-04-21-09-52-16-871.webp" group-title="TV Uruguay", Teledoce
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-logo="https://i.postimg.cc/fb92j5wt/Picsart-26-09-16-18-33-46-393.png" group-title="TV Uruguay", Teledoce
 https://mcgo3.boldmss.com/CANAL_12_HD/CANAL_12_HD_MC.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
