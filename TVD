@@ -24,12 +24,6 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
-#EXTINF:-1 tvg-id="Canal8MardelPlata.ar" tvg-logo="https://i.postimg.cc/RVRpmpQX/Picsart-26-09-13-02-54-16-530.png" group-title="Nacional", Canal 8 MDP
-https://canal8mdq.unpocodeawita.workers.dev/playlist.m3u8
-
-#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" tvg-logo="https://i.postimg.cc/vmzZtsWP/Picsart-26-09-13-02-57-47-678.png" group-title="Nacional", Canal 11 Salta
-https://canal11saltatv.unpocodeawita.workers.dev/playlist.m3u8
-
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
