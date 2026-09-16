@@ -42,6 +42,9 @@ https://apps.playme.com.ar/dash/CH_NETTV/playlist.mpd
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
+#EXTINF:-1 tvg-id="BravoTv.ar"  tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&nd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.postimg.cc/SR6dLwsr/Picsart-26-09-06-20-20-34-629.png" group-title="Nacional", Encuentro
