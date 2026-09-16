@@ -1432,7 +1432,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
-#EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.ibb.co/99kLYKKr/Canal-21-2019.webp" group-title="TV Uruguay", Canal (21)
+#EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.postimg.cc/LXHP6B8F/Canal-21-Uruguay.png" group-title="TV Uruguay", Canal (21)
 https://mcgo3.boldmss.com/CANAL_21/CANAL_21_MC.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Canal Once Punta.uy" tvg-logo="https://i.postimg.cc/Fs98C8dy/Picsart-26-07-03-12-51-16-348.png" group-title="TV Uruguay", Canal 11
