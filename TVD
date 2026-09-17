@@ -2571,7 +2571,7 @@ http://190.11.225.124:5000/live/teletica_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Cine TV", Canal Coco TV
 ##EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://mlb.essastream.com:8081/canalcocotv/index.m3u8
+https://edge.essastream.com/canalcocotv/index.m3u8
 
 #EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="Cine TV", Crom TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
