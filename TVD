@@ -1435,11 +1435,11 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="Canal 21.uy" tvg-logo="https://i.postimg.cc/LXHP6B8F/Canal-21-Uruguay.png" group-title="TV Uruguay", Canal (21)
 https://mcgo3.boldmss.com/CANAL_21/CANAL_21_MC.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canal Once Punta.uy" tvg-logo="https://i.postimg.cc/Fs98C8dy/Picsart-26-07-03-12-51-16-348.png" group-title="TV Uruguay", Canal 11
+#EXTINF:-1 tvg-id="CanalOncePunta.uy" tvg-logo="https://i.postimg.cc/Fs98C8dy/Picsart-26-07-03-12-51-16-348.png" group-title="TV Uruguay", Canal 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Florida Televisora Color HD.uy" tvg-logo="https://i.postimg.cc/SQZsNdxM/1783012663087.png" group-title="TV Uruguay", TV Florida
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/SQZsNdxM/1783012663087.png" group-title="TV Uruguay", TV Florida
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://hostingservicios.info/hls/tv-florida.m3u8
 
@@ -1447,7 +1447,7 @@ https://hostingservicios.info/hls/tv-florida.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://183.bozztv.com/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/05J1QdgC/Picsart-26-09-16-17-27-17-494.png" group-title="TV Uruguay", Vivo TV
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/05J1QdgC/Picsart-26-09-16-17-27-17-494.png" group-title="TV Uruguay", VIVO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://stream.vivotv.uy/hls/stream.m3u8
 
@@ -1455,7 +1455,7 @@ https://stream.vivotv.uy/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/50j6Vn24/Picsart-26-08-31-23-00-08-503.png" group-title="TV Uruguay", Canal MÁS
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/50j6Vn24/Picsart-26-08-31-23-00-08-503.png" group-title="TV Uruguay", Canal M+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 
