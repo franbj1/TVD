@@ -1631,7 +1631,7 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/904Q78kq/Picsart-26-09-18-15-04-04-274.png" group-title="TV Paraguay", Canal 8 CVS
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
-#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/mgW7TCcw/1789755519459.png" group-title="TV Paraguay", Canal 5 TV Max
+#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/VsWWqTPk/Canal-5-TV-MAX.png" group-title="TV Paraguay", Canal 5 TV Max
 https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
 
 #EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/R0H7mddV/Picsart-26-09-18-15-33-40-512.png" group-title="TV Paraguay", Oasis TV
