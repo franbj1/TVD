@@ -1524,17 +1524,18 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMÃ‰RICA TELEVISION.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América INT
+#EXTINF:-1 tvg-id="AMÃ‰RICA TELEVISION.py" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://i.postimg.cc/VNm3dJ71/Picsart-26-06-19-13-56-27-603.png" group-title="TV Paraguay", El Nueve INT
+#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 Paraguay
+https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://i.postimg.cc/VNm3dJ71/Picsart-26-06-19-13-56-27-603.png" group-title="TV Paraguay", El Nueve
 https://latan.stonetv.com.br/elnueve/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe INT
+#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe Internacional
+http://190.108.83.69:8000/play/a08l/index.m3u8
 https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="America 24.py" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 INT
-https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Trece Internacional.cl" tvg-logo="https://i.ibb.co/08VhhYb/Picsart-26-04-10-04-15-23-871.webp" group-title="TV Paraguay", El Trece Internacional
 #EXTVLCOPT:http-user-agent="Android
