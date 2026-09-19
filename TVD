@@ -1629,7 +1629,7 @@ https://live.enhdtv.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.ibb.co/HLJBkv38/1768408290117.webp" group-title="TV Paraguay", Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/904Q78kq/Picsart-26-09-18-15-04-04-274.png" group-title="TV Paraguay", Canal 8 CVS
+#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/G3yC7FhV/Canal-8-CVS.png" group-title="TV Paraguay", Canal 8 CVS
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
 #EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/VsWWqTPk/Canal-5-TV-MAX.png" group-title="TV Paraguay", Canal 5 TV Max
