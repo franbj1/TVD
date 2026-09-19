@@ -2635,6 +2635,9 @@ https://cnn.hostlagarto.com/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="Cascara TV" tvg-logo="https://i.postimg.cc/44PfYWtz/Picsart-26-09-17-03-37-33-568.png" group-title="Cine TV", Cascara TV
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Best Clásicos TV" tvg-logo="https://i.postimg.cc/Qtfg73sN/Best-Clasicos-TV.png" group-title="Cine TV", Best Clásicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="La Descarga TV" tvg-logo="https://i.postimg.cc/ZRHJHbCh/Picsart-26-09-02-07-23-03-740.png" group-title="Cine TV", La Descarga TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 
