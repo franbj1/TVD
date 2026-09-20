@@ -17,6 +17,11 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://45.188.229.33:8000/play/a1aw/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff44d9aca7fe481da98900d1f79cb345:bca3a993208129b9bd4eed159d8cdfb2
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.postimg.cc/N0bdWf37/1783092895418.png" group-title="Nacional", Gran Hermano Uruguay C10 desde la casa de Agentina
+https://mcgo3.boldmss.com/CANAL_10_HD/CANAL_10_HD_MC.isml/manifest.mpd
+
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
