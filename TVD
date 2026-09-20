@@ -1560,6 +1560,7 @@ https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=d5505c
 https://latan.stonetv.com.br/tropicalia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Popu TV.py" tvg-logo="https://i.ibb.co/XrZH1cQm/Picsart-26-05-06-17-07-58-543.webp" group-title="TV Paraguay", Popu TV
+http://190.108.83.69:8000/play/a070/index.m3u8
 https://copacogen.desdeparaguay.net/universotv/universotv_baja/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="FMAS.py" tvg-logo="https://i.ibb.co/g8W0tdV/1778125558436.webp" group-title="TV Paraguay", Aspen 102.7 (Pura Música)
