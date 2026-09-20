@@ -1655,6 +1655,12 @@ https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/XYKpYPYH/Picsart-26-06-15-03-39-53-986.png" group-title="TV Paraguay", Visión TV
 https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/0jxcWpZT/Colmenar-TV.png" group-title="TV Paraguay", Colmenar TV
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+
+#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/pLS1B5j8/Guaira-TV.png" group-title="TV Paraguay", Guaira TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+
 TV España
 
 #EXTINF:-1 group-logo="https://i.ibb.co/HTZHfNkF/Picsart-26-04-14-16-40-40-090.webp"
