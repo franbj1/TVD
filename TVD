@@ -1607,7 +1607,7 @@ https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/playlist.m3u8
 #EXTINF:-1 tvg-id="Telequince.py" tvg-logo="https://i.ibb.co/TqktkXn0/Picsart-26-05-22-17-30-23-920.webp" group-title="TV Paraguay", Telequince
 https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
 
-#EXTINF:-1 tvg-id="Cad TV.py" tvg-logo="https://i.ibb.co/24Jv8FG/Picsart-26-05-05-00-31-56-877.webp" group-title="TV Paraguay", CAD TV
+#EXTINF:-1 tvg-id="Cad TV.py" tvg-logo="https://i.ibb.co/24Jv8FG/Picsart-26-05-05-00-31-56-877.webp" group-title="TV Paraguay", CADTV
 https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 
 #EXTINF:-1 tvg-id="RCC.py" tvg-logo="https://i.ibb.co/RKm1gSX/Picsart-26-01-13-00-23-11-931.webp" group-title="TV Paraguay", RCC
@@ -1631,20 +1631,14 @@ https://copacogen.desdeparaguay.net/sagradostv/sagradostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Motor Sur.py" tvg-logo="https://i.ibb.co/xKFcqfg9/Picsart-26-05-06-12-36-16-356.webp" group-title="TV Paraguay", Motor Sur
 https://live.enhdtv.com:8081/8116/index.m3u8
 
-#EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.postimg.cc/13vv3nM4/Cosmos.png" group-title="TV Paraguay", Cosmos
+#EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.postimg.cc/L4znchtM/Cosmos.png" group-title="TV Paraguay", Cosmos
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
 #EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/G3yC7FhV/Canal-8-CVS.png" group-title="TV Paraguay", Canal 8 CVS
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
-#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/VsWWqTPk/Canal-5-TV-MAX.png" group-title="TV Paraguay", Canal 5 TV Max
+#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/VsWWqTPk/Canal-5-TV-MAX.png" group-title="TV Paraguay", TV MAX
 https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
-
-#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/R0H7mddV/Picsart-26-09-18-15-33-40-512.png" group-title="TV Paraguay", Oasis TV
-https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-
-#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/8c0dD02m/Picsart-26-09-18-15-42-29-453.png" group-title="TV Paraguay", Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/0pw6S8HB/Picsart-26-05-06-13-36-32-153.webp" group-title="TV Paraguay", TV Chaqueña
 https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
