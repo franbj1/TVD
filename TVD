@@ -1602,6 +1602,9 @@ https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Monumental TV.py" tvg-logo="https://i.ibb.co/DPS5dCDr/Picsart-26-05-15-10-24-41-706.webp" group-title="TV Paraguay", Monumental TV
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
+#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/wvmMMshc/AGR-TV-Canal-7.png" group-title="TV Paraguay", AGR TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Lengua de Señas TV.py" tvg-logo="https://i.ibb.co/VYhJRsYf/1778206411338.webp" group-title="TV Paraguay", Lengua de Señas
 https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/playlist.m3u8
 
@@ -1658,6 +1661,9 @@ https://tvdatta.com:3041/live/colmenarlive.m3u8
 
 #EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/pLS1B5j8/Guaira-TV.png" group-title="TV Paraguay", Guaira TV
 https://tvdatta.com:3991/live/guairatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/FzYvWtKV/Local-Net-TV.png" group-title="TV Paraguay", Local Net TV
+https://video.hostingcaaguazu.com:19360/localtv/localtv.m3u8
 
 TV España
 
