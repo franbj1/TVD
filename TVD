@@ -1409,11 +1409,9 @@ https://mcgo3.boldmss.com/CANAL_4_HD/CANAL_4_HD_MC.isml/CANAL_4_HD_MC.mpd
 #EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.postimg.cc/N0bdWf37/1783092895418.png" group-title="TV Uruguay", Canal 10
 https://mcgo3.boldmss.com/CANAL_10_HD/CANAL_10_HD_MC.isml/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fhttps://delgadolife.net/mundo/api/results.php?key=cfbdedd19129090d734b99efbad51e5c&keyid=f7c8274911b1300093c7b21278ed9c3d
 #EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-logo="https://i.postimg.cc/tgqRWPk8/GH-Gran-Hermano-Uruguay.png" group-title="TV Uruguay", GH Uruguay
-#EXTVLCOPT:http-referrer=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=android_mobile.directvgo.com
+#KODIPROP:inputstream.adaptive.license_key=fhttps://delgadolife.net/mundo/api/results.php?key=cfbdedd19129090d734b99efbad51e5c&keyid=f7c8274911b1300093c7b21278ed9c3d
 https://7513b438a7344ce091a2b9cf6e46dc27.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1285/1285_GRAN_HERMANO_CAMARA_3_DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
