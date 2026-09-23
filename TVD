@@ -2255,78 +2255,77 @@ AFA Play
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/Fsgn5f54/AFA-Play.png"
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png"
-group-title="AFA Play", LPF Play 1
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 1
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/1.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 2
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 2
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/2.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 3
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 3
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/3.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 4
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 4
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/4.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 5
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 5
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/5.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 6
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 6
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/6.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 7
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 7
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/7.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 8
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 8
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/8.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 9
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 9
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/9.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 10
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 10
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/10.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 11
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 11
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/11.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 12
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 12
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/12.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 13
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 13
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/13.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 14
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 14
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/14.m3u8
 
-#EXTINF:-1 tvg-id="LPF Play" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 15
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 15
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 https://emitiendoenvivo.com:443/lpf/15.m3u8
