@@ -2253,7 +2253,7 @@ http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
 AFA Play
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/Fsgn5f54/AFA-Play.png"
+#EXTINF:-1 group-logo="https://i.postimg.cc/c4tZWB1H/AFA-Play.png"
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/vZrfT98r/LPF-Play.png" group-title="AFA Play", LPF Play 1
 #EXTVLCOPT:http-referrer=https://www.lpfplay.com/
