@@ -253,9 +253,10 @@ https://ds.tvabierta.net/memfs/a28c3975-eed3-47a3-8f55-f9a5bd0b0092.m3u8
 http://libretv.ddnsfree.com/TVPLive/Play/1
 
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.postimg.cc/cCYSfW44/Picsart-26-08-23-23-37-41-273.png" group-title="TV Colombia", RCN Novelas
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/34
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
+htt://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.postimg.cc/mkCVXsVb/Picsart-26-08-23-14-55-52-625.png" group-title="TV Colombia", Caracol Televisión
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -308,10 +309,6 @@ http://libretv.ddnsfree.com/TVPLive/Play/22
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.postimg.cc/654QSmfX/Canal-Zoom2018.webp" group-title="TV Colombia", Zoom TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
-
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/jSprSBnC/Blu-Radio2018.webp" group-title="TV Colombia", BLU Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
 #EXTINF:-1 tvg-id="YOUTUBE.co" tvg-logo="https://i.postimg.cc/VvmzbgHM/Picsart-26-08-22-03-07-12-821.png" group-title="TV Colombia", Red +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
