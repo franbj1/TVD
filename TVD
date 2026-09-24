@@ -1617,11 +1617,14 @@ https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 tvg-id="Almaya TV.py" tvg-logo="https://i.ibb.co/MxX22y4d/Picsart-26-01-14-00-13-01-297.webp" group-title="TV Paraguay", Almaya TV
 https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 
-#EXTINF:-1 tvg-id="Mi TV.py" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/N6vksxbj/1768360921817.webp" group-title="TV Paraguay", Mi TV
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
 
-#EXTINF:-1 tvg-id="Next.py" tvg-logo="https://i.ibb.co/zWsqMKdt/Picsart-26-05-05-00-36-44-618.webp" group-title="TV Paraguay", N (Next)
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.ibb.co/zWsqMKdt/Picsart-26-05-05-00-36-44-618.webp" group-title="TV Paraguay", N (Next)
 https://edge.enhdtv.com/nexthd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/NGCkDbBL/Invasiva.png" group-title="TV Paraguay", Invasiva
+https://tv-omega-nine.vercel.app/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/9Q035ZYN/Del-Rey-TV.png" group-title="TV Paraguay", Del Rey TV
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
@@ -1635,10 +1638,10 @@ https://live.enhdtv.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="Cosmos.py" tvg-logo="https://i.postimg.cc/L4znchtM/Cosmos.png" group-title="TV Paraguay", Cosmos
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/G3yC7FhV/Canal-8-CVS.png" group-title="TV Paraguay", Canal 8 CVS
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/G3yC7FhV/Canal-8-CVS.png" group-title="TV Paraguay", Canal 8 CVS
 https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
-#EXTINF:-1 tvg-id="Univision.py" tvg-logo="https://i.postimg.cc/VsWWqTPk/Canal-5-TV-MAX.png" group-title="TV Paraguay", TV MAX
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/VsWWqTPk/Canal-5-TV-MAX.png" group-title="TV Paraguay", TV MAX
 https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
 
 #EXTINF:-1 tvg-id="TV Chaqueña.py" tvg-logo="https://i.ibb.co/0pw6S8HB/Picsart-26-05-06-13-36-32-153.webp" group-title="TV Paraguay", TV Chaqueña
@@ -1650,13 +1653,13 @@ https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8 Visión.py" tvg-logo="https://i.postimg.cc/XYKpYPYH/Picsart-26-06-15-03-39-53-986.png" group-title="TV Paraguay", Visión TV
 https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/0jxcWpZT/Colmenar-TV.png" group-title="TV Paraguay", Colmenar TV
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/0jxcWpZT/Colmenar-TV.png" group-title="TV Paraguay", Colmenar TV
 https://tvdatta.com:3041/live/colmenarlive.m3u8
 
-#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/pLS1B5j8/Guaira-TV.png" group-title="TV Paraguay", Guaira TV
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/pLS1B5j8/Guaira-TV.png" group-title="TV Paraguay", Guaira TV
 https://tvdatta.com:3991/live/guairatvlive.m3u8
 
-#EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/FzYvWtKV/Local-Net-TV.png" group-title="TV Paraguay", Local Net TV
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/FzYvWtKV/Local-Net-TV.png" group-title="TV Paraguay", Local Net TV
 https://video.hostingcaaguazu.com:19360/localtv/localtv.m3u8
 
 TV España
