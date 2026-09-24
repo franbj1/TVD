@@ -410,7 +410,7 @@ https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Victoria.ec" tvg-logo="https://i.ibb.co/ccxdyj7G/Picsart-26-04-26-11-18-01-029.webp" group-title="TV Ecuador", TV Victoria
 http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/42.m3u8
 
-#EXTINF:-1 tvg-id="Canal Gamavisión" tvg-logo="https://i.ibb.co/VcZDxgxg/Picsart-26-03-27-02-45-30-602.webp" group-title="TV Ecuador", Gamavisión
+#EXTINF:-1 tvg-id="Canal.Gamavisión.ec" tvg-logo="https://i.ibb.co/VcZDxgxg/Picsart-26-03-27-02-45-30-602.webp" group-title="TV Ecuador", Gamavisión
 http://45.224.97.181:9999/Gamavision/index.m3u8
 
 #EXTINF:-1 tvg-id="Austral TV.ec" tvg-logo="https://i.ibb.co/b5fgRypZ/Picsart-26-03-26-03-37-03-882.webp" group-title="TV Ecuador", Austral TV
