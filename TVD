@@ -252,9 +252,8 @@ https://ds.tvabierta.net/memfs/a28c3975-eed3-47a3-8f55-f9a5bd0b0092.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/1
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.postimg.cc/cCYSfW44/Picsart-26-08-23-23-37-41-273.png" group-title="TV Colombia", RCN Novelas
+http://libretv.ddnsfree.com/TVPLive/Play/34
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
@@ -451,7 +450,6 @@ https://eu1.servers10.com:8081/8020/index.m3u8
 https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
 
 #EXTINF:-1 tvg-id="Telesucesos.ec@SD" tvg-logo="https://i.imgur.com/D1BBTv8.png" group-title="TV Ecuador", Telesucesos
-#EXTVLCOPT:http-referrer=https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/play.html?name=UIO-HD
 https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
 
 #EXTINF:-1 tvg-id="TVCisne.ec@SD" tvg-logo="https://i.imgur.com/xIuFSnx.png" group-title="TV Ecuador", TV Cisne
