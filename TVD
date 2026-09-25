@@ -2654,42 +2654,43 @@ Cine TV
 #EXTINF:-1 group-logo="https://i.postimg.cc/d0Y8Yjzm/unnamed-(3).png"
 
 #EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d2611ebf-0966-4fbb-bdae-fafbc2a62496.png" group-title="Cine TV", ENT Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/744a4a00-556d-4d51-8738-bb47be4ea778.png" group-title="Cine TV", ENT Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.ibb.co/qMsBGJBr/Picsart-25-11-28-23-30-46-401.webp" group-title="Cine TV", WOW Movies
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Family TV" tvg-logo="https://i.postimg.cc/t4mXsG95/Picsart-26-06-22-22-19-24-501.png" group-title="Cine TV", Family TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://tv.webmedialive.com/familytv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Ultra TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/341ade12-7e1e-4e0b-a071-d7fa45f40c0d.png" group-title="Cine TV", Ultra TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 
 #EXTINF:-1 tvg-id="Urbana TV.pe" tvg-logo="https://i.postimg.cc/J0gVSndW/1786980930102.png" group-title="Cine TV", Urbana TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://tv.sistemasandinos.org/urbanatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 7 de Costa Rica (Teletica).cr" tvg-logo="https://i.postimg.cc/Fst7vY5M/Picsart-26-08-19-23-12-17-028.png" group-title="Cine TV", Teletica 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://190.11.225.124:5000/live/teletica_sd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Cine TV", Coco TV
-##EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://edge.essastream.com/canalcocotv/index.m3u8
 
 #EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="Cine TV", CROM TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.postimg.cc/tJ5TqZMD/NET-Channel.png" group-title="Cine TV", NET Channel
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/02x7d7GJ/Nexxo-TV.png" group-title="Cine TV", NEXXO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://edge.essastream.com/nexxontv/index.m3u8
 
 #EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/5WY3ydKK/Picsart-25-11-29-03-16-56-757.webp" group-title="Cine TV", Retro TV
@@ -2697,52 +2698,67 @@ https://edge.essastream.com/nexxontv/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WTV" tvg-logo="https://i.postimg.cc/m29md5wH/Picsart-26-09-17-03-29-50-774.png" group-title="Cine TV", Retro X Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream-retroxtv.site/live/retroxplus.m3u8
 
 #EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="Cine TV", Retro TV ONLINE
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal A1" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/bdcae8c5-8a9b-4c8e-8292-1f52a7720849.png" group-title="Cine TV", Canal UNO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://tv.canala1.com:8081/web/video.m3u8
 
 #EXTINF:-1 tvg-id="Altanto TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/ceed29fc-b2ce-4304-8818-805bb8c326a7.png" group-title="Cine TV", Altanto TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8?player_v=20260730-1
 
 #EXTINF:-1 tvg-id="El Chavo TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/018cd167-f2e3-46af-a882-5c3d20a2639d.png" group-title="Cine TV", El Chavo del 8 (24/7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpsons TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/2b29d17b-6be2-4c60-9223-5f9d18242526.png" group-title="Cine TV", Los Simpsons (24/7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Stream Uno TV" tvg-logo="https://i.postimg.cc/NFsWjRsW/Picsart-26-09-02-07-11-31-561.png" group-title="Cine TV", Stream Uno TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://streamunoapp.com:3201/live/streamunotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/1z5kgW3z/ATV.png" group-title="Cine TV", ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://micanal.ovh/livestreams/142.RZYR3NWFIHKH.m3u8
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/YCJF0P31/Mi-Canal.png" group-title="Cine TV", Mi Canal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://micanal.ovh/livestreams/85.3GBVMU744PUH.m3u8
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="Cine TV", Pride TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
 
 #EXTINF:-1 tvg-id="Orbit TV" tvg-logo="https://i.postimg.cc/zvNRbX4N/Picsart-26-09-02-07-20-10-868.png" group-title="Cine TV", Orbit TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cnn.hostlagarto.com/orbittv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cascara TV" tvg-logo="https://i.postimg.cc/44PfYWtz/Picsart-26-09-17-03-37-33-568.png" group-title="Cine TV", Cascara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Best Clásicos TV" tvg-logo="https://i.postimg.cc/Qtfg73sN/Best-Clasicos-TV.png" group-title="Cine TV", BEST Clásicos TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="La Descarga TV" tvg-logo="https://i.postimg.cc/ZRHJHbCh/Picsart-26-09-02-07-23-03-740.png" group-title="Cine TV", La Descarga TV
+#EXTINF:-1 tvg-id="La Descarga TV" tvg-logo="https://i.postimg.cc/YCSSvtG1/La-Descarga-TV.png" group-title="Cine TV", La Descarga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 
-#EXTINF:-1 tvg-id="AME47" tvg-logo="https://i.postimg.cc/zXZ1hHdK/Picsart-26-09-02-07-26-54-198.png" group-title="Cine TV", AmeTV
+#EXTINF:-1 tvg-id="AME47" tvg-logo="https://i.postimg.cc/zXZ1hHdK/Picsart-26-09-02-07-26-54-198.png" group-title="Cine TV", AME TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WTV" tvg-logo="https://i.postimg.cc/HsykDCN2/Picsart-26-09-02-07-34-13-883.png" group-title="Cine TV", WTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 HBO + Universal
