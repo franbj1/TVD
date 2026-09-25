@@ -2761,6 +2761,26 @@ https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
+#EXTINF:-1 tvg-name="Delmi Channel" tvg-id="DelmiChannel" tvg-logo="https://i.ibb.co/gZCCQtMx/Delmi-Channel.png" group-title="Cine TV", Delmi Channel HD4https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Delmi Channel Galicia" tvg-id="DelmiChannelGalicia" tvg-logo="https://i.ibb.co/mCctc4tH/Delmi-Channel-Galicia.png" group-title="Cine TV", Delmi Channel Galicia HD6https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Delmi TV" tvg-id="DelmiTV" tvg-logo="https://i.ibb.co/q3YGJVjN/Delmi-TV.png" group-title="Cine TV", Delmi TV HD8https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VpMxXM8J/Logo-Vision-Occidental.png" group-title="Cine TV", TL más Santa Ana HD10https://lbgo.bozztv.com/ssh101/ssh101/votvsv214/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Cine TV", FUN TV HD12https://lbgo.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jKZjB56/Logo-Ani-Fun.png" group-title="Cine TV", Ani Fun HD14https://lbgo.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
+
+tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="Cine TV", Adult Swim LA HD16http://190.60.39.221:8000/play/a05x17/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="Cine TV", Invasiva Media HD18https://stream.invasivamedia.workers.dev/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="Cine TV", Unetev HD20https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="Cine TV", Casa Grande TV HD22https://lbgo.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+
 HBO + Universal
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L8Qpvn7Y/Nuevo-proyecto-5-8594A15.png"
