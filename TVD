@@ -2718,6 +2718,15 @@ http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 #EXTINF:-1 tvg-id="Stream Uno TV" tvg-logo="https://i.postimg.cc/NFsWjRsW/Picsart-26-09-02-07-11-31-561.png" group-title="Cine TV", Stream Uno TV
 https://streamunoapp.com:3201/live/streamunotvlive.m3u8
 
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/1z5kgW3z/ATV.png" group-title="Cine TV", ATV
+https://micanal.ovh/livestreams/142.RZYR3NWFIHKH.m3u8
+
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/YCJF0P31/Mi-Canal.png" group-title="Cine TV", Mi Canal
+https://micanal.ovh/livestreams/85.3GBVMU744PUH.m3u8
+
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="Cine TV", Pride TV
+https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
+
 #EXTINF:-1 tvg-id="Orbit TV" tvg-logo="https://i.postimg.cc/zvNRbX4N/Picsart-26-09-02-07-20-10-868.png" group-title="Cine TV", Orbit TV
 https://cnn.hostlagarto.com/orbittv/index.m3u8
 
