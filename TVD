@@ -2677,19 +2677,19 @@ https://tv.sistemasandinos.org/urbanatv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 http://190.11.225.124:5000/live/teletica_sd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Cine TV", Canal Coco TV
+#EXTINF:-1 tvg-id="Coco TV" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Cine TV", Coco TV
 ##EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://edge.essastream.com/canalcocotv/index.m3u8
 
-#EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="Cine TV", Crom TV
+#EXTINF:-1 tvg-id="CromTV" tvg-logo="https://i.ibb.co/Kxz0F3qR/Picsart-25-11-28-03-05-13-878.webp" group-title="Cine TV", CROM TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 
-#EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.ibb.co/5g8WNhz1/1764350948472.webp" group-title="Cine TV", NET Channel
+#EXTINF:-1 tvg-id="Net Channel" tvg-logo="https://i.postimg.cc/tJ5TqZMD/NET-Channel.png" group-title="Cine TV", NET Channel
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/02x7d7GJ/Nexxo-TV.png" group-title="Cine TV", Nexxo TV
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/02x7d7GJ/Nexxo-TV.png" group-title="Cine TV", NEXXO TV
 https://edge.essastream.com/nexxontv/index.m3u8
 
 #EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/5WY3ydKK/Picsart-25-11-29-03-16-56-757.webp" group-title="Cine TV", Retro TV
@@ -2699,11 +2699,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="WTV" tvg-logo="https://i.postimg.cc/m29md5wH/Picsart-26-09-17-03-29-50-774.png" group-title="Cine TV", Retro X Plus
 https://stream-retroxtv.site/live/retroxplus.m3u8
 
-#EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="Cine TV", Retro Cine TV
+#EXTINF:-1 tvg-id="Retro CineTV" tvg-logo="https://i.ibb.co/FqBjr6pL/1764397898758.webp" group-title="Cine TV", Retro TV ONLINE
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal A1" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/bdcae8c5-8a9b-4c8e-8292-1f52a7720849.png" group-title="Cine TV", Canal A1
+#EXTINF:-1 tvg-id="Canal A1" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/bdcae8c5-8a9b-4c8e-8292-1f52a7720849.png" group-title="Cine TV", Canal UNO
 https://tv.canala1.com:8081/web/video.m3u8
 
 #EXTINF:-1 tvg-id="Altanto TV" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/ceed29fc-b2ce-4304-8818-805bb8c326a7.png" group-title="Cine TV", Altanto TV
@@ -2724,7 +2724,7 @@ https://cnn.hostlagarto.com/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="Cascara TV" tvg-logo="https://i.postimg.cc/44PfYWtz/Picsart-26-09-17-03-37-33-568.png" group-title="Cine TV", Cascara TV
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Best Clásicos TV" tvg-logo="https://i.postimg.cc/Qtfg73sN/Best-Clasicos-TV.png" group-title="Cine TV", Best Clásicos TV
+#EXTINF:-1 tvg-id="Best Clásicos TV" tvg-logo="https://i.postimg.cc/Qtfg73sN/Best-Clasicos-TV.png" group-title="Cine TV", BEST Clásicos TV
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="La Descarga TV" tvg-logo="https://i.postimg.cc/ZRHJHbCh/Picsart-26-09-02-07-23-03-740.png" group-title="Cine TV", La Descarga TV
