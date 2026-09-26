@@ -327,7 +327,7 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp02.smil/playlist.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-name="Canal Institucional • Colombia"tvg-logo="https://i.postimg.cc/rpk52HjL/Picsart-26-08-19-12-40-06-294.png" group-title="TV Colombia", Canal Institucional
+#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-name="Canal Institucional • Colombia" tvg-logo="https://i.postimg.cc/rpk52HjL/Picsart-26-08-19-12-40-06-294.png" group-title="TV Colombia", Canal Institucional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?DVR
 
