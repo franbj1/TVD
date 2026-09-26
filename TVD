@@ -29,8 +29,12 @@ https://cntv02.cdn.rcs.net.ar/mnp/el13/output.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="BravoTv.ar"  tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
+#EXTINF:-1 tvg-id="0963" tvg-name="Bravo TV • Argentina" tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&nd
+
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife • Argentina" tvg-logo="https://i.postimg.cc/mrR5SSjw/Unife.png" group-title="Nacional", Unife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
 #EXTINF:-1 tvg-id="0939" tvg-name="Net TV • Argentina"  tvg-logo="https://i.postimg.cc/q74kj0gN/Picsart-26-09-06-19-37-22-721.png" group-title="Nacional", NET TV
 #EXTVLCOPT:http-referrer=https://www.apps.playme.com.ar
@@ -42,10 +46,6 @@ htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 https://cntv02.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
-
-#EXTINF:-1 tvg-id="0640" tvg-name="Unife • Argentina" tvg-logo="https://i.postimg.cc/mrR5SSjw/Unife.png" group-title="Nacional", Unife TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
 #EXTINF:-1 tvg-id="0937" tvg-name="Telemax • Argentina"  tvg-logo="https://i.postimg.cc/wvFmBNkx/Picsart-26-07-20-00-11-58-856.png" group-title="Nacional", Telemax
 #EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
