@@ -247,7 +247,7 @@ TV Colombia
 
 #EXTINF:-1 group-logo="https://i.ibb.co/LddkRrTd/Picsart-26-01-23-17-47-31-849.webp"
 
-#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.postimg.cc/Qx9BnKVy/Picsart-26-08-23-23-48-55-161.png" group-title="TV Colombia", RCN Televisión
+#EXTINF:-1 tvg-id="0943" tvg-name="Canal RCN • Colombia" tvg-logo="https://i.postimg.cc/Qx9BnKVy/Picsart-26-08-23-23-48-55-161.png" group-title="TV Colombia", RCN Televisión
 https://ds.tvabierta.net/memfs/a28c3975-eed3-47a3-8f55-f9a5bd0b0092.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
@@ -259,7 +259,7 @@ http://libretv.ddnsfree.com/TVPLive/Play/1
 http://libretv.ddnsfree.com/TVPLive/Play/34
 htt://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
-#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://i.postimg.cc/mkCVXsVb/Picsart-26-08-23-14-55-52-625.png" group-title="TV Colombia", Caracol Televisión
+#EXTINF:-1 tvg-id="0902" tvg-name="Caracol TV • Colombia" tvg-logo="https://i.postimg.cc/mkCVXsVb/Picsart-26-08-23-14-55-52-625.png" group-title="TV Colombia", Caracol Televisión
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://hls.tvabierta.net/hls/caracol.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
