@@ -265,20 +265,20 @@ https://hls.tvabierta.net/hls/caracol.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 
-#EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://i.postimg.cc/pXhpQzMX/Logo-Canal-1-Colombia-2026-svg.png" group-title="TV Colombia", Canal 1
-#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
-http://libretv.ddnsfree.com/TVPLive/Play/8
-
-#EXTINF:-1 tvg-id="Canal TR3CE.co" tvg-logo="https://i.postimg.cc/02BXFg4m/Picsart-26-08-18-19-48-28-801.png" group-title="TV Colombia", Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.postimg.cc/bvVHyvsf/Picsart-26-08-19-01-41-06-134.png" group-title="TV Colombia", Canal Capital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://hls.tvabierta.net/hls/canalcapital.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
+
+#EXTINF:-1 tvg-id="0945" tvg-name="City TV • Colombia" tvg-logo="https://i.postimg.cc/YCLS85nY/Picsart-26-08-23-23-28-11-611.png" group-title="TV Colombia", City TV
+#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+http://libretv.ddnsfree.com/TVPLive/Play/11
+
+#EXTINF:-1 tvg-id="0946" tvg-name="Trece • Colombia" tvg-logo="https://i.postimg.cc/02BXFg4m/Picsart-26-08-18-19-48-28-801.png" group-title="TV Colombia", Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.postimg.cc/YCLS85nY/Picsart-26-08-23-23-28-11-611.png" group-title="TV Colombia", City TV
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
