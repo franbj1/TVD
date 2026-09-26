@@ -253,7 +253,7 @@ https://ds.tvabierta.net/memfs/a28c3975-eed3-47a3-8f55-f9a5bd0b0092.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/1
 
-#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.postimg.cc/cCYSfW44/Picsart-26-08-23-23-37-41-273.png" group-title="TV Colombia", RCN Novelas
+#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-name="RCN Novelas • Colombia" tvg-logo="https://i.postimg.cc/cCYSfW44/Picsart-26-08-23-23-37-41-273.png" group-title="TV Colombia", RCN Novelas
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/34
@@ -265,18 +265,18 @@ https://hls.tvabierta.net/hls/caracol.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 
-#EXTINF:-1 tvg-id="Canal Capital.co" tvg-logo="https://i.postimg.cc/bvVHyvsf/Picsart-26-08-19-01-41-06-134.png" group-title="TV Colombia", Canal Capital
+#EXTINF:-1 tvg-id="Canal Capital.co" tvg-name="Canal Capital • Colombia"  tvg-logo="https://i.postimg.cc/bvVHyvsf/Picsart-26-08-19-01-41-06-134.png" group-title="TV Colombia", Canal Capital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 https://hls.tvabierta.net/hls/canalcapital.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.postimg.cc/3R3Zd7NJ/Picsart-26-08-18-23-40-45-478.png" group-title="TV Colombia", Cali TV
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="Cali TV • Colombia" tvg-logo="https://i.postimg.cc/3R3Zd7NJ/Picsart-26-08-18-23-40-45-478.png" group-title="TV Colombia", Cali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.postimg.cc/3r15rkpP/Cable-Noticias.png" group-title="TV Colombia", Cable Notícias
+#EXTINF:-1 tvg-id="Cablenoticias.co"  tvg-name="Cable Notícias • Colombia" tvg-logo="https://i.postimg.cc/3r15rkpP/Cable-Noticias.png" group-title="TV Colombia", Cable Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8?DVR
 
@@ -289,7 +289,7 @@ http://libretv.ddnsfree.com/TVPLive/Play/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="CANAL CONGRESO.co" tvg-logo="https://i.postimg.cc/JhTCSV1Y/Picsart-26-08-20-16-01-05-210.png" group-title="TV Colombia", Canal Congreso
+#EXTINF:-1 tvg-id="CANAL CONGRESO.co" tvg-name="CANAL CONGRESO • Colombia" tvg-logo="https://i.postimg.cc/JhTCSV1Y/Picsart-26-08-20-16-01-05-210.png" group-title="TV Colombia", Canal Congreso
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8?DVR
 
@@ -311,11 +311,11 @@ http://181.78.8.199:8000/play/a0ec/index.m3u8?DVR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Mi Gente TV.co" tvg-logo="https://i.postimg.cc/8zRcsF5P/Picsart-26-08-24-12-28-02-452.png" group-title="TV Colombia", Mi Gente TV
+#EXTINF:-1 tvg-id="Mi Gente TV.co" tvg-name="Mi Gente TV • Colombia" tvg-logo="https://i.postimg.cc/8zRcsF5P/Picsart-26-08-24-12-28-02-452.png" group-title="TV Colombia", Mi Gente TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
+#EXTINF:-1 tvg-id="0950" tvg-name="Canal TRO • Colombia" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp01.smil/playlist.m3u8DVR
 
@@ -323,11 +323,11 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp01.smil/playlist.m3u8D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp02.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.postimg.cc/QM1jL4tT/Picsart-26-08-19-12-21-41-382.png" group-title="TV Colombia", Señal Colombia
+#EXTINF:-1 tvg-id="Señal Colombia.co" tvg-name="Señal Colombia • Colombia" tvg-logo="https://i.postimg.cc/QM1jL4tT/Picsart-26-08-19-12-21-41-382.png" group-title="TV Colombia", Señal Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://i.postimg.cc/rpk52HjL/Picsart-26-08-19-12-40-06-294.png" group-title="TV Colombia", Canal Institucional
+#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-name="Canal Institucional • Colombia"tvg-logo="https://i.postimg.cc/rpk52HjL/Picsart-26-08-19-12-40-06-294.png" group-title="TV Colombia", Canal Institucional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?DVR
 
