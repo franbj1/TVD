@@ -321,11 +321,11 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal TRO.co" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp01.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp01.smil/playlist.m3u8DVR
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/GmZf7jnG/Picsart-26-08-19-22-48-02-072.png" group-title="TV Colombia", Canal TRO +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp02.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp02.smil/playlist.m3u8DVR
 
 #EXTINF:-1 tvg-id="Señal Colombia.co" tvg-logo="https://i.postimg.cc/QM1jL4tT/Picsart-26-08-19-12-21-41-382.png" group-title="TV Colombia", Señal Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -339,29 +339,29 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-logo="https://i.postimg.cc/9XdGnJCW/Picsart-26-08-20-22-27-51-606.png" group-title="TV Colombia", Telemedellin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.postimg.cc/Wz2ZqqK4/Picsart-26-08-19-12-30-17-107.png" group-title="TV Colombia", Teleamiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.postimg.cc/YC1tXSs1/Picsart-26-08-18-18-29-04-649.png" group-title="TV Colombia", Telepacifico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
-
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.postimg.cc/cCyYPr4h/Picsart-26-08-19-20-27-37-421.png" group-title="TV Colombia", Teleislas
+#EXTINF:-1 tvg-id="0944" tvg-name="Teleislas • Colombia" tvg-logo="https://i.postimg.cc/cCyYPr4h/Picsart-26-08-19-20-27-37-421.png" group-title="TV Colombia", Teleislas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.postimg.cc/KcLmQDpy/Picsart-26-08-20-22-58-22-975.png" group-title="TV Colombia", Telecaribe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="0947" tvg-name="Telecafé • Colombia" tvg-logo="https://i.postimg.cc/8CMpXg1W/Picsart-26-08-18-23-02-57-681.png" group-title="TV Colombia", Telecafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
 https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="0948" tvg-name="Telecaribe • Colombia" tvg-logo="https://i.postimg.cc/KcLmQDpy/Picsart-26-08-20-22-58-22-975.png" group-title="TV Colombia", Telecaribe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="0949" tvg-name="Telepacífico • Colombia" tvg-logo="https://i.postimg.cc/YC1tXSs1/Picsart-26-08-18-18-29-04-649.png" group-title="TV Colombia", Telepacifico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8DVR
+
+#EXTINF:-1 tvg-id="0952" tvg-name="Teleamiga • Colombia" tvg-logo="https://i.postimg.cc/Wz2ZqqK4/Picsart-26-08-19-12-30-17-107.png" group-title="TV Colombia", Teleamiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="0953" tvg-name="Telemedellín • Colombia" tvg-logo="https://i.postimg.cc/9XdGnJCW/Picsart-26-08-20-22-27-51-606.png" group-title="TV Colombia", Telemedellin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="TELEVID.co" tvg-logo="https://i.postimg.cc/Fst7vY5M/Picsart-26-08-19-23-12-17-028.png" group-title="TV Colombia", Tele VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
