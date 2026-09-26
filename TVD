@@ -32,7 +32,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="BravoTv.ar"  tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&nd
 
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://i.postimg.cc/q74kj0gN/Picsart-26-09-06-19-37-22-721.png" group-title="Nacional", NET TV
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV • Argentina"  tvg-logo="https://i.postimg.cc/q74kj0gN/Picsart-26-09-06-19-37-22-721.png" group-title="Nacional", NET TV
 #EXTVLCOPT:http-referrer=https://www.apps.playme.com.ar
 https://apps.playme.com.ar/dash/CH_NETTV/playlist.mpd
 #EXTVLCOPT:http-user-agent="Android
@@ -40,13 +40,13 @@ htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ENCUENTRO.DGO.json
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.postimg.cc/SR6dLwsr/Picsart-26-09-06-20-20-34-629.png" group-title="Nacional", Encuentro
+#EXTINF:-1 tvg-id="0920" tvg-name="Encuentro • Argentina"  tvg-logo="https://i.postimg.cc/SR6dLwsr/Picsart-26-09-06-20-20-34-629.png" group-title="Nacional", Encuentro
 https://cntv02.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.postimg.cc/wvFmBNkx/Picsart-26-07-20-00-11-58-856.png" group-title="Nacional", Telemax
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax • Argentina"  tvg-logo="https://i.postimg.cc/wvFmBNkx/Picsart-26-07-20-00-11-58-856.png" group-title="Nacional", Telemax
 #EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
 #EXTVLCOPT:http-user-agent=Android
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
@@ -56,7 +56,7 @@ https://cntv02.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://i.postimg.cc/VsBD6GG7/Picsart-26-09-07-03-09-00-949.png" group-title="Nacional", Ciudad Magazine
+#EXTINF:-1 tvg-id="0936" tvg-name="El Trece • Argentina"  tvg-logo="https://i.postimg.cc/VsBD6GG7/Picsart-26-09-07-03-09-00-949.png" group-title="Nacional", Ciudad Magazine
 https://cntv02.cdn.rcs.net.ar/mnp/cm/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
@@ -76,19 +76,19 @@ https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN • Argentina" tvg-logo="https://i.postimg.cc/RZQdnr8z/Picsart-26-09-06-19-53-20-079.png" group-title="Nacional", Todo Notícias (4K)
 https://chromecast.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
 
-#EXTINF:-1 tvg-id="LA NACION +.ar" tvg-logo="https://i.postimg.cc/SNgq8z7P/Picsart-26-07-20-13-32-39-928.png" group-title="Nacional", La Nación + (LN+)
+#EXTINF:-1 tvg-id="0904" tvg-name="LN Más • Argentina"  tvg-logo="https://i.postimg.cc/SNgq8z7P/Picsart-26-07-20-13-32-39-928.png" group-title="Nacional", La Nación + (LN+)
 https://cntv02.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/yx10LX7t/Picsart-26-07-20-17-53-24-389.png" group-title="Nacional", A24
+#EXTINF:-1 tvg-id="0222" tvg-name="América 24 • Argentina"  tvg-logo="https://i.postimg.cc/yx10LX7t/Picsart-26-07-20-17-53-24-389.png" group-title="Nacional", A24
 https://cntv02.cdn.rcs.net.ar/mnp/f4i30000001178tfvf222zer6o7mwgdd/output.mpd
 https://playcom.trapemn.tv:1935/transcoderip/america24.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
+#EXTINF:-1 tvg-id="0932" tvg-name="C5N • Argentina" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
 https://cntv02.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
@@ -97,17 +97,17 @@ https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://i.postimg.cc/7LWP38qz/Picsart-26-07-21-16-51-35-057.png" group-title="Nacional", Argentina|12
+#EXTINF:-1 tvg-id="0922" tvg-name="IP Notícias • Argentina"  tvg-logo="https://i.postimg.cc/7LWP38qz/Picsart-26-07-21-16-51-35-057.png" group-title="Nacional", Argentina|12
 https://cntv02.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
-#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://i.postimg.cc/Kvjq4K98/1784566929504.png" group-title="Nacional", Crónica
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV • Argentina"  tvg-logo="https://i.postimg.cc/Kvjq4K98/1784566929504.png" group-title="Nacional", Crónica
 https://cntv02.cdn.rcs.net.ar/mnp/oce000000095ng0pa36h7krinjbeki8f/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 
-#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://i.postimg.cc/DyWSnYpb/Canal-26-logo-(2022)-svg.png" group-title="Nacional", 26 Notícias
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26 • Argentina"  tvg-logo="https://i.postimg.cc/DyWSnYpb/Canal-26-logo-(2022)-svg.png" group-title="Nacional", 26 Notícias
 #EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
