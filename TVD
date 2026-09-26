@@ -17,7 +17,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://cntv02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 http://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
-#EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
@@ -45,6 +45,10 @@ https://cntv02.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 https://1096-tbx.vrioott.com/encuentro/manifest.mpd
+
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", Unife TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
 #EXTINF:-1 tvg-id="0937" tvg-name="Telemax • Argentina"  tvg-logo="https://i.postimg.cc/wvFmBNkx/Picsart-26-07-20-00-11-58-856.png" group-title="Nacional", Telemax
 #EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
