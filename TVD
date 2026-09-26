@@ -271,6 +271,14 @@ https://hls.tvabierta.net/hls/canalcapital.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.postimg.cc/3R3Zd7NJ/Picsart-26-08-18-23-40-45-478.png" group-title="TV Colombia", Cali TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.postimg.cc/3r15rkpP/Cable-Noticias.png" group-title="TV Colombia", Cable Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
+
 #EXTINF:-1 tvg-id="0945" tvg-name="City TV • Colombia" tvg-logo="https://i.postimg.cc/YCLS85nY/Picsart-26-08-23-23-28-11-611.png" group-title="TV Colombia", City TV
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
@@ -279,19 +287,6 @@ http://libretv.ddnsfree.com/TVPLive/Play/11
 #EXTINF:-1 tvg-id="0946" tvg-name="Trece • Colombia" tvg-logo="https://i.postimg.cc/02BXFg4m/Picsart-26-08-18-19-48-28-801.png" group-title="TV Colombia", Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="Citytv.co" tvg-logo="https://i.postimg.cc/YCLS85nY/Picsart-26-08-23-23-28-11-611.png" group-title="TV Colombia", City TV
-#EXTVLCOPT:http-referrer=https://tvlibre.xyz/
-#EXTVLCOPT:http-user-agent=okhttp/4.9.0
-http://libretv.ddnsfree.com/TVPLive/Play/11
-
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.postimg.cc/3R3Zd7NJ/Picsart-26-08-18-23-40-45-478.png" group-title="TV Colombia", Cali TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.postimg.cc/3r15rkpP/Cable-Noticias.png" group-title="TV Colombia", Cable Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
 
 #EXTINF:-1 tvg-id="CANAL CONGRESO.co" tvg-logo="https://i.postimg.cc/JhTCSV1Y/Picsart-26-08-20-16-01-05-210.png" group-title="TV Colombia", Canal Congreso
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -355,7 +350,7 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8DVR
 
-#EXTINF:-1 tvg-id="0952" tvg-name="Teleamiga • Colombia" tvg-logo="https://i.postimg.cc/Wz2ZqqK4/Picsart-26-08-19-12-30-17-107.png" group-title="TV Colombia", Teleamiga
+#EXTINF:-1 tvg-id="0952" tvg-name="Teleamiga • Colombia" tvg-logo="https://i.postimg.cc/ydXYh6TS/Tele-Amiga.png" group-title="TV Colombia", Teleamiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
 
