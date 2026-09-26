@@ -2665,7 +2665,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WOW Documentary" tvg-logo="https://i.postimg.cc/3xBLN1w2/WOW-Documentary.png" group-title="Cine TV", WOW Documentary
+#EXTINF:-1 tvg-id="WOW Documentary" tvg-logo="https://i.postimg.cc/SNvS5B8K/WOW-Documentary.png" group-title="Cine TV", WOW Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 
