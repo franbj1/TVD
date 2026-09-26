@@ -29,7 +29,7 @@ https://cntv02.cdn.rcs.net.ar/mnp/el13/output.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="0963" tvg-name="Bravo TV • Argentina" tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
+#EXTINF:-1 tvg-id="BravoTv.ar" tvg-name="Alpha TV • Argentina" tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&nd
 
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife • Argentina" tvg-logo="https://i.postimg.cc/mrR5SSjw/Unife.png" group-title="Nacional", Unife
