@@ -22,6 +22,11 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
+#EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/PJKqtsb0/Telefe-Santa-Fe.png" group-title="Nacional", Telefe Santa Fé
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
+https://cdn.sensa.com.ar/output/ARR4/TSFH/playlist.m3u8
+
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTVLCOPT:http-referrer=https://vodgc.net
