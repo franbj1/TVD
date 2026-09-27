@@ -14,6 +14,7 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve • Argentina" tvg-logo="https://i.postimg.cc/rph2ZLtQ/Picsart-26-09-06-03-44-11-904.png" group-title="Nacional", El Nueve
+http://181.209.105.115:2525/play/elnueve/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 http://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
@@ -28,6 +29,7 @@ htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 https://cdn.sensa.com.ar/output/ARR4/TSFH/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
+http://181.209.105.115:2525/play/eltrece/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -53,6 +55,7 @@ https://apps.playme.com.ar/dash/CH_NETTV/playlist.mpd
 htt://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 
 #EXTINF:-1 tvg-id="0920" tvg-name="Encuentro • Argentina"  tvg-logo="https://i.postimg.cc/SR6dLwsr/Picsart-26-09-06-20-20-34-629.png" group-title="Nacional", Encuentro
+http://181.209.105.115:2525/play/encuentro/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
@@ -73,6 +76,7 @@ https://router.cdn.rcs.net.ar/mnp/cm/output.mpd
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.postimg.cc/zBN0yttg/Picsart-26-09-06-19-43-59-968.png" group-title="Nacional", Volver
+http://181.209.105.115:2525/play/volver/index.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/tntsports.stream/playlist.m3u8
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-volver.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
@@ -115,6 +119,7 @@ https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV • Argentina"  tvg-logo="https://i.postimg.cc/Kvjq4K98/1784566929504.png" group-title="Nacional", Crónica
+http://181.209.105.115:2525/play/cronica/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/oce000000095ng0pa36h7krinjbeki8f/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
