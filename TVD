@@ -2076,6 +2076,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(espnpr_arg)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=d17fdbc7f72e68adf298b71d935864ba&keyid=ce5f0570b7f89e2efe19c7bf3c77dae7
 #EXTINF:-1 tvg-id="FOX Sports HD.uy" tvg-logo="https://i.postimg.cc/HkBqqjhY/Picsart-26-07-28-17-07-26-136.png" group-title="Deportes", FOX Sports
+http://playcom.trapemn.tv:1935/transcoderip/tntsports.stream/playlist.m3u8
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
