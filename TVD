@@ -63,6 +63,7 @@ https://router.cdn.rcs.net.ar/mnp/cm/output.mpd
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.postimg.cc/zBN0yttg/Picsart-26-09-06-19-43-59-968.png" group-title="Nacional", Volver
+http://playcom.trapemn.tv:1935/transcoderip/tntsports.stream/playlist.m3u8
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-volver.playlist.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
