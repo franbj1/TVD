@@ -333,7 +333,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8?DVR
 
 #EXTINF:-1 tvg-id="0950" tvg-name="Canal TRO • Colombia" tvg-logo="https://i.postimg.cc/mkFscD3F/1787028660544.png" group-title="TV Colombia", Canal TRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp01.smil/playlist.m3u8DVR
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:rtmp01.smil/playlist.m3u8?DVR&x=1790622360744f96e909aad456
 
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/GmZf7jnG/Picsart-26-08-19-22-48-02-072.png" group-title="TV Colombia", Canal TRO +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
