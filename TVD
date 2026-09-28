@@ -319,7 +319,7 @@ http://libretv.ddnsfree.com/TVPLive/Play/22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8?DVR
 
-#EXTINF:-1 tvg-id="0940" tvg-name="Rumba TV • Colombia" tvg-logo="https://i.postimg.cc/SRqdGHWb/Picsart-26-08-20-15-25-16-873.png" group-title="TV Colombia", Rumba TV
+#EXTINF:-1 tvg-id="Rumba TV.co" tvg-name="Rumba TV • Colombia" tvg-logo="https://i.postimg.cc/SRqdGHWb/Picsart-26-08-20-15-25-16-873.png" group-title="TV Colombia", Rumba TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://181.78.8.199:8000/play/a0ec/index.m3u8?DVR
 
