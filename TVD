@@ -309,7 +309,7 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8?DVR
 
-#EXTINF:-1 tvg-id="0212" tvg-name="NTN 24 • Colombia" tvg-logo="https://i.postimg.cc/c4Fk9L42/Picsart-26-08-22-13-35-29-373.png" group-title="TV Colombia", NTN24
+#EXTINF:-1 tvg-id="0212" tvg-name="NTN 24 • Colombia" tvg-logo="https://i.postimg.cc/J4TKYpHK/NTN24.png" group-title="TV Colombia", NTN24
 https://ds.tvabierta.net/memfs/03707865-ae19-4654-9025-e910905d70bd.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
