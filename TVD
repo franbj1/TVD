@@ -23,11 +23,6 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
-#EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/PJKqtsb0/Telefe-Santa-Fe.png" group-title="Nacional", Telefe Santa Fé
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
-https://cdn.sensa.com.ar/output/ARR4/TSFH/playlist.m3u8
-
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
 http://181.209.105.115:2525/play/eltrece/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
@@ -128,6 +123,16 @@ https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 #EXTVLCOPT:http-referrer=https://www.canal26.com/canal26-en-vivo/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+TV ARG
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/wMm57Cdc/TV-ARG.png"
+
+#EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/PJKqtsb0/Telefe-Santa-Fe.png" group-title="TV ARG", Telefe Santa Fé
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
+https://cdn.sensa.com.ar/output/ARR4/TSFH/playlist.m3u8
+
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
 
