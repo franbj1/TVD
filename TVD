@@ -1497,7 +1497,7 @@ https://copacogen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tv
 #EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.postimg.cc/85wggHtr/Picsart-26-06-16-20-50-56-258.png" group-title="TV Paraguay", Trece
 https://latan.stonetv.com.br/trece/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/ccTx1BDH/1766888431537.webp" group-title="TV Paraguay", Unicanal
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.postimg.cc/BnVQGs5X/Unicanal.png" group-title="TV Paraguay", Unicanal
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)
 http://45.170.130.224:8000/play/a04y/index.m3u8?hls
 https://rds3.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=nacion
