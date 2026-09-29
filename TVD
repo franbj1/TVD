@@ -23,6 +23,7 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/eltrece.playlist.m3u8
 https://cyberuno.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -87,6 +88,7 @@ https://playcom.trapemn.tv:1935/transcoderip/america24.stream/playlist.m3u8
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N • Argentina" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/c5n.playlist.m3u8
 https://cyberuno.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
