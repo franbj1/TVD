@@ -80,10 +80,10 @@ https://cyberuno.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
 #EXTINF:-1 tvg-id="0222" tvg-name="América 24 • Argentina"  tvg-logo="https://i.postimg.cc/yx10LX7t/Picsart-26-07-20-17-53-24-389.png" group-title="Nacional", A24
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 https://cyberuno.cdn.rcs.net.ar/mnp/f4i30000001178tfvf222zer6o7mwgdd/output.mpd
 https://playcom.trapemn.tv:1935/transcoderip/america24.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g1.mc-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N • Argentina" tvg-logo="https://i.ibb.co/Y4GcZRjg/C5-N-2023.webp" group-title="Nacional", C5N
