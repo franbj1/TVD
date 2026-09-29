@@ -147,6 +147,16 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
 
+#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/g2Z01GHs/Telefe-Internacional.jpg" group-title="TV ARG", Telefe Internacional
+http://190.108.83.69:8000/play/a08l/index.m3u8
+https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/FKPsL19p/Canal-8-MDP.png" group-title="TV ARG", Canal 8 Mar del Plata
+#EXTVLCOPT:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
+https://cdn.sensa.com.ar/output/SMT2/C8MPH/playlist.m3u8
+
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
 
