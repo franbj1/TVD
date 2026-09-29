@@ -74,7 +74,7 @@ https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://dai-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
-#EXTINF:-1 tvg-id="0904" tvg-name="LN Más • Argentina"  tvg-logo="https://i.postimg.cc/6q3Lt8MP/La-Nacion.png" group-title="Nacional", La Nación + (LN+)
+#EXTINF:-1 tvg-id="0904" tvg-name="LN Más • Argentina"  tvg-logo="https://i.postimg.cc/vTzf0pd8/La-Nacion.png" group-title="Nacional", La Nación + (LN+)
 https://cyberuno.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
