@@ -2685,14 +2685,6 @@ Cine TV
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d0Y8Yjzm/unnamed-(3).png"
 
-#EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d2611ebf-0966-4fbb-bdae-fafbc2a62496.png" group-title="Cine TV", ENT Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/744a4a00-556d-4d51-8738-bb47be4ea778.png" group-title="Cine TV", ENT Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-
 #EXTINF:-1 tvg-id="WOW Movies" tvg-logo="https://i.postimg.cc/FF6VKRXG/WOW-Movies.png" group-title="Cine TV", WOW Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
@@ -2832,8 +2824,37 @@ ENT
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/Jn9nG7JZ/ENT.png"
 
+#EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d2611ebf-0966-4fbb-bdae-fafbc2a62496.png" group-title="ENT", ENT Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/744a4a00-556d-4d51-8738-bb47be4ea778.png" group-title="ENT", ENT Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-id="ENT Extreme" tvg-logo="https://i.postimg.cc/44MQZpS5/ENT-Extreme.png" group-title="ENT", ENT Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENT Comedy" tvg-logo="https://i.postimg.cc/HW24cfnB/ENT-Comedy.png" group-title="ENT", ENT Comedy (activó desde el 16/10/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENT Drama" tvg-logo="https://i.postimg.cc/brzrfVjw/ENT-Drama.png" group-title="ENT", ENT Drama (activó desde el 16/10/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENT Movies" tvg-logo="https://i.postimg.cc/1XjQ7vRX/ENT-Movies.png" group-title="ENT", ENT Movies (activó desde el 16/10/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENT Classic" tvg-logo="https://i.postimg.cc/W39Lt5kY/ENT-Classic.png" group-title="ENT", ENT Classic (activó desde el 16/10/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENT Life" tvg-logo="https://i.postimg.cc/DZpH78VV/ENT-Life.png" group-title="ENT", ENT Life (activó desde el 16/10/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 
 HBO + Universal
 
