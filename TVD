@@ -2852,11 +2852,11 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Classic/SA_LIVE_hls_enc/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="ENT", Pride ENT
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="ENT", Pride TV ENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="Música", Total Music ENT
+#EXTINF:-1 tvg-id="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="ENT", Total Music ENT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="Totalmusic_80s" tvg-logo="https://i.ibb.co/whFyLwNM/Picsart-26-01-11-05-08-19-581.webp" group-title="ENT", Total Music 80s ENT
