@@ -3187,12 +3187,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 #EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/sp2d2wfB/tmc-00s.webp" group-title="Música", Total Music 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/G41PGXQ0/tmc-concerts.webp" group-title="Música", Total Music Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/SwbrLFws/tmc-dance.webp" group-title="Música", Total Music Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DNWX9K5/Picsart-25-11-06-12-34-46-980.webp" group-title="Música", Telehit
