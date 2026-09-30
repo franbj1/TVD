@@ -2762,10 +2762,6 @@ https://micanal.ovh/livestreams/142.RZYR3NWFIHKH.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://micanal.ovh/livestreams/85.3GBVMU744PUH.m3u8
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="Cine TV", Pride TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
-
 #EXTINF:-1 tvg-id="Orbit TV" tvg-logo="https://i.postimg.cc/zvNRbX4N/Picsart-26-09-02-07-20-10-868.png" group-title="Cine TV", Orbit TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cnn.hostlagarto.com/orbittv/index.m3u8
@@ -2855,6 +2851,19 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Classic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENT Life" tvg-logo="https://i.postimg.cc/DZpH78VV/ENT-Life.png" group-title="ENT", ENT Life (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="ENT", Pride ENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
+
+#EXTINF:-1 tvg-id="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="Música", Total Music ENT
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="Totalmusic_80s" tvg-logo="https://i.ibb.co/whFyLwNM/Picsart-26-01-11-05-08-19-581.webp" group-title="ENT", Total Music 80s ENT
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/sp2d2wfB/tmc-00s.webp" group-title="ENT", Total Music 2000s ENT
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
 HBO + Universal
 
@@ -3205,15 +3214,6 @@ https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://
 #EXTINF:-1 tvg-id="MTV Live.us" tvg-logo="https://i.ibb.co/ZRYHm9f6/Picsart-26-03-28-02-47-11-930.webp" group-title="Música", MTV Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-
-#EXTINF:-1 tvg-id="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="Música", Total Music
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-id="Totalmusic_80s" tvg-logo="https://i.ibb.co/whFyLwNM/Picsart-26-01-11-05-08-19-581.webp" group-title="Música", Total Music 80s
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/sp2d2wfB/tmc-00s.webp" group-title="Música", Total Music 2000s
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
