@@ -3187,7 +3187,7 @@ https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest?token=JNHV9QGG2LB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a06/ngrp:tierramiatv-100188_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="billboard.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/800/542/0/0/12050400077728.png" group-title="Música", Billboard AR
+#EXTINF:-1 tvg-id="billboard.ar" tvg-logo="https://i.postimg.cc/ZK5N7VYn/Billboard.png" group-title="Música", Billboard AR
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
 https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
