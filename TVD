@@ -3260,62 +3260,44 @@ https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|r
 https://nog-live4-ott.izzigo.tv/11/out/u/dash/SKY-ONE-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d014b4c7f22d490f56e2d7d3fe125c15:69864ad4b98d06e9fcf2430ed67b6c33
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=69864ad4b98d06e9fcf2430ed67b6c33&keyid=d014b4c7f22d490f56e2d7d3fe125c15
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.ibb.co/1Jz193Q6/Picsart-25-11-19-19-48-41-972.webp" group-title="Música", Bandamax
-https://nog-live4-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
+https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="Tele Ritmo.mx" tvg-logo="https://i.ibb.co/99gkcKMM/Teleritmo-2023.webp" group-title="Música", Tele Ritmo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cf2398fa903f300962a0771512a93f1:f345e1b35c357fa7137e7325059d95b1
-#EXTINF:-1 tvg-id="Tele Ritmo.mx" tvg-logo="https://i.ibb.co/99gkcKMM/Teleritmo-2023.webp" group-title="Música", Tele Ritmo
-https://nog-live4-ott.izzigo.tv/11/out/u/dash/TELERITMO-HD/default.mpd
-
-#EXTINF:-1 tvg-id="popular" tvg-logo="https://i.ibb.co/k2Tj6S4g/logo-la-popu-1.webp" group-title="Música", La Popu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/popular/master.m3u8
-
-#EXTINF:-1 tvg-id="cosquinrock" tvg-logo="https://i.ibb.co/3m2NDZJH/Picsart-26-05-01-15-03-20-105.webp" group-title="Música", Cosquin Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-
-#EXTINF:-1 tvg-id="Cadena3" tvg-logo="https://i.ibb.co/gZPgLQ25/Picsart-26-04-22-05-08-10-154.webp" group-title="Música", Cadena 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=f4c71a56cd5df07d5a114f9668b114de&keyid=f03e699fb4603c8b1518936fc5c9c13a
 #EXTINF:-1 tvg-id="Concert Channel.co" tvg-logo="https://i.ibb.co/5Btjrt1/concertch.png" group-title="Música", Concert Channel
-https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)"
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd
 
 #EXTINF:-1 tvg-id="Maxima.cl" tvg-logo="https://i.ibb.co/20QJBXqH/1762287971177.webp" group-title="Música", Maxima FM
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 WebAppManager"
 https://5ff3d9babae13.streamlock.net/ttedvzwrvn/ttedvzwrvn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TOP LATINO.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", Top Latino
+#EXTINF:-1 tvg-id="TOP LATINO.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", TOP Latino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 WebAppManager"
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wF65g4qZ/Picsart-25-11-19-21-33-22-025.webp" group-title="Música", Littoral TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 WebAppManager"
 https://live.creacast.com/littoralfm-ch1/stream/.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fVLnkBQ4/Picsart-25-11-18-18-18-40-371.webp" group-title="Música", Hits Mexicanos
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8?sense=true
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccmv52Z2/Picsart-25-11-18-19-19-42-298.webp" group-title="Música", TDI Colombia
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://live.amelbatv.co:8081/tdicolombiatv/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-id="Mas Musica.tv" tvg-logo="https://i.ibb.co/v42gV6v3/1765925109008.webp" group-title="Música", Mass Música
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Urbano TV" tvg-logo="https://i.ibb.co/d0vkCXjf/1780049872921.webp" group-title="Música", Urbano TV
+#EXTINF:-1 tvg-id="Urbano TV" tvg-logo="https://i.ibb.co/d0vkCXjf/1780049872921.webp" group-title="Música", TV Urbano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Urban Mix" tvg-logo="https://i.ibb.co/r2gCPQTn/1780050106705.webp" group-title="Música", Urban Mix
+#EXTINF:-1 tvg-id="Urban Mix" tvg-logo="https://i.ibb.co/r2gCPQTn/1780050106705.webp" group-title="Música", Urban MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cloud.tvomix.com/URBANMIX/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxJ767Y2/Picsart-25-11-18-18-19-34-366.webp" group-title="Música", Activa TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
