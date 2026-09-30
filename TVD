@@ -3217,14 +3217,14 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=654256cc5939f6d502969b4fbbc47286&keyid=6ed36c5f7d0775e21f0748dd17520bc9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DNWX9K5/Picsart-25-11-06-12-34-46-980.webp" group-title="Música", Telehit
+#EXTINF:-1 tvg-id="0507" tvg-name="TeleHit" tvg-logo="https://i.postimg.cc/vTt1fC5J/Telehit.png" group-title="Música", Telehit
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=1ab459db1bacf63917df0d35a1107c94&keyid=ae7d810bd4b89d31487577fbef6b747a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png" group-title="Música", Telehit Música
+#EXTINF:-1 tvg-id="0508" tvg-name="Telehit Música" tvg-logo="https://i.postimg.cc/7YJdPDMp/Telehit-Musica.png" group-title="Música", Telehit Música
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd
