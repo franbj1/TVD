@@ -3224,7 +3224,7 @@ https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=1ab459db1bacf63917df0d35a1107c94&keyid=ae7d810bd4b89d31487577fbef6b747a
-#EXTINF:-1 tvg-id="0508" tvg-name="Telehit Música" tvg-logo="https://i.postimg.cc/7YJdPDMp/Telehit-Musica.png" group-title="Música", Telehit Música
+#EXTINF:-1 tvg-id="0508" tvg-name="Telehit Música" tvg-logo="https://i.postimg.cc/YSF1DrgM/Telehit-Musica.png" group-title="Música", Telehit Música
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd
