@@ -3201,7 +3201,7 @@ https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EventosParaTodos.ar" tvg-logo="https://i.postimg.cc/QMXHrjWj/El-Folklorico.png" group-title="Música", El Folklórico
+#EXTINF:-1 tvg-id="Eventos Para Todos.ar" tvg-logo="https://i.postimg.cc/QMXHrjWj/El-Folklorico.png" group-title="Música", El Folklórico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.t5satelital.blog/hls/elfolkloricoweb.m3u8
 https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
