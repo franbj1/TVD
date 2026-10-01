@@ -3163,21 +3163,26 @@ Música
 
 #EXTINF:-1 group-logo="https://i.ibb.co/5XN3KbjT/Picsart-26-01-16-12-13-35-317.webp"
 
-#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=d62845f01d257a91fd73d62751828dc1&key=b600539e698a707de23e57d4cdb99d9a
 #EXTINF:-1 tvg-id="0510" tvg-name="Quiero Música en mi Idioma" tvg-logo="https://i.postimg.cc/Qtgt9JM3/Quiero-Musica-TV.png" group-title="Música", Quiero Música TV
-http://181.209.105.115:2525/play/quieromusica/index.m3u8
-https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Quiero_HD.m3u8
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/live/sta01/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música • Argentina" tvg-logo="https://i.postimg.cc/g0FmVL5S/CM-Canal-de-la-Musica.png" group-title="Música", CM Canal de la Música
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="0542" tvg-name="TierraMia • Argentina" tvg-logo="https://i.postimg.cc/BvJp84sP/Tierra-Mia-TV.png" group-title="Música", Tierra Mia  TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g1.mc-hor.transport.edge-access.net/a06/ngrp:tierramiatv-100188_all/Playlist.m3u8?sense=true
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 #EXTINF:-1 tvg-id="0504" tvg-name="HTV" tvg-logo="https://i.postimg.cc/wB046ShC/HTV-Musica.png" group-title="Música", HTV Música
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://latan.stonetv.com.br/htv/tracks-v1a1/playlist.m3u8
-https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/HTV.m3u8
 
 #EXTINF:-1 tvg-id="0543" tvg-name="Music TOP • Argentina" tvg-logo="https://i.postimg.cc/8zFLFxQ0/Music-Top.png" group-title="Música", Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
@@ -3186,10 +3191,6 @@ https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest?token=JNHV9QGG2LB
 #EXTINF:-1 tvg-id="Ritmo Universal" tvg-logo="https://i.ibb.co/HcnXRBb/Picsart-25-12-31-10-30-20-164.webp" group-title="Música", Ritmo Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="0542" tvg-name="TierraMia • Argentina" tvg-logo="https://i.postimg.cc/BvJp84sP/Tierra-Mia-TV.png" group-title="Música", Tierra Mia  TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g1.mc-hor.transport.edge-access.net/a06/ngrp:tierramiatv-100188_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="billboard.ar" tvg-logo="https://i.postimg.cc/ZK5N7VYn/Billboard.png" group-title="Música", Billboard AR
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
