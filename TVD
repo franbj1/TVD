@@ -3168,7 +3168,7 @@ Música
 #EXTINF:-1 tvg-id="0510" tvg-name="Quiero Música en mi Idioma" tvg-logo="https://i.postimg.cc/Qtgt9JM3/Quiero-Musica-TV.png" group-title="Música", Quiero Música TV
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-https://cdn.sensa.com.ar/live/sta01/QuieroMusica/live_dash_cld/QuieroMusica.mpd
+https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música • Argentina" tvg-logo="https://i.postimg.cc/g0FmVL5S/CM-Canal-de-la-Musica.png" group-title="Música", CM Canal de la Música
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
