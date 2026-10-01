@@ -3192,7 +3192,7 @@ https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest?token=JNHV9QGG2LB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="billboard.ar" tvg-logo="https://i.postimg.cc/ZK5N7VYn/Billboard.png" group-title="Música", Billboard AR
+#EXTINF:-1 tvg-id="Movistar Eventos.ar" tvg-logo="https://i.postimg.cc/ZK5N7VYn/Billboard.png" group-title="Música", Billboard AR
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
 https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
