@@ -3200,12 +3200,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://puntoplaytv.one/license.php?keyid=53dcb05ef1f0bbd2093b0c2fe8e55a5e&key=d2fb9a4f8244a9af19893be032c43d3f
-#EXTINF:-1 tvg-id="Allegro HD.uy" tvg-logo="https://i.ibb.co/xKqp59t2/1780120274339.webp" group-title="Música", Allegro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://i.ibb.co/272NgK2n/Picsart-26-05-30-04-13-46-788.webp" group-title="Música", El Folklorico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.t5satelital.blog/hls/elfolkloricoweb.m3u8
@@ -3217,7 +3211,7 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=654256cc5939f6d502969b4fbbc47286&keyid=6ed36c5f7d0775e21f0748dd17520bc9
-#EXTINF:-1 tvg-id="0507" tvg-name="TeleHit" tvg-logo="https://i.postimg.cc/vTt1fC5J/Telehit.png" group-title="Música", Telehit
+#EXTINF:-1 tvg-id="0507" tvg-name="TeleHit" tvg-logo="https://i.postimg.cc/NfmM9K1R/Telehit.png" group-title="Música", Telehit
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
@@ -3312,11 +3306,6 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8?sense=true
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/aa5f541d-da16-44e1-9e8e-2f6b3cb4f273.png?raw=true" group-title="Música", OneTV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://eu1.servers10.com:19360/onetv-1/onetv-1.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1HL3qyB/Picsart-25-11-20-11-35-31-285.webp" group-title="Música", Mola Hits TV
 #EXTVLCOPT:network-caching=1000
@@ -3458,9 +3447,6 @@ https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84z28hCg/Picsart-25-11-19-18-09-33-687.webp" group-title="Música", 70-80 Ãƒâ€šÃ‚Â®it
 https://d125n3dscdmoj3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oja5b1lpu3cmg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bjbPF7jM/Picsart-25-11-20-03-26-26-864.webp" group-title="Música", Mi Gente 3.0
-https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/bad34493-e512-4554-8063-3dc7a9f4c361.png" group-title="Música", Spektra TV
 https://cloudvideo.servers10.com:8081/8026/index.m3u8
