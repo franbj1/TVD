@@ -3183,6 +3183,10 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
+#EXTINF:-1 tvg-id="Ritmo Universal" tvg-logo="https://i.ibb.co/HcnXRBb/Picsart-25-12-31-10-30-20-164.webp" group-title="Música", Ritmo Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
+
 #EXTINF:-1 tvg-id="0542" tvg-name="TierraMia • Argentina" tvg-logo="https://i.postimg.cc/BvJp84sP/Tierra-Mia-TV.png" group-title="Música", Tierra Mia  TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a06/ngrp:tierramiatv-100188_all/Playlist.m3u8?sense=true
@@ -3195,10 +3199,6 @@ https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 #EXTINF:-1 tvg-id="0535" tvg-name="VM Latino" tvg-logo="https://i.postimg.cc/5t1kThXP/VM-Latino.png" group-title="Música", VM Latino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ritmo Universal" tvg-logo="https://i.ibb.co/HcnXRBb/Picsart-25-12-31-10-30-20-164.webp" group-title="Música", Ritmo Universal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://i.ibb.co/272NgK2n/Picsart-26-05-30-04-13-46-788.webp" group-title="Música", El Folklorico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
