@@ -3176,7 +3176,7 @@ https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_a
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 #EXTINF:-1 tvg-id="0504" tvg-name="HTV" tvg-logo="https://i.postimg.cc/wB046ShC/HTV-Musica.png" group-title="Música", HTV Música
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-http://181.209.105.115:2525/play/htv/index.m3u8
+https://latan.stonetv.com.br/htv/tracks-v1a1/playlist.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/HTV.m3u8
 
 #EXTINF:-1 tvg-id="0543" tvg-name="Music TOP • Argentina" tvg-logo="https://i.postimg.cc/8zFLFxQ0/Music-Top.png" group-title="Música", Music TOP
