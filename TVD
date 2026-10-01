@@ -3197,10 +3197,10 @@ https://g1.mc-hor.transport.edge-access.net/a06/ngrp:tierramiatv-100188_all/Play
 https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0535" tvg-name="VM Latino" tvg-logo="https://i.postimg.cc/5t1kThXP/VM-Latino.png" group-title="Música", VM Latino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://i.ibb.co/272NgK2n/Picsart-26-05-30-04-13-46-788.webp" group-title="Música", El Folklorico
+#EXTINF:-1 tvg-id="elfolclorico" tvg-logo="https://i.postimg.cc/QMXHrjWj/El-Folklorico.png" group-title="Música", El Folklórico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.t5satelital.blog/hls/elfolkloricoweb.m3u8
 https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
