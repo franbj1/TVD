@@ -3323,9 +3323,21 @@ https://movil.ejeserver.com/live/mas23tv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://amc-sm.otteravision.com/amc/sm/sm.m3u8
 
+#EXTINF:-1 tvg-id="IQ Channel" tvg-logo="https://i.postimg.cc/sfLF34xt/IQ-Channel.png" group-title="Música", IQ Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYtQtrzr/88-Stereo.png" group-title="Música", 88 Stereo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hits 360" tvg-logo="https://i.postimg.cc/1twZTgcF/Hits-360.png" group-title="Música", Hits 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Corazón TV" tvg-logo="https://i.postimg.cc/x17n7PQ9/Corazon-TV.png" group-title="Música", Corazón TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxJ767Y2/Picsart-25-11-18-18-19-34-366.webp" group-title="Música", Activa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
