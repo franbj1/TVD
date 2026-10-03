@@ -2832,7 +2832,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Comedy" tvg-logo="https://i.postimg.cc/HW24cfnB/ENT-Comedy.png" group-title="ENT", ENT Comedy (activó desde el 16/10/2026)
+#EXTINF:-1 tvg-id="ENT Comedy" tvg-logo="https://i.postimg.cc/HktvsKCs/ENT-Comedy.png" group-title="ENT", ENT Comedy (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
