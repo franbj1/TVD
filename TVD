@@ -3282,6 +3282,9 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/labtefjwbn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://5ff3d9babae13.streamlock.net/ttedvzwrvn/ttedvzwrvn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Viva Latino" tvg-logo="https://i.postimg.cc/L6NnhCzG/Viva-Latino.png" group-title="Música", ¡Viva Latino!
+http://stream.mcquack.net/285/index.m3u8
+
 #EXTINF:-1 tvg-id="TOP LATINO.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", TOP Latino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
