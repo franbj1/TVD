@@ -3294,6 +3294,10 @@ https://live.creacast.com/littoralfm-ch1/stream/.m3u8?sense=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Hits 360" tvg-logo="https://i.postimg.cc/rs3LWTsY/NEXT-Radio.png" group-title="Música", NEXT Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/15.m3u8
+
 #EXTINF:-1 tvg-id="Urbano TV" tvg-logo="https://i.ibb.co/d0vkCXjf/1780049872921.webp" group-title="Música", TV Urbano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
