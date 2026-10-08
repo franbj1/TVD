@@ -3340,7 +3340,7 @@ https://amc-sm.otteravision.com/amc/sm/sm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84z28hCg/Picsart-25-11-19-18-09-33-687.webp" group-title="Música", 70-80 ®it
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsrJvR6F/70-80-IT.png" group-title="Música", 70-80 ®it
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://585b674743bbb.streamlock.net/9050/9050/chunklist_w2077975936.m3u8
 
