@@ -3340,6 +3340,10 @@ https://amc-sm.otteravision.com/amc/sm/sm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Radio Zeta" tvg-logo="https://i.ibb.co/67DWnMMr/Radio-Zeta-Logo-2020-svg.webp" group-title="Música", Radio Zeta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsrJvR6F/70-80-IT.png" group-title="Música", 70-80 ®it
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://585b674743bbb.streamlock.net/9050/9050/chunklist_w2077975936.m3u8
@@ -3347,10 +3351,6 @@ https://585b674743bbb.streamlock.net/9050/9050/chunklist_w2077975936.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYtQtrzr/88-Stereo.png" group-title="Música", 88 Stereo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hits 360" tvg-logo="https://i.postimg.cc/1twZTgcF/Hits-360.png" group-title="Música", Hits 360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Corazón TV" tvg-logo="https://i.postimg.cc/x17n7PQ9/Corazon-TV.png" group-title="Música", Corazón TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
@@ -3379,9 +3379,9 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-id="05111" tvg-name="Dance TV" tvg-logo="https://i.postimg.cc/L5LsfxpN/Dance-TV.png" group-title="Música", Dance FM TV
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnTKQsdj/Picsart-25-11-19-02-09-03-003.webp" group-title="Música", Elite Comunicación
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqHrfntF/Music-TV-Granada.png" group-title="Música", Music TV Granada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-https://cloudvideo.servers10.com:8081/8036/index.m3u8
+https://cloudvideo.servers10.com:8081/8032/index.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/51fd6e4d-9306-4bc8-9971-f71f8b7ae512.png" group-title="Música", Radio Capital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
@@ -3491,10 +3491,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="Kiss Kiss TV" tvg-logo="https://i.ibb.co/35x2ybN1/Picsart-25-11-20-21-46-25-935.webp" group-title="Música", Kiss Kiss TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1
-
-#EXTINF:-1 tvg-id="Radio Zeta" tvg-logo="https://i.ibb.co/67DWnMMr/Radio-Zeta-Logo-2020-svg.webp" group-title="Música", Radio Zeta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TxSzcZBk/1752124782812.webp" group-title="Música", Spirit TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
