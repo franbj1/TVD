@@ -3388,6 +3388,14 @@ https://cloudvideo.servers10.com:8081/8026/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="05111" tvg-name="VClassic TV" tvg-logo="https://i.postimg.cc/SQdZWkZQ/VClassic-TV.png" group-title="Música", VClassic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="05111" tvg-name="VClassic TV Tropical" tvg-logo="https://i.postimg.cc/J7FXwF0Z/VClassic-TV-Tropical.png" group-title="Música", VClassic TV Tropical
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/835a5192-6b5b-412b-aa42-751248fbc678.png?raw=true" group-title="Música", V2Beat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://abr.de1se01.v2beat.live/playlist.m3u8
