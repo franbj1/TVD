@@ -3340,6 +3340,10 @@ https://amc-sm.otteravision.com/amc/sm/sm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84z28hCg/Picsart-25-11-19-18-09-33-687.webp" group-title="Música", 70-80 ®it
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://585b674743bbb.streamlock.net/9050/9050/chunklist_w2077975936.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYtQtrzr/88-Stereo.png" group-title="Música", 88 Stereo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
@@ -3507,10 +3511,6 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84z28hCg/Picsart-25-11-19-18-09-33-687.webp" group-title="Música", 70-80 ®it
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-https://d125n3dscdmoj3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oja5b1lpu3cmg/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m55F6Sjk/Picsart-25-08-14-13-49-50-415.webp" group-title="Música", Trace Latina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8?ads.dpname=distrotv&ads.rnd=lcsk&ads.env_i=1042dfce-1878-484a-ab13-2913c8488054&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=594&ads.height=334&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=1xDW39YSbgi
@@ -3530,30 +3530,6 @@ https://channels.trace.plus/Traceprod/CARIBBEAN_ld/index.m3u8?ads.dpname=distrot
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM7WFXT3/20260530-034204.webp" group-title="Música", Trace Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://channels.trace.plus/Traceprod/AFRICA_FR_sd/index.m3u8?ads.dpname=distrotv&ads.rnd=lcsk&ads.env_i=1042dfce-1878-484a-ab13-2913c8488054&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=594&ads.height=334&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=1xDW39YSbgi
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/a17f15fa-f77f-4e09-bfc9-563d37e479ef.png" group-title="Música", Stingray Music
-https://lotus.stingray.com/manifest/ose-155ads-montreal/webapp/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest?cb=20220509165934" group-title="Música", Qello Concerts
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8
-
-#EXTINF:-1 group-title="Música" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png", Conciertos por Stingray
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.supaimg.com/ce1cb20f-9f62-4191-9936-5ae69408bab7.png", Stingray Karaoke
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/230px-NOW_70s.png" group-title="Música",  Now 70s
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Música", Now 80s
-https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/NOW_90s_%26_00s.png/revision/latest/scale-to-width-down/200?cb=20240610220031" group-title="Música", Now 90Soos
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Música", Now Rock
-https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrjthCcq/photo-2.webp" group-title="Música", XITE Rock X Metal US
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8 
