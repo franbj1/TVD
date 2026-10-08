@@ -3368,7 +3368,7 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://ventdelnord.tv:8080/mola/directe.m3u8?sense=true
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/2edf5e7e-dc9f-4bba-a66e-14be01e6b292.png" group-title="Música", Cadena Elite
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t5MMjVR/Cadena-Elite.png" group-title="Música", Cadena Elite
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?sense=true
 
