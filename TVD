@@ -3391,10 +3391,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://cloudvideo.servers10.com:8081/8026/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/39731600-31d6-4dcb-9115-391eb8d0fd7b.png" group-title="Música", Hit FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="05111" tvg-name="VClassic TV" tvg-logo="https://i.postimg.cc/SQdZWkZQ/VClassic-TV.png" group-title="Música", VClassic TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
@@ -3460,10 +3456,6 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
 #EXTINF:-1 tvg-id="Radio Italia.it" tvg-logo="https://i.ibb.co/PGsPRjrN/Radio-Italia-logo-2020-svg.webp" group-title="Música", Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-id="RTL 102.5.it" tvg-logo="https://i.ibb.co/1fT6m18z/RTL-102-5-logo-svg.webp" group-title="Música", RTL 102.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vC9FJSCN/1763526058484.webp" group-title="Música", Radio Bruno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
@@ -3506,6 +3498,26 @@ https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/31722b31-8e66-4180-b427-65b8acd960cc.png" group-title="Música", CMC Channel USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/.m3u8
+
+#EXTINF:-1 tvg-id="RTL 102.5.it" tvg-logo="https://i.ibb.co/1fT6m18z/RTL-102-5-logo-svg.webp" group-title="Música", RTL 102.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radio RTL® 102.5" tvg-logo="https://i.postimg.cc/8cRnskNS/RTL-102-5-Best.png" group-title="Música", RTL® Best
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radio RTL® 102.5" tvg-logo="https://i.postimg.cc/Fzp79cfP/RTL-102-5-Caliente.png" group-title="Música", RTL® Caliente
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radio RTL® 102.5" tvg-logo="https://i.postimg.cc/gJDZ01Qs/RTL-102-5-Disco.png" group-title="Música", RTL® Disco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radio RTL® 102.5" tvg-logo="https://i.postimg.cc/wB1fLQgx/RTL-102-5-Traffic.png" group-title="Música", RTL® Traffic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m55F6Sjk/Picsart-25-08-14-13-49-50-415.webp" group-title="Música", Trace Latina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
