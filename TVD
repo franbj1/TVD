@@ -3464,6 +3464,14 @@ https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="Radio Ibiza TV" tvg-logo="https://i.postimg.cc/X7XQTgBw/Radio-Ibiza-TV.png" group-title="Música", Radio Ibiza TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio Ibiza TV" tvg-logo="https://i.postimg.cc/YSGHs3X4/Radio-Number-ON1E.png" group-title="Música", Radio Number One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twDM40DR/Picsart-25-11-19-04-29-27-176.webp" group-title="Música", Radio Piter Pan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/.m3u8
