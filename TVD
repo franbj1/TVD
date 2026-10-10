@@ -3187,7 +3187,7 @@ https://g1.mc-hor.transport.edge-access.net/a06/ngrp:tierramiatv-100188_all/Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://latan.stonetv.com.br/htv/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Top Latino.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", TOP Latino
+#EXTINF:-1 tvg-id="Top Latino.pe" tvg-logo="https://i.postimg.cc/J0mCkNct/TOP-Latino.png" group-title="Música", TOP Latino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
