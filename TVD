@@ -3187,6 +3187,10 @@ https://g1.mc-hor.transport.edge-access.net/a06/ngrp:tierramiatv-100188_all/Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://latan.stonetv.com.br/htv/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Top Latino.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", TOP Latino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+
 #EXTINF:-1 tvg-id="0543" tvg-name="Music TOP • Argentina" tvg-logo="https://i.postimg.cc/8zFLFxQ0/Music-Top.png" group-title="Música", Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://bvclive2.boldmss.com/MUSICTOPS/MUSICTOPS.isml/manifest?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
@@ -3279,10 +3283,6 @@ https://5ff3d9babae13.streamlock.net/ttedvzwrvn/ttedvzwrvn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Viva Latino" tvg-logo="https://i.postimg.cc/L6NnhCzG/Viva-Latino.png" group-title="Música", ¡Viva Latino!
 http://stream.mcquack.net/285/index.m3u8
-
-#EXTINF:-1 tvg-id="TOP LATINO.pe" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música", TOP Latino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0538" tvg-name="Claro Música Sin Límites" tvg-logo="https://i.postimg.cc/Y9d5PMqZ/Claro-Musica.png" group-title="Música", Claro Música
 http://45.170.130.224:8000/play/a02n/index.m3u8
