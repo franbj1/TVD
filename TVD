@@ -3204,10 +3204,12 @@ https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eventos Para Todos.ar" tvg-logo="https://i.postimg.cc/QMXHrjWj/El-Folklorico.png" group-title="Música", El Folklórico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://stream.t5satelital.blog/hls/elfolkloricoweb.m3u8
-https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=f4c71a56cd5df07d5a114f9668b114de&keyid=f03e699fb4603c8b1518936fc5c9c13a
+#EXTINF:-1 tvg-id="Concert Channel.co" tvg-logo="https://i.postimg.cc/QNb0JV95/Concert-Channel.png" group-title="Música", Concert Channel
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)"
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd
 
 #EXTINF:-1 tvg-id="MTV Live.us" tvg-logo="https://i.ibb.co/ZRYHm9f6/Picsart-26-03-28-02-47-11-930.webp" group-title="Música", MTV Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -3270,13 +3272,6 @@ https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
 #EXTINF:-1 tvg-id="0515" tvg-name="Teleritmo" tvg-logo="https://i.ibb.co/99gkcKMM/Teleritmo-2023.webp" group-title="Música", Tele Ritmo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=f4c71a56cd5df07d5a114f9668b114de&keyid=f03e699fb4603c8b1518936fc5c9c13a
-#EXTINF:-1 tvg-id="Concert Channel.co" tvg-logo="https://i.ibb.co/5Btjrt1/concertch.png" group-title="Música", Concert Channel
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)"
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd
 
 #EXTINF:-1 tvg-id="Maxima.cl" tvg-logo="https://i.postimg.cc/k5fDkVBG/Maxima-TV.png" group-title="Música", Maxima FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
