@@ -2849,7 +2849,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="ENT Classic" tvg-logo="https://i.postimg.cc/W39Lt5kY/ENT-Classic.png" group-title="ENT", ENT Classic (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://cdn.40mediagroup.com/live/c7eds/ENT_Classic/SA_LIVE_hls_enc/master.m3u8
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="ENT Life" tvg-logo="https://i.postimg.cc/DZpH78VV/ENT-Life.png" group-title="ENT", ENT Life (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
