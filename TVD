@@ -2619,7 +2619,6 @@ https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
 #EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.postimg.cc/MT05z3h1/Picsart-26-03-21-17-06-53-262.png" group-title="Cine + Series", Space
-http://playcom.trapemn.tv:1935/transcoderip/space.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
