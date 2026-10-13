@@ -4,7 +4,7 @@ Televisión Nacional
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/RhQbhXD6/Picsart-26-07-20-00-07-13-069.png"
 
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/kGL034W3/Picsart-26-09-07-20-11-16-038.png" group-title="Nacional", Nueva Programación y cambio a Canal 7 desde el 17/10
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/kGL034W3/Picsart-26-09-07-20-11-16-038.png" group-title="Nacional", Canal 7
 https://g5.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
@@ -14,7 +14,7 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve • Argentina" tvg-logo="https://i.postimg.cc/rph2ZLtQ/Picsart-26-09-06-03-44-11-904.png" group-title="Nacional", El Nueve
-#EXTVLCOPT:http-user-agent="Android
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
@@ -94,7 +94,6 @@ https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0922" tvg-name="IP Notícias • Argentina"  tvg-logo="https://i.postimg.cc/7LWP38qz/Picsart-26-07-21-16-51-35-057.png" group-title="Nacional", Argentina|12
-https://cyberuno.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
@@ -2526,14 +2525,12 @@ https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine + Series", Cinemax
-https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=5bfb374d644703550f0637532bca0491&keyid=2a61b7a7912064acc62a06a6ae22ac5c
 #EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" group-title="Cine + Series", Comedy Central
-
 #EXTVLCOPT:http-user-agent=Sky+/11.5.1(18)_prd skymas ahh (Linux;Android 16) AndroidXMedia3/1.0.2
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/COMEDY-CENTRAL-HD/default.mpd
 
@@ -2602,13 +2599,13 @@ https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18cfe27adad2e444dc0f50a3238a1740:a0e25f18be94d6eb1c9733111135c047
-#EXTINF:-1 tvg-id="TCM SD.uy" tvg-logo="https://i.ibb.co/Y7mmdNRF/1771575995411.webp" group-title="Cine + Series", TCM
+#EXTINF:-1 tvg-id="TCM SD.uy" tvg-logo="https://i.ibb.co/Y7mmdNRF/1771575995411.webp" group-title="Cine + Series", TCM (Turner Classic Movies)
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/23Y1GwxQ/Picsart-26-04-10-07-24-21-418.webp" group-title="Cine + Series", Warner TV
+#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/23Y1GwxQ/Picsart-26-04-10-07-24-21-418.webp" group-title="Cine + Series", Warner Channel
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
@@ -2625,7 +2622,6 @@ https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 https://1234-tbx.vrioott.com/adultswim/manifest.mpd
 
 #EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", MC
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
