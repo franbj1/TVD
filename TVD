@@ -1312,10 +1312,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/AsiriTV/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/SantaRosaTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nova.pe" tvg-logo="https://i.ibb.co/MxC7ZmJx/1770901130342.webp" group-title="TV Peru", Nova TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ODTV.pe" tvg-logo="https://i.ibb.co/TMg7bph8/1773350706732.webp" group-title="TV Peru", ODTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ODTV.stream/playlist.m3u8
@@ -1388,7 +1384,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="0853" tvg-name="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
 http://45.181.120.147:9800/play/080/index.m3u8
 
-#EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
+#EXTINF:-1 tvg-id="0325" tvg-name="FMH Animotion" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
 http://45.181.120.147:9800/play/081/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
@@ -1564,7 +1560,7 @@ https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://i.postimg.cc/VNm3dJ71/Picsart-26-06-19-13-56-27-603.png" group-title="TV Paraguay", El Nueve
 https://latan.stonetv.com.br/elnueve/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe Internacional
+#EXTINF:-1 tvg-id="4909" tvg-name="Telefe • Internacional" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
 https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
 
