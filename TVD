@@ -2500,54 +2500,49 @@ Cine + Series
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
-#EXTINF:-1 tvg-id="AXN HD.uy" tvg-logo="https://i.ibb.co/8DYmtZ2R/SNAXN.webp" group-title="Cine + Series", AXN
+#EXTINF:-1 tvg-id="0847" tvg-name="AXN • Feed 1" tvg-logo="https://i.ibb.co/8DYmtZ2R/SNAXN.webp" group-title="Cine + Series", AXN
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
-https://latan.stonetv.com.br/axn/tracks-v1a1/playlist.m3u8
+https://streaming02.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/AMC.DGO.json
-#EXTINF:-1 tvg-id="AMC HD.uy" tvg-logo="https://i.ibb.co/60p1XKCj/Picsart-25-08-07-11-01-27-860.webp" group-title="Cine + Series", AMC
-http://45.134.141.161:2200/ARG/amc_HD/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://1007-tbx.vrioott.com/amcla/manifest.mpd
+#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.ibb.co/60p1XKCj/Picsart-25-08-07-11-01-27-860.webp" group-title="Cine + Series", AMC
+https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=dfc77b4e965f5a638e76e0203782e41b&key%5B%5D=fc942e3d37ce67a81979a7277e81d61d
-#EXTINF:-1 tvg-id="MAS CHIC.ar" tvg-logo="https://i.ibb.co/twpbWkJM/Picsart-25-11-01-14-28-35-708.webp" group-title="Cine + Series", AMC Series
+#EXTINF:-1 tvg-id="0802" tvg-name="Canal DHE" tvg-logo="https://i.ibb.co/twpbWkJM/Picsart-25-11-01-14-28-35-708.webp" group-title="Cine + Series", AMC Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1161-tbx.vrioott.com/maschic/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
-#EXTINF:-1 tvg-id="Cinecanal HD.uy" tvg-logo="https://i.ibb.co/21nxnvkj/Picsart-25-10-27-20-46-59-125.webp" group-title="Cine + Series", Cinecanal
+#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://i.ibb.co/21nxnvkj/Picsart-25-10-27-20-46-59-125.webp" group-title="Cine + Series", Cinecanal
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
-#EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine + Series", Cinemax
+#EXTINF:-1 tvg-id="0840" tvg-name="Cinemax • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine + Series", Cinemax
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=5bfb374d644703550f0637532bca0491&keyid=2a61b7a7912064acc62a06a6ae22ac5c
-#EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" group-title="Cine + Series", Comedy Central
-#EXTVLCOPT:http-user-agent=Sky+/11.5.1(18)_prd skymas ahh (Linux;Android 16) AndroidXMedia3/1.0.2
-https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/COMEDY-CENTRAL-HD/default.mpd
+#EXTINF:-1 tvg-id="0812" tvg-name="Comedy Central" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" group-title="Cine + Series", Comedy Central
+https://streaming02.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
-#EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://i.postimg.cc/bY0mLMrQ/Picsart-26-03-20-09-00-53-395.png" group-title="Cine + Series", DHE
+#EXTINF:-1 tvg-id="0802" tvg-name="Canal DHE" tvg-logo="https://i.postimg.cc/bY0mLMrQ/Picsart-26-03-20-09-00-53-395.png" group-title="Cine + Series", DHE
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
-#EXTINF:-1 tvg-id="Multipremier SD.uy" tvg-name="Multipremier SD.uy" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", MP
+#EXTINF:-1 tvg-id="0838" tvg-name="MultiPremier" tvg-logo="https://i.ibb.co/gGJBqc6/Picsart-25-11-06-21-13-44-801.webp" group-title="Cine + Series", MultiPremier
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
+#EXTINF:-1 tvg-id="0811" tvg-name="FX • Feed 1" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
