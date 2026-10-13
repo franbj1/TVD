@@ -14,13 +14,13 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve • Argentina" tvg-logo="https://i.postimg.cc/rph2ZLtQ/Picsart-26-09-06-03-44-11-904.png" group-title="Nacional", El Nueve
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
+https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
-htt://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/eltrece.playlist.m3u8
