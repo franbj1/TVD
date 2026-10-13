@@ -1388,7 +1388,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="0853" tvg-name="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
 http://45.181.120.147:9800/play/080/index.m3u8
 
-#EXTINF:-1 tvg-id="0325" tvg-name="FMH Animotion" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
+#EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
 http://45.181.120.147:9800/play/081/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
@@ -1409,19 +1409,19 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntseries.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/pasiones/playlist.m3u8
 
-#EXTINF:-1 tvg-id="K-Drama.pe" tvg-logo="https://i.postimg.cc/SNW419G8/Vive-Kanal-Drama.png" group-title="TV Peru", Kanal Drama
+#EXTINF:-1 tvg-id="K-Drama.pe" tvg-logo="https://i.postimg.cc/SNW419G8/Vive-Kanal-Drama.png" group-title="TV Peru", VIVE Kanal Drama
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/usa.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CINE FAMILIAR.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/800/542/0/0/38183247075481.png" group-title="TV Peru", Cine Familiar
+#EXTINF:-1 tvg-id="CINE FAMILIAR.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1805/CH_LOGO/800/542/0/0/38183247075481.png" group-title="TV Peru", CINE Familiar
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CINE HISPANO HD.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/800/542/0/0/47205068074564.png" group-title="TV Peru", Cine Hispano
+#EXTINF:-1 tvg-id="CINE HISPANO HD.pe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1806/CH_LOGO/800/542/0/0/47205068074564.png" group-title="TV Peru", CINE Hispano
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CINE PREMIUM HD.pe" tvg-logo="https://i.ibb.co/cSvVDBNf/Picsart-25-10-28-16-56-41-097.webp" group-title="TV Peru", Cine Premium
+#EXTINF:-1 tvg-id="CINE PREMIUM HD.pe" tvg-logo="https://i.ibb.co/cSvVDBNf/Picsart-25-10-28-16-56-41-097.webp" group-title="TV Peru", CINE Premium
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 
