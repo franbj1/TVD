@@ -2535,28 +2535,22 @@ https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
-#EXTINF:-1 tvg-id="TNT HD.uy" tvg-logo="https://i.postimg.cc/sgBRV91p/Picsart-26-03-20-17-48-01-870.png" group-title="Cine + Series", TNT
+#EXTINF:-1 tvg-id="0805" tvg-name="TNT • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/1tbS4t4m/TNT.png" group-title="Cine + Series", TNT
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://playcom.trapemn.tv:1935/transcoderip/tnt.stream/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
-#EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://i.ibb.co/1fytrSdc/Sony-Channel-2023.webp" group-title="Cine + Series", Sony Channel
+#EXTINF:-1 tvg-id="0806" tvg-name="Sony Channel • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Android
 http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 https://latan.stonetv.com.br/sony/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
-#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://i.ibb.co/1JB4mHF3/msf-43097-converted-To-Png.webp" group-title="Cine + Series", Sony Movies
-#EXTVLCOPT:http-user-agent=Android
-http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/56.m3u8
-
-#EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine + Series", Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=075fade91099c9f43ed30ec8d0b71399&keyid=b80550353a7ba2c637b952345e6f79f6
+#EXTINF:-1 tvg-id="0810" tvg-name="Sony Movies • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/NjSfKBFQ/Sony-Movies.png" group-title="Cine + Series", Sony Movies
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
