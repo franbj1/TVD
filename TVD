@@ -2535,14 +2535,14 @@ https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
-#EXTINF:-1 tvg-id="0805" tvg-name="TNT • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/1tbS4t4m/TNT.png" group-title="Cine + Series", TNT
+#EXTINF:-1 tvg-id="1805" tvg-name="TNT • Feed 2" tvg-logo="https://i.postimg.cc/1tbS4t4m/TNT.png" group-title="Cine + Series", TNT
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://playcom.trapemn.tv:1935/transcoderip/tnt.stream/playlist.m3u8
 https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=258b455eee76d6406f87dd02ddc735d9&key=dd8aad74c79fe839cc142d0ff6694473
-#EXTINF:-1 tvg-id="0806" tvg-name="Sony Channel • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine + Series", Sony Channel
+#EXTINF:-1 tvg-id="2806" tvg-name="Sony Channel • Feed 3" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
