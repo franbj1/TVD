@@ -2540,7 +2540,7 @@ https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/tnt.stream/playlist.m3u8
 https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0806" tvg-name="Sony Channel • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine + Series", Sony Channel
+#EXTINF:-1 tvg-id="1806" tvg-name="Sony Channel • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine + Series", Sony Channel
 #EXTVLCOPT:http-user-agent=Android
 http://45.134.141.161:2200/ARG/Sony_HD/index.m3u8
 https://latan.stonetv.com.br/sony/tracks-v1a1/playlist.m3u8
