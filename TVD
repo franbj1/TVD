@@ -2512,7 +2512,7 @@ https://streaming02.cdn.rcs.net.ar/mnp/amcseries/output.mpd
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 
-#EXTINF:-1 tvg-id="1840" tvg-name="Cinemax • Feed 2" tvg-logo="https://i.postimg.cc/RCjq5PRc/Cinemax.png" group-title="Cine + Series", Cinemax
+#EXTINF:-1 tvg-id="0840" tvg-name="Cinemax • Feed 1" tvg-logo="https://i.postimg.cc/RCjq5PRc/Cinemax.png" group-title="Cine + Series", Cinemax
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
@@ -2531,7 +2531,7 @@ https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
-#EXTINF:-1 tvg-id="1805" tvg-name="TNT • Feed 2" tvg-logo="https://i.postimg.cc/1tbS4t4m/TNT.png" group-title="Cine + Series", TNT
+#EXTINF:-1 tvg-id="2805" tvg-name="TNT • Feed 3" tvg-logo="https://i.postimg.cc/1tbS4t4m/TNT.png" group-title="Cine + Series", TNT
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://playcom.trapemn.tv:1935/transcoderip/tnt.stream/playlist.m3u8
 https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
