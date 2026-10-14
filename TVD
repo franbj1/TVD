@@ -31,7 +31,7 @@ hp://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/eltrece.playlist.
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 htt://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="BravoTv.ar" tvg-name="Alpha TV • Argentina" tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
+#EXTINF:-1 tvg-id="0963" tvg-name="Alpha Media TV • Argentina" tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&nd
 
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife • Argentina" tvg-logo="https://i.postimg.cc/mrR5SSjw/Unife.png" group-title="Nacional", Unife
@@ -90,7 +90,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 
-#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" tvg-logo="https://i.postimg.cc/pT2fL2CH/Picsart-26-09-11-10-59-52-510.png" group-title="Nacional", + Perfil
+#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil • Argentina" tvg-logo="https://i.postimg.cc/pT2fL2CH/Picsart-26-09-11-10-59-52-510.png" group-title="Nacional", + Perfil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
