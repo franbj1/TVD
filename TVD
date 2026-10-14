@@ -2554,7 +2554,6 @@ https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=7c6cc36b9c3f44f37b713ad40483e085&key=ceaecf70b99780967d97b9eaf6e2ad5f
 #EXTINF:-1 tvg-id="1804" tvg-name="Universal TV• Feed 2" tvg-logo="https://i.postimg.cc/wj1y3W60/Universal-TV.webp" group-title="Cine + Series", Universal TV
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
@@ -2567,7 +2566,7 @@ https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=78396693b172158176c33c28f2e7c0b8&key=1e251112819a34ed691bc3881c64ea4d
-#EXTINF:-1 tvg-id="1801" tvg-name="Star Channel • Feed 2" tvg-logo="https://i.postimg.cc/ZnjBv2BD/Star-Channel.png" group-title="Cine + Series", St☆r Channel
+#EXTINF:-1 tvg-id="0801" tvg-name="Star Channel • Feed 1" tvg-logo="https://i.postimg.cc/ZnjBv2BD/Star-Channel.png" group-title="Cine + Series", St☆r Channel
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
