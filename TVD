@@ -9,10 +9,6 @@ https://g5.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
-#EXTINF:-1 tvg-id="K-Drama.pe" tvg-logo="https://i.postimg.cc/SNW419G8/Vive-Kanal-Drama.png" group-title="Nacional",  Space
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://playcom.trapemn.tv:1935/transcoderip/space.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV • Argentina" tvg-logo="https://i.postimg.cc/15TPsSWL/Picsart-26-09-06-03-38-16-029.png" group-title="Nacional", América
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.127 Large Screen Safari/533.4 GoogleTV/ 162671
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -2502,17 +2498,17 @@ Cine + Series
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/5N0TpR22/1774025385944.png"
 
-#EXTINF:-1 tvg-id="0847" tvg-name="AXN • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/Y2PQsfZG/AXN.png" group-title="Cine + Series", AXN
+#EXTINF:-1 tvg-id="0847" tvg-name="AXN • Feed 1" tvg-logo="https://i.postimg.cc/Y2PQsfZG/AXN.png" group-title="Cine + Series", AXN
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://streaming02.cdn.rcs.net.ar/mnp/axn/output.mpd
 
-#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/FHStLp5z/AMC.png" group-title="Cine + Series", AMC
+#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.postimg.cc/FHStLp5z/AMC.png" group-title="Cine + Series", AMC
 https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-id="0619" tvg-name="AMC Series Argentina" tvg-logo="https://i.postimg.cc/3NZX6PvH/AMC-Series.png" group-title="Cine + Series", AMC Series
 https://streaming02.cdn.rcs.net.ar/mnp/amcseries/output.mpd
 
-#EXTINF:-1 tvg-id="1846" tvg-name="Cinecanal • Feed 2 Argentina" tvg-logo="https://i.postimg.cc/TYPLn5Hj/Cinecanal.png" group-title="Cine + Series", Cinecanal
+#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://i.postimg.cc/TYPLn5Hj/Cinecanal.png" group-title="Cine + Series", Cinecanal
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 
@@ -2554,7 +2550,7 @@ https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=7c6cc36b9c3f44f37b713ad40483e085&key=ceaecf70b99780967d97b9eaf6e2ad5f
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=7c6cc36b9c3f44f37b713ad40483e085&key=ceaecf70b99780967d97b9eaf6e2ad5f
 #EXTINF:-1 tvg-id="1804" tvg-name="Universal TV• Feed 2" tvg-logo="https://i.postimg.cc/wj1y3W60/Universal-TV.webp" group-title="Cine + Series", Universal TV
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
@@ -2566,7 +2562,7 @@ https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=78396693b172158176c33c28f2e7c0b8&key=1e251112819a34ed691bc3881c64ea4d
-#EXTINF:-1 tvg-id="0801" tvg-name="Star Channel • Feed 1" tvg-logo="https://i.postimg.cc/ZnjBv2BD/Star-Channel.png" group-title="Cine + Series", St☆r Channel
+#EXTINF:-1 tvg-id="1801" tvg-name="Star Channel • Feed 2" tvg-logo="https://i.postimg.cc/ZnjBv2BD/Star-Channel.png" group-title="Cine + Series", St☆r Channel
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
