@@ -2583,7 +2583,7 @@ https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
-#EXTINF:-1 tvg-id="0839" tvg-name="Multicinema" tvg-logo="https://i.postimg.cc/sXdzR9fg/Multi-Cinema.png" group-title="Cine + Series", MultiCinema
+#EXTINF:-1 tvg-id="0839" tvg-name="Multicinema" tvg-logo="https://i.postimg.cc/TPyL5Zwm/Multi-Cinema.png" group-title="Cine + Series", MultiCinema
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
