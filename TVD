@@ -2583,20 +2583,23 @@ https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
-#EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", MultiCinema
+#EXTINF:-1 tvg-id="0839" tvg-name="Multicinema" tvg-logo="https://i.postimg.cc/sXdzR9fg/Multi-Cinema.png" group-title="Cine + Series", MultiCinema
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ADULTSWIM.DGO.json
-#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Cine + Series", Adult Swim
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://1234-tbx.vrioott.com/adultswim/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=476ae5b67b7ad297ac643386d2daa229&key=0ef75009de12efe833dafa97aa30272c
+#EXTINF:-1 tvg-id="0829" tvg-name="Adult Swim • Feed 1" tvg-logo="https://i.postimg.cc/26TJy4FD/Adult-Swim.png" group-title="Cine + Series", Adult Swim [A.S]
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/USANETWORK.DGO.json
-#EXTINF:-1 tvg-id="USA.uy" tvg-logo="https://i.ibb.co/JXRQK48/Picsart-26-02-20-12-39-19-030.webp" group-title="Cine + Series", USA Network
-https://1211-tbx.vrioott.com/usala/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=3a1e766119c3fb03b095c8e7f0e63139&key=03932364e1ff6ab68cdc2c1969aee6a5
+#EXTINF:-1 tvg-id="0809" tvg-name="USA Network • Feed 1" tvg-logo="https://i.ibb.co/JXRQK48/Picsart-26-02-20-12-39-19-030.webp" group-title="Cine + Series", USA Network
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd
 
 #EXTINF:-1 tvg-id="EUROCHANNEL" tvg-logo="https://i.ibb.co/Wp3xqqCy/EURO-LOGO-FINALE.webp" group-title="Cine + Series", Euro Channel
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
