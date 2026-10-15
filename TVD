@@ -1992,6 +1992,10 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tzgm3ypc9h/
 #EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://i.ibb.co/qYXK0GTt/Picsart-26-01-20-16-58-05-043.webp" group-title="Novelas ᥫ᭡", TNT Novelas
 https://1212-tbx.vrioott.com/tntnovelas/manifest.mpd
 
+#EXTINF:-1 tvg-id="1833" tvg-name="TNT Series • Feed 2" tvg-logo="https://i.postimg.cc/j5MnLB7V/TNT-Series.webp" group-title="Novelas ᥫ᭡", TNT Series
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
@@ -2567,10 +2571,6 @@ https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
 
-#EXTINF:-1 tvg-id="1833" tvg-name="TNT Series • Feed 2" tvg-logo="https://i.postimg.cc/j5MnLB7V/TNT-Series.webp" group-title="Cine + Series", TNT Series
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
-
 #EXTINF:-1 tvg-id="0807" tvg-name="TCM • Feed 1" tvg-logo="https://i.postimg.cc/hG99PCsn/TCM.png" group-title="Cine + Series", TCM (Turner Classics Movies)
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
@@ -2596,40 +2596,39 @@ https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=3a1e766119c3fb03b095c8e7f0e63139&key=03932364e1ff6ab68cdc2c1969aee6a5
-#EXTINF:-1 tvg-id="0809" tvg-name="USA Network • Feed 1" tvg-logo="https://i.ibb.co/JXRQK48/Picsart-26-02-20-12-39-19-030.webp" group-title="Cine + Series", USA Network
+#EXTINF:-1 tvg-id="0809" tvg-name="USA Network" tvg-logo="https://i.postimg.cc/05h5BPRT/USA-Network.png" group-title="Cine + Series", USA Network
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd
 
-#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-logo="https://i.ibb.co/Wp3xqqCy/EURO-LOGO-FINALE.webp" group-title="Cine + Series", Euro Channel
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bf1324eab263b72f5d8373a9678e6774&key%5B%5D=1375cd3390772b03b5136dce1641ba84
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=bf1324eab263b72f5d8373a9678e6774&key=1375cd3390772b03b5136dce1641ba84
+#EXTINF:-1 tvg-id="0621" tvg-name="Eurochannel" tvg-logo="https://i.postimg.cc/BvVnd1kv/Euro-Channel.webp" group-title="Cine + Series", EURO Channel
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
 
-#EXTINF:-1 tvg-id="Europa Europa.uy" tvg-logo="https://i.postimg.cc/y8h26QsD/j6e798mbhr-EE-logo-(1).png" group-title="Cine + Series", Europa Europa
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
-https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=01c6295e3fc98352427941dc1015605a&key=bac9c97340df0b813a9f08c54880feb4
+#EXTINF:-1 tvg-id="0622" tvg-name="Europa Europa" tvg-logo="https://i.postimg.cc/9XTQn0pC/Europa-Europa.png" group-title="Cine + Series", Europa Europa
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referente=www.el4plsyer.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=736bef197ba5c73203add79c8e8d279a:7f037dc5835305f22a7206d79d4d5db2
-#EXTINF:-1 tvg-id="AandE HD.uy" tvg-logo="https://i.postimg.cc/SKTTjH5b/image-64125-converted-To-Png.png" group-title="Cine + Series", A&E
-#EXTVLCOPT:http-user-agent=Android
-https://el4live1.boldmss.com/AYE/AYE_EL4.isml/manifest
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=736bef197ba5c73203add79c8e8d279a&key=7f037dc5835305f22a7206d79d4d5db2
+#EXTINF:-1 tvg-id="0808" tvg-name="A&amp¡E • Feed 1" tvg-logo="https://i.postimg.cc/W4JB1Ftg/A-E-Network.png" group-title="Cine + Series", A&E
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyTL64r/Picsart-26-03-20-18-02-34-821.png" group-title="Cine + Series", A3 Cine
+#EXTINF:-1 tvg-id="0870" tvg-name="A3 Cine" tvg-logo="https://i.postimg.cc/Y9zyv17Q/A3-Cine.png" group-title="Cine + Series", A3 Cine
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/A3SERIES.DGO.json
-#EXTINF:-1 tvg-id="ATRES SERIES.ar" tvg-logo="https://i.ibb.co/39C8VR5c/Picsart-25-10-27-16-43-19-808.webp" group-title="Cine + Series", A3 Series
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="0618" tvg-name="Atreseries • Feed 1" tvg-logo="https://i.postimg.cc/x8bJsPd2/A3-Series.png" group-title="Cine + Series", A3 Series
 https://1015-tbx.vrioott.com/atresseries/manifest.mpd
 
 Cine TV
