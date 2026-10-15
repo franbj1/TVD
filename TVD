@@ -2589,7 +2589,7 @@ https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=476ae5b67b7ad297ac643386d2daa229&key=0ef75009de12efe833dafa97aa30272c
-#EXTINF:-1 tvg-id="0829" tvg-name="Adult Swim • Feed 1" tvg-logo="https://i.postimg.cc/26TJy4FD/Adult-Swim.png" group-title="Cine + Series", Adult Swim [A.S]
+#EXTINF:-1 tvg-id="0850" tvg-name="Adult Swim • Feed 1" tvg-logo="https://i.postimg.cc/26TJy4FD/Adult-Swim.png" group-title="Cine + Series", Adult Swim [A.S]
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
