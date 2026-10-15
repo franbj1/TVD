@@ -2515,6 +2515,7 @@ Cine + Series
 https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 #EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.postimg.cc/tChjrD1V/AMC.png" group-title="Cine + Series", AMC
+https://barinaslive1.boldmss.com/AMC/AMC.isml/AMC.m3u8
 https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-id="0619" tvg-name="AMC Series Argentina" tvg-logo="https://i.postimg.cc/3NZX6PvH/AMC-Series.png" group-title="Cine + Series", AMC Series
