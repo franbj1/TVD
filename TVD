@@ -2529,7 +2529,8 @@ https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
 #EXTINF:-1 tvg-id="0812" tvg-name="Comedy Central Argentina" tvg-logo="https://i.postimg.cc/W3H3nXy8/Comedy-Central.png" group-title="Cine + Series", Comedy Central
-https://streaming02.cdn.rcs.net.ar/mnp/comedy/output.mpd
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+http://streaming02.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
 #EXTINF:-1 tvg-id="0802" tvg-name="Canal DHE Argentina" tvg-logo="https://i.postimg.cc/wvV8VvbQ/DHE.png" group-title="Cine + Series", DHE
 #EXTVLCOPT:http-user-agent=Android
