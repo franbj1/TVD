@@ -2575,27 +2575,23 @@ https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
-#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://i.ibb.co/23Y1GwxQ/Picsart-26-04-10-07-24-21-418.webp" group-title="Cine + Series", Warner Channel
+#EXTINF:-1 tvg-id="0832" tvg-name="Warner Channel • Feed 1" tvg-logo="https://i.postimg.cc/BnM1hbgq/Warner-Channel.png" group-title="Cine + Series", Warner
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
-#EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://i.postimg.cc/MT05z3h1/Picsart-26-03-21-17-06-53-262.png" group-title="Cine + Series", Space
+#EXTINF:-1 tvg-id="0829" tvg-name="Space • Feed 1" tvg-logo="https://i.postimg.cc/MT05z3h1/Picsart-26-03-21-17-06-53-262.png" group-title="Cine + Series", Space
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
+
+#EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", MultiCinema
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/ADULTSWIM.DGO.json
 #EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/rgJGWSh/Picsart-25-10-28-01-43-38-044.webp" group-title="Cine + Series", Adult Swim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://1234-tbx.vrioott.com/adultswim/manifest.mpd
-
-#EXTINF:-1 tvg-id="Multicinema HD.uy" tvg-logo="https://i.ibb.co/9kKmZvYW/Picsart-25-10-28-04-23-33-053.webp" group-title="Cine + Series", MC
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/USANETWORK.DGO.json
