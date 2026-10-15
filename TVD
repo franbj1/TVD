@@ -2556,7 +2556,7 @@ https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
 
-#EXTINF:-1 tvg-id="1834" tvg-name="Studio Universal • Feed 2" tvg-logo="https://i.postimg.cc/Jz7wQgDW/Studio-Universal.webp" group-title="Cine + Series", Studio Universal
+#EXTINF:-1 tvg-id="1834" tvg-name="Studio Universal • Feed 2" tvg-logo="https://i.postimg.cc/CK9ysLyt/Studio-Universal.png" group-title="Cine + Series", Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 
