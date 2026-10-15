@@ -2045,6 +2045,13 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ANTENA-3-HD/default.mpd
 https://1021-tbx.vrioott.com/aztecaclic/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=736bef197ba5c73203add79c8e8d279a&key=7f037dc5835305f22a7206d79d4d5db2
+#EXTINF:-1 tvg-id="0808" tvg-name="A&amp¡E • Feed 1" tvg-logo="https://i.postimg.cc/W4JB1Ftg/A-E-Network.png" group-title="Novelas ᥫ᭡", A&E
+#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=07e324aea2025e728777835c5b8fed36&key%5B%5D=b57b8cf56f2ad7140080e356ecaae6cf
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://i.postimg.cc/wjfdpFMb/clic.png" group-title="Novelas ᥫ᭡", Azteca Internacional
 https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd
@@ -2614,13 +2621,6 @@ https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=736bef197ba5c73203add79c8e8d279a&key=7f037dc5835305f22a7206d79d4d5db2
-#EXTINF:-1 tvg-id="0808" tvg-name="A&amp¡E • Feed 1" tvg-logo="https://i.postimg.cc/W4JB1Ftg/A-E-Network.png" group-title="Cine + Series", A&E
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd
 
 #EXTINF:-1 tvg-id="0870" tvg-name="A3 Cine" tvg-logo="https://i.postimg.cc/Y9zyv17Q/A3-Cine.png" group-title="Cine + Series", A3 Cine
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
