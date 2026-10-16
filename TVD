@@ -2594,13 +2594,13 @@ https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 
+#EXTINF:-1 tvg-id="0829" tvg-name="Space • Feed 1" tvg-logo="https://i.postimg.cc/Bb825Wym/Space.png" group-title="Cine + Series", Space
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
+
 #EXTINF:-1 tvg-id="0832" tvg-name="Warner Channel • Feed 1" tvg-logo="https://i.postimg.cc/BnM1hbgq/Warner-Channel.png" group-title="Cine + Series", Warner
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
-
-#EXTINF:-1 tvg-id="0829" tvg-name="Space • Feed 1" tvg-logo="https://i.postimg.cc/rmKdW7wx/Space.png" group-title="Cine + Series", Space
-#EXTVLCOPT:http-user-agent=Android
-https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=476ae5b67b7ad297ac643386d2daa229&key=0ef75009de12efe833dafa97aa30272c
