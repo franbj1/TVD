@@ -2510,127 +2510,127 @@ https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
-Cine + Series
+Cine
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/5N0TpR22/1774025385944.png"
+#EXTINF:-1 group-logo="https://i.postimg.cc/CKjxnw4c/Cine.png"
 
-#EXTINF:-1 tvg-id="2847" tvg-name="AXN • Feed 3" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine + Series", AXN
+#EXTINF:-1 tvg-id="2847" tvg-name="AXN • Feed 3" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine", AXN
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
 
-#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.postimg.cc/tChjrD1V/AMC.png" group-title="Cine + Series", AMC
+#EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.postimg.cc/tChjrD1V/AMC.png" group-title="Cine", AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://barinaslive1.boldmss.com/AMC/AMC.isml/AMC.m3u8
 https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
 
-#EXTINF:-1 tvg-id="0619" tvg-name="AMC Series Argentina" tvg-logo="https://i.postimg.cc/3NZX6PvH/AMC-Series.png" group-title="Cine + Series", AMC Series
+#EXTINF:-1 tvg-id="0619" tvg-name="AMC Series Argentina" tvg-logo="https://i.postimg.cc/3NZX6PvH/AMC-Series.png" group-title="Cine", AMC Series
 https://streaming02.cdn.rcs.net.ar/mnp/amcseries/output.mpd
 
-#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://i.postimg.cc/TYPLn5Hj/Cinecanal.png" group-title="Cine + Series", Cinecanal
+#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://i.postimg.cc/TYPLn5Hj/Cinecanal.png" group-title="Cine", Cinecanal
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 
-#EXTINF:-1 tvg-id="0840" tvg-name="Cinemax • Feed 1" tvg-logo="https://i.postimg.cc/RCjq5PRc/Cinemax.png" group-title="Cine + Series", Cinemax
+#EXTINF:-1 tvg-id="0840" tvg-name="Cinemax • Feed 1" tvg-logo="https://i.postimg.cc/RCjq5PRc/Cinemax.png" group-title="Cine", Cinemax
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
-#EXTINF:-1 tvg-id="0812" tvg-name="Comedy Central Argentina" tvg-logo="https://i.postimg.cc/W3H3nXy8/Comedy-Central.png" group-title="Cine + Series", Comedy Central
+#EXTINF:-1 tvg-id="0812" tvg-name="Comedy Central Argentina" tvg-logo="https://i.postimg.cc/W3H3nXy8/Comedy-Central.png" group-title="Cine", Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 http://streaming02.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
-#EXTINF:-1 tvg-id="0802" tvg-name="Canal DHE Argentina" tvg-logo="https://i.postimg.cc/wvV8VvbQ/DHE.png" group-title="Cine + Series", DHE
+#EXTINF:-1 tvg-id="0802" tvg-name="Canal DHE Argentina" tvg-logo="https://i.postimg.cc/wvV8VvbQ/DHE.png" group-title="Cine", DHE
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
 
-#EXTINF:-1 tvg-id="0839" tvg-name="Multicinema" tvg-logo="https://i.postimg.cc/TPyL5Zwm/Multi-Cinema.png" group-title="Cine + Series", MultiCinema
+#EXTINF:-1 tvg-id="0839" tvg-name="Multicinema" tvg-logo="https://i.postimg.cc/TPyL5Zwm/Multi-Cinema.png" group-title="Cine", MultiCinema
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
 
-#EXTINF:-1 tvg-id="0838" tvg-name="MultiPremier" tvg-logo="https://i.postimg.cc/MZnmC4K8/Multi-Premier.png" group-title="Cine + Series", MultiPremier
+#EXTINF:-1 tvg-id="0838" tvg-name="MultiPremier" tvg-logo="https://i.postimg.cc/MZnmC4K8/Multi-Premier.png" group-title="Cine", MultiPremier
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
 
-#EXTINF:-1 tvg-id="0811" tvg-name="FX • Feed 1" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine + Series", FX
+#EXTINF:-1 tvg-id="0811" tvg-name="FX • Feed 1" tvg-logo="https://i.ibb.co/PvDjg9Xc/FX-Logo-2023-svg.webp" group-title="Cine", FX
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=78396693b172158176c33c28f2e7c0b8&key=1e251112819a34ed691bc3881c64ea4d
-#EXTINF:-1 tvg-id="3801" tvg-name="Star Channel • Feed 4" tvg-logo="https://i.postimg.cc/ZnjBv2BD/Star-Channel.png" group-title="Cine + Series", St☆r Channel
+#EXTINF:-1 tvg-id="3801" tvg-name="Star Channel • Feed 4" tvg-logo="https://i.postimg.cc/ZnjBv2BD/Star-Channel.png" group-title="Cine", St☆r Channel
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=7c6cc36b9c3f44f37b713ad40483e085&key=ceaecf70b99780967d97b9eaf6e2ad5f
-#EXTINF:-1 tvg-id="1804" tvg-name="Universal TV• Feed 2" tvg-logo="https://i.postimg.cc/wj1y3W60/Universal-TV.webp" group-title="Cine + Series", Universal
+#EXTINF:-1 tvg-id="1804" tvg-name="Universal TV• Feed 2" tvg-logo="https://i.postimg.cc/wj1y3W60/Universal-TV.webp" group-title="Cine", Universal
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
 
-#EXTINF:-1 tvg-id="1834" tvg-name="Studio Universal • Feed 2" tvg-logo="https://i.postimg.cc/CK9ysLyt/Studio-Universal.png" group-title="Cine + Series", Studio Universal
+#EXTINF:-1 tvg-id="1834" tvg-name="Studio Universal • Feed 2" tvg-logo="https://i.postimg.cc/CK9ysLyt/Studio-Universal.png" group-title="Cine", Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=258b455eee76d6406f87dd02ddc735d9&key=dd8aad74c79fe839cc142d0ff6694473
-#EXTINF:-1 tvg-id="1806" tvg-name="Sony Channel • Feed 2" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine + Series", Sony Channel
+#EXTINF:-1 tvg-id="1806" tvg-name="Sony Channel • Feed 2" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine", Sony Channel
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=075fade91099c9f43ed30ec8d0b71399&keyid=b80550353a7ba2c637b952345e6f79f6
-#EXTINF:-1 tvg-id="0810" tvg-name="Sony Movies • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/NjSfKBFQ/Sony-Movies.png" group-title="Cine + Series", Sony Movies
+#EXTINF:-1 tvg-id="0810" tvg-name="Sony Movies • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/NjSfKBFQ/Sony-Movies.png" group-title="Cine", Sony Movies
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
 
-#EXTINF:-1 tvg-id="2805" tvg-name="TNT • Feed 3" tvg-logo="https://i.postimg.cc/Z5cKHNVR/TNT.png" group-title="Cine + Series", TNT
+#EXTINF:-1 tvg-id="2805" tvg-name="TNT • Feed 3" tvg-logo="https://i.postimg.cc/Z5cKHNVR/TNT.png" group-title="Cine", TNT
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://playcom.trapemn.tv:1935/transcoderip/tnt.stream/playlist.m3u8
 https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0807" tvg-name="TCM • Feed 1" tvg-logo="https://i.postimg.cc/hG99PCsn/TCM.png" group-title="Cine + Series", TCM (Turner Classics Movies)
+#EXTINF:-1 tvg-id="0807" tvg-name="TCM • Feed 1" tvg-logo="https://i.postimg.cc/hG99PCsn/TCM.png" group-title="Cine", TCM (Turner Classics Movies)
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 
-#EXTINF:-1 tvg-id="1829" tvg-name="Space • Feed 2" tvg-logo="https://i.postimg.cc/Bb825Wym/Space.png" group-title="Cine + Series", Space
+#EXTINF:-1 tvg-id="1829" tvg-name="Space • Feed 2" tvg-logo="https://i.postimg.cc/Bb825Wym/Space.png" group-title="Cine", Space
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
-#EXTINF:-1 tvg-id="0821" tvg-name="Golden • Feed 1" tvg-logo="https://i.postimg.cc/NjZcxZM0/Golden.png" group-title="Cine + Series", Golden
+#EXTINF:-1 tvg-id="0821" tvg-name="Golden • Feed 1" tvg-logo="https://i.postimg.cc/NjZcxZM0/Golden.png" group-title="Cine", Golden
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
 
-#EXTINF:-1 tvg-id="0832" tvg-name="Warner Channel • Feed 1" tvg-logo="https://i.postimg.cc/BnM1hbgq/Warner-Channel.png" group-title="Cine + Series", Warner
+#EXTINF:-1 tvg-id="0832" tvg-name="Warner Channel • Feed 1" tvg-logo="https://i.postimg.cc/BnM1hbgq/Warner-Channel.png" group-title="Cine", Warner
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=476ae5b67b7ad297ac643386d2daa229&key=0ef75009de12efe833dafa97aa30272c
-#EXTINF:-1 tvg-id="0850" tvg-name="Adult Swim • Feed 1" tvg-logo="https://i.postimg.cc/26TJy4FD/Adult-Swim.png" group-title="Cine + Series", Adult Swim [A.S]
+#EXTINF:-1 tvg-id="0850" tvg-name="Adult Swim • Feed 1" tvg-logo="https://i.postimg.cc/26TJy4FD/Adult-Swim.png" group-title="Cine", Adult Swim [A.S]
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=bf1324eab263b72f5d8373a9678e6774&key=1375cd3390772b03b5136dce1641ba84
-#EXTINF:-1 tvg-id="0621" tvg-name="Eurochannel" tvg-logo="https://i.postimg.cc/BvVnd1kv/Euro-Channel.webp" group-title="Cine + Series", EURO Channel
+#EXTINF:-1 tvg-id="0621" tvg-name="Eurochannel" tvg-logo="https://i.postimg.cc/BvVnd1kv/Euro-Channel.webp" group-title="Cine", EURO Channel
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=01c6295e3fc98352427941dc1015605a&key=bac9c97340df0b813a9f08c54880feb4
-#EXTINF:-1 tvg-id="0622" tvg-name="Europa Europa" tvg-logo="https://i.postimg.cc/9XTQn0pC/Europa-Europa.png" group-title="Cine + Series", Europa Europa
+#EXTINF:-1 tvg-id="0622" tvg-name="Europa Europa" tvg-logo="https://i.postimg.cc/9XTQn0pC/Europa-Europa.png" group-title="Cine", Europa Europa
 https://barinaslive1.boldmss.com/EUROPA/EUROPA.isml/EUROPA.m3u8
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
 
-#EXTINF:-1 tvg-id="0870" tvg-name="A3 Cine" tvg-logo="https://i.postimg.cc/Y9zyv17Q/A3-Cine.png" group-title="Cine + Series", A3 Cine
+#EXTINF:-1 tvg-id="0870" tvg-name="A3 Cine" tvg-logo="https://i.postimg.cc/Y9zyv17Q/A3-Cine.png" group-title="Cine", A3 Cine
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 
