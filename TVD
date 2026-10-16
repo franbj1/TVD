@@ -986,7 +986,7 @@ https://cdn-live.mundogo.cl/mega2/mega2.mpd
 https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd
 
 #EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.ibb.co/wNNtLRt7/Picsart-26-01-27-21-12-55-672.webp" group-title="TV Chile", Canal 13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/c13.smil/playlist.m3u8?did='+_dpssid
+http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="13 Internacional.cl" tvg-logo="https://i.ibb.co/4RBmfBgv/Picsart-26-01-28-11-20-33-700.webp" group-title="TV Chile", 13 Internacional
 https://origin.dpsgo.com/ssai/event/AoG07lVzSdW0gdaCAcSl-g/master.m3u8
