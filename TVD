@@ -2600,7 +2600,7 @@ https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
 
-#EXTINF:-1 tvg-id="Golden.ar" tvg-logo="https://i.postimg.cc/NjZcxZM0/Golden.png" group-title="Cine + Series", Golden
+#EXTINF:-1 tvg-id="0821" tvg-name="Golden • Feed 1" tvg-logo="https://i.postimg.cc/NjZcxZM0/Golden.png" group-title="Cine + Series", Golden
 #EXTVLCOPT:http-user-agent="android
 https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
 
