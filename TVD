@@ -2771,51 +2771,51 @@ https://lbgo.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 
 ENT
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/Jn9nG7JZ/ENT.png"
+#EXTINF:-1 group-logo="https://i.postimg.cc/jS8yLQMs/ENT-Premium.png"
 
-#EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d2611ebf-0966-4fbb-bdae-fafbc2a62496.png" group-title="ENT", ENT Channel
+#EXTINF:-1 tvg-id="ENT Channel" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d2611ebf-0966-4fbb-bdae-fafbc2a62496.png" group-title="ENT Premium", ENT Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/744a4a00-556d-4d51-8738-bb47be4ea778.png" group-title="ENT", ENT Family
+#EXTINF:-1 tvg-id="ENT Family" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/744a4a00-556d-4d51-8738-bb47be4ea778.png" group-title="ENT Premium", ENT Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Extreme" tvg-logo="https://i.postimg.cc/44MQZpS5/ENT-Extreme.png" group-title="ENT", ENT Extreme
+#EXTINF:-1 tvg-id="ENT Extreme" tvg-logo="https://i.postimg.cc/44MQZpS5/ENT-Extreme.png" group-title="ENT Premium", ENT Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Comedy" tvg-logo="https://i.postimg.cc/HktvsKCs/ENT-Comedy.png" group-title="ENT", ENT Comedy (activó desde el 16/10/2026)
+#EXTINF:-1 tvg-id="ENT Comedy" tvg-logo="https://i.postimg.cc/HktvsKCs/ENT-Comedy.png" group-title="ENT Premium", ENT Comedy (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Drama" tvg-logo="https://i.postimg.cc/brzrfVjw/ENT-Drama.png" group-title="ENT", ENT Drama (activó desde el 16/10/2026)
+#EXTINF:-1 tvg-id="ENT Drama" tvg-logo="https://i.postimg.cc/brzrfVjw/ENT-Drama.png" group-title="ENT Premium", ENT Drama (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Movies" tvg-logo="https://i.postimg.cc/1XjQ7vRX/ENT-Movies.png" group-title="ENT", ENT Movies (activó desde el 16/10/2026)
+#EXTINF:-1 tvg-id="ENT Movies" tvg-logo="https://i.postimg.cc/1XjQ7vRX/ENT-Movies.png" group-title="ENT Premium", ENT Movies (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Classic" tvg-logo="https://i.postimg.cc/W39Lt5kY/ENT-Classic.png" group-title="ENT", ENT Classic (activó desde el 16/10/2026)
+#EXTINF:-1 tvg-id="ENT Classic" tvg-logo="https://i.postimg.cc/W39Lt5kY/ENT-Classic.png" group-title="ENT Premium", ENT Classic (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="ENT Life" tvg-logo="https://i.postimg.cc/DZpH78VV/ENT-Life.png" group-title="ENT", ENT Life (activó desde el 16/10/2026)
+#EXTINF:-1 tvg-id="ENT Life" tvg-logo="https://i.postimg.cc/DZpH78VV/ENT-Life.png" group-title="ENT Premium", ENT Life (activó desde el 16/10/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="ENT", Pride TV ENT
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="ENT Premium", Pride TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="ENT", Total Music ENT
+#EXTINF:-1 tvg-id="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="ENT Premium", Total Music ENT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic_80s" tvg-logo="https://i.ibb.co/whFyLwNM/Picsart-26-01-11-05-08-19-581.webp" group-title="ENT", Total Music 80s ENT
+#EXTINF:-1 tvg-id="Totalmusic_80s" tvg-logo="https://i.ibb.co/whFyLwNM/Picsart-26-01-11-05-08-19-581.webp" group-title="ENT Premium", Total Music 80s ENT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/sp2d2wfB/tmc-00s.webp" group-title="ENT", Total Music 2000s ENT
+#EXTINF:-1 tvg-id="Totalmusic_2000s" tvg-logo="https://i.ibb.co/sp2d2wfB/tmc-00s.webp" group-title="ENT Premium", Total Music 2000s ENT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
 HBO + Universal
