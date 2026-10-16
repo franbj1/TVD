@@ -2514,11 +2514,12 @@ Cine + Series
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/5N0TpR22/1774025385944.png"
 
-#EXTINF:-1 tvg-id="1847" tvg-name="AXN • Feed 2" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine + Series", AXN
+#EXTINF:-1 tvg-id="2847" tvg-name="AXN • Feed 3" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine + Series", AXN
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 #EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.postimg.cc/tChjrD1V/AMC.png" group-title="Cine + Series", AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://barinaslive1.boldmss.com/AMC/AMC.isml/AMC.m3u8
 https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
 
@@ -2534,6 +2535,7 @@ https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
 #EXTINF:-1 tvg-id="0812" tvg-name="Comedy Central Argentina" tvg-logo="https://i.postimg.cc/W3H3nXy8/Comedy-Central.png" group-title="Cine + Series", Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 http://streaming02.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
