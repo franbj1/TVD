@@ -2514,7 +2514,7 @@ Cine + Series
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/5N0TpR22/1774025385944.png"
 
-#EXTINF:-1 tvg-id="0847" tvg-name="AXN • Feed 1" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine + Series", AXN
+#EXTINF:-1 tvg-id="1847" tvg-name="AXN • Feed 2" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine + Series", AXN
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
 https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
 
