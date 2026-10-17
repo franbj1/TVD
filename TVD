@@ -2727,6 +2727,10 @@ https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="Cine TV", Pride TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
+
 #EXTINF:-1 tvg-id="La Descarga TV" tvg-logo="https://i.postimg.cc/YCSSvtG1/La-Descarga-TV.png" group-title="Cine TV", La Descarga TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
@@ -2804,10 +2808,6 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENT Life" tvg-name="ENT Life" tvg-logo="https://i.postimg.cc/DZpH78VV/ENT-Life.png" group-title="ENT Premium", ENT Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/DwqjPRz1/Picsart-26-09-25-02-46-49-488.png" group-title="ENT Premium", Pride TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://stream.pridetvlatam.cl/iptv/channel/2.m3u8
 
 #EXTINF:-1 tvg-id="TMC.40mediaGroup" tvg-name="Totalmusic" tvg-logo="https://i.ibb.co/1ttL5RMf/tmc-main-1.webp" group-title="ENT Premium", Total Music ENT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
