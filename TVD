@@ -2526,6 +2526,7 @@ https://barinaslive1.boldmss.com/AMC/AMC.isml/AMC.m3u8
 https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-id="0619" tvg-name="AMC Series Argentina" tvg-logo="https://i.postimg.cc/3NZX6PvH/AMC-Series.png" group-title="Cine", AMC Series
+https://latan.stonetv.com.br/mas-chic/tracks-v1a1/playlist.m3u8
 https://streaming02.cdn.rcs.net.ar/mnp/amcseries/output.mpd
 
 #EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://i.postimg.cc/TYPLn5Hj/Cinecanal.png" group-title="Cine", Cinecanal
