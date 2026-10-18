@@ -36,7 +36,7 @@ htt://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="0963" tvg-name="Alpha Media TV • Argentina" tvg-logo="https://i.postimg.cc/8kb2NCPW/Picsart-26-09-16-01-19-19-935.png" group-title="Nacional", Alpha TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&nd
 
-#EXTINF:-1 tvg-id="0640" tvg-name="Unife • Argentina" tvg-logo="https://i.postimg.cc/mrR5SSjw/Unife.png" group-title="Nacional", Unife
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife • Argentina" tvg-logo="https://i.postimg.cc/QNp461w7/Unife.png" group-title="Nacional", Unife
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
