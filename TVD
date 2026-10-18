@@ -2578,6 +2578,7 @@ https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=258b455eee76d6406f87dd02ddc735d9&key=dd8aad74c79fe839cc142d0ff6694473
 #EXTINF:-1 tvg-id="1806" tvg-name="Sony Channel • Feed 2" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine", Sony Channel
+https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
