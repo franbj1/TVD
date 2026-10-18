@@ -288,6 +288,7 @@ https://ds.tvabierta.net/memfs/a28c3975-eed3-47a3-8f55-f9a5bd0b0092.m3u8
 http://libretv.ddnsfree.com/TVPLive/Play/1
 
 #EXTINF:-1 tvg-id="RCN Novelas.co" tvg-name="RCN Novelas • Colombia" tvg-logo="https://i.postimg.cc/cCYSfW44/Picsart-26-08-23-23-37-41-273.png" group-title="TV Colombia", RCN Novelas
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvlibre.xyz/
 #EXTVLCOPT:http-user-agent=okhttp/4.9.0
 http://libretv.ddnsfree.com/TVPLive/Play/34
