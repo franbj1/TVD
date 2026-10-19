@@ -532,6 +532,10 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 
+#EXTINF:-1 tvg-id="TV FAMILIA.ve" tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="TV Venezuela", TV Familia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
+
 #EXTINF:-1 tvg-id="Canal de Test.ar" tvg-logo="https://i.postimg.cc/g2Fx25Gq/Picsart-26-09-04-15-56-07-827.png group-title="TV Venezuela", Promar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
@@ -3531,10 +3535,6 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7L2XrHCz/Picsart-26-06-29-16-19-41-339.png" group-title="Religión", ÉL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV FAMILIA.ve" tvg-logo="https://i.ibb.co/211vNs4Z/Picsart-25-11-23-14-47-40-344.webp" group-title="Religión", TV Familia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
 
 #EXTINF:-1 tvg-id="Luz divina TV" tvg-logo="https://i.postimg.cc/02Y8jP71/Picsart-26-06-29-13-09-46-954.png" group-title="Religión", LUZ Divina TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
