@@ -1050,6 +1050,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Bitel
+https://live-bd2.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8?manifestfilter=video_bitrate:1-3000000&uid=12536436
+
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
