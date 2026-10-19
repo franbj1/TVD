@@ -1387,6 +1387,14 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="A&E.pe" tvg-logo="https://i.postimg.cc/jCVWB4Kb/A-E.png" group-title="TV Peru", A&E Mundo
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A3series.pe" tvg-logo="https://i.postimg.cc/vm7pnYD5/A3series-peru.png" group-title="TV Peru", A3 Series
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/a3series.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="0852" tvg-name="FMH Movies" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies.
 http://45.181.120.147:9800/play/082/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
