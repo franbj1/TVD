@@ -1393,6 +1393,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WARNER.pe" tvg-logo="https://i.postimg.cc/0Ndh4HVg/Warner-Channel.png" group-title="TV Peru", Warner
+http://166.1.88.20/live/warner.m3u8?md5=Tau1HPUPXOOedQlQmggO0g&expires=1792475795
+
 #EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://i.ibb.co/Q7mNmdv8/Picsart-25-10-28-14-13-16-179.webp" group-title="TV Peru", Golden
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
