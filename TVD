@@ -31,10 +31,12 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="Nacional", Cinecanal MX
-#KODIPROP:inputstream.adaptive.license_key={"https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PARAVISION_PY"}
+#EXTINF:-1 tvg-logo="https://www.flow.com.py/assets/img/contenidos/home-grilla/Home_Logos_TNT-hover.png" tvg-country="py" group-title="Nacional", SNT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PARAVISION_PY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="FireFox"
 https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
 
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
