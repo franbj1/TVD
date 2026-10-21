@@ -31,6 +31,14 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PARAVISION_PY
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="Nacional", Cinecanal MX
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
+
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
