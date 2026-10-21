@@ -1228,6 +1228,9 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="CRTV.pe" tvg-logo="https://i.postimg.cc/FHDKQrB2/Picsart-26-08-13-01-57-27-366.png" group-title="TV Peru", CRTV
 https://live.obslivestream.com/crtvmux/index.m3u8
 
+#EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.postimg.cc/PrtXPfx6/Doble-AA.png" group-title="TV Peru", Doble AA
+https://live.obslivestream.com/dobleaa/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Visión Sur TV.pe" tvg-logo="https://i.postimg.cc/d1Tr5H9r/Picsart-26-08-13-02-23-34-141.png" group-title="TV Peru", Visión Sur Televisión
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
@@ -1368,7 +1371,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sonychannel.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="USA.ar" tvg-logo="https://i.postimg.cc/05h5BPRT/USA-Network.png" group-title="TV Peru", USA Network
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/usa.stream/playlist.m3u8
@@ -1452,6 +1454,18 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE PREMIUM HD.pe" tvg-logo="https://i.ibb.co/cSvVDBNf/Picsart-25-10-28-16-56-41-097.webp" group-title="TV Peru", CINE Premium
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Univision.pe" tvg-logo="https://i.postimg.cc/QNSLYQ8S/Univision.webp" group-title="TV Peru", Univisión
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.pe" tvg-logo="https://i.postimg.cc/tTj0wDnt/Lifetime.png" group-title="TV Peru", Lifetime
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/lifetime.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Entertaiment PLAY.pe" tvg-logo="https://i.postimg.cc/2yCDbTzj/Entertaiment-PLAY.png" group-title="TV Peru", Entertaiment PLAY
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Peru_channel.stream/playlist.m3u8
 
 TV Uruguay
 
