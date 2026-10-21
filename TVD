@@ -1277,7 +1277,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Pequetv/playlist.m3u8
 https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
 
 #EXTINF:-1 tvg-id="DM Kids TV" tvg-logo="https://i.ibb.co/ZzsvCtL0/Picsart-26-01-20-15-34-50-621.webp" group-title="TV Peru", DM Kids TV
-https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967
 
 #EXTINF:-1 tvg-id="Creo.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Creo TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1423,6 +1423,14 @@ http://45.181.120.147:9800/play/081/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Entertaiment PLAY.pe" tvg-logo="https://i.postimg.cc/2yCDbTzj/Entertaiment-PLAY.png" group-title="TV Peru", Entertaiment PLAY
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Peru_channel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Univision.pe" tvg-logo="https://i.postimg.cc/QNSLYQ8S/Univision.webp" group-title="TV Peru", Univisión
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TLNovelas.pe" tvg-logo="https://i.postimg.cc/rFRpM9d7/Picsart-26-07-31-12-21-10-904.png" group-title="TV Peru", TL Novelas
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
@@ -1455,17 +1463,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Univision.pe" tvg-logo="https://i.postimg.cc/QNSLYQ8S/Univision.webp" group-title="TV Peru", Univisión
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Lifetime.pe" tvg-logo="https://i.postimg.cc/tTj0wDnt/Lifetime.png" group-title="TV Peru", Lifetime
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/lifetime.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Entertaiment PLAY.pe" tvg-logo="https://i.postimg.cc/2yCDbTzj/Entertaiment-PLAY.png" group-title="TV Peru", Entertaiment PLAY
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Peru_channel.stream/playlist.m3u8
 
 TV Uruguay
 
