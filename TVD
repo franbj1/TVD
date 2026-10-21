@@ -2250,6 +2250,11 @@ https://latan.stonetv.com.br/tyc-sports/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?|referer=https://play.tycsports.com/
 
+#EXTINF:-1 tvg-id="TyC.Sports.FAN.distro" tvg-name="TyC Sports" tvg-logo="https://i.postimg.cc/CKRQg138/Ty-C-Sports-FAN.png" group-title="Deportes", TyC Sports FAN
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18a85327-6b17-4d41-8c2f-41ff8511c1dd/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.ibb.co/rKSbMFnc/Picsart-25-10-21-18-59-02-687.webp" group-title="Deportes", DeporTV
