@@ -215,7 +215,7 @@ https://edge.enhdtv.com/8026/index.m3u8
 
 #EXTINF:-1 tvg-id="Univalle TV.bo" tvg-logo="https://i.postimg.cc/VNgLysNH/Picsart-26-08-30-11-21-04-341.png" group-title="TV Bolivia", Univalle TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://master.tucableip.com/univalletv/video.m3u8
+http://master.tucableip.com/univalletv/video.m3u8
 
 #EXTINF:-1 tvg-id="De Moda.bo" tvg-logo="https://i.postimg.cc/P5grR0Vn/Picsart-26-08-30-18-37-14-121.png" group-title="TV Bolivia", DMODA Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
