@@ -33,9 +33,10 @@ https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.flow.com.py/assets/img/contenidos/home-grilla/Home_Logos_TNT-hover.png" tvg-country="py" group-title="Nacional", SNT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PARAVISION_PY
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PARAVISION_PY"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.stream_headers=origin="https://portal.app.flow.com.ar"
+#KODIPROP:inputstream.adaptive.stream_headers=referer="https://portal.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent="FireFox"
 https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
 
