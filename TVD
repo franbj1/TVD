@@ -2052,9 +2052,9 @@ https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
 #KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
-#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="Novelas ᥫ᭡", Kanal D Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="Kanal D.uy" tvg-logo="https://i.supaimg.com/e3533532-27d1-47d3-8188-5bb2e989195e.png" group-title="Novelas ᥫ᭡", Kanal Drama
+#EXTVLCOPT:http-user-agent=Android
+https://cdn702.epa.edge-access.net:443/hls/i37hj-60mnd-n2kjo-2bljm.m3u8
 
 #EXTINF:-1 tvg-id="Vive Kanal D Drama.es" tvg-logo="https://i.ibb.co/B2v9YBPf/Picsart-26-01-19-19-56-59-521.webp" group-title="Novelas ᥫ᭡", Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
@@ -2141,12 +2141,6 @@ https://1165-tbx.vrioott.com/mtvls/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/c52l9aagdddlqx23uhe3f/HOLATV.DGO.json?rlkey=ach73il3xiszhg3t688nq6lep&st=s1sb89m6&dl=0
 #EXTINF:-1 tvg-id="Unica" tvg-logo="https://i.ibb.co/p63K5Vxg/unica-tv-logo.webp" group-title="Novelas ᥫ᭡", Unica TV
 https://atresmedia-unica-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MegaTV" tvg-logo="https://i.ibb.co/9kN1cKJs/Picsart-26-03-28-20-20-18-447.webp" group-title="Novelas ᥫ᭡", Mega TV US
-https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-
-#EXTINF:-1 tvg-id="Somos Novelas" tvg-logo="https://i.postimg.cc/N0wYs8jS/somos-novelas.png" group-title="Novelas ᥫ᭡", Somos Novelas
-https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 
 Deportes
 
