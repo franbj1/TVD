@@ -251,7 +251,7 @@ https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTV RED"  tvg-logo="https://i.postimg.cc/9MWKgTkN/Picsart-26-09-02-00-12-23-338.png" group-title="TV Bolivia", CTV Red
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 
 #EXTINF:-1 tvg-id="Delta.bo" tvg-logo="https://i.postimg.cc/vBg0nT0M/Picsart-26-08-27-17-18-31-925.png" group-title="TV Bolivia", Delta Bolivia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
