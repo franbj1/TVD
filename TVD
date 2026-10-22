@@ -1445,6 +1445,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nick.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="https://i.postimg.cc/L8rdTrqv/Nick-Jr.png" group-title="TV Peru", Nick Jr
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nick_jr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Entertaiment PLAY.pe" tvg-logo="https://i.postimg.cc/2yCDbTzj/Entertaiment-PLAY.png" group-title="TV Peru", Entertaiment PLAY
