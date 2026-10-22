@@ -1432,6 +1432,21 @@ http://45.181.120.147:9800/play/081/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.pe" tvg-logo="https://i.postimg.cc/rmkJy9bx/Disney-Channel.png" group-title="TV Peru", Disney Channel
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.pe" tvg-logo="https://i.postimg.cc/vZ5x8ddx/Disney-Jr.png" group-title="TV Peru", Disney Jr
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.pe" tvg-logo="https://i.postimg.cc/MZRnmSv3/Nickelodeon.png" group-title="TV Peru", Nickelodeon
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nick.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="https://i.postimg.cc/L8rdTrqv/Nick-Jr.png" group-title="TV Peru", Nick Jr
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nick_jr.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Entertaiment PLAY.pe" tvg-logo="https://i.postimg.cc/2yCDbTzj/Entertaiment-PLAY.png" group-title="TV Peru", Entertaiment PLAY
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Peru_channel.stream/playlist.m3u8
