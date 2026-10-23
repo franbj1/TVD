@@ -1420,6 +1420,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/a3series.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0852" tvg-name="FMH Movies" tvg-logo="https://i.ibb.co/G483QTcr/Picsart-26-02-09-11-03-57-892.webp" group-title="TV Peru", FMH Movies.
+https://live-evg16.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
 http://45.181.120.147:9800/play/082/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
@@ -1428,6 +1429,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
 http://45.181.120.147:9800/play/080/index.m3u8
 
 #EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
+https://live-evg16.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
 http://45.181.120.147:9800/play/081/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
