@@ -2654,7 +2654,7 @@ https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=78396693b172158176c33c28f2e7c0b8&key=1e251112819a34ed691bc3881c64ea4d
 #EXTINF:-1 tvg-id="3801" tvg-name="Star Channel • Feed 4" tvg-logo="https://i.postimg.cc/ZnjBv2BD/Star-Channel.png" group-title="Cine", St☆r Channel
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-referrer=https://webclient.axsbolivia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
 
@@ -2672,15 +2672,14 @@ https://latan.stonetv.com.br/studio-universal/tracks-v1a1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=258b455eee76d6406f87dd02ddc735d9&key=dd8aad74c79fe839cc142d0ff6694473
 #EXTINF:-1 tvg-id="1806" tvg-name="Sony Channel • Feed 2" tvg-logo="https://i.postimg.cc/QtVb0gsQ/Sony-Channel.png" group-title="Cine", Sony Channel
-https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-referrer=https://webclient.axsbolivia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=075fade91099c9f43ed30ec8d0b71399&keyid=b80550353a7ba2c637b952345e6f79f6
 #EXTINF:-1 tvg-id="0810" tvg-name="Sony Movies • Feed 1 Argentina" tvg-logo="https://i.postimg.cc/NjSfKBFQ/Sony-Movies.png" group-title="Cine", Sony Movies
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-referrer=https://webclient.axsbolivia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
 
