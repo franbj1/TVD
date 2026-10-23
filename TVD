@@ -1016,7 +1016,7 @@ http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b108e54efb596e5d6403a1759deea810&key=781e087cf7f814fd187f74daa62d112a
 #EXTINF:-1 tvg-id="TV Chile.ar" tvg-logo="https://i.postimg.cc/tR82wVQS/TV-Chile.png" group-title="TV Chile", TV Chile
-https://mplus.pontiscloud.com/bpk-tv/TVChile/default/index.mpd
+https://streaming.onnethn.com/TV_CHILE/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/gibxl5arn8vgka14wl4a8/24-horas-mundogo.json?rlkey=ysl6jm96y77hcf5wrbn7x2ctd&st=rsnu13m4&dl=0
