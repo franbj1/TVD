@@ -1432,6 +1432,10 @@ http://45.181.120.147:9800/play/081/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.pe" tvg-logo="https://i.postimg.cc/FzX99vfk/Cartoon-Network.png" group-title="TV Peru", Cartoon Network
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cartoonnetwork.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannel.pe" tvg-logo="https://i.postimg.cc/rmkJy9bx/Disney-Channel.png" group-title="TV Peru", Disney Channel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
@@ -1447,6 +1451,14 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nick.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="https://i.postimg.cc/L8rdTrqv/Nick-Jr.png" group-title="TV Peru", Nick Jr
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nick_jr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0315" tvg-name="Canal Infantil" tvg-logo="https://i.postimg.cc/G2r7rScM/CANAL-Infantil.png" group-title="TV Peru", Canal Infantil
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Semillitas" tvg-logo="https://i.postimg.cc/ncYLhXY2/Semillitas.png" group-title="TV Peru", Semillitas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
+https://streaming.onnethn.com/SEMILLITAS/index.m3u8
 
 #EXTINF:-1 tvg-id="Entertaiment PLAY.pe" tvg-logo="https://i.postimg.cc/2yCDbTzj/Entertaiment-PLAY.png" group-title="TV Peru", Entertaiment PLAY
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
