@@ -424,15 +424,19 @@ http://45.224.97.181:9999/Teleamazonas/index.m3u8
 http://45.224.97.181:9999/TC/index.m3u8
 
 #EXTINF:-1 tvg-id="oromar" tvg-logo="https://i.ibb.co/9F8HS9g/1769727410877.webp" group-title="TV Ecuador", Oromar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="oromar +" tvg-logo="https://i.postimg.cc/d3McG9Nq/Picsart-26-08-19-19-12-01-786.png" group-title="TV Ecuador", Oromar +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stream.oromar.tv/hls/camriva/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Telerama (Ecuador).ec" tvg-logo="https://i.ibb.co/JwTCLxKS/Picsart-26-03-26-03-50-22-503.webp" group-title="TV Ecuador", Telerama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 
 #EXTINF:-1 tvg-id="Telemar.ec" tvg-logo="https://i.ibb.co/bgcjHcX1/Picsart-26-04-12-16-13-36-887.webp" group-title="TV Ecuador", Telemar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal RTS" tvg-logo="https://i.ibb.co/33wjr9r/Picsart-26-01-26-16-42-22-067.webp" group-title="TV Ecuador", RTS (Geo Bloqueo VPN)
@@ -445,6 +449,7 @@ https://live.getcirca.run/3757947336/ts:abr.m3u8
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
 #EXTINF:-1 tvg-id="Educa TV.ec" tvg-logo="https://i.ibb.co/v48dP4DR/1774535800608.webp" group-title="TV Ecuador", Educa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Victoria.ec" tvg-logo="https://i.ibb.co/ccxdyj7G/Picsart-26-04-26-11-18-01-029.webp" group-title="TV Ecuador", TV Victoria
@@ -454,12 +459,15 @@ http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/42.m3u8
 http://45.224.97.181:9999/Gamavision/index.m3u8
 
 #EXTINF:-1 tvg-id="Austral TV.ec" tvg-logo="https://i.ibb.co/b5fgRypZ/Picsart-26-03-26-03-37-03-882.webp" group-title="TV Ecuador", Austral TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ecotel.ec" tvg-logo="https://i.ibb.co/wD2jFK3/1769720916381.webp" group-title="TV Ecuador", Ecotel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal Wuan(Ecuador).ec" tvg-logo="https://i.ibb.co/Kx8Qbxx8/Picsart-26-03-26-11-52-41-616.webp" group-title="TV Ecuador", Wuan +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
 #EXTINF:-1 tvg-id="America Estereo.ec" tvg-logo="https://i.ibb.co/gMmCfYJx/Picsart-26-01-29-18-04-09-407.webp" group-title="TV Ecuador", América Estereo
@@ -512,7 +520,7 @@ https://ds.tvabierta.net/memfs/1afd4436-1b0c-4c36-b003-7c6e1f2a791c.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://hls.tvabierta.net/hls/teletuya.m3u8
 
-#EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://i.postimg.cc/rsg2QmmV/image-1000023779-converted-To-Png.png" group-title="TV Venezuela", Venezolana TV
+#EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://i.postimg.cc/rsg2QmmV/image-1000023779-converted-To-Png.png" group-title="TV Venezuela", Venezolana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://hls.tvabierta.net/hls/vtv.m3u8
 
@@ -555,7 +563,6 @@ https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="SHOWVEN TV.ve" tvg-logo="https://i.postimg.cc/rmkVtyM9/Picsart-26-09-03-15-07-30-031.png" group-title="TV Venezuela", Show Ven
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
-
 
 TV México
 
