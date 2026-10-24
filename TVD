@@ -984,11 +984,6 @@ http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.
 #EXTINF:-1 tvg-id="Mega 2.cl" tvg-logo="https://i.postimg.cc/jqwgdhR4/Mega-2.png" group-title="TV Chile", Mega 2
 https://cdn-live.mundogo.cl/mega2/mega2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/ou5tyqpvippyvquht2v8s/mega-tiempo-mundogo.json?rlkey=f6flzla5vx6tizb67a23c7a0p&st=pny4ukuy&dl=0
-#EXTINF:-1 tvg-id="Mega Tiempo.cl" tvg-logo="https://i.ibb.co/JwD6CzxX/1769612561718.webp" group-title="TV Chile", Mega Tiempo
-https://cdn-live.mundogo.cl/megatiempo/megatiempo.mpd
-
 #EXTINF:-1 tvg-id="Canal 13.cl" tvg-logo="https://i.postimg.cc/TYxVMj1G/Canal-13.png" group-title="TV Chile", Canal 13
 http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -1025,7 +1020,7 @@ https://mdstrm.com:443/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="CNN CHILE.cl" tvg-logo="https://i.postimg.cc/W3RBsYxQ/CNN-Chile.png" group-title="TV Chile", CNN Chile
 https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
 
-#EXTINF:-1 tvg-id="0148" tvg-name="Telecanal Santa Cruz" tvg-logo="https://i.postimg.cc/Xqyt9hXd/Telecanal.png" group-title="TV Chile", Telecanal
+#EXTINF:-1 tvg-id="0148" tvg-name="Telecanal Santa Cruz" tvg-logo="https://i.postimg.cc/wBP47T22/Telecanal.png" group-title="TV Chile", Telecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 
