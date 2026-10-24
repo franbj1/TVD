@@ -1034,7 +1034,20 @@ https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0111" tvg-name="Zona Latina" tvg-logo="https://i.postimg.cc/zGtZZnmg/Zona-Latina.png" group-title="TV Chile", Zona Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="0110" tvg-name="TVR" tvg-logo="https://i.postimg.cc/ZYVhFFW2/TVR.png" group-title="TV Chile", TVR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://tr.live.clarovtrcdn.vtrplay.com/tvrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="0157" tvg-name="UTalca TV" tvg-logo="https://i.postimg.cc/tRKCVN8j/Utalca-TV.png" group-title="TV Chile", Utalca TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://tr.live.clarovtrcdn.vtrplay.com/utalcatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="0126" tvg-name="Antofagasta TV" tvg-logo="https://i.postimg.cc/XJ5tMdL4/Antofagasta-TV.png" group-title="TV Chile", Antofagasta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://tr.live.clarovtrcdn.vtrplay.com/antofagastatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="TV Chile", TNT Sports Premium
 http://45.189.108.146:1935/xmp_trans/tnt_sports2.stream/playlist.m3u8
