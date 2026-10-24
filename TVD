@@ -1011,7 +1011,7 @@ https://cdn-live.mundogo.cl/24horas/24horas.mpd
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.postimg.cc/VkpTFHsb/TVN.png" group-title="TV Chile", TVN
 https://cdn-live.mundogo.cl/tvn/tvn.mpd
 
-#EXTINF:-1 tvg-id="0117" tvg-name="TVN 3" tvg-logo="https://i.postimg.cc/y8zCyVmD/TVN-3.png" group-title="TV Chile", TVN 3
+#EXTINF:-1 tvg-id="0117" tvg-name="TVN 3" tvg-logo="https://i.postimg.cc/jS2G59Kc/TVN-3.png" group-title="TV Chile", TVN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://mdstrm.com:443/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
