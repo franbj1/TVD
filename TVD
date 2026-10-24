@@ -1044,6 +1044,18 @@ https://tr.live.clarovtrcdn.vtrplay.com/utalcatvsdchi/vxfmt=dp/playlist.m3u8?dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://tr.live.clarovtrcdn.vtrplay.com/antofagastatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-id="0150" tvg-name="Sur TV" tvg-logo="https://i.postimg.cc/15pyZ4P0/Sur-TV.png" group-title="TV Chile", Sur TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0138" tvg-name="Antofagasta TV" tvg-logo="https://i.postimg.cc/c4V0pYVg/Tevex.png" group-title="TV Chile", Tevex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://v2.tustreaming.cl/tevex/index.m3u8
+
+#EXTINF:-1 tvg-id="0140" tvg-name="El Pingüino TV Punta Arenas" tvg-logo="https://i.postimg.cc/Gp1VQpGm/EP.png" group-title="TV Chile", El Pingüino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?did=r1us24762927144f01e1165d59c2c6e21b3091b609f4&ndvc=1
+
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="TV Chile", TNT Sports Premium
 http://45.189.108.146:1935/xmp_trans/tnt_sports2.stream/playlist.m3u8
 
