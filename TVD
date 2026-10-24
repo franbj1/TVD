@@ -1016,10 +1016,25 @@ https://cdn-live.mundogo.cl/24horas/24horas.mpd
 #EXTINF:-1 tvg-id="TVN.cl" tvg-logo="https://i.postimg.cc/VkpTFHsb/TVN.png" group-title="TV Chile", TVN
 https://cdn-live.mundogo.cl/tvn/tvn.mpd
 
+#EXTINF:-1 tvg-id="0117" tvg-name="TVN 3" tvg-logo="https://i.postimg.cc/y8zCyVmD/TVN-3.png" group-title="TV Chile", TVN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://mdstrm.com:443/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/22pp1ug28sctsf1yv5b2v/cnn-chile-mundogo.json?rlkey=7oi5n54wemxcdl3x5j6rfkdg8&st=ygbyhs1l&dl=0
 #EXTINF:-1 tvg-id="CNN CHILE.cl" tvg-logo="https://i.postimg.cc/W3RBsYxQ/CNN-Chile.png" group-title="TV Chile", CNN Chile
 https://cdn-live.mundogo.cl/cnnchile/cnnchile.mpd
+
+#EXTINF:-1 tvg-id="0148" tvg-name="Telecanal Santa Cruz" tvg-logo="https://i.postimg.cc/Xqyt9hXd/Telecanal.png" group-title="TV Chile", Telecanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0108" tvg-name="UCV TV" tvg-logo="https://i.postimg.cc/rF92jBQZ/UCV.png" group-title="TV Chile", UCV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0111" tvg-name="Zona Latina" tvg-logo="https://i.postimg.cc/zGtZZnmg/Zona-Latina.png" group-title="TV Chile", Zona Latina
+http://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="TNT Sports Premium.cl" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/800/542/0/0/27256579073984.png?raw=true" group-title="TV Chile", TNT Sports Premium
 http://45.189.108.146:1935/xmp_trans/tnt_sports2.stream/playlist.m3u8
