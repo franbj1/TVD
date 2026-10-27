@@ -1487,6 +1487,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Peru_channel.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LasEstrellas.pe" tvg-logo="https://i.postimg.cc/MpLtSZpS/Las-Estrellas.png" group-title="TV Peru", Las Estrellas
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TLNovelas.pe" tvg-logo="https://i.postimg.cc/rFRpM9d7/Picsart-26-07-31-12-21-10-904.png" group-title="TV Peru", TL Novelas
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TL_Novelas.stream/playlist.m3u8
@@ -1523,6 +1527,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/lifetime.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RussiaToday.pe" tvg-logo="https://i.postimg.cc/8cDgmB2C/RT-Espanol.png" group-title="TV Peru", RT Español
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/rt_espanol.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleSUR.pe" tvg-logo="https://i.supaimg.com/674166fb-9ce3-45d3-990c-aa058ec634d7.png?raw=true" group-title="TV Peru", teleSUR
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
@@ -1534,6 +1542,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/History.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Historia2.pe" tvg-logo="https://i.postimg.cc/G2HXwwdV/History-2.png" group-title="TV Peru", History 2
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/History2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ewtn.pe" tvg-logo="https://i.postimg.cc/WzmfNBfw/EWTN.png" group-title="TV Peru",  EWTN
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ewtn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NuevoTiempo.pe" tvg-logo="https://i.postimg.cc/Hs2X2vCM/Nuevo-Tiempo.webp" group-title="TV Peru", Nuevo Tiempo
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
