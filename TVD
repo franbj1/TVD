@@ -2126,6 +2126,10 @@ https://1212-tbx.vrioott.com/tntnovelas/manifest.mpd
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
 
+#EXTINF:-1 tvg-id="0644" tvg-name="Novelísima" tvg-logo="https://i.postimg.cc/wMs1Fr6M/Novelisima.png" group-title="Novelas ᥫ᭡", Novelisima
+#EXTVLCOPT:http-user-agent="Android
+https://cdn702.epa.edge-access.net:443/hls/jlg10-a783n-d578n-mo8ch.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=3a1e766119c3fb03b095c8e7f0e63139&key=03932364e1ff6ab68cdc2c1969aee6a5
 #EXTINF:-1 tvg-id="0809" tvg-name="USA Network" tvg-logo="https://i.postimg.cc/05h5BPRT/USA-Network.png" group-title="Novelas ᥫ᭡", USA Network
@@ -2193,18 +2197,6 @@ https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-UNO-HD/default.mpd
 
 #EXTINF:-1 tvg-id="0857" tvg-id="Canal Claro" tvg-logo="https://i.ibb.co/PGwXZS7n/Picsart-26-01-19-02-54-27-895.webp" group-title="Novelas ᥫ᭡", Canal Claro
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
-#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
-#EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="Novelas ᥫ᭡", Novelisima
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vertex-plus.es/licence/HOLATV.DGO.json
-#EXTINF:-1 tvg-id="NOVELISIMA" tvg-logo="https://i.supaimg.com/12761432-f759-4326-b8d2-c69cc485f56a.png" group-title="Novelas ᥫ᭡", Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6649
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=658e573246a856d880a877b69d1ad715&key%5B%5D=e95e4f1399649d0ed0fad935168cd975
