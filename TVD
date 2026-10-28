@@ -2145,11 +2145,11 @@ https://cdn702.epa.edge-access.net:443/hls/i37hj-60mnd-n2kjo-2bljm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b2829
 
-#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.ibb.co/n90K1Ht/Picsart-26-04-17-01-22-11-744.webp" group-title="TV Colombia", RCN Novelas
+#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-name="RCN Novelas • Colombia" tvg-logo="https://i.postimg.cc/Sxdvh0bn/RCN-Novelas.png" group-title="Novelas ᥫ᭡", RCN Novelas
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
 
-#EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.postimg.cc/4nkn73bz/RCN-Mas.png" group-title="TV Colombia", RCN Más
+#EXTINF:-1 tvg-id="RCN Mas" tvg-logo="https://i.postimg.cc/4nkn73bz/RCN-Mas.png" group-title="Novelas ᥫ᭡", RCN Más
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 
