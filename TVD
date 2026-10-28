@@ -1089,7 +1089,7 @@ https://live-bd2.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8?ma
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.postimg.cc/6Q9WFvcn/Picsart-26-07-05-18-33-56-866.png" group-title="TV Peru", ATV
-http://190.93.224.42/ATV/index.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
