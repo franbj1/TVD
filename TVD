@@ -175,6 +175,10 @@ https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd321166884522124
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://hls.tvabierta.net/hls/atb.m3u8
 
+#EXTINF:-1 tvg-id="F13" tvg-logo="https://i.postimg.cc/JzPvVs9Q/F13-Tupiza.png" group-title="TV Bolivia", F13 plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
+
 #EXTINF:-1 tvg-id="0957" tvg-name="PAT • Bolivia"  tvg-logo="https://i.postimg.cc/cHKZwg1M/Picsart-26-08-29-15-07-52-708.png" group-title="TV Bolivia", Pat TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://www.redpat.tv:8000/play/12/index.m3u8
