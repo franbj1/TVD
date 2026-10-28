@@ -2171,6 +2171,10 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://amg01412-xiaomiasia-frecuencianovelas-xiaomi-hnlgr.amagi.tv/playlist/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Todo Pasión" tvg-logo="https://i.postimg.cc/Sx4tzSft/Todo-Pasion.png" group-title="Novelas ᥫ᭡", Todo Pasión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a7bdeafe3ea058be002a746db787c490&key%5B%5D=73b0e65b968257daaae461c865f28177
 #EXTINF:-1 tvg-id="0906" tvg-id="TV Globo • Brasil" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Novelas ᥫ᭡", TV Globo
