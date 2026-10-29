@@ -1313,7 +1313,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creo_tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Creo Plus.pe" tvg-logo="https://i.ibb.co/zVKdSvqm/Picsart-26-02-09-11-48-37-375.webp" group-title="TV Peru", Creo Plus
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
-https://live-evg18.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
+https://live-evg16.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Creo Fe.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/15dbc585-81bc-4b36-bca0-0e58a9e92ac0.png" group-title="TV Peru", Creo Fe
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1325,19 +1325,16 @@ https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.ibb.co/SXNdFBCh/Picsart-26-02-09-11-17-07-107.webp" group-title="TV Peru", Creo Kids
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
-https://live-evg8.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+https://live-evg16.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIERRO A FONDO.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fierrofondo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cocinando.pe" tvg-logo="https://i.ibb.co/4RQXRp9d/1770902596477.webp" group-title="TV Peru", Cocinando TV
-https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/10.m3u8
-
 #EXTINF:-1 tvg-id="Digital TV.pe" tvg-logo="https://i.postimg.cc/Qdm3LNZz/Picsart-26-08-06-18-59-22-751.png" group-title="TV Peru", Neo TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/DigitalTV/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/neotv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Milenial TV.pe" tvg-logo="https://i.postimg.cc/VvkYFZNM/Picsart-26-07-09-04-58-31-019.png" group-title="TV Peru", Milenial TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
