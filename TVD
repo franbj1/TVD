@@ -1423,6 +1423,11 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/AsiriTV/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/SantaRosaTV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Santa Rosa TV.pe" tvg-logo="https://i.postimg.cc/brtm4pdp/Picsart-26-07-09-04-54-40-925.png" group-title="TV Peru", Santa Rosa TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+
+https://live-evg7.tv360.bitel.com.pe/bitel/santarosaSRT/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ODTV.pe" tvg-logo="https://i.ibb.co/TMg7bph8/1773350706732.webp" group-title="TV Peru", ODTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ODTV.stream/playlist.m3u8
