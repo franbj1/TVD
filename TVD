@@ -1319,6 +1319,10 @@ https://live.obslivestream.com/dobleaa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Visión Sur TV.pe" tvg-logo="https://i.postimg.cc/d1Tr5H9r/Picsart-26-08-13-02-23-34-141.png" group-title="TV Peru", Visión Sur Televisión
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Visión Sur TV.pe" tvg-logo="https://i.postimg.cc/d1Tr5H9r/Picsart-26-08-13-02-23-34-141.png" group-title="TV Peru", Visión Sur Televisión Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
+
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
