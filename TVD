@@ -1223,8 +1223,14 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nativa.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.postimg.cc/WbBdzkPf/Picsart-26-07-13-14-34-58-704.png" group-title="TV Peru", Nativa TV
+#EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.ibb.co/PZLNwzhG/Picsart-25-12-29-12-33-31-885.webp" group-title="TV Peru", Nativa Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.postimg.cc/WbBdzkPf/Picsart-26-07-13-14-34-58-704.png" group-title="TV Peru", Nativa Satipo TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.postimg.cc/WbBdzkPf/Picsart-26-07-13-14-34-58-704.png" group-title="TV Peru", Nativa Satipo TV Bitel 360
 
 #EXTINF:-1 tvg-id="0954" tvg-name="Telelima • Perú" tvg-logo="https://i.ibb.co/6cFFDSf9/Picsart-26-03-12-13-47-53-161.webp" group-title="TV Peru", Telelima
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
