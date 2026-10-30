@@ -1308,11 +1308,19 @@ https://cloudpro.servidoresdestream.com:8081/8066/index.m3u8
 #EXTINF:-1 tvg-id="DM Kids TV" tvg-logo="https://i.ibb.co/ZzsvCtL0/Picsart-26-01-20-15-34-50-621.webp" group-title="TV Peru", DM Kids TV
 https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967
 
-#EXTINF:-1 tvg-id="Creo.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", Creo TV
+#EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.postimg.cc/Y9BDfbMm/CREO-Kids.png" group-title="TV Peru", CREO Kids
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Creo.pe" tvg-logo="https://i.ibb.co/Lht8GBZ2/1768020426111.webp" group-title="TV Peru", CREO TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creo_tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Creo Plus.pe" tvg-logo="https://i.ibb.co/zVKdSvqm/Picsart-26-02-09-11-48-37-375.webp" group-title="TV Peru", Creo Plus
+#EXTINF:-1 tvg-id="ZCREOTV" tvg-name="ZCREOTV" tvg-logo="https://i.postimg.cc/Yq5G6fRX/ZCREO-TV.png" group-title="TV Peru", ZCREO TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Creo Plus.pe" tvg-logo="https://i.ibb.co/zVKdSvqm/Picsart-26-02-09-11-48-37-375.webp" group-title="TV Peru", CREO TV Plus
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg16.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
 
@@ -1320,13 +1328,13 @@ https://live-evg16.tv360.bitel.com.pe/bitel/CreomasSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creofe.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Creolatino.pe" tvg-logo="https://i.ibb.co/FkNYQw41/1770645294144.webp" group-title="TV Peru", Creo Latino
+#EXTINF:-1 tvg-id="Creolatino.pe" tvg-logo="https://i.ibb.co/FkNYQw41/1770645294144.webp" group-title="TV Peru", CREO Latino
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Creokids.pe" tvg-logo="https://i.postimg.cc/Y9BDfbMm/CREO-Kids.png" group-title="TV Peru", Creo Kids
+ht#EXTINF:-1 tvg-id="XTV" tvg-name="XTV" tvg-logo="https://i.postimg.cc/JhBpTqCL/XTV.png" group-title="TV Peru", XTV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
-https://live-evg16.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIERRO A FONDO.pe" tvg-logo="https://i.ibb.co/4y3sYZs/1770646856782.webp" group-title="TV Peru", Fierro a Fondo
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
