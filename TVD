@@ -1283,6 +1283,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.postimg.cc/mZccwJW5/Picsart-26-08-06-19-51-00-111.png" group-title="TV Peru", Conecta2 TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/conectado2/chunks.m3u8
+
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.postimg.cc/FKyqr251/Picsart-26-07-08-14-09-20-937.png" group-title="TV Peru", JN19 Telejuan
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/jn19.stream/playlist.m3u8
