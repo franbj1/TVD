@@ -1222,6 +1222,10 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telelima.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="0954" tvg-name="Telelima • Perú" tvg-logo="https://i.ibb.co/6cFFDSf9/Picsart-26-03-12-13-47-53-161.webp" group-title="TV Peru", Telelima Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Canal A1.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/bdcae8c5-8a9b-4c8e-8292-1f52a7720849.png" group-title="TV Peru",  Antena A1
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/antenauno.stream/playlist.m3u8
@@ -1368,6 +1372,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/milenialtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asiri TV.pe" tvg-logo="https://i.postimg.cc/kG9jrxmX/Picsart-26-07-09-04-43-39-982.png" group-title="TV Peru", Asiri TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/AsiriTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Asiri TV.pe" tvg-logo="https://i.postimg.cc/kG9jrxmX/Picsart-26-07-09-04-43-39-982.png" group-title="TV Peru", Asiri TV Bitel 370
 
 #EXTINF:-1 tvg-id="Santa Rosa TV.pe" tvg-logo="https://i.postimg.cc/brtm4pdp/Picsart-26-07-09-04-54-40-925.png" group-title="TV Peru", Santa Rosa TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
