@@ -1111,6 +1111,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.postimg.cc/6TxJhSz1/Picsart-26-07-06-15-21-37-776.png" group-title="TV Peru", Global TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.postimg.cc/c1jGY49r/Picsart-26-07-05-23-30-56-246.png" group-title="TV Peru", Panamericana TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
