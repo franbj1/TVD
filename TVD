@@ -1257,6 +1257,14 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="CRTV.pe" tvg-logo="https://i.postimg.cc/FHDKQrB2/Picsart-26-08-13-01-57-27-366.png" group-title="TV Peru", CRTV
 https://live.obslivestream.com/crtvmux/index.m3u8
 
+#EXTINF:-1 tvg-id="ALPHATV" tvg-name="Alpha TV" tvg-logo="https://i.postimg.cc/3Rz4tX7x/Alpha-TV.png" group-title="TV Peru", Alpha TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/bnb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UTV" tvg-name="UTV" tvg-logo="https://i.postimg.cc/zXC7RBSN/UTV.png" group-title="TV Peru", UTV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.postimg.cc/PrtXPfx6/Doble-AA.png" group-title="TV Peru", Doble AA
 https://live.obslivestream.com/dobleaa/tracks-v1a1/mono.m3u8
 
@@ -1280,7 +1288,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/jn19.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/juntos_tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SOL TV.pe" tvg-logo="https://i.ibb.co/Sw7V8zX4/Picsart-26-03-04-14-45-29-280.webp" group-title="TV Peru", Sol TV
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Señal Peru.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/d46be086-84a6-4734-aba1-1e4a88090d58.png" group-title="TV Peru", Señal PERÚ
