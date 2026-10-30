@@ -1203,6 +1203,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/CanalB.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nexxortv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega TV.pe" tvg-logo="https://i.postimg.cc/wBpq4QTB/Picsart-26-07-08-13-50-48-935.png" group-title="TV Peru", Mega TV
+https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/megatv.stream/playlist.m3u8
 
