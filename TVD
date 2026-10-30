@@ -1326,7 +1326,16 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bnb/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.postimg.cc/PrtXPfx6/Doble-AA.png" group-title="TV Peru", Doble AA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live.obslivestream.com/dobleaa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Doble C" tvg-name="UTV" tvg-logo="https://i.postimg.cc/HL0bg084/Doble-C.png" group-title="TV Peru", Doble C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Doble C" tvg-name="ZCREOTV" tvg-logo="https://i.postimg.cc/HL0bg084/Doble-C.png" group-title="TV Peru", Doble C Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Visión Sur TV.pe" tvg-logo="https://i.postimg.cc/d1Tr5H9r/Picsart-26-08-13-02-23-34-141.png" group-title="TV Peru", Visión Sur Televisión
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
