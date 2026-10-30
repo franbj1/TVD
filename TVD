@@ -1103,6 +1103,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.postimg.cc/wvmWW8zn/Picsart-26-08-06-22-59-24-225.png" group-title="TV Peru", ATV Sur Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/atvsur_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.postimg.cc/Z5LyWgJx/Picsart-26-08-07-05-38-29-920.png" group-title="TV Peru", ATV +
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
