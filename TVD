@@ -1154,6 +1154,10 @@ http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nacionaltv_peru.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/L6FSrMQG/Picsart-26-08-11-15-38-49-993.png" group-title="TV Peru", Nacional TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
+
 #EXTINF:-1 tvg-id="CONGRESO TV.pe" tvg-logo="https://i.postimg.cc/X7bBjmDr/Picsart-26-08-11-15-21-19-498.png" group-title="TV Peru", Congreso TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/canalelcongreso.stream/playlist.m3u8
