@@ -1136,6 +1136,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.postimg.cc/SKpbSfvw/Picsart-26-08-28-23-34-52-087.png" group-title="TV Peru", IPE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+http://cdnhd.iblups.net/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+
+#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.postimg.cc/SKpbSfvw/Picsart-26-08-28-23-34-52-087.png" group-title="TV Peru", IPE Bantel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
 
