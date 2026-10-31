@@ -1278,6 +1278,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/antenauno.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal A1.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/bdcae8c5-8a9b-4c8e-8292-1f52a7720849.png" group-title="TV Peru",  Antena A1 Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/auno/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SUMAC TV.pe" tvg-logo="https://i.ibb.co/ccNrYDwP/Picsart-26-01-10-19-39-50-088.webp" group-title="TV Peru", Sumac TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
@@ -1379,7 +1383,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CNC.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/c7455d75-3cb2-4b1c-a977-d606b9b04789.png" group-title="TV Peru", CNC TV
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
-EXTINF:-1 tvg-id="CNC.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/c7455d75-3cb2-4b1c-a977-d606b9b04789.png" group-title="TV Peru", CNC TV Bitel 360
+#EXTINF:-1 tvg-id="CNC.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/c7455d75-3cb2-4b1c-a977-d606b9b04789.png" group-title="TV Peru", CNC TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1
 https://live-evg16.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
 
