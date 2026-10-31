@@ -1177,6 +1177,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/BHTV.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel✟ Bitel 360
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.ibb.co/qMFZk7YS/Picsart-26-03-12-17-36-53-048.webp" group-title="TV Peru", USMPTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/usmptv.stream/playlist.m3u8
@@ -1216,14 +1220,6 @@ https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-id="Unitel TV.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/7580cd32-c3e1-4a27-ad03-7c5a27ce6b62.png" group-title="TV Peru", Unitel TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Bendición TV.pe" tvg-logo="https://i.supaimg.com/86e68a8c-75f9-4189-87d3-e1423aaed192/a49f3c36-272d-46d0-be94-36a17a280152.png" group-title="TV Peru", Bendición Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-
-#EXTINF:-1 tvg-id="TV One.pe" tvg-logo="https://i.postimg.cc/d3gWx2JD/Picsart-26-07-06-23-44-19-059.png" group-title="TV Peru", TV one
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal B.pe" tvg-logo="https://i.ibb.co/5bQJtVj/Picsart-26-01-10-15-07-36-478.webp" group-title="TV Peru", Canal B
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1350,6 +1346,10 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="Visión Sur TV.pe" tvg-logo="https://i.postimg.cc/d1Tr5H9r/Picsart-26-08-13-02-23-34-141.png" group-title="TV Peru", Visión Sur Televisión Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TV One.pe" tvg-logo="https://i.postimg.cc/d3gWx2JD/Picsart-26-07-06-23-44-19-059.png" group-title="TV Peru", TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/GvRMcnbT/Viva-TV-2018-1.webp" group-title="TV Peru", Viva TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
