@@ -1497,10 +1497,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telecentro.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Wvqrpmft/Picsart-26-05-10-12-19-55-758.webp" group-title="TV Peru", AMC
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Cinecanal.pe" tvg-logo="https://i.ibb.co/fdMLyfMs/Picsart-26-05-10-12-56-42-998.webp" group-title="TV Peru", Cinecanal
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
@@ -1570,11 +1566,14 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/a3series.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0852" tvg-name="FMH Movies" tvg-logo="https://i.postimg.cc/DZ1pL3zH/FMH-Movies.png" group-title="TV Peru", FMH Movies.
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
+http://45.181.120.147:9800/play/082/index.m3u8
+
+#EXTINF:-1 tvg-id="0852" tvg-name="FMH Movies" tvg-logo="https://i.postimg.cc/DZ1pL3zH/FMH-Movies.png" group-title="TV Peru", FMH Movies. Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg16.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
-http://45.181.120.147:9800/play/082/index.m3u8
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0853" tvg-name="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
 http://45.181.120.147:9800/play/080/index.m3u8
