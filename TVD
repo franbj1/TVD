@@ -1149,6 +1149,10 @@ http://190.93.224.42/LA-TELE/index.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperu.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/S7cBdz5t/Picsart-26-03-09-20-47-08-454.webp" group-title="TV Peru", TV Peru Alterno
+#EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
+http://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/7J0pXdsc/Picsart-26-03-09-21-17-12-829.webp" group-title="TV Peru", TV Peru Noticias
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tvperunoticias.stream/playlist.m3u8
