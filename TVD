@@ -1118,6 +1118,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP Alterno
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
