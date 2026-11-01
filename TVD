@@ -1314,6 +1314,10 @@ https://tvsamgo.com/socios/antares-tv/playlist.m3u8?t=w1.1792620447.Ks1PeD4YMQEu
 #EXTINF:-1 tvg-id="Uranio TV.pe" tvg-logo="https://i.postimg.cc/FsHjm3kB/logo-(2).png" group-title="TV Peru", Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
+#EXTINF:-1 tvg-id="Uranio TV.pe" tvg-logo="https://i.postimg.cc/FsHjm3kB/logo-(2).png" group-title="TV Peru", Uranio TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Autentica.pe" tvg-logo="https://i.postimg.cc/L8TJ6BnW/Picsart-26-08-13-01-54-20-547.png" group-title="TV Peru", Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
