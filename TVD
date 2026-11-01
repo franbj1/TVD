@@ -1144,6 +1144,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa Alterno
+https://stream.ecoperu.tv/EXITOSA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/bN6ZJSYj/Picsart-26-08-27-23-48-35-153.png" group-title="TV Peru", La Tremenda TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/karibena.stream/playlist.m3u8
@@ -1324,6 +1327,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Ovacion.stream/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", TRIVU
+https://stream.ecoperu.tv/TRIVU/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/miscelaneos/trivu.stream/playlist.m3u8
 
