@@ -1269,6 +1269,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nativa.stream/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.postimg.cc/WbBdzkPf/Picsart-26-07-13-14-34-58-704.png" group-title="TV Peru", Nativa Satipo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-id="NativaTV.pe" tvg-logo="https://i.postimg.cc/WbBdzkPf/Picsart-26-07-13-14-34-58-704.png" group-title="TV Peru", Nativa Satipo TV Bitel 360
@@ -1307,7 +1308,11 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Ovacion.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", Trivu
+#EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", TRIVU
+#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
+https://bantel-cdn1.iptvperu.tv:1936/miscelaneos/trivu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRIVU TV.pe" tvg-logo="https://i.ibb.co/hR3bLBQW/Picsart-26-01-04-00-46-31-820.webp" group-title="TV Peru", TRIVU Bitel 360
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/miscelaneos/trivu.stream/playlist.m3u8
 
@@ -1319,23 +1324,24 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cosmotv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg16.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Antares TV.pe" tvg-logo="https://i.postimg.cc/jqz8CH5D/Picsart-26-08-12-20-07-02-663.png" group-title="TV Peru", Antares TV
-https://tvsamgo.com/socios/antares-tv/playlist.m3u8?t=w1.1792620447.Ks1PeD4YMQEuWC-87DjejY1Fp2yEC_Hm
-
 #EXTINF:-1 tvg-id="Uranio TV.pe" tvg-logo="https://i.postimg.cc/FsHjm3kB/logo-(2).png" group-title="TV Peru", Uranio TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live.obslivestream.com/uraniotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Uranio TV.pe" tvg-logo="https://i.postimg.cc/FsHjm3kB/logo-(2).png" group-title="TV Peru", Uranio TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Autentica.pe" tvg-logo="https://i.postimg.cc/L8TJ6BnW/Picsart-26-08-13-01-54-20-547.png" group-title="TV Peru", Auténtica Televisión
-https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="Qosco.pe" tvg-logo="https://i.postimg.cc/zvYnmZgx/Qosqo-Television.png" group-title="TV Peru", Qosqo Televisión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Controversia.pe" tvg-logo="https://i.postimg.cc/05BNMwHF/Picsart-26-08-12-20-15-26-978.png" group-title="TV Peru", Controversia
-https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-id="Qosco.pe" tvg-logo="https://i.postimg.cc/zvYnmZgx/Qosqo-Television.png" group-title="TV Peru", Qosqo Televisión Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CRTV.pe" tvg-logo="https://i.postimg.cc/FHDKQrB2/Picsart-26-08-13-01-57-27-366.png" group-title="TV Peru", CRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="ALPHATV" tvg-name="Alpha TV" tvg-logo="https://i.postimg.cc/3Rz4tX7x/Alpha-TV.png" group-title="TV Peru", Alpha TV
