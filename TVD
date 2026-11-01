@@ -1835,7 +1835,7 @@ https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://i.postimg.cc/VNm3dJ71/Picsart-26-06-19-13-56-27-603.png" group-title="TV Paraguay", El Nueve
 https://latan.stonetv.com.br/elnueve/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4909" tvg-name="Telefe • Internacional" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe Internacional
+#EXTINF:-1 tvg-id="Telefe Internacional.py" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV Paraguay", Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
 https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
 
