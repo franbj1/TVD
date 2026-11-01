@@ -1083,6 +1083,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Bitel
 https://live-bd2.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8?manifestfilter=video_bitrate:1-3000000&uid=12536436
 
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Alterno
+https://stream.ecoperu.tv/PANAMERICANA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
@@ -1124,7 +1127,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.postimg.cc/c1jGY49r/Picsart-26-07-05-23-30-56-246.png" group-title="TV Peru", Panamericana TV Alterno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://stream.ecoperu.tv/willax/tracks-v1a1/mono.m3u8
+https://stream.ecoperu.tv/PANAMERICANA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP Alterno
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
