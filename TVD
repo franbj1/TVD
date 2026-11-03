@@ -1896,6 +1896,7 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
 #EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=org.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay
@@ -1905,6 +1906,7 @@ https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd
 
 #EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-origin="https://portal.app.flow.com.py/"
 #EXTVLCOPT:http-referrer="https://portal.app.flow.com.py"
