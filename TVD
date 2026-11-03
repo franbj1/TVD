@@ -202,6 +202,10 @@ https://edge.enhdtv.com/8026/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://master.tucableip.com/univalletv/video.m3u8
 
+#EXTINF:-1 tvg-id="XTO.bo" tvg-logo="https://i.postimg.cc/pXqZcYvt/XTO-TV.png" group-title="TV Bolivia", XTO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://www.sccbolivia.com/dash/720p.mpd
+
 #EXTINF:-1 tvg-id="De Moda.bo" tvg-logo="https://i.postimg.cc/P5grR0Vn/Picsart-26-08-30-18-37-14-121.png" group-title="TV Bolivia", DMODA Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://master.tucableip.com/dmoda/index.m3u8
