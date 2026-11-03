@@ -1084,7 +1084,7 @@ https://stream.ecoperu.tv/LATINA/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Bitel
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Bitel 360
 https://live-bd2.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8?manifestfilter=video_bitrate:1-3000000&uid=12536436
 
 #EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Alterno
@@ -1378,7 +1378,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bnb/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="UTV" tvg-name="UTV" tvg-logo="https://i.postimg.cc/zXC7RBSN/UTV.png" group-title="TV Peru", UTV
+#EXTINF:-1 tvg-id="UTV" tvg-name="UTV" tvg-logo="https://i.postimg.cc/zXC7RBSN/UTV.png" group-title="TV Peru", UTV Bitel 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://play.agenciastreaming.com:8081/supertv/video.m3u8
 
@@ -1644,10 +1644,10 @@ https://live-evg16.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="0853" tvg-name="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
 http://45.181.120.147:9800/play/080/index.m3u8
 
-#EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
+#EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.postimg.cc/jd6J5s25/FMH-Kids.png" group-title="TV Peru", FMH Kids. Alterno
 http://45.181.120.147:9800/play/081/index.m3u8
 
-#EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/yBhNP3HG/Picsart-26-02-06-01-20-59-421.webp" group-title="TV Peru", FMH Kids.
+#EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.postimg.cc/jd6J5s25/FMH-Kids.png" group-title="TV Peru", FMH Kids.
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg16.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
