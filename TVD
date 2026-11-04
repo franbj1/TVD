@@ -1218,7 +1218,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://i.ibb.co/WNH0VnK1/Picsart-25-11-24-06-40-49-405.webp" group-title="TV Peru", Bethel✟ Bitel 360
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bethel.stream/playlist.m3u8
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.ibb.co/qMFZk7YS/Picsart-26-03-12-17-36-53-048.webp" group-title="TV Peru", USMPTV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
