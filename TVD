@@ -1392,6 +1392,22 @@ https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://play.agenciastreaming.com:8081/supertv/video.m3u8
 
+#EXTINF:-1 tvg-id="Súpercanal.pe" tvg-logo="https://i.postimg.cc/3J8PkPvw/Super-Canal.png" group-title="TV Peru", Súper Canal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-id="Súpercanal.pe" tvg-logo="https://i.postimg.cc/3J8PkPvw/Super-Canal.png" group-title="TV Peru", Súper Canal Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amazónica TV" tvg-logo="https://i.postimg.cc/wjKLfdcr/Amazonica-TV.png" group-title="TV Peru", Amazónica TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amazónica TV" tvg-logo="https://i.postimg.cc/wjKLfdcr/Amazonica-TV.png" group-title="TV Peru", Amazónica TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+
 #EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.postimg.cc/PrtXPfx6/Doble-AA.png" group-title="TV Peru", Doble AA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live.obslivestream.com/dobleaa/tracks-v1a1/mono.m3u8
