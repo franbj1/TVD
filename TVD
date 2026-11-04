@@ -1400,6 +1400,14 @@ https://live.obslivestream.com/supercanal/index.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cadena TV.pe" tvg-logo="https://i.postimg.cc/xdWjq28Q/Cadena-TV.png" group-title="TV Peru", Cadena TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+
+#EXTINF:-1 tvg-id="Cadena TV.pe" tvg-logo="https://i.postimg.cc/xdWjq28Q/Cadena-TV.png" group-title="TV Peru", Cadena TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Amazónica TV" tvg-logo="https://i.postimg.cc/wjKLfdcr/Amazonica-TV.png" group-title="TV Peru", Amazónica TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
