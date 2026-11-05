@@ -1196,6 +1196,9 @@ http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nacionaltv_peru.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/L6FSrMQG/Picsart-26-08-11-15-38-49-993.png" group-title="TV Peru", Nacional TV Alterno
+https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
+
 #EXTINF:-1 tvg-id="NACIONAL TV.pe" tvg-logo="https://i.postimg.cc/L6FSrMQG/Picsart-26-08-11-15-38-49-993.png" group-title="TV Peru", Nacional TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
@@ -1460,7 +1463,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.postimg.cc/mZccwJW5/Picsart-26-08-06-19-51-00-111.png" group-title="TV Peru", Conecta2 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://live.obslivestream.com/conecta2tv/index.m3u8
+https://live.obslivestream.com/conecta2/index.m3u8
 
 #EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.postimg.cc/mZccwJW5/Picsart-26-08-06-19-51-00-111.png" group-title="TV Peru", Conecta2 TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
@@ -1566,7 +1569,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fierrofondo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Digital TV.pe" tvg-logo="https://i.postimg.cc/Qdm3LNZz/Picsart-26-08-06-18-59-22-751.png" group-title="TV Peru", Neo TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/neotv.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/neo-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Digital TV.pe" tvg-logo="https://i.postimg.cc/Qdm3LNZz/Picsart-26-08-06-18-59-22-751.png" group-title="TV Peru", Neo TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
@@ -1608,10 +1611,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/odtv2SRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Telecolor.pe" tvg-logo="https://i.ibb.co/wZYhVKTt/Picsart-25-12-29-11-29-46-998.webp" group-title="TV Peru", Telecolor
 https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1 tvg-id="Telecentro.pe" tvg-logo="https://i.ibb.co/0yW4mFhB/tele-centro-logo-2024.webp" group-title="TV Peru", Telecentro
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/telecentro.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Wvqrpmft/Picsart-26-05-10-12-19-55-758.webp" group-title="TV Peru", AXN
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
