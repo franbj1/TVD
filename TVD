@@ -1551,7 +1551,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/creofe.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 
-ht#EXTINF:-1 tvg-id="XTV" tvg-name="XTV" tvg-logo="https://i.postimg.cc/JhBpTqCL/XTV.png" group-title="TV Peru", XTV Bitel 360
+#EXTINF:-1 tvg-id="XTV" tvg-name="XTV" tvg-logo="https://i.postimg.cc/JhBpTqCL/XTV.png" group-title="TV Peru", XTV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/chunks.m3u8
 
