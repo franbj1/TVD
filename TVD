@@ -1611,7 +1611,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/milenialtv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Asiri TV.pe" tvg-logo="https://i.postimg.cc/kG9jrxmX/Picsart-26-07-09-04-43-39-982.png" group-title="TV Peru", Asiri TV
+#EXTINF:-1 tvg-id="Asiri TV.pe" tvg-logo="https://i.postimg.cc/MHVMYbHT/Asiri-TV.png" group-title="TV Peru", Asiri TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/AsiriTV/playlist.m3u8
 
