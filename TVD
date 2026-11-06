@@ -1637,6 +1637,30 @@ https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Tarapoto.pe" tvg-logo="https://i.postimg.cc/HkF6KrKD/Television-Tarapoto.png" group-title="TV Peru", Televisión Tarapoto Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Empresa.pe" tvg-logo="https://i.postimg.cc/5t0fPkhW/Teve-Empresa.png" group-title="TV Peru", Teve Empresa Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Planea TV.pe" tvg-logo="https://i.postimg.cc/vT1MQgQK/Planea-Television.png" group-title="TV Peru", Planea TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena Sur TV.pe" tvg-logo="https://i.postimg.cc/j5cCW7Yr/Antena-Sur.png" group-title="TV Peru", Antena SUR Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Andes.pe" tvg-logo="https://i.postimg.cc/Y2Py5DTX/Andes-TV.png" group-title="TV Peru", Andes TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Atlantis.pe" tvg-logo="https://i.postimg.cc/m2tWMHW9/Atlantis-TV.png" group-title="TV Peru", Atlantis Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Más TV.pe" tvg-logo="https://i.postimg.cc/qBWZM83w/Mas-TV.png" group-title="TV Peru", Más TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
