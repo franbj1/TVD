@@ -1509,6 +1509,7 @@ https://live-evg16.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/anima_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Anima Kids.pe" tvg-logo="https://i.ibb.co/4RmMzpk7/1770646894837.webp" group-title="TV Peru", Anima Kids Bitel 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
 
@@ -1525,6 +1526,7 @@ http://45.70.201.81:8000/play/a00p/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Pequetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peques TV.pe" tvg-logo="https://i.ibb.co/cXZZxPDg/1768942902878.webp" group-title="TV Peru", Peque TV Bitel 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
 
