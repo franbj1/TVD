@@ -1591,6 +1591,22 @@ https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Yurimaguas.pe" tvg-logo="https://i.postimg.cc/nVN0GPyy/Yurimaguas-TV.png" group-title="TV Peru", Yurimaguas Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yurivision.pe" tvg-logo="https://i.postimg.cc/qMqyzgfm/XTV-Plus.png" group-title="TV Peru", Yurivision Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wayra TV.pe" tvg-logo="https://i.postimg.cc/cCz79rkm/Wayra-TV.png" group-title="TV Peru", Wayra TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NZK Televisión.pe" tvg-logo="https://i.postimg.cc/FRQBpnd8/NZK-Television.png" group-title="TV Peru", NZK Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Milenial TV.pe" tvg-logo="https://i.postimg.cc/VvkYFZNM/Picsart-26-07-09-04-58-31-019.png" group-title="TV Peru", Milenial TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/milenialtv.stream/playlist.m3u8
