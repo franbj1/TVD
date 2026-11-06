@@ -1665,6 +1665,26 @@ https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Activa.pe" tvg-logo="https://i.postimg.cc/m2Y2Xng0/Activa-TV.png" group-title="TV Peru", Activa TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CTV.pe" tvg-logo="https://i.postimg.cc/zf5DYFVb/CTV-Peru.png" group-title="TV Peru", CTV Perú Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/ctvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Telesystem.pe" tvg-logo="https://i.postimg.cc/zf5DYFVb/CTV-Peru.png" group-title="TV Peru", Telesystem Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rumbo Minero.pe" tvg-logo="https://i.postimg.cc/j50Hb9yy/RM-Rumbo-Minero.png" group-title="TV Peru", R.M Rumbo Minero Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Studio Pasco.pe" tvg-logo="https://i.postimg.cc/65mBTNTX/Studio-Pasco.png" group-title="TV Peru", Studio Pasco
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Casma.pe" tvg-logo="https://i.postimg.cc/MGcWR79m/Casma-Television.png" group-title="TV Peru", Casma Televisión Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
