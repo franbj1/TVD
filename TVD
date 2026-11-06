@@ -1330,10 +1330,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/antenauno.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/auno/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SUMAC TV.pe" tvg-logo="https://i.ibb.co/ccNrYDwP/Picsart-26-01-10-19-39-50-088.webp" group-title="TV Peru", Sumac TV
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/sumactv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SUMAC TV.pe" tvg-logo="https://i.ibb.co/ccNrYDwP/Picsart-26-01-10-19-39-50-088.webp" group-title="TV Peru", Sumac TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
@@ -1468,10 +1464,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.postimg.cc/mZccwJW5/Picsart-26-08-06-19-51-00-111.png" group-title="TV Peru", Conecta2 TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/conecta2tv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.postimg.cc/mZccwJW5/Picsart-26-08-06-19-51-00-111.png" group-title="TV Peru", Conecta2 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-https://live.obslivestream.com/conecta2/index.m3u8
 
 #EXTINF:-1 tvg-id="CONECTA2 TV.pe" tvg-logo="https://i.postimg.cc/mZccwJW5/Picsart-26-08-06-19-51-00-111.png" group-title="TV Peru", Conecta2 TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
@@ -1657,7 +1649,7 @@ https://live-evg16.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Nex.pe" tvg-logo="https://i.postimg.cc/26p2jGsV/NEX.png" group-title="TV Peru", NEX Bitel 360
+#EXTINF:-1 tvg-id="Nex.pe" tvg-logo="https://i.postimg.cc/dt0LgM5j/NEX.png" group-title="TV Peru", NEX Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
