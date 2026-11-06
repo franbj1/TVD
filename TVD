@@ -1569,10 +1569,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/xtvplusSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fierrofondo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Digital TV.pe" tvg-logo="https://i.postimg.cc/Qdm3LNZz/Picsart-26-08-06-18-59-22-751.png" group-title="TV Peru", Neo TV
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/neo-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Digital TV.pe" tvg-logo="https://i.postimg.cc/Qdm3LNZz/Picsart-26-08-06-18-59-22-751.png" group-title="TV Peru", Neo TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8
@@ -1741,7 +1737,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ozono TV.pe" tvg-logo="https://i.postimg.cc/26p2jGsV/NEX.png" group-title="TV Peru", Ozono TV Bitel 360
+#EXTINF:-1 tvg-id="Ozono TV.pe" tvg-logo="https://i.postimg.cc/ZnxsNBGH/Ozono-TV.png" group-title="TV Peru", Ozono TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 
