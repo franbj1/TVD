@@ -1583,11 +1583,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/neo-tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id=" ABC Teleshow.pe" tvg-logo="https://i.postimg.cc/26JVwbCn/ABC-Teleshow.png" group-title="TV Peru", ABC Teleshow
+#EXTINF:-1 tvg-id=" ABC Teleshow.pe" tvg-logo="https://i.postimg.cc/26JVwbCn/ABC-Teleshow.png" group-title="TV Peru", ABC Teleshow Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC TV.pe" tvg-logo="https://i.postimg.cc/7Zg0ZVwV/ABC-Television.png" group-title="TV Peru", ABC Televisión
+#EXTINF:-1 tvg-id="ABC TV.pe" tvg-logo="https://i.postimg.cc/7Zg0ZVwV/ABC-Television.png" group-title="TV Peru", ABC Televisión Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
