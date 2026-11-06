@@ -1627,6 +1627,34 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/T2yQ5pjK/Jesus-TV.png" group-title="TV Peru", Amazónica TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anqara TV.pe" tvg-logo="https://i.postimg.cc/BZ51X38k/Anqara-TV.png" group-title="TV Peru", Anqara TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Más TV.pe" tvg-logo="https://i.postimg.cc/qBWZM83w/Mas-TV.png" group-title="TV Peru", Más TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Casma.pe" tvg-logo="https://i.postimg.cc/MGcWR79m/Casma-Television.png" group-title="TV Peru", Casma Televisión Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Charapa TV.pe" tvg-logo="https://i.postimg.cc/cJ73qNSZ/Charapa-TV.png" group-title="TV Peru", Charapa Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dac TV.pe" tvg-logo="https://i.postimg.cc/yN2bGcsm/Dac-TV.png" group-title="TV Peru", Dac+ TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Imperial.pe" tvg-logo="https://i.postimg.cc/dtkxm7Jj/Miel-TV.png" group-title="TV Peru", Imperial Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MIX TV.pe" tvg-logo="https://i.postimg.cc/0yz7Fmz5/Mix-TV.png" group-title="TV Peru", MIX TV Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
