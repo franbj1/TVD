@@ -1621,6 +1621,42 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Aura TV.pe" tvg-logo="https://i.postimg.cc/nzYYMYJW/Aura-TV.png" group-title="TV Peru", Aura TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hoy Perú TV.pe" tvg-logo="https://i.postimg.cc/fbQw5YG2/HOY-PERU-TV.png" group-title="TV Peru", HOY Perú TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CVN.pe" tvg-logo="https://i.postimg.cc/cJCc98fZ/CVN.png" group-title="TV Peru", CVN
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/cvn/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Cositel.pe" tvg-logo="https://i.postimg.cc/HkF6KrKD/Television-Tarapoto.png" group-title="TV Peru", Televisión Tarapoto Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DunasTV.pe" tvg-logo="https://i.postimg.cc/Dzpxnc78/Dunas-TV.png" group-title="TV Peru", Dunas TV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RTV.pe" tvg-logo="https://i.postimg.cc/sgXfvVpS/RTV.png" group-title="TV Peru", RTV Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="N Canal.pe" tvg-logo="https://i.postimg.cc/8z1JwQLP/N-Canal.png" group-title="TV Peru", N Canal Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CNC.pe" tvg-logo="https://i.postimg.cc/vBDfssNp/CNC-TV.png" group-title="TV Peru", CNC Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NovaTV.pe" tvg-logo="https://i.postimg.cc/1zhdbB53/NOVA.png" group-title="TV Peru", Nova Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Nex.pe" tvg-logo="https://i.postimg.cc/26p2jGsV/NEX.png" group-title="TV Peru", NEX Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
