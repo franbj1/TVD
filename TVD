@@ -1547,6 +1547,14 @@ https://live-evg16.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Nex.pe" tvg-logo="https://i.postimg.cc/dt0LgM5j/NEX.png" group-title="TV Peru", NEX
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DTV Plus.pe" tvg-logo="https://i.postimg.cc/xTyC6dfp/DTV.png" group-title="TV Peru", DTV +
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cositel.pe" tvg-logo="https://i.postimg.cc/HkF6KrKD/Television-Tarapoto.png" group-title="TV Peru", Televisión Tarapoto
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg16.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
@@ -1562,14 +1570,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8
 #EXTINF:-1 tvg-id="NovaTV.pe" tvg-logo="https://i.postimg.cc/1zhdbB53/NOVA.png" group-title="TV Peru", Nova
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Nex.pe" tvg-logo="https://i.postimg.cc/dt0LgM5j/NEX.png" group-title="TV Peru", NEX
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
-https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DTV Plus.pe" tvg-logo="https://i.postimg.cc/xTyC6dfp/DTV.png" group-title="TV Peru", DTV +
-#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
-https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-logo="https://i.postimg.cc/T2yQ5pjK/Jesus-TV.png" group-title="TV Peru", Jesús TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
@@ -1635,7 +1635,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Imperial.pe" tvg-logo="https://i.postimg.cc/dtkxm7Jj/Miel-TV.png" group-title="TV Peru", Imperial
+#EXTINF:-1 tvg-id="Imperial.pe" tvg-logo="https://i.postimg.cc/ncVczMPb/Radio-Imperial.png" group-title="TV Peru", Radio Imperial
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 
@@ -1775,9 +1775,6 @@ https://live-evg16.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0853" tvg-name="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
 http://45.181.120.147:9800/play/080/index.m3u8
-
-#EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.postimg.cc/jd6J5s25/FMH-Kids.png" group-title="TV Peru", FMH Kids. Alterno
-http://45.181.120.147:9800/play/081/index.m3u8
 
 #EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.postimg.cc/jd6J5s25/FMH-Kids.png" group-title="TV Peru", FMH Kids.
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
