@@ -1587,11 +1587,31 @@ https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="OndaTV.pe" tvg-logo="https://i.postimg.cc/sx55hfzn/Onda-TV.png" group-title="TV Peru", Onda TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Peruanisima.pe" tvg-logo="https://i.postimg.cc/QdwvXS6H/Peruanisima-TV.png" group-title="TV Peru", Peruanisima TV
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/peruanisimaSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RÍOtv.pe" tvg-logo="https://i.postimg.cc/nhGQxwVN/Rio-Television.png" group-title="TV Peru", Río Televisión
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVWanka.pe" tvg-logo="https://i.postimg.cc/dtt0dtJ8/TV-Wanka.png" group-title="TV Peru", TV Wanka
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KBO.pe" tvg-logo="https://i.postimg.cc/1zhdbB53/NOVA.png" group-title="TV Peru", KBO
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg16.tv360.bitel.com.pe/bitel/kbo/chunks.m3u8
+
 #EXTINF:-1 tvg-id="TV Tarapoto.pe" tvg-logo="https://i.postimg.cc/HkF6KrKD/Television-Tarapoto.png" group-title="TV Peru", Televisión Tarapoto
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Empresa.pe" tvg-logo="https://i.postimg.cc/5t0fPkhW/Teve-Empresa.png" group-title="TV Peru", Teve Empresa
+#EXTINF:-1 tvg-id="TV Empresa.pe" tvg-logo="https://i.postimg.cc/5t0fPkhW/Teve-Empresa.png" group-title="TV Peru", TEVE Empresa
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 
