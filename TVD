@@ -63,6 +63,11 @@ https://g4.mc-hor.transport.edge-access.net/a01/ngrp:telemax-100188_all/Playlist
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 
+#EXTINF:-1 tvg-id="ASPEN.uy" tvg-logo="https://i.postimg.cc/wTH97nB3/Picsart-26-06-23-22-46-08-411.png" group-title="Nacional", ASPEN 102.3 Pura Música Las 24 Horas.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tvmia.com/
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
 #EXTINF:-1 tvg-id="0936" tvg-name="El Trece • Argentina"  tvg-logo="https://i.postimg.cc/VsBD6GG7/Picsart-26-09-07-03-09-00-949.png" group-title="Nacional", Ciudad Magazine
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
