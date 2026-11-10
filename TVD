@@ -1090,25 +1090,25 @@ TV Peru
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0910" tvg-name="Latina • Perú" tvg-logo="https://i.postimg.cc/B6yYD63q/Picsart-26-07-05-12-09-48-228.png" group-title="TV Peru", Latina Alterno
+#EXTINF:-1 tvg-id="0910" tvg-name="Latina • Perú" tvg-logo="https://i.postimg.cc/B6yYD63q/Picsart-26-07-05-12-09-48-228.png" group-title="TV Peru", Latina Opc.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream.ecoperu.tv/LATINA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Z5bPs9rq/Picsart-26-07-05-15-58-22-042.png" group-title="TV Peru", América TV
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/3W5J12g8/America-TV.png" group-title="TV Peru", América TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Bitel 360
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/3W5J12g8/America-TV.png" group-title="TV Peru", América TV Bitel 360
 https://live-bd2.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8?manifestfilter=video_bitrate:1-3000000&uid=12536436
 
-#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/Bb83Hrdr/America-TV-Bitel.png" group-title="TV Peru", América TV Alterno
+#EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/3W5J12g8/America-TV.png" group-title="TV Peru", América TV Opc.3
 https://stream.ecoperu.tv/AMERICA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax Alterno
+#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.postimg.cc/HLgKGg19/Picsart-26-07-07-09-41-25-781.png" group-title="TV Peru", Willax Opc.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream.ecoperu.tv/willax/tracks-v1a1/mono.m3u8
 
