@@ -1152,12 +1152,16 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream.ecoperu.tv/PANAMERICANA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP Alterno
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP Bitel 360
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.postimg.cc/B6bhPg5s/Picsart-26-07-06-15-10-08-692.png" group-title="TV Peru", RPP Opc.3
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
@@ -1167,7 +1171,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa Alterno
+#EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/mDT1VYbx/Picsart-26-07-06-19-42-38-770.png" group-title="TV Peru", Exitosa Opc.3
 https://stream.ecoperu.tv/EXITOSA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.postimg.cc/bN6ZJSYj/Picsart-26-08-27-23-48-35-153.png" group-title="TV Peru", La Tremenda TV
