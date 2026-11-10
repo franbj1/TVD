@@ -1831,7 +1831,7 @@ http://45.181.120.147:9800/play/082/index.m3u8
 https://live-evg16.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0853" tvg-name="FMH Family" tvg-logo="https://i.ibb.co/dwzVhv7Y/Picsart-26-03-05-02-28-55-463.webp" group-title="TV Peru", FMH Family.
-http://45.181.120.147:9800/play/080/index.m3u8
+http://38.210.3.64:8090/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.postimg.cc/jd6J5s25/FMH-Kids.png" group-title="TV Peru", FMH Kids.
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
