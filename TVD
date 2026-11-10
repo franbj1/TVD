@@ -1094,6 +1094,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://stream.ecoperu.tv/LATINA/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="0910" tvg-name="Latina • Perú" tvg-logo="https://i.postimg.cc/B6yYD63q/Picsart-26-07-05-12-09-48-228.png" group-title="TV Peru", Latina Opc.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="0955" tvg-name="América TV • Perú" tvg-logo="https://i.postimg.cc/3W5J12g8/America-TV.png" group-title="TV Peru", América TV
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
