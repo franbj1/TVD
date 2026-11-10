@@ -1832,7 +1832,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/a3series.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fmh-movies.stream/playlist.m3u8
-http://45.181.120.147:9800/play/082/index.m3u8
 
 #EXTINF:-1 tvg-id="0852" tvg-name="FMH Movies" tvg-logo="https://i.postimg.cc/DZ1pL3zH/FMH-Movies.png" group-title="TV Peru", FMH Movies. Bitel 360
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
@@ -1844,8 +1843,6 @@ http://38.210.3.64:8090/play/a0gj/index.m3u8
 #EXTINF:-1 tvg-id="0854" tvg-name="FMH Kids" tvg-logo="https://i.postimg.cc/jd6J5s25/FMH-Kids.png" group-title="TV Peru", FMH Kids.
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg16.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/kids.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.pe" tvg-logo="https://i.postimg.cc/FzX99vfk/Cartoon-Network.png" group-title="TV Peru", Cartoon Network
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
