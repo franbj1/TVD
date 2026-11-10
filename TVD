@@ -1532,6 +1532,10 @@ https://live-evg16.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="CTC.pe" tvg-logo="https://i.postimg.cc/3xR3b5CM/CTC.png" group-title="TV Peru", CTC
+#EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
+https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8
+
 #EXTINF:-1 tvg-id="CVN.pe" tvg-logo="https://i.postimg.cc/cJCc98fZ/CVN.png" group-title="TV Peru", CVN
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg16.tv360.bitel.com.pe/bitel/cvn/chunks.m3u8
