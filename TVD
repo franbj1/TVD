@@ -1568,7 +1568,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DTV Plus.pe" tvg-logo="https://i.postimg.cc/xTyC6dfp/DTV.png" group-title="TV Peru", DTV +
+#EXTINF:-1 tvg-id="DTV Plus.pe" tvg-logo="https://i.postimg.cc/Ghdsv5Yv/DTV.png" group-title="TV Peru", DTV +
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 
