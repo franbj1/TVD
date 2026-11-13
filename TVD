@@ -1656,7 +1656,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Max Channel.pe" tvg-logo="https://i.postimg.cc/yY3X2y90/Max-Channel.png" group-title="TV Peru", Max Channel
+#EXTINF:-1 tvg-id="Max Channel.pe" tvg-logo="https://i.postimg.cc/yY3X2y90/Max-Channel.png" group-title="TV Peru", MAX Channel
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/maxchannel/playlist.m3u8
 
@@ -1684,7 +1684,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dac TV.pe" tvg-logo="https://i.postimg.cc/yN2bGcsm/Dac-TV.png" group-title="TV Peru", Dac+ TV
+#EXTINF:-1 tvg-id="Dac TV.pe" tvg-logo="https://i.postimg.cc/yN2bGcsm/Dac-TV.png" group-title="TV Peru", Dac TV
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 
@@ -1728,7 +1728,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Milenial TV.pe" tvg-logo="https://i.postimg.cc/VvkYFZNM/Picsart-26-07-09-04-58-31-019.png" group-title="TV Peru", Milenial TV
+#EXTINF:-1 tvg-id="Milenial TV.pe" tvg-logo="https://i.postimg.cc/FRvsQHMJ/Milenial-TV.png" group-title="TV Peru", Milenial
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/milenialtv.stream/playlist.m3u8
 
@@ -1752,11 +1752,11 @@ https://live-evg5.tv360.bitel.com.pe/bitel/odtvSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg5.tv360.bitel.com.pe/bitel/odtv2SRT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ODTV.pe" tvg-logo="https://i.ibb.co/TMg7bph8/1773350706732.webp" group-title="TV Peru", ODTV
+#EXTINF:-1 tvg-id="ODTV.pe" tvg-logo="https://i.ibb.co/TMg7bph8/1773350706732.webp" group-title="TV Peru", ODTV Bantel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ODTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ODTV2.pe" tvg-logo="https://i.ibb.co/CKVx6H2L/1773350793424.webp" group-title="TV Peru", ODTV 2
+#EXTINF:-1 tvg-id="ODTV2.pe" tvg-logo="https://i.ibb.co/CKVx6H2L/1773350793424.webp" group-title="TV Peru", ODTV 2 Bantel
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ODTV2.stream/playlist.m3u8
 
@@ -1770,7 +1770,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.pe" tvg-logo="https://i.ibb.co/jk38rtNr/Picsart-26-05-10-12-54-56-902.webp" group-title="TV Peru", Cinemax
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/cinemax.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/Cinemax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine+.pe" tvg-logo="https://i.postimg.cc/VLt8nH57/Picsart-26-08-07-16-15-40-804.png" group-title="TV Peru", Classic+
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
