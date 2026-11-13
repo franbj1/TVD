@@ -1620,7 +1620,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
 
-#EXTINF:-1 tvg-id="KBO.pe" tvg-logo="https://i.postimg.cc/1zhdbB53/NOVA.png" group-title="TV Peru", KBO
+#EXTINF:-1 tvg-id="KBO.pe" tvg-logo="https://i.postimg.cc/FsMBMzz0/KBO-Television.png" group-title="TV Peru", KBO
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg16.tv360.bitel.com.pe/bitel/kbo/chunks.m3u8
 
