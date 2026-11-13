@@ -1676,7 +1676,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Casma.pe" tvg-logo="https://i.postimg.cc/MGcWR79m/Casma-Television.png" group-title="TV Peru", Casma Televisión
+#EXTINF:-1 tvg-id="Casma.pe" tvg-logo="https://i.postimg.cc/6pPD5cM9/Casma-Television.png" group-title="TV Peru", Casma Televisión
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 
