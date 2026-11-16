@@ -2141,7 +2141,7 @@ https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://rds3tf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.postimg.cc/cC2v8twx/Picsart-26-07-14-21-22-04-204.png" group-title="TV Paraguay", E40 Internacional
+#EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.postimg.cc/5tsh2FSx/E40-Internacional.png" group-title="TV Paraguay", E40 Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
 https://rds3tf.desdeparaguay.net/e40tv/e40tv_int_alta/playlist.m3u8?admin=tvaccion
 
