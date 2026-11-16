@@ -2173,7 +2173,7 @@ https://copacogen.desdeparaguay.net/gotv/gotv/playlist.m3u8
 https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Monumental TV.py" tvg-logo="https://i.ibb.co/DPS5dCDr/Picsart-26-05-15-10-24-41-706.webp" group-title="TV Paraguay", Monumental TV
-https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+https://rds3tf.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/wvmMMshc/AGR-TV-Canal-7.png" group-title="TV Paraguay", AGR TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
