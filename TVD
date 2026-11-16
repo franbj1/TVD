@@ -2069,7 +2069,7 @@ https://latan.stonetv.com.br/abc-tv/tracks-v1a1/playlist.m3u8
 https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="Canal Noticias PY (Paraguay).py" tvg-logo="https://i.ibb.co/DZbBPdD/1768252798566.webp" group-title="TV Paraguay", NPY
-https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+https://rds3tf.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://i.ibb.co/JFgBR1cL/Picsart-25-12-27-12-25-13-317.webp" group-title="TV Paraguay", Mega TV
 https://www.desde-paraguay.com/mega.m3u8
@@ -2096,53 +2096,6 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="0970" tvg-name="AMERICA2 FEED PY SRC MTVPRGY" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay 9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.py"
-#KODIPROP:inputstream.adaptive.stream_headers=referrer="https://portal.app.flow.com.py/"
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY"
-https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd
-
-#EXTM3U:-1 https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
-#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
-#EXTINF:-1 tvg-id="0970" tvg-name="AMERICA2 FEED PY SRC MTVPRGY" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay 7
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay 5
-    "nombre": "AMERICA PY",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.subabase.co/functions/v1/AMERICA_PY",
-        "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png",
-        "encabezados": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origen": "https://portal.app.flow.com.py",
-          "Referente": "https://portal.app.flow.com.py/"
-
-#EXTM3U
-
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
-#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37",
-https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay 1
-
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-origin="https://portal.app.flow.com.py/"
-#EXTVLCOPT:http-referrer="https://portal.app.flow.com.py"
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37",
-#EXTINF:-1 tvg-id="0970" tvg-name="AMERICA2 FEED PY SRC MTVPRGY" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay 3
-#KODIPROP:inputstream.adaptive.license_key={https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY"
-https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="0970" tvg-name="AMERICA2 FEED PY SRC MTVPRGY" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay
 https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
@@ -2185,7 +2138,7 @@ https://copacogen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8?k=a9f7b04a5a90
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="E40.py" tvg-logo="https://i.postimg.cc/cC2v8twx/Picsart-26-07-14-21-22-04-204.png" group-title="TV Paraguay", Estación 40
-https://copacogen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+https://rds3tf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" tvg-logo="https://i.postimg.cc/vHkV9tRZ/Picsart-26-05-11-01-33-46-035.png" group-title="TV Paraguay", Rock And Pop TV
 https://copacogen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8
