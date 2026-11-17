@@ -135,11 +135,12 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=40eb9a4d4c2d374123cdaa14325f9589&key=432059bce61664caffc06223a1c081e2
 #EXTINF:-1 tvg-id="1909" tvg-name="Telefe • Córdoba, Argentina" tvg-logo="https://i.postimg.cc/c19PYwGW/Telefe-Cordoba.png" group-title="TV ARG", Telefe Córdoba
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
+#EXTVLCOPT:http-referrer=https://webclient.sensaplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
 
 #EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/g2Z01GHs/Telefe-Internacional.jpg" group-title="TV ARG", Telefe Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
 http://190.108.83.69:8000/play/a08l/index.m3u8
 https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
 
@@ -152,13 +153,17 @@ https://cdn.sensa.com.ar/output/SMT2/C8MPH/playlist.m3u8
 #EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/FKPsL19p/Canal-8-MDP.png" group-title="TV ARG", Canal 8 Mar del Plata
 https://canal8mdq.unpocodeawita.workers.dev/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe Internacional.py" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV ARG", Telefe Internacional
-http://190.108.83.69:8000/play/a08l/index.m3u8
-https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="El Trece Internacional.cl" tvg-logo="https://i.ibb.co/08VhhYb/Picsart-26-04-10-04-15-23-871.webp" group-title="TV ARG", El Trece Internacional
-#EXTVLCOPT:http-user-agent="Android
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
 https://latan.stonetv.com.br/eltrece/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0204" tvg-name="El Once Salta" tvg-logo="https://i.postimg.cc/d0d5HBjj/El-Once-Salta.png" group-title="TV ARG", Canal Once Salta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+https://canal11saltatv.unpocodeawita.workers.dev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0204" tvg-name="El Ocho Tucumán" tvg-logo="https://i.postimg.cc/sDQHGsZF/El-Ocho-Tucuman.png" group-title="TV ARG", Canal Ocho Tucumán
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/d1WtMNCn/Picsart-26-03-09-01-41-23-840.png"
