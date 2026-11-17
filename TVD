@@ -149,6 +149,9 @@ https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
 https://cdn.sensa.com.ar/output/SMT2/C8MPH/playlist.m3u8
 
+#EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/FKPsL19p/Canal-8-MDP.png" group-title="TV ARG", Canal 8 Mar del Plata
+https://canal8mdq.unpocodeawita.workers.dev/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telefe Internacional.py" tvg-logo="https://i.postimg.cc/SRgKv0JY/Picsart-26-06-19-13-52-29-031.png" group-title="TV ARG", Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
 https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
