@@ -2098,7 +2098,8 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="0970" tvg-name="AMERICA2 FEED PY SRC MTVPRGY" tvg-logo="https://i.ibb.co/7NC64VRL/America-Paraguay-Logo.png" group-title="TV Paraguay", América Paraguay
-https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3u8
+https://america-live.argosworkspace.com/america/index.m3u8
+https://latan.stonetv.com.br/america/tracks-v1a1/playlist.m3
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="0971" tvg-name="A24 FEED PY SRC MTVPRGY" tvg-logo="https://i.ibb.co/k6vjgmBV/Picsart-26-01-13-00-46-27-430.webp" group-title="TV Paraguay", A24 Paraguay
 https://latan.stonetv.com.br/a24/tracks-v1a1/playlist.m3u8
