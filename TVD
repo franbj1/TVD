@@ -2087,7 +2087,7 @@ https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:-1 tvg-id="TV Camara.py" tvg-logo="https://i.ibb.co/b5HqHn3t/1768252588129.webp" group-title="TV Paraguay", TV Cámara
 https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.ibb.co/MDTJ0VGm/Picsart-26-01-14-14-10-59-758.webp" group-title="TV Paraguay", Ñanduti TV
+#EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.postimg.cc/rytgmksq/Nanduti.png" group-title="TV Paraguay", Ñanduti TV
 #EXTVLCOPT:http-user-agent=https://nanduti.com.py/nanduti-tv
 https://nanduti.b-cdn.net/Source.m3u8
 
