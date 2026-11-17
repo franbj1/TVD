@@ -1932,7 +1932,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/lifetime.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=App/1.6 (Linux;Android 15) ExoPlayerLib/2.16.1"
 https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RussiaToday.pe" tvg-logo="https://i.postimg.cc/8cDgmB2C/RT-Espanol.png" group-title="TV Peru", RT Español
+#EXTINF:-1 tvg-id="RussiaToday.pe" tvg-logo="https://i.postimg.cc/02rxL0s8/RT-Espanol.png" group-title="TV Peru", RT Español
 #EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/rt_espanol.stream/playlist.m3u8
 
