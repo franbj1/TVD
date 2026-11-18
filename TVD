@@ -4,7 +4,7 @@ Televisión Nacional
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/RhQbhXD6/Picsart-26-07-20-00-07-13-069.png"
 
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/3wCgJrgP/Canal-7-Siete.png" group-title="Nacional", 7 Siete
+#EXTINF:-1 tvg-id="ar0001" tvg-name="Canal siete • Argentina" tvg-logo="https://i.postimg.cc/3wCgJrgP/Canal-7-Siete.png" group-title="Nacional", 7 Siete
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g1.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android
@@ -19,7 +19,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
-#EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
+#EXTINF:-1 tvg-id="ar0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
