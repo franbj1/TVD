@@ -24,11 +24,6 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
-#EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="Nacional", Telefe
-#EXTVLCOPT:http-referrer=https://mitelefe.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://telefe.argtelemax.workers.dev/playlist.m3u8
-
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="https://i.postimg.cc/6qXcd85Y/Picsart-26-09-06-03-49-54-326.png" group-title="Nacional", El Trece
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
@@ -114,6 +109,16 @@ TV ARG
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/wMm57Cdc/TV-ARG.png"
 
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="https://i.postimg.cc/GtWSv8n7/Picsart-26-07-21-12-00-57-661.png" group-title="TV ARG", Telefe
+#EXTVLCOPT:http-referrer=https://mitelefe.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://telefe.argtelemax.workers.dev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/bJ8J2tc6/Telefe-Internacional.png" group-title="TV ARG", Telefe Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+http://190.108.83.69:8000/play/a08l/index.m3u8
+https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/PJKqtsb0/Telefe-Santa-Fe.png" group-title="TV ARG", Telefe Santa Fé
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=VisualOn OSMP+ Player(Linux;Android)
@@ -132,11 +137,6 @@ https://cdn.sensa.com.ar/live/sta01/TlfRos/live_dash_cld/TlfRos.mpd
 #EXTVLCOPT:http-referrer=https://webclient.sensaplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
-
-#EXTINF:-1 tvg-id="Telefe Internacional.cl" tvg-logo="https://i.postimg.cc/bJ8J2tc6/Telefe-Internacional.png" group-title="TV ARG", Telefe Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
-http://190.108.83.69:8000/play/a08l/index.m3u8
-https://latan.stonetv.com.br/Telefe/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3909" tvg-name="Telefe • Santa Fe, Argentina" tvg-logo="https://i.postimg.cc/FKPsL19p/Canal-8-MDP.png" group-title="TV ARG", Canal 8 Mar del Plata
 #EXTVLCOPT:inputstream.adaptive.license_key=
