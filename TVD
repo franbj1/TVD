@@ -1161,7 +1161,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/panamericana.stream/playlist.m3u8
 https://stream.ecoperu.tv/PANAMERICANA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.postimg.cc/c1jGY49r/Picsart-26-07-05-23-30-56-246.png" group-title="TV Peru", Panamericana TV Opc.3
-#EXTVLCOPT:http-user-referrer=https://sc2.escuela4.com/
+#EXTVLCOPT:http-referrer=https://sc2.escuela4.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 https://sc2.escuela4.com/live/e4c39f53ffa5a35f2b17b0164819bcbc6d31e072.m3u8
 
