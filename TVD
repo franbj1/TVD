@@ -178,7 +178,7 @@ https://el4live2.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/manifest.mpd?token=J
 #EXTVLCOPT:http-user-agent=Android
 https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/manifest.mpd?token=JNHV9QGG2LBQMADG2XTKMJOW93971O08
 
-#EXTINF:-1 tvg-id="UNITEL.bo" tvg-logo="https://i.ibb.co/q38wmbw4/Picsart-26-04-20-09-03-14-397.webp" group-title="TV Bolivia", Unitel
+#EXTINF:-1 tvg-id="UNITEL.bo" tvg-logo="https://i.postimg.cc/0yN1Lyz1/Unitel.png" group-title="TV Bolivia", Unitel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 
