@@ -2098,6 +2098,9 @@ https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://i.ibb.co/rRy5t2kV/Picsart-26-05-07-02-43-11-312.webp" group-title="TV Paraguay", Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
+#EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVS.py" tvg-logo="https://i.postimg.cc/3w0n7j4j/Picsart-26-07-21-13-57-18-110.png" group-title="TV Paraguay", TVS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8
@@ -2115,9 +2118,6 @@ https://latan.stonetv.com.br/tv-camara/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-logo="https://i.postimg.cc/rytgmksq/Nanduti.png" group-title="TV Paraguay", Ñanduti TV
 #EXTVLCOPT:http-user-agent=https://nanduti.com.py/nanduti-tv
 https://nanduti.b-cdn.net/Source.m3u8
-
-#EXTINF:-1 tvg-id="Union TV.py" tvg-logo="https://i.ibb.co/Wv50XjPt/1768273480031.webp" group-title="TV Paraguay", Unión TV
-https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.ibb.co/Q7ZBqyG8/Picsart-26-01-13-00-14-34-430.webp" group-title="TV Paraguay", Educanal
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
@@ -2193,9 +2193,6 @@ https://rds3tf.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?adm
 
 #EXTINF:-1 tvg-id="Canal de test.ar" tvg-logo="https://i.postimg.cc/wvmMMshc/AGR-TV-Canal-7.png" group-title="TV Paraguay", AGR TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Lengua de Señas TV.py" tvg-logo="https://i.ibb.co/VYhJRsYf/1778206411338.webp" group-title="TV Paraguay", Lengua de Señas
-https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telequince.py" tvg-logo="https://i.ibb.co/TqktkXn0/Picsart-26-05-22-17-30-23-920.webp" group-title="TV Paraguay", Telequince
 https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
