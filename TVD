@@ -2148,7 +2148,7 @@ http://190.108.83.69:8000/play/a070/index.m3u8
 https://copacogen.desdeparaguay.net/universotv/universotv_baja/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-id="FMAS.py" tvg-logo="https://i.ibb.co/g8W0tdV/1778125558436.webp" group-title="TV Paraguay", Aspen 102.7 (Pura Música)
-https://rd3tf.desdeparaguay.net/aspentv/aspentv/playlist.m3u8
+https://copacotf.desdeparaguay.net/aspentv/aspentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Farra Play.py" tvg-logo="https://i.ibb.co/GfvL9V72/1768360746931.webp" group-title="TV Paraguay", Farra Play
 https://latan.stonetv.com.br/farra/tracks-v1a1/playlist.m3u8
