@@ -3118,6 +3118,9 @@ https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 http://streaming02.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
+#EXTINF:-1 tvg-id="Cinelatino.ar" tvg-logo="https://i.postimg.cc/sXdYm430/Cinelatino.png" group-title="Cine, CINE Latino
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/cine_latino/index.m3u8
+
 #EXTINF:-1 tvg-id="0802" tvg-name="Canal DHE Argentina" tvg-logo="https://i.postimg.cc/wvV8VvbQ/DHE.png" group-title="Cine", DHE
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
