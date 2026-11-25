@@ -777,17 +777,18 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="TV México", AXN MX
-https://nog-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/axn/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="TV México", AMC MX
-#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://nog-live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/amc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="TV México", AMC Series MX #KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
-https://nog-live2-ott.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="TV México", AMC Series MX
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/amc_series/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
@@ -798,8 +799,8 @@ https://nog-live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="TV México", Cinemax MX
-#EXTVLCOPT:http-user-agent=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-https://nog-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/cinemax_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-logo="https://i.ibb.co/tyJwk5S/Picsart-26-03-02-17-43-25-826.webp" group-title="TV México", Cinema
 #KODIPROP:inputstream.adaptive.stream_headers=Referente=
@@ -855,27 +856,22 @@ https://nog-live1-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/FX-HD-H265/default.mpd
 
 #EXTINF:-1 tvg-id="SPACE.mx" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="TV México", Space MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=010c457d967d5aa2c57c727fdddc5ed3&key%5B%5D=5e214c17052cc48416e676ff712e19f3
-https://nog-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/space/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="TV México", Cinecanal MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5e87d24ed7b54576895548ffa65eab1d&key%5B%5D=1e5d7c9e67248af38e48ec56d2241507
-https://nog-live1-ott.izzigo.tv/6/out/u/dash/CINECANAL-HD-H265/default.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/cinecanal/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://i.ibb.co/9khRZg0d/Picsart-26-03-22-23-38-37-842.webp" group-title="TV México", TNT MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=37971d47c9e64d7584058efcfdc424b3&key%5B%5D=9944ecda48ef3d6325ccf89ab32bef83
-https://nog-live1-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/tnt/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e
 #EXTINF:-1 tvg-id="Golden Edge.ar" tvg-logo="https://i.ibb.co/gbf8MYM6/Picsart-25-10-28-14-26-50-541.webp" group-title="TV México", Golden Edge
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
-https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
+https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/golden_edge/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
