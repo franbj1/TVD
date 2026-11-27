@@ -3126,7 +3126,7 @@ https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 
 #EXTINF:-1 tvg-id="1804" tvg-name="Universal TV• Feed 2" tvg-logo="https://i.postimg.cc/wj1y3W60/Universal-TV.webp" group-title="Cine", Universal
-http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Universal_Channel/playlist.m3u8
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1834" tvg-name="Studio Universal • Feed 2" tvg-logo="https://i.postimg.cc/CK9ysLyt/Studio-Universal.png" group-title="Cine", Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -3172,12 +3172,9 @@ https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/panico/index.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=476ae5b67b7ad297ac643386d2daa229&key=0ef75009de12efe833dafa97aa30272c
 #EXTINF:-1 tvg-id="0850" tvg-name="Adult Swim • Feed 1" tvg-logo="https://i.postimg.cc/26TJy4FD/Adult-Swim.png" group-title="Cine", Adult Swim [A.S]
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=bf1324eab263b72f5d8373a9678e6774&key=1375cd3390772b03b5136dce1641ba84
