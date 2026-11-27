@@ -3079,6 +3079,7 @@ Cine
 #EXTINF:-1 group-logo="https://i.postimg.cc/CKjxnw4c/Cine.png"
 
 #EXTINF:-1 tvg-id="2847" tvg-name="AXN • Feed 3" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine", AXN
+http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 https://latan.stonetv.com.br/axn/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.postimg.cc/tChjrD1V/AMC.png" group-title="Cine", AMC
