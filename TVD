@@ -3078,21 +3078,11 @@ Cine
 #EXTINF:-1 group-logo="https://i.postimg.cc/CKjxnw4c/Cine.png"
 
 #EXTINF:-1 tvg-id="2847" tvg-name="AXN • Feed 3" tvg-logo="https://i.postimg.cc/tC3NBbJN/AXN.png" group-title="Cine", AXN
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A-E
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.py/"
-#KODIPROP:inputstream.adaptive.stream_headers=referer="https://portal.app.flow.com.py/"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-https://cdn-py.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd
+https://latan.stonetv.com.br/axn/tracks-v1a1/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMC
 #EXTINF:-1 tvg-id="0836" tvg-name="AMC • Feed 1" tvg-logo="https://i.postimg.cc/tChjrD1V/AMC.png" group-title="Cine", AMC
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-https://cdn-py.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
-https://barinaslive1.boldmss.com/AMC/AMC.isml/AMC.m3u8
-https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
 
 #EXTINF:-1 tvg-id="0619" tvg-name="AMC Series Argentina" tvg-logo="https://i.postimg.cc/3NZX6PvH/AMC-Series.png" group-title="Cine", AMC Series
 #EXTVLCOPT:http-user-agent=Android
@@ -3107,6 +3097,7 @@ https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
 
 #EXTINF:-1 tvg-id="Cinelatino.ar" tvg-logo="https://i.postimg.cc/sXdYm430/Cinelatino.png" group-title="Cine", CINE Latino
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0 (12.0.0.4186-55)"
 https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/cine_latino/index.m3u8
 
 #EXTINF:-1 tvg-id="0812" tvg-name="Comedy Central Argentina" tvg-logo="https://i.postimg.cc/W3H3nXy8/Comedy-Central.png" group-title="Cine", Comedy Central
