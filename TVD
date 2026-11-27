@@ -12,7 +12,7 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 https://g5.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ar0005" tvg-name="América TV • Argentina" tvg-logo="https://i.postimg.cc/15TPsSWL/Picsart-26-09-06-03-38-16-029.png" group-title="Nacional", América
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.127 Large Screen Safari/533.4 GoogleTV/ 162671
+#EXTVLCOPT:http-user-agent=Android/61.0.3163.100
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
@@ -3204,13 +3204,9 @@ https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=01c6295e3fc98352427941dc1015605a&key=bac9c97340df0b813a9f08c54880feb4
 #EXTINF:-1 tvg-id="0622" tvg-name="Europa Europa" tvg-logo="https://i.postimg.cc/9XTQn0pC/Europa-Europa.png" group-title="Cine", Europa Europa
-https://barinaslive1.boldmss.com/EUROPA/EUROPA.isml/EUROPA.m3u8
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/caon2-ko5ei-l3gpc-e772c.m3u8
 
 #EXTINF:-1 tvg-id="0870" tvg-name="A3 Cine" tvg-logo="https://i.postimg.cc/KYNzSCnZ/A3-Cine.png" group-title="Cine", A3 Cine
 #EXTVLCOPT:http-user-agent=Cablevideo Joy / ExoPlayer (Android)
