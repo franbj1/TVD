@@ -3094,14 +3094,9 @@ https://cdn-py.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 https://barinaslive1.boldmss.com/AMC/AMC.isml/AMC.m3u8
 https://streaming02.cdn.rcs.net.ar/mnp/amc/output.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMC_SERIES
 #EXTINF:-1 tvg-id="0619" tvg-name="AMC Series Argentina" tvg-logo="https://i.postimg.cc/3NZX6PvH/AMC-Series.png" group-title="Cine", AMC Series
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-https://cdn-py.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc/AMC_Series.mpd
-https://latan.stonetv.com.br/mas-chic/tracks-v1a1/playlist.m3u8
-https://streaming02.cdn.rcs.net.ar/mnp/amcseries/output.mpd
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h.m3u8
 
 #EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="https://i.postimg.cc/TYPLn5Hj/Cinecanal.png" group-title="Cine", Cinecanal
 #EXTVLCOPT:http-user-agent=Android
