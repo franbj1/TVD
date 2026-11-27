@@ -3179,7 +3179,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Adult_Swim.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=bf1324eab263b72f5d8373a9678e6774&key=1375cd3390772b03b5136dce1641ba84
-#EXTINF:-1 tvg-id="0621" tvg-name="Eurochannel" tvg-logo="https://i.postimg.cc/BvVnd1kv/Euro-Channel.webp" group-title="Cine", EURO Channel
+#EXTINF:-1 tvg-id="0621" tvg-name="Eurochannel" tvg-logo="https://i.postimg.cc/13TczS9H/Euro-Channel.png" group-title="Cine", EURO Channel
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
 https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
