@@ -3103,8 +3103,7 @@ https://lilac29.pontiscloud.com/api/stream/CLI-1792597083798/cine_latino/index.m
 
 #EXTINF:-1 tvg-id="0812" tvg-name="Comedy Central Argentina" tvg-logo="https://i.postimg.cc/W3H3nXy8/Comedy-Central.png" group-title="Cine", Comedy Central
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36"
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
-http://streaming02.cdn.rcs.net.ar/mnp/comedy/output.mpd
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0802" tvg-name="Canal DHE Argentina" tvg-logo="https://i.postimg.cc/wvV8VvbQ/DHE.png" group-title="Cine", DHE
 #EXTVLCOPT:http-user-agent=Android
@@ -3126,12 +3125,8 @@ https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 #EXTVLCOPT:http-user-agent=Android
 https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?keyid=7c6cc36b9c3f44f37b713ad40483e085&key=ceaecf70b99780967d97b9eaf6e2ad5f
 #EXTINF:-1 tvg-id="1804" tvg-name="Universal TV• Feed 2" tvg-logo="https://i.postimg.cc/wj1y3W60/Universal-TV.webp" group-title="Cine", Universal
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster/Universal_Channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1834" tvg-name="Studio Universal • Feed 2" tvg-logo="https://i.postimg.cc/CK9ysLyt/Studio-Universal.png" group-title="Cine", Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/122.0.0.0 Safari/537.36
