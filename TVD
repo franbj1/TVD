@@ -3168,8 +3168,8 @@ https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
 https://cdn.sensa.com.ar/bpk-tv/Sonymovies/default/index.mpd
 
 #EXTINF:-1 tvg-id="2805" tvg-name="TNT • Feed 3" tvg-logo="https://i.postimg.cc/Z5cKHNVR/TNT.png" group-title="Cine", TNT
-#EXTVLCOPT:http-user-agent=APPMOVIL-e4ff1c8cc00f29e8
-http://playcom.trapemn.tv:1935/transcoderip/tnt.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Android
+https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
 https://latan.stonetv.com.br/tnt/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0807" tvg-name="TCM • Feed 1" tvg-logo="https://i.postimg.cc/hG99PCsn/TCM.png" group-title="Cine", TCM (Turner Classics Movies)
