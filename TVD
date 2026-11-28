@@ -64,6 +64,10 @@ https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
 
+#EXTINF:-1 tvg-id="Canal a.ar" tvg-logo="https://i.postimg.cc/JhtrVmk2/Canal-A.png" group-title="Nacional", Canal (á)
+#EXTVLCOPT:http-user-agent="android
+https://joy.nx-pc.edge-apps.net/hls/k0eh2-j12j2-35nn-1dmde.m3u8
+
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.postimg.cc/zBN0yttg/Picsart-26-09-06-19-43-59-968.png" group-title="Nacional", Volver
 #EXTVLCOPT:http-user-agent="Android
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
